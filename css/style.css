@@ -19,6 +19,9 @@ body {
     background: linear-gradient(135deg, #f8f6f2, #eef1ff);
     color: #222;
     overflow-x: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 /* HEADER */
@@ -150,6 +153,8 @@ footer{
     text-align: center;
     color: rgba(34, 34, 34, 0.72);
     font-size: 13px;
+    margin-top: auto;
+    width: 100%;
 }
 /* PAGE GENERAL */
 .page-section {
@@ -169,15 +174,24 @@ footer{
 
 .contact-page .page-title {
     margin-bottom: 16px;
-    transform: translateY(-12px);
+    transform: translateY(-28px);
+}
+
+.about-page {
+    padding: 28px 100px 12px;
+}
+
+.about-page .page-title {
+    margin-bottom: 16px;
+    transform: translateY(-28px);
 }
 
 /* ABOUT */
 .about-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 60px;
-    align-items: center;
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 36px;
+    align-items: start;
 }
 
 .about-text p {
@@ -200,9 +214,14 @@ footer{
 }
 
 .about-img img {
-    width: 300px;
-    border-radius: 20px;
-    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    width: min(100%, 840px);
+    border-radius: 0;
+    box-shadow: none;
+    filter: drop-shadow(0 18px 28px rgba(0,0,0,0.10));
+    height: auto;
+    object-fit: contain;
+    transform: translate(-60px, -150px) scale(1.18);
+    transform-origin: top center;
 }
 
 /* PROJECTS */
@@ -312,7 +331,16 @@ footer{
 
     .contact-page .page-title{
         margin-bottom: 14px;
-        transform: translateY(-10px);
+        transform: translateY(-22px);
+    }
+
+    .about-page{
+        padding: 24px clamp(20px, 4vw, 48px) 12px;
+    }
+
+    .about-page .page-title{
+        margin-bottom: 14px;
+        transform: translateY(-22px);
     }
 
     .about-container,
@@ -405,7 +433,16 @@ footer{
 
     .contact-page .page-title{
         margin-bottom: 12px;
-        transform: translateY(-8px);
+        transform: translateY(-16px);
+    }
+
+    .about-page{
+        padding: 16px 16px 10px;
+    }
+
+    .about-page .page-title{
+        margin-bottom: 12px;
+        transform: translateY(-16px);
     }
 
     .about-container,
@@ -419,7 +456,8 @@ footer{
     }
 
     .about-img img{
-        width: min(100%, 320px);
+        width: min(100%, 560px);
+        transform: translateY(-30px) scale(1.02);
     }
 
     .skills li{
