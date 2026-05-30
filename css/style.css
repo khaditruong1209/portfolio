@@ -6,7 +6,6 @@
 }
 *{
 box-sizing:border-box;
-margin:0;
 padding:0;
 }
 
@@ -19,6 +18,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #f8f6f2, #eef1ff);
     color: #222;
+    overflow-x: hidden;
 }
 
 /* HEADER */
@@ -26,27 +26,28 @@ header {
     display:grid;
     grid-template-columns: 1fr auto;
     align-items:center;
-    padding:30px 5px;
+    padding:30px clamp(20px, 4vw, 50px);
 }
 nav{
     display:flex;
-    gap:40px;
+    gap:clamp(16px, 3vw, 40px);
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 .logo {
     font-family: 'Brasika';
     font-size: 26px;
     font-weight: 800;
     color: #f58c8c;
-    padding-left: 50px;
-
+    padding-left: 0;
 }
 
 nav a {
-    margin-left: 40px;
     text-decoration: none;
     color: #222;
     font-weight: 500;
-    padding-right: 50px;
+    padding-right: 0;
+    white-space: nowrap;
 }
 
 nav a:hover {
@@ -56,32 +57,37 @@ nav a:hover {
 /* HERO */
 .hero {
     display:grid;
-    grid-template-columns: 1fr 1fr;
-    align-items:end;
-
+    grid-template-columns: minmax(360px, 0.85fr) minmax(0, 1.15fr);
+    align-items:center;
     min-height:90vh;
-
-    margin:0px 0px 0 0px;
-    gap:0px;
+    margin:0 auto;
+    max-width: 1360px;
+    gap:clamp(12px, 2vw, 32px);
+    padding: 0 clamp(20px, 3vw, 44px) 20px;
 }
 .hero-text{
     display:flex;
     flex-direction:column;
-    gap:30px;
-
-    max-width:520px;
+    gap:24px;
+    width: 100%;
+    max-width:640px;
+    justify-self:start;
+    transform: translateY(-38px);
 }
 .portfolio-stack{
     display:flex;
     flex-direction:column;
+    width: 100%;
+    max-width: 100%;
 }
 .portfolio-stack h1,
 .portfolio-stack h2,
 .portfolio-stack h3{
     font-family:'Brasika';
-    font-size:clamp(70px,8vw,130px);
+    font-size:clamp(56px,5.8vw,104px);
     line-height:1.0;
     margin:0;
+    white-space: nowrap;
 }
 .portfolio-stack h1{
     color:#f58c8c;
@@ -90,21 +96,25 @@ nav a:hover {
 .portfolio-stack h2{
     color:transparent;
     -webkit-text-stroke:2px #7c8df0;
-    margin-top:35px;
+    margin-top:18px;
 }
 
 .portfolio-stack h3{
     color:transparent;
     -webkit-text-stroke:2px #7c8df0;
-    margin-top:35px;
+    margin-top:18px;
 }
 .description{
     font-size:16px;
     line-height:1.6;
+    margin: 0;
 }
 
 .btn{
-    width:160px;
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 640px;
 
     padding:12px 30px;
     background:#5a73e8;
@@ -122,34 +132,24 @@ nav a:hover {
 }
 
 .hero-img{
-    align-self:end;
+    justify-self:center;
+    align-self:center;
+    max-width: 460px;
+    width: 100%;
+    transform: translate(28px, 26px);
 }
 
 .hero-img img{
-    width:100%;
-    height:85vh;
+    width: 100%;
+    height:auto;
     object-fit:contain;
-    margin-left: -50px;
-}
-@media (max-width:768px){
-
-.hero{
-    grid-template-columns:1fr;
-    gap:40px;
-    padding:40px 30px;
 }
 
-.hero-text{
-    align-items:center;
-    text-align:center;
-}
-
-.portfolio-stack h1,
-.portfolio-stack h2,
-.portfolio-stack h3{
-    font-size:18vw;
-}
-
+footer{
+    padding: 12px clamp(20px, 4vw, 50px) 16px;
+    text-align: center;
+    color: rgba(34, 34, 34, 0.72);
+    font-size: 13px;
 }
 /* PAGE GENERAL */
 .page-section {
@@ -274,4 +274,143 @@ nav a:hover {
 
 .contact-form button:hover {
     background: #f58c8c;
+}
+
+@media (max-width: 1024px){
+    .hero{
+        min-height: auto;
+        padding: 0 clamp(20px, 3vw, 40px) 36px;
+        gap: 28px;
+    }
+
+    .hero-text{
+        max-width: 100%;
+        gap: 20px;
+        transform: none;
+    }
+
+    .hero-img img{
+        width: min(100%, 460px);
+    }
+
+    .page-section{
+        padding: 64px clamp(20px, 4vw, 48px);
+    }
+
+    .about-container,
+    .contact-container{
+        gap: 40px;
+    }
+
+    .projects-grid{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 768px){
+    header{
+        grid-template-columns: 1fr;
+        justify-items: center;
+        gap: 14px;
+        padding: 22px 16px;
+    }
+
+    nav{
+        justify-content: center;
+        gap: 14px 22px;
+    }
+
+    .logo{
+        font-size: 24px;
+    }
+
+    .hero{
+        grid-template-columns: 1fr;
+        gap: 28px;
+        padding: 24px 16px 44px;
+        text-align: center;
+    }
+
+    .hero-text{
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        margin: 0 auto;
+        transform: none;
+    }
+
+    .portfolio-stack{
+        align-items: center;
+        text-align: center;
+    }
+
+    .portfolio-stack h1,
+    .portfolio-stack h2,
+    .portfolio-stack h3{
+        font-size: clamp(40px, 12vw, 72px);
+        white-space: normal;
+        width: 100%;
+        text-align: center;
+    }
+
+    .description{
+        max-width: 36ch;
+    }
+
+    .btn{
+        align-self: center;
+        width: 100%;
+        max-width: 360px;
+    }
+
+    .hero-img{
+        justify-self: center;
+        transform: none;
+    }
+
+    .hero-img img{
+        width: min(92vw, 420px);
+    }
+
+    .page-section{
+        padding: 48px 16px;
+    }
+
+    .page-title{
+        font-size: clamp(34px, 8vw, 52px);
+        margin-bottom: 28px;
+    }
+
+    .about-container,
+    .contact-container,
+    .projects-grid{
+        grid-template-columns: 1fr;
+    }
+
+    .about-img{
+        justify-self: center;
+    }
+
+    .about-img img{
+        width: min(100%, 320px);
+    }
+
+    .skills li{
+        margin-right: 8px;
+        margin-bottom: 8px;
+    }
+
+    .social-links{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px 18px;
+    }
+
+    .social-links a{
+        margin-right: 0;
+    }
+
+    .project-card{
+        padding: 24px;
+    }
 }
