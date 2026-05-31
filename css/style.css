@@ -75,7 +75,7 @@ nav a:hover {
     width: 100%;
     max-width:640px;
     justify-self:start;
-    transform: translateY(-38px);
+    transform: translateY(-62px);
 }
 .portfolio-stack{
     display:flex;
@@ -126,12 +126,13 @@ nav a:hover {
     text-decoration:none;
     border-radius:30px;
     text-align:center;
-
+    font-weight:bold;
     transition:0.3s;
 }
 
 .btn:hover{
     background:#f58c8c;
+    font-weight:bold;
 }
 
 .hero-img{
@@ -139,7 +140,7 @@ nav a:hover {
     align-self:center;
     max-width: 460px;
     width: 100%;
-    transform: translate(28px, 26px);
+    transform: translate(8px, 0px);
 }
 
 .hero-img img{
