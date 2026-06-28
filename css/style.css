@@ -204,6 +204,7 @@ nav a:hover {
     width: 100%;
     height: auto;
     object-fit: contain;
+    margin-top: 15px;
 }
 
 footer {
@@ -217,18 +218,20 @@ footer {
 
 /* PAGE GENERAL */
 .page-section {
-    padding: 80px 100px;
+    padding: 50px 100px 20px;
 }
 
-.page-title {
+.page-section .page-title {
     font-family: 'Brasika';
     font-size: 60px;
-    margin-bottom: 50px;
+    margin-bottom: 16px;
     color: #5a73e8;
+    transform: translateY(-28px);
+    margin-top: 0px;
 }
 
 .contact-page {
-    padding: 28px 100px 12px;
+    padding: 50px 100px 12px;
 }
 
 .contact-page .page-title {
@@ -237,7 +240,7 @@ footer {
 }
 
 .about-page {
-    padding: 28px 100px 12px;
+    padding: 50px 100px 12px;
 }
 
 .about-page .page-title {
@@ -479,7 +482,7 @@ footer {
     }
 
     .page-section {
-        padding: 48px 16px;
+        padding: 16px 16px;
     }
 
     .contact-page {
@@ -595,7 +598,10 @@ footer {
     font-weight: bold;
     font-size: 18px;
 }
-
+.education h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
 /* Mobile */
 @media (max-width: 768px) {
 
@@ -650,9 +656,9 @@ footer {
         font-weight: bold;
         font-size: 18px;
     }
-    .education h3 { font-size: 18px;}
+    .education h3 { font-size: 30px; font-weight: 700; }
 }
-.education h3 { font-size: 28px;}
+
 /* ===================================
    SKILLS SECTION
 =================================== */
@@ -662,7 +668,7 @@ footer {
 }
 
 .skills-section h3 {
-    font-size: 26px;
+    font-size: 40px;
     font-weight: 700;
     margin-bottom: 30px;
     color: #111;
@@ -724,7 +730,7 @@ footer {
 }
 
 .software h3 {
-    font-size: 26px;
+    font-size: 40px;
     font-weight: 700;
     margin-bottom: 30px;
     color: #111;
@@ -822,7 +828,9 @@ footer {
     color: #666;
     line-height: 1.7;
 }
-
+.skills-block h4 {
+        margin-top:0px;
+    }
 
 /* ===================================
    MOBILE
@@ -832,6 +840,10 @@ footer {
 
     .skills-grid {
         grid-template-columns: 1fr;
+    }
+
+    .skills-block h4 {
+        margin-top:0px;
     }
 
     .software-list {
@@ -846,7 +858,7 @@ footer {
     .skills-section h3,
     .software h3,
     .experience h3 {
-        font-size: 22px;
+        font-size: 30px;
     }
 
     .skills-block {
@@ -862,4 +874,314 @@ footer {
         width: 40px;
         height: 40px;
     }
+}
+/*=========================
+      EXPERIENCE
+=========================*/
+
+.experience{
+    margin-top:90px;
+}
+
+.experience h3{
+    font-size:40px;
+    margin-bottom:45px;
+    color: #000;
+}
+
+.experience-list{
+    display:flex;
+    flex-direction:column;
+    gap:35px;
+}
+
+.experience-card{
+
+    display:grid;
+    grid-template-columns:240px 1fr;
+
+    gap:40px;
+
+    background:#fff;
+
+    padding:40px;
+
+    border-radius:28px;
+
+    box-shadow:0 10px 35px rgba(0,0,0,.06);
+}
+
+.experience-date{
+
+    color:#f48c8c;
+
+    font-weight:600;
+
+    font-size:18px;
+
+    line-height:1.6;
+}
+
+.experience-content h4{
+
+    font-size:30px;
+
+    color:#5a73e8;
+
+    margin-bottom:8px;
+    margin-top: 0px;
+}
+
+.experience-content h5{
+
+    font-size:22px;
+
+    margin-bottom:18px;
+
+    color:#222;
+}
+
+.experience-content p{
+
+    font-size:18px;
+
+    line-height:1.8;
+
+    margin-bottom:20px;
+}
+
+.experience-content ul{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:12px;
+
+    list-style:none;
+
+    padding:0;
+}
+
+.experience-content li{
+
+    background:#fde6e6;
+
+    color:#444;
+
+    padding:10px 18px;
+
+    border-radius:999px;
+
+    font-size:15px;
+
+    font-weight:500;
+}
+
+/*=========================
+        MOBILE
+=========================*/
+
+@media (max-width:768px){
+
+.experience{
+
+    margin-top:70px;
+}
+
+.experience h3{
+
+    font-size:30px;
+
+    margin-bottom:30px;
+}
+
+.experience-card{
+
+    grid-template-columns:1fr;
+
+    gap:18px;
+
+    padding:28px;
+}
+
+.experience-date{
+
+    font-size:16px;
+}
+
+.experience-content h4{
+
+    font-size:24px;
+    margin-top: 0px;
+}
+
+.experience-content h5{
+
+    font-size:18px;
+}
+
+.experience-content p{
+
+    font-size:16px;
+}
+
+.experience-content li{
+
+    font-size:14px;
+
+    padding:8px 14px;
+}
+
+}
+/*========================
+        WORK
+========================*/
+
+.page-subtitle{
+
+    max-width:700px;
+
+    margin:0px auto 20px;
+
+    text-align:center;
+
+    color:#666;
+
+    line-height:1.8;
+
+    font-size:18px;
+
+}
+
+.work-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(420px,1fr));
+
+    gap:35px;
+
+}
+
+.work-card{
+
+    background:#fff;
+
+    border-radius:28px;
+
+    padding:40px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.05);
+
+    transition:.3s;
+
+}
+
+.work-card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+.work-date{
+
+    color:#f28a8a;
+
+    font-weight:600;
+
+    font-size:15px;
+
+}
+
+.work-card h2{
+
+    margin:15px 0 5px;
+
+    font-size:30px;
+
+}
+
+.work-card h4{
+
+    color:#5a73e8;
+
+    margin-bottom:18px;
+
+    font-size:20px;
+
+}
+
+.work-card p{
+
+    line-height:1.8;
+
+    color:#555;
+
+}
+
+.work-tags{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:12px;
+
+    margin:28px 0;
+
+}
+
+.work-tags span{
+
+    background:#fde8e8;
+
+    padding:9px 18px;
+
+    border-radius:999px;
+
+    font-size:14px;
+
+}
+
+.work-card a{
+
+    color:#5a73e8;
+
+    text-decoration:none;
+
+    font-weight:600;
+
+}
+
+/*=====================
+        MOBILE
+=====================*/
+
+@media(max-width:768px){
+
+.work-grid{
+
+    grid-template-columns:1fr;
+
+}
+
+.work-card{
+
+    padding:28px;
+
+}
+
+.work-card h2{
+
+    font-size:24px;
+
+}
+
+.page-subtitle{
+
+    font-size:16px;
+
+}
+
 }
