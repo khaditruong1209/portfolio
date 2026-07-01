@@ -1,0 +1,293 @@
+/*==========================
+        CASE STUDY
+==========================*/
+
+.case-hero{
+
+    max-width:1400px;
+
+    margin:60px auto;
+
+    padding:0 40px;
+
+    display:grid;
+
+    grid-template-columns:1fr 1fr;
+
+    gap:60px;
+
+    align-items:center;
+
+}
+
+.case-company{
+
+    display:inline-block;
+
+    color:#f28a8a;
+
+    font-weight:600;
+
+    margin-bottom:20px;
+
+}
+
+.case-info h1{
+
+    font-size:64px;
+
+    margin:0 0 25px;
+
+    color:#222;
+
+}
+
+.case-info p{
+
+    font-size:18px;
+
+    line-height:1.9;
+
+    color:#555;
+
+}
+
+.case-image img{
+
+    width:100%;
+
+    border-radius:30px;
+
+    box-shadow:0 20px 40px rgba(0,0,0,.08);
+
+}
+
+
+
+/*==========================
+        SECTION
+==========================*/
+
+.case-section{
+
+    max-width:1400px;
+
+    margin:100px auto;
+
+    padding:0 40px;
+
+}
+
+.case-section h2{
+
+    font-size:42px;
+
+    margin-bottom:30px;
+
+}
+
+.case-section p{
+
+    line-height:1.9;
+
+    color:#555;
+
+}
+
+
+
+/*==========================
+        RESPONSIBILITY
+==========================*/
+
+.responsibility-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+    gap:30px;
+
+}
+
+.responsibility-card{
+
+    background:#fff;
+
+    border-radius:24px;
+
+    padding:35px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.05);
+
+}
+
+.responsibility-card h3{
+
+    margin-top:0;
+
+    color:#5a73e8;
+
+}
+
+
+
+/*==========================
+            TOOLS
+==========================*/
+
+.tool-list{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:15px;
+
+}
+
+.tool-list span{
+
+    background:#fde8e8;
+
+    padding:12px 24px;
+
+    border-radius:999px;
+
+    font-weight:500;
+
+}
+
+
+
+/*==========================
+        GALLERY
+==========================*/
+
+.gallery{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:25px;
+
+}
+
+.gallery img{
+
+    width:100%;
+
+    display:block;
+
+    border-radius:20px;
+
+    transition:.3s;
+
+    cursor:pointer;
+
+}
+
+.gallery img:hover{
+
+    transform:scale(1.03);
+
+}
+
+
+
+/*==========================
+        NEXT PROJECT
+==========================*/
+
+.next-project{
+
+    max-width:1400px;
+
+    margin:80px auto;
+
+    text-align:right;
+
+    padding:0 40px;
+
+}
+
+.next-project a{
+
+    color:#5a73e8;
+
+    text-decoration:none;
+
+    font-weight:600;
+
+    font-size:20px;
+
+}
+
+
+
+/*==========================
+        MOBILE
+==========================*/
+
+@media(max-width:768px){
+
+.case-hero{
+
+    grid-template-columns:1fr;
+
+    gap:40px;
+
+    padding:0 20px;
+
+    margin:40px auto;
+
+}
+
+.case-info h1{
+
+    font-size:42px;
+
+}
+
+.case-info p{
+
+    font-size:16px;
+
+}
+
+.case-section{
+
+    padding:0 20px;
+
+    margin:70px auto;
+
+}
+
+.case-section h2{
+
+    font-size:32px;
+
+}
+
+.gallery{
+
+    grid-template-columns:1fr;
+
+}
+
+.responsibility-grid{
+
+    grid-template-columns:1fr;
+
+}
+
+.next-project{
+
+    text-align:center;
+
+    padding:0 20px;
+
+}
+
+}
