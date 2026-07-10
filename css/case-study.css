@@ -409,39 +409,47 @@
                     GALLERY
 ====================================================*/
 
-.gallery{
+.gallery-item{
 
-    width:100%;
+    background:#fff;
 
-    display:grid;
+    border-radius:20px;
 
-    grid-template-columns:repeat(3,minmax(0,1fr));
+    overflow:hidden;
 
-    gap:28px;
-
-    margin-top:35px;
+    box-shadow:0 8px 20px rgba(0,0,0,.05);
 
 }
 
-.gallery-item{
+.gallery-item h4{
 
-    width:100%;
+    margin:20px 20px 10px;
 
-    display:flex;
+}
 
-    flex-direction:column;
+.gallery-item p{
 
-    align-items:flex-start;
+    margin:0 20px;
 
-    text-align:left;
+}
+
+.gallery-item a{
+
+    display:inline-block;
+
+    margin:18px 20px 22px;
+
+    color:#5a73e8;
+
+    text-decoration:none;
+
+    font-weight:600;
 
 }
 
 .gallery-item img{
 
     width:100%;
-
-    aspect-ratio:4/3;
 
     object-fit:cover;
 
@@ -493,23 +501,37 @@
 
 }
 
+/*==========================
+        FEATURED WORKS
+==========================*/
 
+.gallery{
 
-/*====================================================
-            SIMPLE IMAGE GALLERY
-====================================================*/
+    display:grid;
+
+    grid-template-columns:repeat(3,minmax(0,1fr));
+
+    gap:24px;
+
+    margin-top:35px;
+
+}
 
 .gallery img{
 
     width:100%;
 
-    aspect-ratio:4/3;
-
-    object-fit:cover;
+    height:auto;
 
     display:block;
 
+    object-fit:contain;
+
     border-radius:18px;
+
+    border:1px solid #eee;
+
+    background:#fff;
 
     box-shadow:0 8px 20px rgba(0,0,0,.05);
 
@@ -526,9 +548,6 @@
     box-shadow:0 18px 35px rgba(0,0,0,.12);
 
 }
-
-
-
 /*====================================================
             PROJECT NAVIGATION
 ====================================================*/
@@ -1037,6 +1056,226 @@
 .project-navigation a{
 
     font-size:17px;
+
+}
+
+}
+.project-set{
+
+    margin-top:70px;
+
+}
+
+.project-set:first-child{
+
+    margin-top:35px;
+
+}
+
+.project-set h3{
+
+    margin-bottom:25px;
+
+    font-size:28px;
+
+}
+
+.project-set a{
+
+    display:inline-block;
+
+    margin-top:25px;
+
+    color:#5a73e8;
+
+    font-weight:600;
+
+    text-decoration:none;
+
+}
+
+.project-set a:hover{
+
+    transform:translateX(5px);
+
+}
+/*====================================================
+                PROPOSAL PROJECTS
+====================================================*/
+
+.proposal-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(360px,1fr));
+
+    gap:32px;
+
+    margin-top:35px;
+
+}
+
+.proposal-card{
+
+    background:#fff;
+
+    border-radius:24px;
+
+    overflow:hidden;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.05);
+
+    transition:.3s;
+
+}
+
+.proposal-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 20px 45px rgba(0,0,0,.10);
+
+}
+
+/* Background giống mockup PowerPoint */
+
+.proposal-image{
+
+    background:#f7f7f7;
+
+    padding:30px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+/* Kích thước slide */
+
+.proposal-image img{
+
+    width:72%;
+
+    display:block;
+
+    aspect-ratio:16/9;
+
+    object-fit:contain;
+
+    background:#fff;
+
+    border:1px solid #e8e8e8;
+
+    border-radius:10px;
+
+    box-shadow:0 12px 28px rgba(0,0,0,.10);
+
+}
+
+.proposal-content{
+
+    padding:28px;
+
+    text-align:left;
+
+}
+
+.proposal-content h3{
+
+    margin:0 0 14px;
+
+    font-size:24px;
+
+    color:#222;
+
+}
+
+.proposal-content p{
+
+    margin:0 0 22px;
+
+    color:#555;
+
+    line-height:1.8;
+
+}
+
+.proposal-content a{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    color:#5a73e8;
+
+    font-weight:600;
+
+    text-decoration:none;
+
+    transition:.3s;
+
+}
+
+.proposal-content a:hover{
+
+    color:#222;
+
+    transform:translateX(5px);
+
+}
+
+
+
+/*====================================================
+                    MOBILE
+====================================================*/
+
+@media(max-width:768px){
+
+.proposal-grid{
+
+    grid-template-columns:1fr;
+
+    gap:24px;
+
+    margin-top:28px;
+
+}
+
+.proposal-image{
+
+    padding:24px;
+
+}
+
+.proposal-image img{
+
+    width:80%;
+
+}
+
+.proposal-content{
+
+    padding:22px;
+
+}
+
+.proposal-content h3{
+
+    font-size:21px;
+
+}
+
+.proposal-content p{
+
+    font-size:15px;
+
+    line-height:1.8;
 
 }
 
