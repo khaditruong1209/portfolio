@@ -1141,9 +1141,9 @@
 
 .proposal-image{
 
-    background:#f7f7f7;
+    background:#f6f6f6;
 
-    padding:30px;
+    padding:32px;
 
     display:flex;
 
@@ -1153,25 +1153,25 @@
 
 }
 
-/* Kích thước slide */
-
 .proposal-image img{
 
-    width:72%;
+    width:100%;
+
+    max-width:100%;
 
     display:block;
 
     aspect-ratio:16/9;
 
-    object-fit:contain;
+    object-fit:cover;
 
     background:#fff;
 
-    border:1px solid #e8e8e8;
+    border-radius:16px;
 
-    border-radius:10px;
+    border:1px solid #ececec;
 
-    box-shadow:0 12px 28px rgba(0,0,0,.10);
+    box-shadow:0 12px 30px rgba(0,0,0,.08);
 
 }
 
@@ -1223,7 +1223,7 @@
 
 .proposal-content a:hover{
 
-    color:#222;
+    color:#f78b89;
 
     transform:translateX(5px);
 
