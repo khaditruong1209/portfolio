@@ -27,24 +27,28 @@
 
         <nav>
 
-            <a href="../../index.html">Home</a>
+            <a href="../../index.html" data-i18n="nav.home">Home</a>
 
-            <a href="../About.html">About</a>
+            <a href="../About.html" data-i18n="nav.about">About</a>
 
             <div class="nav-dropdown">
-                <a href="../Projects.html">Work</a>
+                <a href="../Projects.html" data-i18n="nav.work">Work</a>
                 <div class="dropdown-menu">
-                <a href="ai-image-creation.html">AI Image Creation</a>
-                <a href="brand-marketing.html">Brand Marketing</a>
-                <a href="email-marketing.html" class="active">Email Marketing</a>
-                <a href="shopify-ux.html">Shopify &amp; UX/UI</a>
-                <a href="meta-marketing.html">Meta Marketing</a>
-                <a href="brand-activation-planning.html">Brand Activation Planning</a>
+                <a href="ai-image-creation.html" data-i18n="projects.aiImage">AI Image Creation</a>
+                <a href="brand-marketing.html" data-i18n="projects.brandMarketing">Brand Marketing</a>
+                <a href="email-marketing.html" class="active" data-i18n="projects.emailMarketing">Email Marketing</a>
+                <a href="shopify-ux.html" data-i18n="projects.shopifyUx">Shopify &amp; UX/UI</a>
+                <a href="meta-marketing.html" data-i18n="projects.metaMarketing">Meta Marketing</a>
+                <a href="brand-activation-planning.html" data-i18n="projects.brandActivation">Brand Activation Planning</a>
                 </div>
             </div>
 
-            <a href="../Contact.html">Contact</a>
+            <a href="../Contact.html" data-i18n="nav.contact">Contact</a>
 
+        <div class="language-toggle">
+            <button id="lang-en" class="active" onclick="window.i18n.setLanguage('en')">EN</button>
+            <button id="lang-vi" onclick="window.i18n.setLanguage('vi')">VI</button>
+        </div>
         </nav>
 
     </header>
@@ -57,17 +61,17 @@
 
     <div class="case-info">
 
-            <span class="case-company">
+            <span class="case-company" data-i18n="caseStudies.emailMarketing.hero.company">
 
                 WIGI Hair
 
             </span>
 
-            <h1>
+            <h1 data-i18n="caseStudies.emailMarketing.hero.title">
             Email Marketing
         </h1>
 
-        <p>
+        <p data-i18n="caseStudies.emailMarketing.hero.description">
 
             Planned and managed email marketing campaigns,
             automated customer journeys,
@@ -94,9 +98,9 @@
 
 <section class="case-section">
 
-    <h2>About WIGI Hair</h2>
+    <h2 data-i18n="caseStudy.aboutCompany">About WIGI Hair</h2>
 
-    <p>
+    <p data-i18n="caseStudies.emailMarketing.about">
 
         WIGI Hair is a premium e-commerce brand specializing in
         human hair extensions for the United States market.
@@ -114,55 +118,55 @@
 
 <section class="case-section">
 
-    <h2>Project Snapshot</h2>
+    <h2 data-i18n="caseStudy.projectSnapshot">Project Snapshot</h2>
 
     <div class="snapshot-grid">
 
         <div class="snapshot-card">
 
-            <h4>Company</h4>
+            <h4 data-i18n="other.company">Company</h4>
 
-            <p>WIGI Hair</p>
-
-        </div>
-
-        <div class="snapshot-card">
-
-            <h4>Industry</h4>
-
-            <p>Human Hair Extensions</p>
+            <p data-i18n="emailMarketingExtended.snapshot.companyValue">WIGI Hair</p>
 
         </div>
 
         <div class="snapshot-card">
 
-            <h4>Target Market</h4>
+            <h4 data-i18n="other.industry">Industry</h4>
 
-            <p>United States</p>
-
-        </div>
-
-        <div class="snapshot-card">
-
-            <h4>Platform</h4>
-
-            <p>Klaviyo</p>
+            <p data-i18n="emailMarketingExtended.snapshot.industryValue">Human Hair Extensions</p>
 
         </div>
 
         <div class="snapshot-card">
 
-            <h4>Role</h4>
+            <h4 data-i18n="other.targetMarket">Target Market</h4>
 
-            <p>Marketing Executive</p>
+            <p data-i18n="emailMarketingExtended.snapshot.targetMarketValue">United States</p>
 
         </div>
 
         <div class="snapshot-card">
 
-            <h4>Duration</h4>
+            <h4 data-i18n="other.platform">Platform</h4>
 
-            <p>2025 – Present</p>
+            <p data-i18n="emailMarketingExtended.snapshot.platformValue">Klaviyo</p>
+
+        </div>
+
+        <div class="snapshot-card">
+
+            <h4 data-i18n="other.role">Role</h4>
+
+            <p data-i18n="emailMarketingExtended.snapshot.roleValue">Marketing Executive</p>
+
+        </div>
+
+        <div class="snapshot-card">
+
+            <h4 data-i18n="other.duration">Duration</h4>
+
+            <p data-i18n="emailMarketingExtended.snapshot.durationValue">2025 – Present</p>
 
         </div>
 
@@ -176,9 +180,9 @@
 
 <section class="case-section">
 
-    <h2>Project Overview</h2>
+    <h2 data-i18n="caseStudy.projectOverview">Project Overview</h2>
 
-    <p>
+    <p data-i18n="caseStudies.emailMarketing.overview">
 
         As part of the marketing team,
         I managed lifecycle email marketing using Klaviyo.
@@ -198,15 +202,15 @@
 
 <section class="case-section">
 
-    <h2>My Responsibilities</h2>
+    <h2 data-i18n="caseStudies.emailMarketing.responsibilities">My Responsibilities</h2>
 
     <div class="responsibility-grid">
 
         <div class="responsibility-card">
 
-            <h3>Campaign Planning</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.resp.campaignPlanning.title">Campaign Planning</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.resp.campaignPlanning.desc">
 
                 Planned weekly newsletters,
                 promotional campaigns,
@@ -219,9 +223,9 @@
 
         <div class="responsibility-card">
 
-            <h3>Marketing Automation</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.resp.marketingAutomation.title">Marketing Automation</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.resp.marketingAutomation.desc">
 
                 Built and optimized
                 Welcome Series,
@@ -235,9 +239,9 @@
 
         <div class="responsibility-card">
 
-            <h3>Customer Segmentation</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.resp.customerSegmentation.title">Customer Segmentation</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.resp.customerSegmentation.desc">
 
                 Created audience segments
                 based on customer behavior,
@@ -250,9 +254,9 @@
 
         <div class="responsibility-card">
 
-            <h3>Performance Analysis</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.resp.performanceAnalysis.title">Performance Analysis</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.resp.performanceAnalysis.desc">
 
                 Tracked campaign performance
                 using open rate,
@@ -274,15 +278,15 @@
 
 <section class="case-section">
 
-    <h2>Email Marketing Workflow</h2>
+    <h2 data-i18n="caseStudy.emailMarketingWorkflow">Email Marketing Workflow</h2>
 
     <div class="responsibility-grid">
 
         <div class="responsibility-card">
 
-            <h3>01. Planning</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.workflow.planning.title">01. Planning</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.workflow.planning.desc">
 
                 Defined campaign objectives,
                 audience,
@@ -294,9 +298,9 @@
 
         <div class="responsibility-card">
 
-            <h3>02. Email Design</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.workflow.emailDesign.title">02. Email Design</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.workflow.emailDesign.desc">
 
                 Designed layouts
                 and marketing content
@@ -308,9 +312,9 @@
 
         <div class="responsibility-card">
 
-            <h3>03. Automation Setup</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.workflow.automationSetup.title">03. Automation Setup</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.workflow.automationSetup.desc">
 
                 Configured email flows,
                 triggers,
@@ -323,9 +327,9 @@
 
         <div class="responsibility-card">
 
-            <h3>04. Optimization</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.workflow.optimization.title">04. Optimization</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.workflow.optimization.desc">
 
                 Monitored campaign results
                 and continuously improved
@@ -345,7 +349,7 @@
 
 <section class="case-section">
 
-    <h2>Featured Works</h2>
+    <h2 data-i18n="caseStudy.featuredWorks">Featured Works</h2>
 
     <div class="gallery">
 
@@ -371,7 +375,7 @@
 
 <section class="case-section">
 
-    <h2>Tools</h2>
+    <h2 data-i18n="caseStudies.emailMarketing.tools">Tools</h2>
 
     <div class="tool-list">
 
@@ -397,15 +401,15 @@
 
 <section class="case-section">
 
-    <h2>Key Learnings</h2>
+    <h2 data-i18n="caseStudies.emailMarketing.keyLearnings">Key Learnings</h2>
 
     <div class="responsibility-grid">
 
         <div class="responsibility-card">
 
-            <h3>Customer Segmentation</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.learnings.segmentation.title">Customer Segmentation</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.learnings.segmentation.desc">
 
                 Personalized emails significantly improve customer engagement.
 
@@ -415,9 +419,9 @@
 
         <div class="responsibility-card">
 
-            <h3>Automation</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.learnings.automation.title">Automation</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.learnings.automation.desc">
 
                 Lifecycle email flows help increase retention
                 and repeat purchases.
@@ -428,9 +432,9 @@
 
         <div class="responsibility-card">
 
-            <h3>Optimization</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.learnings.optimization.title">Optimization</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.learnings.optimization.desc">
 
                 Continuous testing improves subject lines,
                 layouts,
@@ -442,9 +446,9 @@
 
         <div class="responsibility-card">
 
-            <h3>Data Analysis</h3>
+            <h3 data-i18n="caseStudies.emailMarketing.learnings.dataAnalysis.title">Data Analysis</h3>
 
-            <p>
+            <p data-i18n="caseStudies.emailMarketing.learnings.dataAnalysis.desc">
 
                 Monitoring campaign metrics
                 supports better marketing decisions
@@ -460,12 +464,13 @@
 
 
 
-<footer>
+<footer data-i18n="footer.copyright">
 
     © 2026 Truong Kha Di. All rights reserved.
 
 </footer>
 
+    <script src="../../js/i18n.js"></script>
     <script src="../../js/script.js"></script>
 
 </body>

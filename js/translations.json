@@ -1,0 +1,1736 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "work": "Work",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Hi, I'm Truong Kha Di",
+      "subtitle": "Marketing Executive & Freelance AI Creator",
+      "description": "I help brands grow through data-driven marketing, creative strategy, and innovative visual content.",
+      "viewWork": "View My Work"
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "viewAll": "View All Work →",
+      "aiImage": "AI Image Creation",
+      "brandMarketing": "Brand Marketing",
+      "emailMarketing": "Email Marketing",
+      "shopifyUx": "Shopify & UX/UI",
+      "metaMarketing": "Meta Marketing",
+      "brandActivation": "Brand Activation Planning"
+    },
+    "about": {
+      "title": "About Me",
+      "role": "Marketing Executive",
+      "intro": "I am a marketing professional passionate about brand strategy, creative storytelling, and performance-driven campaigns. My focus is helping brands grow through digital marketing, content strategy, and data analysis.",
+      "experience": "With experience in campaign execution, social media management, and market research, I aim to create impactful marketing solutions that connect brands with their audiences.",
+      "tools": "Tools & Skills"
+    },
+    "contact": {
+      "title": "Let's Work Together",
+      "info": "Contact Information",
+      "description": "If you would like to collaborate or discuss a project, feel free to reach out.",
+      "email": "Email",
+      "phone": "Phone",
+      "linkedin": "LinkedIn",
+      "message": "Send Message"
+    },
+    "footer": {
+      "copyright": "© 2026 Truong Kha Di. All rights reserved."
+    },
+    "caseStudy": {
+      "aboutThisProject": "About This Project",
+      "aboutCompany": "About",
+      "projectSnapshot": "Project Snapshot",
+      "projectOverview": "Project Overview",
+      "myResponsibilities": "My Responsibilities",
+      "myServices": "My Services",
+      "workflow": "Workflow",
+      "creativeSolution": "Creative Solution",
+      "creativeWorkflow": "Creative Workflow",
+      "planningWorkflow": "Planning Workflow",
+      "emailMarketingWorkflow": "Email Marketing Workflow",
+      "campaignWorkflow": "Campaign Workflow",
+      "optimizationProcess": "Optimization Process",
+      "featuredWorks": "Featured Works",
+      "featuredImprovements": "Featured Improvements",
+      "creativeShowcase": "Creative Showcase",
+      "selectedProjects": "Selected Planning Projects",
+      "keyLearnings": "Key Learnings",
+      "tools": "Tools",
+      "viewProject": "View Project"
+    },
+    "education": {
+      "title": "Education",
+      "ftu": {
+        "name": "Foreign Trade University",
+        "degree": "Bachelor of International Business Economics",
+        "years": "2021 – 2025",
+        "grade": "Very Good"
+      },
+      "ueh": {
+        "name": "University of Economics HCMC",
+        "degree": "Applications of Digital Marketing for Business",
+        "years": "2024",
+        "grade": "Excellent"
+      }
+    },
+    "skills": {
+      "title": "Skills",
+      "technical": {
+        "title": "Technical Skills",
+        "list": [
+          "Digital Marketing",
+          "SEO & Content Strategy",
+          "Social Media Management",
+          "Market Research",
+          "Performance Analysis"
+        ]
+      },
+      "soft": {
+        "title": "Soft Skills",
+        "list": [
+          "Creative Thinking",
+          "Communication",
+          "Time Management",
+          "Team Collaboration",
+          "Problem Solving"
+        ]
+      }
+    },
+    "software": {
+      "title": "Software"
+    },
+    "experience": {
+      "title": "Work Experience",
+      "wigiHair": {
+        "role": "Marketing Executive",
+        "company": "WIGI Hair",
+        "years": "January 2025 – Present",
+        "description": "Managed e-commerce marketing activities by optimizing the Shopify website, executing digital campaigns, and improving performance through data-driven insights.",
+        "skills": [
+          "Shopify Management",
+          "SEO & Content Marketing",
+          "GA4, Clarity & Klaviyo"
+        ]
+      },
+      "tiemNhaCo": {
+        "role": "Marketing Executive",
+        "company": "TIEM NHA CO – Online Fashion Shop",
+        "years": "September 2023 – February 2025",
+        "description": "Managed social media, content strategy, paid advertising, and promotional campaigns while growing brand awareness and customer engagement.",
+        "skills": [
+          "Facebook & Instagram Growth",
+          "Content Marketing",
+          "Paid Advertising",
+          "Campaign Planning"
+        ]
+      },
+      "delta": {
+        "role": "Planning Intern",
+        "company": "Delta Engagement Marketing",
+        "years": "August 2024 – December 2024",
+        "description": "Supported planning projects through market research, proposal development, and campaign brainstorming for various clients.",
+        "skills": [
+          "Market Research",
+          "Campaign Planning",
+          "Client Proposal",
+          "Presentation Design"
+        ]
+      },
+      "realcoin": {
+        "role": "Digital Marketing Intern",
+        "company": "Realcoin.vn Joint Stock Company",
+        "years": "July 2023 – October 2023",
+        "description": "Produced marketing content, analyzed campaign performance, and created SEO-oriented articles for digital channels.",
+        "skills": [
+          "SEO Content",
+          "Data Analysis",
+          "Content Writing",
+          "Marketing Research"
+        ]
+      }
+    },
+    "contactForm": {
+      "title": "Let's Work Together",
+      "infoTitle": "Contact Information",
+      "description": "If you would like to collaborate or discuss a project, feel free to reach out.",
+      "location": "Location",
+      "yourName": "Your Name",
+      "yourEmail": "Your Email",
+      "yourMessage": "Your Message",
+      "sendMessage": "Send Message"
+    },
+    "projectsPage": {
+      "myWork": "My Work",
+      "subtitle": "Explore selected marketing projects completed throughout my professional experience.",
+      "freelance": {
+        "title": "Freelance",
+        "period": "AI Creative Projects · Jun 2026",
+        "aiImage": {
+          "title": "AI Image Creation",
+          "description": "Created AI-generated visuals for marketing campaigns, product promotion, advertising creatives, and social media content using generative AI tools."
+        }
+      },
+      "wigiHair": {
+        "title": "WIGI Hair",
+        "period": "Marketing Executive · Apr 2025 – Present",
+        "brandMarketing": {
+          "title": "Brand Marketing",
+          "description": "Assisted in developing brand campaigns, marketing plans and communication materials while maintaining brand consistency across digital channels."
+        },
+        "emailMarketing": {
+          "title": "Email Marketing",
+          "description": "Planned promotional campaigns, automated customer journeys, newsletters and retention flows using Klaviyo."
+        },
+        "shopifyUx": {
+          "title": "Shopify & UX/UI",
+          "description": "Improved Shopify storefront, optimized UX, landing pages, product pages and conversion performance."
+        }
+      },
+      "tiemNhaCo": {
+        "title": "TIEM NHA CO",
+        "period": "Marketing Executive · Sep 2023 – May 2026",
+        "metaMarketing": {
+          "title": "Meta Marketing",
+          "description": "Planned Facebook, Instagram content, managed community engagement, and executed Meta advertising campaigns to increase reach and sales."
+        }
+      },
+      "delta": {
+        "title": "DELTA ENGAGEMENT MARKETING",
+        "period": "Planning Intern · Aug 2024 – Dec 2024",
+        "brandActivation": {
+          "title": "Brand Activation Planning",
+          "description": "Developed brand activation proposals by conducting market research, creating campaign concepts, preparing presentation decks, and planning customer engagement activities for BTL campaigns."
+        }
+      }
+    },
+    "other": {
+      "view": "View →",
+      "grade": "Grade:",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "role": "Role",
+      "specialization": "Specialization",
+      "industry": "Industry",
+      "clients": "Clients",
+      "focus": "Focus",
+      "duration": "Duration",
+      "company": "Company",
+      "targetMarket": "Target Market",
+      "platform": "Platform",
+      "research": "Research",
+      "promptEngineering": "Prompt Engineering",
+      "imageRefinement": "Image Refinement",
+      "commercialDelivery": "Commercial Delivery",
+      "productPhotography": "Product Photography",
+      "lifestyleVisuals": "Lifestyle Visuals",
+      "advertisingCreatives": "Advertising Creatives",
+      "conceptDevelopment": "Concept Development",
+      "business": "Business",
+      "platforms": "Platforms"
+    },
+    "caseStudies": {
+      "aiImage": {
+        "hero": {
+          "company": "Freelance",
+          "title": "AI Image Creation",
+          "description": "Creating high-quality AI-generated visuals for marketing campaigns, e-commerce, product photography, and brand storytelling. Combining prompt engineering with marketing thinking to produce commercially effective visual content."
+        },
+        "about": "As a freelance AI creator, I develop commercial visuals that help businesses present their products more professionally. Instead of relying on traditional photography, I create realistic AI-generated images tailored to each brand's identity and marketing objectives.\n\nThese visuals are used across websites, Shopify stores, Meta advertising, social media, and promotional campaigns.",
+        "snapshot": {
+          "role": "Freelance AI Creator",
+          "specialization": "AI Image Generation",
+          "industry": "E-commerce & Marketing",
+          "clients": "Various Brands",
+          "focus": "Commercial Visuals",
+          "duration": "Jun 2026"
+        },
+        "overview": "My work focused on creating professional, commercially-ready AI-generated visuals that support product marketing, e-commerce, and advertising campaigns. By combining advanced prompt engineering with marketing strategy, I deliver high-quality images that effectively communicate product value and attract customers.",
+        "services": {
+          "productPhotography": "Generate realistic product images suitable for e-commerce websites, marketplaces, and online stores.",
+          "lifestyleVisuals": "Create scenes that help customers imagine products in real-life situations while strengthening brand identity.",
+          "advertisingCreatives": "Design eye-catching visuals optimized for Meta Ads, Instagram, Facebook, and TikTok campaigns.",
+          "conceptDevelopment": "Transform marketing ideas into visual concepts before production, reducing design time and creative costs."
+        },
+        "workflow": {
+          "research": "Understand the client's products, target audience, and marketing objectives.",
+          "promptEngineering": "Design structured prompts to achieve consistent style, composition, lighting, and branding.",
+          "imageRefinement": "Iterate multiple versions, refine details, upscale images, and improve overall quality.",
+          "commercialDelivery": "Deliver optimized visuals ready for websites, advertising, product pages, and social media."
+        }
+      },
+      "brandMarketing": {
+        "hero": {
+          "company": "WIGI Hair",
+          "title": "Brand Marketing",
+          "description": "Supporting the growth of WIGI Hair through brand communication, creative coordination, and marketing execution for the United States market."
+        },
+        "about": "WIGI Hair is an e-commerce brand specializing in premium human hair extensions, helping women achieve natural, confidence-boosting hairstyles.\n\nThe brand primarily serves customers across the United States and focuses on delivering high-quality products, personalized customer support, and a seamless online shopping experience.",
+        "overview": "As a Marketing Executive, I supported the development of WIGI Hair's brand through daily marketing activities.\n\nMy work included coordinating creative assets, supporting promotional campaigns, maintaining brand consistency, and collaborating with designers to ensure a unified customer experience across the website, email marketing, and other digital channels.",
+        "responsibilities": "My Responsibilities",
+        "resp": {
+          "campaignCoordination": {
+            "title": "Campaign Coordination",
+            "desc": "Assisted in organizing seasonal campaigns, promotional activities, and product launches while ensuring all deliverables were completed on schedule."
+          },
+          "brandCommunication": {
+            "title": "Brand Communication",
+            "desc": "Maintained consistent branding across website content, promotional materials, and digital marketing assets."
+          },
+          "creativeCollaboration": {
+            "title": "Creative Collaboration",
+            "desc": "Worked closely with designers to review, refine, and prepare visual assets for marketing campaigns."
+          },
+          "marketResearch": {
+            "title": "Market Research",
+            "desc": "Researched competitors, analyzed marketing trends, and identified opportunities to improve brand positioning."
+          }
+        },
+        "workflow": "Marketing Workflow",
+        "workflowSteps": {
+          "research": {
+            "title": "01. Research",
+            "desc": "Understand campaign goals, target audience, and brand requirements before developing marketing materials."
+          },
+          "assetDevelopment": {
+            "title": "02. Asset Development",
+            "desc": "Coordinate with designers to prepare banners, promotional visuals, and campaign creatives."
+          },
+          "campaignExecution": {
+            "title": "03. Campaign Execution",
+            "desc": "Publish assets across Shopify, email marketing, and promotional channels while maintaining brand consistency."
+          },
+          "optimization": {
+            "title": "04. Optimization",
+            "desc": "Review campaign performance, gather feedback, and continuously improve future marketing activities."
+          }
+        },
+        "featuredWorks": "Featured Works",
+        "works": {
+          "homepageBanner": {
+            "title": "Homepage Campaign Banner",
+            "desc": "Seasonal homepage visuals designed to highlight promotions and new product launches."
+          },
+          "collectionBanner": {
+            "title": "Collection Banner",
+            "desc": "Promotional banners created for product collections to enhance visual consistency."
+          },
+          "emailCampaign": {
+            "title": "Email Campaign Visual",
+            "desc": "Banner designs supporting Klaviyo campaigns and promotional newsletters."
+          },
+          "productPage": {
+            "title": "Product Page Assets",
+            "desc": "Marketing visuals prepared for Shopify product pages to improve presentation."
+          },
+          "socialMedia": {
+            "title": "Social Media Creative",
+            "desc": "Promotional graphics supporting campaign communication across digital channels."
+          },
+          "landingPage": {
+            "title": "Landing Page Design",
+            "desc": "Marketing assets prepared for campaign landing pages and promotional events."
+          }
+        },
+        "tools": "Tools",
+        "toolList": [
+          "Shopify",
+          "Google Analytics 4",
+          "Klaviyo",
+          "Canva",
+          "ChatGPT",
+          "Google Search Console",
+          "Microsoft Clarity"
+        ],
+        "keyLearnings": "Key Learnings",
+        "learnings": {
+          "collaboration": {
+            "title": "Cross-functional Collaboration",
+            "desc": "Collaborated with designers and marketers to deliver consistent campaign assets and strengthen communication throughout the creative process."
+          },
+          "brandConsistency": {
+            "title": "Brand Consistency",
+            "desc": "Developed a deeper understanding of maintaining a unified visual identity across websites, promotional materials, and marketing campaigns."
+          },
+          "customerFocused": {
+            "title": "Customer-focused Marketing",
+            "desc": "Learned how branding decisions influence customer experience throughout the online shopping journey."
+          },
+          "marketingExecution": {
+            "title": "Marketing Execution",
+            "desc": "Strengthened practical experience in coordinating marketing campaigns from planning to launch."
+          }
+        }
+      },
+      "emailMarketing": {
+        "hero": {
+          "company": "WIGI Hair",
+          "title": "Email Marketing",
+          "description": "Designing and executing email marketing strategies using Klaviyo to nurture customer relationships, drive repeat purchases, and maximize customer lifetime value."
+        },
+        "about": "WIGI Hair is a premium e-commerce brand specializing in human hair extensions for the United States market. The company focuses on delivering salon-quality products through Shopify while building long-term customer relationships with personalized marketing and exceptional online experiences.",
+        "overview": "Planned and managed email marketing campaigns, automated customer journeys, and lifecycle communications using Klaviyo. Focused on improving customer retention, repeat purchases, and campaign performance through data-driven optimization.",
+        "responsibilities": "My Responsibilities",
+        "tools": "Tools",
+        "keyLearnings": "Key Learnings",
+        "learnings": {
+          "segmentation": {
+            "title": "Customer Segmentation",
+            "desc": "Personalized emails significantly improve customer engagement."
+          },
+          "automation": {
+            "title": "Automation",
+            "desc": "Lifecycle email flows help increase retention and repeat purchases."
+          },
+          "optimization": {
+            "title": "Optimization",
+            "desc": "Continuous testing improves subject lines, layouts, and click performance."
+          },
+          "dataAnalysis": {
+            "title": "Data Analysis",
+            "desc": "Monitoring campaign metrics supports better marketing decisions and future planning."
+          }
+        },
+        "resp": {
+          "campaignPlanning": {
+            "title": "Campaign Planning",
+            "desc": "Planned weekly newsletters, promotional campaigns, seasonal sales, and product launch emails."
+          },
+          "marketingAutomation": {
+            "title": "Marketing Automation",
+            "desc": "Built and optimized Welcome Series, Abandoned Cart, Browse Abandonment, and customer lifecycle flows."
+          },
+          "customerSegmentation": {
+            "title": "Customer Segmentation",
+            "desc": "Created audience segments based on customer behavior, purchase history, and engagement level."
+          },
+          "performanceAnalysis": {
+            "title": "Performance Analysis",
+            "desc": "Tracked campaign performance using open rate, click rate, revenue, and customer engagement metrics."
+          }
+        },
+        "workflow": {
+          "planning": {
+            "title": "01. Planning",
+            "desc": "Defined campaign objectives, audience, and promotional calendar."
+          },
+          "emailDesign": {
+            "title": "02. Email Design",
+            "desc": "Designed layouts and marketing content consistent with the WIGI Hair brand."
+          },
+          "automationSetup": {
+            "title": "03. Automation Setup",
+            "desc": "Configured email flows, triggers, and customer segmentation in Klaviyo."
+          },
+          "optimization": {
+            "title": "04. Optimization",
+            "desc": "Monitored campaign results and continuously improved email performance."
+          }
+        }
+      },
+      "shopifyUx": {
+        "hero": {
+          "company": "WIGI Hair",
+          "title": "Shopify & UX/UI",
+          "description": "Optimizing the Shopify storefront experience through strategic UX improvements, conversion-focused design, and performance enhancement to increase sales and customer satisfaction."
+        },
+        "about": "WIGI Hair is a premium e-commerce brand specializing in high-quality human hair extensions for customers in the United States. Built on Shopify, the brand focuses on delivering a seamless online shopping experience through intuitive website navigation, engaging product pages, and customer-centered design.",
+        "overview": "Besides managing the Shopify store, I continuously analyzed customer behavior and website performance to identify opportunities for UX improvements. My work covered product pages, collection pages, navigation, search functionality, SEO optimization, and overall conversion rate improvements.",
+        "responsibilities": "My Responsibilities",
+        "tools": "Tools",
+        "keyLearnings": "Key Learnings",
+        "optimization": {
+          "analyze": {
+            "title": "01. Analyze",
+            "desc": "Reviewed analytics, heatmaps, and user recordings to identify UX issues."
+          },
+          "research": {
+            "title": "02. Research",
+            "desc": "Compared competitors, reviewed best practices, and evaluated customer feedback."
+          },
+          "improve": {
+            "title": "03. Improve",
+            "desc": "Updated layouts, product pages, navigation, and content to improve usability."
+          },
+          "measure": {
+            "title": "04. Measure",
+            "desc": "Monitored website performance after each improvement to support continuous optimization."
+          }
+        },
+        "resp": {
+          "shopifyManagement": {
+            "title": "Shopify Store Management",
+            "desc": "Managed products, collections, navigation, menus, pages, and store configurations."
+          },
+          "uxOptimization": {
+            "title": "UX & UI Optimization",
+            "desc": "Improved website usability, homepage layouts, product pages, and collection experiences to create smoother customer journeys."
+          },
+          "performanceAnalysis": {
+            "title": "Performance Analysis",
+            "desc": "Used Shopify Analytics, Google Analytics 4, and Microsoft Clarity to understand customer behavior and identify optimization opportunities."
+          },
+          "seoEnhancement": {
+            "title": "SEO Enhancement",
+            "desc": "Optimized page titles, meta descriptions, internal links, and content structures to improve search performance."
+          }
+        },
+        "learnings": {
+          "customerCentered": {
+            "title": "Customer-Centered Thinking",
+            "desc": "Small UX improvements can significantly improve user satisfaction and purchasing confidence."
+          },
+          "dataDriven": {
+            "title": "Data-Driven Decisions",
+            "desc": "Analytics and user recordings provide valuable insights beyond assumptions."
+          },
+          "collaboration": {
+            "title": "Cross-functional Collaboration",
+            "desc": "Working closely with designers, developers, and marketers results in stronger customer experiences."
+          },
+          "continuousOptimization": {
+            "title": "Continuous Optimization",
+            "desc": "Website optimization is an ongoing process supported by testing, analysis, and iteration."
+          }
+        }
+      },
+      "metaMarketing": {
+        "hero": {
+          "company": "TIEM NHA CO",
+          "title": "Meta Marketing",
+          "description": "Managing and executing comprehensive social media and Meta advertising strategies to build brand awareness, drive engagement, and increase sales for an e-commerce fashion business."
+        },
+        "about": "TIEM NHA CO is a small online secondhand fashion startup co-founded by a family member and me. We carefully curate quality pre-owned clothing and sell exclusively through Facebook and Instagram. Our mission is to make secondhand fashion more accessible while creating a trustworthy, enjoyable, and community-driven shopping experience.",
+        "overview": "Created social media content, promotional campaigns, product photography, and managed Meta advertising for TIEM NHA CO — a secondhand fashion startup. My work focused on building a consistent brand identity, increasing customer engagement, and supporting online sales across Facebook and Instagram.",
+        "responsibilities": "My Responsibilities",
+        "tools": "Tools",
+        "keyLearnings": "Key Learnings",
+        "creativePortfolio": "Creative Portfolio",
+        "creativePortfolioDesc": "Throughout the project, I created a wide range of visual content, from promotional campaigns and product photography to social media designs and short-form videos. Every creative was produced to strengthen the brand identity, improve customer engagement, and support online sales.",
+        "socialMediaPresence": "Social Media Presence",
+        "socialMediaPresenceDesc": "I managed TIEM NHA CO's social media presence by planning content, creating promotional campaigns, photographing products, and engaging with customers. Facebook served as the brand's primary sales and communication channel, while visual content was also created for Instagram during the project period to strengthen the brand identity.",
+        "facebook": "Facebook",
+        "facebookDesc": "The primary platform for product launches, promotional campaigns, customer engagement, and online sales. I managed content planning, page operations, and Meta advertising.",
+        "visualBranding": "Visual Branding",
+        "visualBrandingDesc": "Created lifestyle photography, short-form videos, Stories, and promotional creatives for the brand's social media campaigns. These visuals were produced as part of the overall content strategy to build a consistent brand identity.",
+        "toolsAndPlatforms": "Tools & Platforms",
+        "visitFacebook": "Visit Facebook →",
+        "resp": {
+          "contentPlanning": {
+            "title": "Content Planning",
+            "desc": "Planned monthly content calendars, promotional campaigns, and seasonal marketing activities for Facebook and Instagram."
+          },
+          "productPhotography": {
+            "title": "Product Photography",
+            "desc": "Styled, photographed, and edited product images to create visually appealing social media content."
+          },
+          "creativeDesign": {
+            "title": "Creative Design",
+            "desc": "Designed promotional banners, social media posts, story templates, and campaign visuals while maintaining a consistent brand identity."
+          },
+          "videoProduction": {
+            "title": "Video Production",
+            "desc": "Filmed and edited short-form videos, including product showcases, behind-the-scenes content, and promotional Reels for Facebook and Instagram."
+          },
+          "socialMediaManagement": {
+            "title": "Social Media Management",
+            "desc": "Managed Facebook and Instagram pages, published content, engaged with customers, and maintained a consistent posting schedule."
+          },
+          "metaAdvertising": {
+            "title": "Meta Advertising",
+            "desc": "Created and optimized Meta advertising campaigns, including audience targeting, budget allocation, creative testing, and campaign monitoring."
+          }
+        },
+        "workflow": {
+          "contentPlanning": {
+            "title": "01. Content Planning",
+            "desc": "Planned monthly content, selected campaign themes, and identified promotional opportunities based on seasonal events and customer interests."
+          },
+          "contentCreation": {
+            "title": "02. Content Creation",
+            "desc": "Photographed products, designed social media creatives, and produced short-form videos for Facebook and Instagram."
+          },
+          "publishingPromotion": {
+            "title": "03. Publishing & Promotion",
+            "desc": "Published content, scheduled promotional posts, and launched Meta advertising campaigns to increase reach and engagement."
+          },
+          "performanceReview": {
+            "title": "04. Performance Review",
+            "desc": "Monitored content performance, evaluated audience engagement, and refined future creatives based on campaign insights."
+          }
+        },
+        "learnings": {
+          "buildingBrand": {
+            "title": "Building a Brand from Scratch",
+            "desc": "Growing a startup taught me how every marketing decision, from visual identity to content planning, contributes to building a recognizable and trustworthy brand."
+          },
+          "contentStrategy": {
+            "title": "Content Strategy",
+            "desc": "I learned how to create content that balances aesthetics with marketing objectives, ensuring every post serves a clear communication purpose."
+          },
+          "socialMediaMarketing": {
+            "title": "Social Media Marketing",
+            "desc": "Managing Facebook and Instagram strengthened my understanding of audience engagement, content consistency, and community building."
+          },
+          "creativeBusinessMindset": {
+            "title": "Creative & Business Mindset",
+            "desc": "Working as a co-founder required balancing creativity with business thinking, helping me make practical marketing decisions while supporting sales growth."
+          }
+        }
+      },
+      "brandActivation": {
+        "hero": {
+          "company": "Delta Engagement Marketing",
+          "title": "Brand Activation Planning",
+          "description": "Developing strategic brand activation campaigns through market research, creative concept development, and comprehensive planning for BTL (Below-The-Line) marketing initiatives."
+        },
+        "overview": "During my internship at Delta Engagement Marketing, I supported the Planning team in developing brand activation proposals, campaign concepts, and presentation decks. My responsibilities included market research, creative ideation, activation planning, and preparing proposal materials for client presentations.",
+        "about": "Delta Engagement Marketing is a Below-the-Line (BTL) marketing agency specializing in brand activations, experiential marketing, retail campaigns, and events. Working alongside planners and account teams, I assisted in transforming client briefs into activation concepts and proposal presentations that aligned with business objectives and consumer insights.",
+        "responsibilities": "My Responsibilities",
+        "resp": {
+          "marketResearch": {
+            "title": "Market Research",
+            "desc": "Conducted consumer research, analyzed competitors, and identified trends to inform activation concepts."
+          },
+          "campaignConcepts": {
+            "title": "Campaign Concepts",
+            "desc": "Developed creative activation ideas aligned with brand objectives and target audience needs."
+          },
+          "proposalDevelopment": {
+            "title": "Proposal Development",
+            "desc": "Prepared presentation decks and proposal documents for client presentations."
+          },
+          "timelinePlanning": {
+            "title": "Timeline Planning",
+            "desc": "Organized project schedules and managed activation timelines."
+          }
+        },
+        "workflow": {
+          "clientBrief": {
+            "title": "01. Client Brief",
+            "desc": "Understood campaign objectives and brand positioning before developing concepts."
+          },
+          "research": {
+            "title": "02. Research",
+            "desc": "Gathered consumer insights and market data to inform activation strategy."
+          },
+          "creativeConcept": {
+            "title": "03. Creative Concept",
+            "desc": "Developed activation ideas and creative themes aligned with campaign objectives."
+          },
+          "presentationProposal": {
+            "title": "04. Presentation Proposal",
+            "desc": "Compiled concepts into presentation decks and proposal documents for client review."
+          }
+        },
+        "proposals": {
+          "dielac": {
+            "title": "Dielac – School Channel Activation",
+            "desc": "Developed activation concepts targeting schools and educational organizations."
+          },
+          "loreal": {
+            "title": "L'Oréal Beauty House",
+            "desc": "Supported planning of customer experiences and brand interaction activities."
+          },
+          "kgc": {
+            "title": "KGC Brand Activation",
+            "desc": "Planned campaign concepts and promotional activities for the brand."
+          },
+          "vnpca": {
+            "title": "VNPCA Conference Planning",
+            "desc": "Supported planning of association conferences and networking events."
+          },
+          "hoangQuan": {
+            "title": "Hoang Quan Land",
+            "desc": "Prepared event concepts and advertising campaign documents."
+          },
+          "manulife": {
+            "title": "Manulife Activation Campaign",
+            "desc": "Supported development of activation concepts and customer engagement strategy."
+          }
+        },
+        "tools": "Tools",
+        "keyLearnings": "Key Learnings"
+      }
+    },
+    "aiImageExtended": {
+      "featuredWorks": {
+        "intro": "For each hair color, I created a complete image package including Before, After, Studio, and Lifestyle images. These assets are used on Shopify product pages, collection pages, and marketing campaigns."
+      },
+      "colorVariants": {
+        "green": "Green",
+        "blue": "Blue",
+        "platinumAshBlonde": "Platinum Ash Blonde (60B)",
+        "platinumBlonde": "Platinum Blonde (613)",
+        "balayageChocolateCaramel": "Balayage Chocolate Brown to Caramel Blonde (4/27/4)",
+        "balayageMochaCaramelCream": "Balayage Mocha Caramel Cream (3/8/22)"
+      },
+      "keyLearnings": {
+        "promptEngineering": {
+          "title": "Prompt Engineering",
+          "desc": "Effective prompt techniques allow achieving consistent image quality while significantly reducing production time."
+        },
+        "marketingOrientedDesign": {
+          "title": "Marketing-Oriented Design",
+          "desc": "Strong images must not only look appealing but also communicate product value and encourage customer action."
+        },
+        "continuousIteration": {
+          "title": "Continuous Iteration",
+          "desc": "High-quality AI images are achieved through multiple rounds of testing, refinement, and optimization."
+        },
+        "commercialApplications": {
+          "title": "Commercial Applications",
+          "desc": "AI-generated images can effectively support websites, e-commerce, advertising, and social media campaigns."
+        }
+      }
+    },
+    "brandMarketingExtended": {
+      "snapshot": {
+        "company": "Company",
+        "companyValue": "WIGI Hair",
+        "industry": "Industry",
+        "industryValue": "Human Hair Extensions",
+        "targetMarket": "Target Market",
+        "targetMarketValue": "United States",
+        "platform": "Platform",
+        "platformValue": "Shopify",
+        "role": "Role",
+        "roleValue": "Marketing Executive",
+        "duration": "Duration",
+        "durationValue": "2025 – Present"
+      }
+    },
+    "metaMarketingExtended": {
+      "creativePortfolio": "Creative Portfolio",
+      "creativePortfolioDesc": "Throughout the project, I created a wide range of visual content, from promotional campaigns and product photography to social media designs and short-form videos. Every creative was produced to strengthen the brand identity, improve customer engagement, and support online sales.",
+      "socialMediaPresence": "Social Media Presence",
+      "socialMediaPresenceDesc": "I managed TIEM NHA CO's social media presence by planning content, creating promotional campaigns, photographing products, and engaging with customers. Facebook served as the brand's primary sales and communication channel, while visual content was also created for Instagram during the project period to strengthen the brand identity.",
+      "facebook": "Facebook",
+      "facebookDesc": "The primary platform for product launches, promotional campaigns, customer engagement, and online sales. I managed content planning, page operations, and Meta advertising.",
+      "visualBranding": "Visual Branding",
+      "visualBrandingDesc": "Created lifestyle photography, short-form videos, Stories, and promotional creatives for the brand's social media campaigns. These visuals were produced as part of the overall content strategy to build a consistent brand identity.",
+      "toolsAndPlatforms": "Tools & Platforms",
+      "visitFacebook": "Visit Facebook →"
+    },
+    "shopifyUxExtended": {
+      "snapshot": {
+        "company": "Company",
+        "companyValue": "WIGI Hair",
+        "industry": "Industry",
+        "industryValue": "Human Hair Extensions",
+        "targetMarket": "Target Market",
+        "targetMarketValue": "United States",
+        "platform": "Platform",
+        "platformValue": "Shopify",
+        "role": "Role",
+        "roleValue": "Marketing Executive",
+        "duration": "Duration",
+        "durationValue": "2025 – Present"
+      },
+      "optimization": {
+        "analyze": {
+          "title": "01. Analyze",
+          "desc": "Reviewed analytics, heatmaps, and user recordings to identify UX issues."
+        },
+        "research": {
+          "title": "02. Research",
+          "desc": "Compared competitors, reviewed best practices, and evaluated customer feedback."
+        },
+        "improve": {
+          "title": "03. Improve",
+          "desc": "Updated layouts, product pages, navigation, and content to improve usability."
+        },
+        "measure": {
+          "title": "04. Measure",
+          "desc": "Monitored website performance after each improvement to support continuous optimization."
+        }
+      }
+    },
+    "emailMarketingExtended": {
+      "snapshot": {
+        "company": "Company",
+        "companyValue": "WIGI Hair",
+        "industry": "Industry",
+        "industryValue": "Human Hair Extensions",
+        "targetMarket": "Target Market",
+        "targetMarketValue": "United States",
+        "platform": "Platform",
+        "platformValue": "Klaviyo",
+        "role": "Role",
+        "roleValue": "Marketing Executive",
+        "duration": "Duration",
+        "durationValue": "2025 – Present"
+      },
+      "keyLearnings": {
+        "segmentation": {
+          "title": "Customer Segmentation",
+          "desc": "Personalized emails significantly improve customer engagement."
+        }
+      }
+    },
+    "brandActivationExtended": {
+      "projectOverview": "Project Overview",
+      "projectOverviewDesc": "During my internship, I contributed to developing brand activation proposals, campaign concepts, and presentation documents for various clients.",
+      "responsibilities": {
+        "marketResearch": {
+          "title": "Market Research",
+          "desc": "Conducted consumer research, analyzed competitors, and identified trends to inform activation concepts."
+        },
+        "campaignConcepts": {
+          "title": "Campaign Concepts",
+          "desc": "Developed creative activation ideas aligned with brand objectives and target audience needs."
+        },
+        "proposalDevelopment": {
+          "title": "Proposal Development",
+          "desc": "Prepared presentation decks and proposal documents for client presentations."
+        },
+        "timelinePlanning": {
+          "title": "Timeline Planning",
+          "desc": "Organized project schedules and managed activation timelines."
+        }
+      },
+      "workflow": {
+        "clientBrief": {
+          "title": "01. Client Brief",
+          "desc": "Understood campaign objectives and brand positioning before developing concepts."
+        },
+        "research": {
+          "title": "02. Research",
+          "desc": "Gathered consumer insights and market data to inform activation strategy."
+        },
+        "creativeConcept": {
+          "title": "03. Creative Concept",
+          "desc": "Developed activation ideas and creative themes aligned with campaign objectives."
+        },
+        "presentationProposal": {
+          "title": "04. Presentation Proposal",
+          "desc": "Compiled concepts into presentation decks and proposal documents for client review."
+        }
+      },
+      "featuredProjects": "Featured Projects",
+      "featuredProjectsDesc": "During my internship at Delta Engagement Marketing, I contributed to proposals for various brand activation campaigns.",
+      "proposals": {
+        "dielac": {
+          "title": "Dielac – School Channel Activation",
+          "desc": "Developed activation concepts targeting schools and educational organizations."
+        },
+        "loreal": {
+          "title": "L'Oréal Beauty House",
+          "desc": "Supported planning of customer experiences and brand interaction activities."
+        },
+        "kgc": {
+          "title": "KGC Brand Activation",
+          "desc": "Planned campaign concepts and promotional activities for the brand."
+        },
+        "vnpca": {
+          "title": "VNPCA Conference Planning",
+          "desc": "Supported planning of association conferences and networking events."
+        },
+        "hoangQuan": {
+          "title": "Hoang Quan Land",
+          "desc": "Prepared event concepts and advertising campaign documents."
+        },
+        "manulife": {
+          "title": "Manulife Activation Campaign",
+          "desc": "Supported development of activation concepts and customer engagement strategy."
+        }
+      },
+      "toolsList": [
+        "Microsoft PowerPoint",
+        "Google Slides",
+        "Google Sheets",
+        "Google Docs",
+        "Pinterest",
+        "Canva",
+        "BeHance",
+        "ChatGPT"
+      ],
+      "keyLearningsDesc": "This internship strengthened my understanding of brand activation, market strategy, and proposal development."
+    }
+  },
+  "vi": {
+    "nav": {
+      "home": "Trang chủ",
+      "about": "Về tôi",
+      "work": "Dự án",
+      "contact": "Liên hệ"
+    },
+    "hero": {
+      "title": "Xin chào, tôi là Truong Kha Di",
+      "subtitle": "Chuyên viên Marketing & Nhà sáng tạo Freelance AI",
+      "description": "Tôi giúp các thương hiệu phát triển thông qua marketing dựa trên dữ liệu, chiến lược sáng tạo và nội dung hình ảnh đổi mới.",
+      "viewWork": "Xem Dự Án Của Tôi"
+    },
+    "projects": {
+      "title": "Dự Án Nổi Bật",
+      "viewAll": "Xem Tất Cả →",
+      "aiImage": "Tạo Hình Ảnh AI",
+      "brandMarketing": "Marketing Thương Hiệu",
+      "emailMarketing": "Email Marketing",
+      "shopifyUx": "Shopify & Tối Ưu UX/UI",
+      "metaMarketing": "Marketing Trên Meta",
+      "brandActivation": "Kế Hoạch Kích Hoạt Thương Hiệu"
+    },
+    "about": {
+      "title": "Về Tôi",
+      "role": "Chuyên Viên Marketing",
+      "intro": "Tôi là một chuyên gia marketing đam mê chiến lược thương hiệu, kể chuyện sáng tạo và các chiến dịch theo hiệu suất. Tôi tập trung vào việc giúp các thương hiệu phát triển thông qua marketing kỹ thuật số, chiến lược nội dung và phân tích dữ liệu.",
+      "experience": "Với kinh nghiệm trong thực hiện chiến dịch, quản lý phương tiện truyền thông xã hội và nghiên cứu thị trường, tôi mong muốn tạo ra các giải pháp marketing có tác động giúp kết nối các thương hiệu với khán giả của họ.",
+      "tools": "Công Cụ & Kỹ Năng"
+    },
+    "contact": {
+      "title": "Hãy Cùng Làm Việc",
+      "info": "Thông Tin Liên Hệ",
+      "description": "Nếu bạn muốn cộng tác hoặc thảo luận về một dự án, vui lòng liên hệ với tôi.",
+      "email": "Email",
+      "phone": "Số Điện Thoại",
+      "linkedin": "LinkedIn",
+      "message": "Gửi Tin Nhắn"
+    },
+    "footer": {
+      "copyright": "© 2026 Truong Kha Di. Tất cả quyền được bảo lưu."
+    },
+    "caseStudy": {
+      "aboutThisProject": "Về Dự Án Này",
+      "aboutCompany": "Về",
+      "projectSnapshot": "Tóm Tắt Dự Án",
+      "projectOverview": "Tổng Quan Dự Án",
+      "myResponsibilities": "Trách Nhiệm Của Tôi",
+      "myServices": "Dịch Vụ Của Tôi",
+      "workflow": "Quy Trình Làm Việc",
+      "creativeSolution": "Giải Pháp Sáng Tạo",
+      "creativeWorkflow": "Quy Trình Sáng Tạo",
+      "planningWorkflow": "Quy Trình Kế Hoạch",
+      "emailMarketingWorkflow": "Quy Trình Email Marketing",
+      "campaignWorkflow": "Quy Trình Chiến Dịch",
+      "optimizationProcess": "Quy Trình Tối Ưu Hóa",
+      "featuredWorks": "Các Công Việc Nổi Bật",
+      "featuredImprovements": "Những Cải Tiến Nổi Bật",
+      "creativeShowcase": "Triển Lãm Sáng Tạo",
+      "selectedProjects": "Các Dự Án Được Chọn",
+      "keyLearnings": "Những Bài Học Chính",
+      "tools": "Công Cụ",
+      "viewProject": "Xem Dự Án"
+    },
+    "education": {
+      "title": "Học Vấn",
+      "ftu": {
+        "name": "Đại Học Ngoại Thương",
+        "degree": "Cử Nhân Kinh Tế Thương Mại Quốc Tế",
+        "years": "2021 – 2025",
+        "grade": "Rất Tốt"
+      },
+      "ueh": {
+        "name": "Đại Học Kinh Tế TP.HCM",
+        "degree": "Ứng Dụng Digital Marketing Cho Kinh Doanh",
+        "years": "2024",
+        "grade": "Xuất Sắc"
+      }
+    },
+    "skills": {
+      "title": "Kỹ Năng",
+      "technical": {
+        "title": "Kỹ Năng Kỹ Thuật",
+        "list": [
+          "Digital Marketing",
+          "SEO & Chiến Lược Nội Dung",
+          "Quản Lý Mạng Xã Hội",
+          "Nghiên Cứu Thị Trường",
+          "Phân Tích Hiệu Suất"
+        ]
+      },
+      "soft": {
+        "title": "Kỹ Năng Mềm",
+        "list": [
+          "Tư Duy Sáng Tạo",
+          "Giao Tiếp",
+          "Quản Lý Thời Gian",
+          "Hợp Tác Nhóm",
+          "Giải Quyết Vấn Đề"
+        ]
+      }
+    },
+    "software": {
+      "title": "Phần Mềm"
+    },
+    "experience": {
+      "title": "Kinh Nghiệm Làm Việc",
+      "wigiHair": {
+        "role": "Chuyên Viên Marketing",
+        "company": "WIGI Hair",
+        "years": "Tháng 1 2025 – Hiện Tại",
+        "description": "Quản lý các hoạt động marketing thương mại điện tử bằng cách tối ưu hóa website Shopify, thực hiện các chiến dịch kỹ thuật số và cải thiện hiệu suất thông qua những insights dựa trên dữ liệu.",
+        "skills": [
+          "Quản Lý Shopify",
+          "SEO & Content Marketing",
+          "GA4, Clarity & Klaviyo"
+        ]
+      },
+      "tiemNhaCo": {
+        "role": "Chuyên Viên Marketing",
+        "company": "TIEM NHA CO – Cửa Hàng Thời Trang Trực Tuyến",
+        "years": "Tháng 9 2023 – Tháng 2 2025",
+        "description": "Quản lý phương tiện truyền thông xã hội, chiến lược nội dung, quảng cáo trả tiền và các chiến dịch khuyến mãi trong khi phát triển nhận thức thương hiệu và sự tham gia của khách hàng.",
+        "skills": [
+          "Phát Triển Facebook & Instagram",
+          "Content Marketing",
+          "Quảng Cáo Trả Tiền",
+          "Kế Hoạch Chiến Dịch"
+        ]
+      },
+      "delta": {
+        "role": "Thực Tập Sinh Lập Kế Hoạch",
+        "company": "Delta Engagement Marketing",
+        "years": "Tháng 8 2024 – Tháng 12 2024",
+        "description": "Hỗ trợ các dự án lập kế hoạch thông qua nghiên cứu thị trường, phát triển đề xuất và suy nghĩ về chiến dịch cho các khách hàng khác nhau.",
+        "skills": [
+          "Nghiên Cứu Thị Trường",
+          "Lập Kế Hoạch Chiến Dịch",
+          "Đề Xuất Khách Hàng",
+          "Thiết Kế Thuyết Trình"
+        ]
+      },
+      "realcoin": {
+        "role": "Thực Tập Sinh Digital Marketing",
+        "company": "Công Ty Cổ Phần Realcoin.vn",
+        "years": "Tháng 7 2023 – Tháng 10 2023",
+        "description": "Sản xuất nội dung marketing, phân tích hiệu suất chiến dịch và tạo các bài viết hướng tới SEO cho các kênh kỹ thuật số.",
+        "skills": [
+          "Nội Dung SEO",
+          "Phân Tích Dữ Liệu",
+          "Viết Nội Dung",
+          "Nghiên Cứu Marketing"
+        ]
+      }
+    },
+    "contactForm": {
+      "title": "Hãy Cùng Làm Việc",
+      "infoTitle": "Thông Tin Liên Hệ",
+      "description": "Nếu bạn muốn cộng tác hoặc thảo luận về một dự án, vui lòng liên hệ với tôi.",
+      "location": "Vị Trí",
+      "yourName": "Tên Của Bạn",
+      "yourEmail": "Email Của Bạn",
+      "yourMessage": "Tin Nhắn Của Bạn",
+      "sendMessage": "Gửi Tin Nhắn"
+    },
+    "projectsPage": {
+      "myWork": "Công Việc Của Tôi",
+      "subtitle": "Khám phá các dự án marketing được chọn hoàn thành trong suốt kinh nghiệm chuyên nghiệp của tôi.",
+      "freelance": {
+        "title": "Freelance",
+        "period": "Dự Án Sáng Tạo AI · Tháng 6 2026",
+        "aiImage": {
+          "title": "Tạo Hình Ảnh AI",
+          "description": "Đã tạo hình ảnh được tạo bằng AI cho các chiến dịch marketing, quảng cáo sản phẩm, nội dung quảng cáo sáng tạo và nội dung phương tiện truyền thông xã hội bằng cách sử dụng các công cụ AI sinh tạo."
+        }
+      },
+      "wigiHair": {
+        "title": "WIGI Hair",
+        "period": "Chuyên Viên Marketing · Tháng 4 2025 – Hiện Tại",
+        "brandMarketing": {
+          "title": "Marketing Thương Hiệu",
+          "description": "Hỗ trợ phát triển các chiến dịch thương hiệu, kế hoạch marketing và tài liệu giao tiếp trong khi duy trì tính nhất quán của thương hiệu trên các kênh kỹ thuật số."
+        },
+        "emailMarketing": {
+          "title": "Email Marketing",
+          "description": "Lập kế hoạch các chiến dịch khuyến mãi, hành trình khách hàng tự động, bản tin và các luồng duy trì bằng cách sử dụng Klaviyo."
+        },
+        "shopifyUx": {
+          "title": "Shopify & Tối Ưu UX/UI",
+          "description": "Cải thiện cửa hàng trực tuyến Shopify, tối ưu hóa UX, trang hạ cánh, trang sản phẩm và hiệu suất chuyển đổi."
+        }
+      },
+      "tiemNhaCo": {
+        "title": "TIEM NHA CO",
+        "period": "Chuyên Viên Marketing · Tháng 9 2023 – Tháng 5 2026",
+        "metaMarketing": {
+          "title": "Marketing Trên Meta",
+          "description": "Lập kế hoạch nội dung Facebook, Instagram, quản lý sự tham gia cộng đồng và thực hiện các chiến dịch quảng cáo Meta để tăng phạm vi tiếp cận và doanh số bán hàng."
+        }
+      },
+      "delta": {
+        "title": "DELTA ENGAGEMENT MARKETING",
+        "period": "Thực Tập Sinh Lập Kế Hoạch · Tháng 8 2024 – Tháng 12 2024",
+        "brandActivation": {
+          "title": "Kế Hoạch Kích Hoạt Thương Hiệu",
+          "description": "Phát triển các đề xuất kích hoạt thương hiệu bằng cách tiến hành nghiên cứu thị trường, tạo khái niệm chiến dịch, chuẩn bị các bộ thuyết trình và lập kế hoạch các hoạt động tham gia của khách hàng cho các chiến dịch BTL."
+        }
+      }
+    },
+    "other": {
+      "view": "Xem →",
+      "grade": "Điểm:",
+      "email": "Email",
+      "phone": "Số Điện Thoại",
+      "location": "Vị Trí",
+      "role": "Vai Trò",
+      "specialization": "Chuyên Môn",
+      "industry": "Ngành Công Nghiệp",
+      "clients": "Khách Hàng",
+      "focus": "Tập Trung",
+      "duration": "Thời Gian",
+      "company": "Công Ty",
+      "targetMarket": "Thị Trường Mục Tiêu",
+      "platform": "Nền Tảng",
+      "research": "Nghiên Cứu",
+      "promptEngineering": "Kỹ Thuật Prompt",
+      "imageRefinement": "Hoàn Thiện Hình Ảnh",
+      "commercialDelivery": "Giao Hàng Thương Mại",
+      "productPhotography": "Chụp Ảnh Sản Phẩm",
+      "lifestyleVisuals": "Hình Ảnh Lối Sống",
+      "advertisingCreatives": "Nội Dung Quảng Cáo Sáng Tạo",
+      "conceptDevelopment": "Phát Triển Khái Niệm",
+      "business": "Doanh Nghiệp",
+      "platforms": "Nền Tảng"
+    },
+    "caseStudies": {
+      "aiImage": {
+        "hero": {
+          "company": "Freelance",
+          "title": "Tạo Hình Ảnh AI",
+          "description": "Tạo hình ảnh được tạo bằng AI chất lượng cao cho các chiến dịch marketing, thương mại điện tử, chụp ảnh sản phẩm và kể chuyện thương hiệu. Kết hợp kỹ thuật prompt engineering với tư duy marketing để tạo ra nội dung hình ảnh hiệu quả về mặt thương mại."
+        },
+        "about": "Là một nhà sáng tạo AI freelance, tôi phát triển hình ảnh thương mại giúp các doanh nghiệp trình bày sản phẩm của họ một cách chuyên nghiệp hơn. Thay vì dựa vào chụp ảnh truyền thống, tôi tạo ra hình ảnh được tạo bằng AI thực tế được điều chỉnh theo danh tính thương hiệu và mục tiêu marketing của mỗi thương hiệu.\n\nCác hình ảnh này được sử dụng trên các trang web, cửa hàng Shopify, quảng cáo Meta, phương tiện truyền thông xã hội và các chiến dịch khuyến mãi.",
+        "snapshot": {
+          "role": "Nhà Sáng Tạo AI Freelance",
+          "specialization": "Tạo Hình Ảnh AI",
+          "industry": "Thương Mại Điện Tử & Marketing",
+          "clients": "Các Thương Hiệu Khác Nhau",
+          "focus": "Hình Ảnh Thương Mại",
+          "duration": "Tháng 6 2026"
+        },
+        "overview": "Công việc của tôi tập trung vào việc tạo ra hình ảnh được tạo bằng AI chuyên nghiệp và sẵn sàng thương mại hỗ trợ marketing sản phẩm, thương mại điện tử và các chiến dịch quảng cáo. Bằng cách kết hợp kỹ thuật prompt engineering tiên tiến với chiến lược marketing, tôi cung cấp hình ảnh chất lượng cao giúp giao tiếp hiệu quả giá trị sản phẩm và thu hút khách hàng.",
+        "services": {
+          "productPhotography": "Tạo hình ảnh sản phẩm thực tế phù hợp với các trang web thương mại điện tử, thị trường và cửa hàng trực tuyến.",
+          "lifestyleVisuals": "Tạo các cảnh giúp khách hàng tưởng tượng sản phẩm trong các tình huống thực tế trong khi tăng cường danh tính thương hiệu.",
+          "advertisingCreatives": "Thiết kế hình ảnh hấp dẫn tối ưu hóa cho Meta Ads, Instagram, Facebook và các chiến dịch TikTok.",
+          "conceptDevelopment": "Biến các ý tưởng marketing thành các khái niệm hình ảnh trước khi sản xuất, giảm thời gian thiết kế và chi phí sáng tạo."
+        },
+        "workflow": {
+          "research": "Hiểu các sản phẩm của khách hàng, khán giả mục tiêu và mục tiêu marketing.",
+          "promptEngineering": "Thiết kế các prompt có cấu trúc để đạt được phong cách, thành phần, ánh sáng và thương hiệu nhất quán.",
+          "imageRefinement": "Lặp lại các phiên bản khác nhau, hoàn thiện chi tiết, nâng cấp hình ảnh và cải thiện chất lượng tổng thể.",
+          "commercialDelivery": "Cung cấp hình ảnh được tối ưu hóa sẵn sàng cho các trang web, quảng cáo, trang sản phẩm và phương tiện truyền thông xã hội."
+        }
+      },
+      "brandMarketing": {
+        "hero": {
+          "company": "WIGI Hair",
+          "title": "Marketing Thương Hiệu",
+          "description": "Hỗ trợ sự phát triển của WIGI Hair thông qua giao tiếp thương hiệu, phối hợp sáng tạo và thực hiện marketing cho thị trường Hoa Kỳ."
+        },
+        "about": "WIGI Hair là một thương hiệu thương mại điện tử chuyên về các phần mở rộng tóc con người cao cấp, giúp phụ nữ đạt được các kiểu tóc tự nhiên và tăng cường sự tự tin.\n\nThương hiệu chủ yếu phục vụ khách hàng trên khắp Hoa Kỳ và tập trung vào việc cung cấp sản phẩm chất lượng cao, hỗ trợ khách hàng cá nhân hóa và trải nghiệm mua sắm trực tuyến liền mạch.",
+        "overview": "Là một Chuyên Viên Marketing, tôi đã hỗ trợ phát triển thương hiệu WIGI Hair thông qua các hoạt động marketing hàng ngày.\n\nCông việc của tôi bao gồm phối hợp các tài sản sáng tạo, hỗ trợ các chiến dịch khuyến mãi, duy trì tính nhất quán của thương hiệu và hợp tác với các nhà thiết kế để đảm bảo trải nghiệm khách hàng thống nhất trên toàn bộ trang web, email marketing và các kênh kỹ thuật số khác.",
+        "responsibilities": "Trách Nhiệm Của Tôi",
+        "resp": {
+          "campaignCoordination": {
+            "title": "Phối Hợp Chiến Dịch",
+            "desc": "Hỗ trợ tổ chức các chiến dịch theo mùa, các hoạt động khuyến mãi và ra mắt sản phẩm trong khi đảm bảo tất cả các deliverable được hoàn thành đúng lịch."
+          },
+          "brandCommunication": {
+            "title": "Giao Tiếp Thương Hiệu",
+            "desc": "Duy trì thương hiệu nhất quán trên tất cả nội dung trang web, tài liệu quảng cáo và tài sản marketing kỹ thuật số."
+          },
+          "creativeCollaboration": {
+            "title": "Hợp Tác Sáng Tạo",
+            "desc": "Làm việc chặt chẽ với các nhà thiết kế để xem xét, tinh chỉnh và chuẩn bị các tài sản hình ảnh cho các chiến dịch marketing."
+          },
+          "marketResearch": {
+            "title": "Nghiên Cứu Thị Trường",
+            "desc": "Nghiên cứu các đối thủ cạnh tranh, phân tích xu hướng marketing và xác định các cơ hội để cải thiện định vị thương hiệu."
+          }
+        },
+        "workflow": "Quy Trình Marketing",
+        "workflowSteps": {
+          "research": {
+            "title": "01. Nghiên Cứu",
+            "desc": "Hiểu mục tiêu chiến dịch, khán giả mục tiêu và yêu cầu thương hiệu trước khi phát triển các tài liệu marketing."
+          },
+          "assetDevelopment": {
+            "title": "02. Phát Triển Tài Sản",
+            "desc": "Phối hợp với các nhà thiết kế để chuẩn bị banner, hình ảnh quảng cáo và nội dung sáng tạo chiến dịch."
+          },
+          "campaignExecution": {
+            "title": "03. Thực Hiện Chiến Dịch",
+            "desc": "Xuất bản tài sản trên Shopify, email marketing và các kênh quảng cáo trong khi duy trì tính nhất quán của thương hiệu."
+          },
+          "optimization": {
+            "title": "04. Tối Ưu Hóa",
+            "desc": "Xem xét hiệu suất chiến dịch, thu thập phản hồi và liên tục cải thiện các hoạt động marketing trong tương lai."
+          }
+        },
+        "featuredWorks": "Các Công Việc Nổi Bật",
+        "works": {
+          "homepageBanner": {
+            "title": "Banner Chiến Dịch Trang Chủ",
+            "desc": "Hình ảnh trang chủ theo mùa được thiết kế để làm nổi bật các chương trình khuyến mãi và ra mắt sản phẩm mới."
+          },
+          "collectionBanner": {
+            "title": "Banner Bộ Sưu Tập",
+            "desc": "Banner quảng cáo được tạo cho các bộ sưu tập sản phẩm để tăng cường tính nhất quán trực quan."
+          },
+          "emailCampaign": {
+            "title": "Hình Ảnh Chiến Dịch Email",
+            "desc": "Thiết kế banner hỗ trợ các chiến dịch Klaviyo và bản tin quảng cáo."
+          },
+          "productPage": {
+            "title": "Tài Sản Trang Sản Phẩm",
+            "desc": "Hình ảnh marketing được chuẩn bị cho các trang sản phẩm Shopify để cải thiện cách trình bày."
+          },
+          "socialMedia": {
+            "title": "Nội Dung Sáng Tạo Phương Tiện Xã Hội",
+            "desc": "Đồ họa quảng cáo hỗ trợ giao tiếp chiến dịch trên các kênh kỹ thuật số."
+          },
+          "landingPage": {
+            "title": "Thiết Kế Trang Hạ Cánh",
+            "desc": "Tài sản marketing được chuẩn bị cho các trang hạ cánh chiến dịch và sự kiện quảng cáo."
+          }
+        },
+        "tools": "Công Cụ",
+        "toolList": [
+          "Shopify",
+          "Google Analytics 4",
+          "Klaviyo",
+          "Canva",
+          "ChatGPT",
+          "Google Search Console",
+          "Microsoft Clarity"
+        ],
+        "keyLearnings": "Những Bài Học Chính",
+        "learnings": {
+          "collaboration": {
+            "title": "Hợp Tác Đa Chức Năng",
+            "desc": "Hợp tác với các nhà thiết kế và chuyên viên marketing để cung cấp các tài sản chiến dịch nhất quán và tăng cường giao tiếp trong suốt quá trình sáng tạo."
+          },
+          "brandConsistency": {
+            "title": "Tính Nhất Quán Của Thương Hiệu",
+            "desc": "Phát triển sự hiểu biết sâu hơn về việc duy trì danh tính hình ảnh thống nhất trên các trang web, tài liệu quảng cáo và các chiến dịch marketing."
+          },
+          "customerFocused": {
+            "title": "Marketing Hướng Tới Khách Hàng",
+            "desc": "Tìm hiểu cách các quyết định thương hiệu ảnh hưởng đến trải nghiệm khách hàng trong suốt hành trình mua sắm trực tuyến."
+          },
+          "marketingExecution": {
+            "title": "Thực Hiện Marketing",
+            "desc": "Tăng cường trải nghiệm thực tế trong việc phối hợp các chiến dịch marketing từ kế hoạch đến ra mắt."
+          }
+        }
+      },
+      "emailMarketing": {
+        "hero": {
+          "company": "WIGI Hair",
+          "title": "Email Marketing",
+          "description": "Thiết kế và thực hiện các chiến lược email marketing bằng cách sử dụng Klaviyo để nuôi dưỡng mối quan hệ khách hàng, thúc đẩy lặp lại mua hàng và tối đa hóa giá trị suốt đời của khách hàng."
+        },
+        "about": "WIGI Hair là một thương hiệu thương mại điện tử cao cấp chuyên về các phần mở rộng tóc con người cho thị trường Hoa Kỳ. Công ty tập trung vào việc cung cấp các sản phẩm chất lượng salon thông qua Shopify trong khi xây dựng các mối quan hệ khách hàng dài hạn với marketing cá nhân hóa và những trải nghiệm trực tuyến ngoài sức tưởng tượng.",
+        "overview": "Lập kế hoạch và quản lý các chiến dịch email marketing, hành trình khách hàng tự động và giao tiếp vòng đời bằng cách sử dụng Klaviyo. Tập trung vào việc cải thiện lòng trung thành của khách hàng, lặp lại mua hàng và hiệu suất chiến dịch thông qua tối ưu hóa dựa trên dữ liệu.",
+        "responsibilities": "Trách Nhiệm Của Tôi",
+        "tools": "Công Cụ",
+        "keyLearnings": "Những Bài Học Chính",
+        "learnings": {
+          "segmentation": {
+            "title": "Phân Đoạn Khách Hàng",
+            "desc": "Email được cá nhân hóa đáng kể cải thiện tỷ lệ mở và sự tham gia của khách hàng."
+          },
+          "automation": {
+            "title": "Tự Động Hóa",
+            "desc": "Các luồng email vòng đời giúp tăng lòng trung thành và lặp lại mua hàng."
+          },
+          "optimization": {
+            "title": "Tối Ưu Hóa",
+            "desc": "Kiểm tra liên tục cải thiện dòng tiêu đề, bố cục và hiệu suất nhấp chuột."
+          },
+          "dataAnalysis": {
+            "title": "Phân Tích Dữ Liệu",
+            "desc": "Giám sát các chỉ số chiến dịch hỗ trợ các quyết định marketing tốt hơn và lập kế hoạch trong tương lai."
+          }
+        },
+        "resp": {
+          "campaignPlanning": {
+            "title": "Lập Kế Hoạch Chiến Dịch",
+            "desc": "Lập kế hoạch bản tin hàng tuần, chiến dịch khuyến mãi, bán hàng theo mùa và email ra mắt sản phẩm."
+          },
+          "marketingAutomation": {
+            "title": "Tự Động Hóa Marketing",
+            "desc": "Xây dựng và tối ưu hóa Chuỗi Chào Mừng, Giỏ Hàng Bỏ Rơi, Lướt Qua Bỏ Rơi và các luồng vòng đời khách hàng."
+          },
+          "customerSegmentation": {
+            "title": "Phân Đoạn Khách Hàng",
+            "desc": "Tạo các phân khúc khán giả dựa trên hành vi khách hàng, lịch sử mua hàng và mức độ tham gia."
+          },
+          "performanceAnalysis": {
+            "title": "Phân Tích Hiệu Suất",
+            "desc": "Theo dõi hiệu suất chiến dịch bằng cách sử dụng tỷ lệ mở, tỷ lệ nhấp chuột, doanh thu và các chỉ số sự tham gia của khách hàng."
+          }
+        },
+        "workflow": {
+          "planning": {
+            "title": "01. Lập Kế Hoạch",
+            "desc": "Xác định mục tiêu chiến dịch, khán giả và lịch khuyến mãi."
+          },
+          "emailDesign": {
+            "title": "02. Thiết Kế Email",
+            "desc": "Thiết kế bố cục và nội dung marketing phù hợp với thương hiệu WIGI Hair."
+          },
+          "automationSetup": {
+            "title": "03. Thiết Lập Tự Động Hóa",
+            "desc": "Cấu hình các luồng email, kích hoạt và phân khúc khách hàng trong Klaviyo."
+          },
+          "optimization": {
+            "title": "04. Tối Ưu Hóa",
+            "desc": "Giám sát kết quả chiến dịch và liên tục cải thiện hiệu suất email."
+          }
+        }
+      },
+      "shopifyUx": {
+        "hero": {
+          "company": "WIGI Hair",
+          "title": "Shopify & UX/UI",
+          "description": "Tối ưu hóa trải nghiệm cửa hàng Shopify thông qua các cải tiến UX chiến lược, thiết kế tập trung vào chuyển đổi và cải thiện hiệu suất để tăng doanh số bán hàng và sự hài lòng của khách hàng."
+        },
+        "about": "WIGI Hair là một thương hiệu thương mại điện tử cao cấp chuyên về các phần mở rộng tóc con người chất lượng cao cho khách hàng tại Hoa Kỳ. Được xây dựng trên Shopify, thương hiệu tập trung vào việc cung cấp trải nghiệm mua sắm trực tuyến liền mạch thông qua điều hướng trang web trực quan, trang sản phẩm hấp dẫn và thiết kế tập trung vào khách hàng.",
+        "overview": "Ngoài việc quản lý cửa hàng Shopify, tôi liên tục phân tích hành vi của khách hàng và hiệu suất trang web để xác định các cơ hội cải thiện UX. Công việc của tôi bao gồm các trang sản phẩm, trang bộ sưu tập, điều hướng, chức năng tìm kiếm, tối ưu hóa SEO và các cải tiến tỷ lệ chuyển đổi chung.",
+        "responsibilities": "Trách Nhiệm Của Tôi",
+        "tools": "Công Cụ",
+        "keyLearnings": "Những Bài Học Chính",
+        "optimization": {
+          "analyze": {
+            "title": "01. Phân Tích",
+            "desc": "Xem xét phân tích, bản đồ nhiệt và hành vi của người dùng để xác định các rào cản chuyển đổi."
+          },
+          "research": {
+            "title": "02. Nghiên Cứu",
+            "desc": "So sánh đối thủ cạnh tranh, xem xét các thực hành tốt nhất và thu thập phản hồi của người dùng."
+          },
+          "improve": {
+            "title": "03. Cải Thiện",
+            "desc": "Cập nhật bố cục, trang sản phẩm và điều hướng để tăng cường trải nghiệm của người dùng."
+          },
+          "measure": {
+            "title": "04. Đo Lường",
+            "desc": "Giám sát các số liệu hiệu suất trang web để xác thực những cải thiện và hướng dẫn các bước tiếp theo."
+          }
+        },
+        "resp": {
+          "shopifyManagement": {
+            "title": "Quản Lý Cửa Hàng Shopify",
+            "desc": "Quản lý sản phẩm, bộ sưu tập, điều hướng, menu, trang và cấu hình cửa hàng."
+          },
+          "uxOptimization": {
+            "title": "Tối Ưu Hóa UX & UI",
+            "desc": "Cải thiện khả năng sử dụng trang web, bố cục trang chủ, trang sản phẩm và trải nghiệm bộ sưu tập để tạo hành trình khách hàng mượt mà hơn."
+          },
+          "performanceAnalysis": {
+            "title": "Phân Tích Hiệu Suất",
+            "desc": "Sử dụng Shopify Analytics, Google Analytics 4 và Microsoft Clarity để hiểu hành vi khách hàng và xác định các cơ hội tối ưu hóa."
+          },
+          "seoEnhancement": {
+            "title": "Nâng Cao SEO",
+            "desc": "Tối ưu hóa tiêu đề trang, mô tả meta, liên kết nội bộ và cấu trúc nội dung để cải thiện hiệu suất tìm kiếm."
+          }
+        },
+        "learnings": {
+          "customerCentered": {
+            "title": "Tư Duy Tập Trung Vào Khách Hàng",
+            "desc": "Những cải tiến UX nhỏ có thể cải thiện đáng kể sự hài lòng của người dùng và lòng tin mua hàng."
+          },
+          "dataDriven": {
+            "title": "Quyết Định Dựa Trên Dữ Liệu",
+            "desc": "Phân tích và ghi âm người dùng cung cấp những hiểu biết có giá trị vượt quá các giả định."
+          },
+          "collaboration": {
+            "title": "Hợp Tác Đa Chức Năng",
+            "desc": "Làm việc chặt chẽ với các nhà thiết kế, nhà phát triển và chuyên viên marketing giúp tạo ra trải nghiệm khách hàng mạnh mẽ hơn."
+          },
+          "continuousOptimization": {
+            "title": "Tối Ưu Hóa Liên Tục",
+            "desc": "Tối ưu hóa trang web là một quá trình liên tục được hỗ trợ bởi thử nghiệm, phân tích và lặp lại."
+          }
+        }
+      },
+      "metaMarketing": {
+        "hero": {
+          "company": "TIEM NHA CO",
+          "title": "Marketing Trên Meta",
+          "description": "Quản lý và thực hiện các chiến lược quảng cáo Meta và phương tiện truyền thông xã hội toàn diện để xây dựng nhận thức thương hiệu, thúc đẩy sự tham gia và tăng doanh số bán hàng cho một doanh nghiệp thời trang thương mại điện tử."
+        },
+        "about": "TIEM NHA CO là một khởi nghiệp thời trang secondhand trực tuyến nhỏ được tôi đồng sáng lập với một thành viên gia đình. Chúng tôi tinh tế lựa chọn quần áo pre-owned chất lượng cao và bán độc quyền qua Facebook và Instagram. Sứ mệnh của chúng tôi là làm cho thời trang secondhand dễ tiếp cận hơn trong khi tạo ra trải nghiệm mua sắm đáng tin cậy, thú vị và do cộng đồng điều hành.",
+        "overview": "Là đồng sáng lập kiêm người đứng đầu marketing của TIEM NHA CO, tôi chịu trách nhiệm xây dựng sự hiện diện trực tuyến của thương hiệu thông qua Facebook và Instagram. Công việc của tôi bao gồm toàn bộ quá trình tạo nội dung — từ lập kế hoạch chiến dịch, chụp ảnh sản phẩm, thiết kế hình ảnh quảng cáo, tạo video ngắn, viết chú thích hấp dẫn, đến quản lý các chiến dịch quảng cáo Meta. Mỗi nội dung được thiết kế để tăng cường danh tính thương hiệu, tăng sự tham gia của khách hàng và hỗ trợ bán hàng trực tuyến.",
+        "responsibilities": "Trách Nhiệm Của Tôi",
+        "tools": "Công Cụ",
+        "keyLearnings": "Những Bài Học Chính",
+        "creativePortfolio": "Triển Lãm Sáng Tạo",
+        "creativePortfolioDesc": "Trong suốt dự án, tôi đã tạo ra nhiều loại nội dung hình ảnh bao gồm chụp ảnh sản phẩm, hình ảnh lối sống, đồ họa quảng cáo, quảng cáo video ngắn và nội dung video hình thức ngắn. Mỗi nội dung sáng tạo được tạo ra để tăng cường danh tính thương hiệu, cải thiện sự tham gia của khách hàng và hỗ trợ bán hàng trực tuyến.",
+        "socialMediaPresence": "Hiện Diện Phương Tiện Xã Hội",
+        "socialMediaPresenceDesc": "Tôi đã quản lý sự hiện diện của TIEM NHA CO trên phương tiện truyền thông xã hội bằng cách lập kế hoạch nội dung, tạo chiến dịch khuyến mãi, chụp ảnh sản phẩm và tham gia với khách hàng. Facebook là kênh bán hàng chính và giao tiếp của thương hiệu, trong khi nội dung hình ảnh cũng được tạo cho Instagram trong thời kỳ dự án để tăng cường danh tính thương hiệu.",
+        "facebook": "Facebook",
+        "facebookDesc": "Nền tảng chính cho ra mắt sản phẩm, chiến dịch khuyến mãi, sự tham gia của khách hàng và bán hàng trực tuyến. Tôi quản lý lập kế hoạch nội dung, hoạt động trang và quảng cáo Meta.",
+        "visualBranding": "Thương Hiệu Hình Ảnh",
+        "visualBrandingDesc": "Tạo chụp ảnh lối sống, video hình thức ngắn, Stories và nội dung quảng cáo sáng tạo cho các chiến dịch phương tiện truyền thông xã hội của thương hiệu. Những hình ảnh này được tạo ra như một phần của chiến lược nội dung chung để xây dựng danh tính thương hiệu nhất quán.",
+        "toolsAndPlatforms": "Công Cụ & Nền Tảng",
+        "visitFacebook": "Truy Cập Facebook →",
+        "resp": {
+          "contentPlanning": {
+            "title": "Lập Kế Hoạch Nội Dung",
+            "desc": "Lập kế hoạch lịch nội dung hàng tháng, chiến dịch khuyến mãi và các hoạt động marketing theo mùa cho Facebook và Instagram."
+          },
+          "productPhotography": {
+            "title": "Chụp Ảnh Sản Phẩm",
+            "desc": "Tạo kiểu dáng, chụp ảnh và chỉnh sửa hình ảnh sản phẩm để tạo nội dung phương tiện truyền thông xã hội hấp dẫn về mặt hình ảnh."
+          },
+          "creativeDesign": {
+            "title": "Thiết Kế Sáng Tạo",
+            "desc": "Thiết kế banner khuyến mãi, bài đăng phương tiện truyền thông xã hội, mẫu câu chuyện và hình ảnh chiến dịch trong khi duy trì danh tính thương hiệu nhất quán."
+          },
+          "videoProduction": {
+            "title": "Sản Xuất Video",
+            "desc": "Quay phim và chỉnh sửa video hình thức ngắn, bao gồm trưng bày sản phẩm, nội dung hậu trường và Reels khuyến mãi cho Facebook và Instagram."
+          },
+          "socialMediaManagement": {
+            "title": "Quản Lý Phương Tiện Xã Hội",
+            "desc": "Quản lý các trang Facebook và Instagram, xuất bản nội dung, tham gia với khách hàng và duy trì lịch đăng nhất quán."
+          },
+          "metaAdvertising": {
+            "title": "Quảng Cáo Meta",
+            "desc": "Tạo và tối ưu hóa các chiến dịch quảng cáo Meta, bao gồm nhắm mục tiêu khán giả, phân bổ ngân sách, kiểm tra sáng tạo và giám sát chiến dịch."
+          }
+        },
+        "workflow": {
+          "contentPlanning": {
+            "title": "01. Lập Kế Hoạch Nội Dung",
+            "desc": "Lập kế hoạch nội dung hàng tháng, chọn chủ đề chiến dịch và xác định các cơ hội khuyến mãi dựa trên các sự kiện theo mùa và lợi ích của khách hàng."
+          },
+          "contentCreation": {
+            "title": "02. Tạo Nội Dung",
+            "desc": "Chụp ảnh sản phẩm, thiết kế nội dung sáng tạo phương tiện truyền thông xã hội và sản xuất video hình thức ngắn cho Facebook và Instagram."
+          },
+          "publishingPromotion": {
+            "title": "03. Xuất Bản & Quảng Bá",
+            "desc": "Xuất bản nội dung, lên lịch các bài đăng khuyến mãi và khởi động các chiến dịch quảng cáo Meta để tăng phạm vi tiếp cận và sự tham gia."
+          },
+          "performanceReview": {
+            "title": "04. Đánh Giá Hiệu Suất",
+            "desc": "Giám sát hiệu suất nội dung, đánh giá sự tham gia của khán giả và tinh chỉnh các nội dung sáng tạo trong tương lai dựa trên những hiểu biết về chiến dịch."
+          }
+        },
+        "learnings": {
+          "buildingBrand": {
+            "title": "Xây Dựng Thương Hiệu Từ Đầu",
+            "desc": "Phát triển một khởi nghiệp dạy tôi cách mỗi quyết định marketing, từ danh tính hình ảnh đến lập kế hoạch nội dung, góp phần xây dựng một thương hiệu dễ nhận biết và đáng tin cậy."
+          },
+          "contentStrategy": {
+            "title": "Chiến Lược Nội Dung",
+            "desc": "Tôi đã học cách tạo nội dung cân bằng giữa tính th美thiết kế với mục tiêu marketing, đảm bảo mỗi bài đăng phục vụ một mục đích giao tiếp rõ ràng."
+          },
+          "socialMediaMarketing": {
+            "title": "Marketing Phương Tiện Xã Hội",
+            "desc": "Quản lý Facebook và Instagram tăng cường sự hiểu biết của tôi về sự tham gia của khán giả, tính nhất quán của nội dung và xây dựng cộng đồng."
+          },
+          "creativeBusinessMindset": {
+            "title": "Tư Duy Sáng Tạo & Kinh Doanh",
+            "desc": "Làm việc như một đồng sáng lập yêu cầu cân bằng sự sáng tạo với tư duy kinh doanh, giúp tôi đưa ra những quyết định marketing thực tế trong khi hỗ trợ tăng trưởng doanh số."
+          }
+        }
+      },
+      "brandActivation": {
+        "hero": {
+          "company": "Delta Engagement Marketing",
+          "title": "Kế Hoạch Kích Hoạt Thương Hiệu",
+          "description": "Phát triển các chiến dịch kích hoạt thương hiệu chiến lược thông qua nghiên cứu thị trường, phát triển khái niệm sáng tạo và lập kế hoạch toàn diện cho các sáng kiến marketing BTL (Below-The-Line)."
+        },
+        "overview": "Trong thời gian thực tập tại Delta Engagement Marketing, tôi đã hỗ trợ đội Lập kế hoạch trong việc phát triển các đề xuất kích hoạt thương hiệu, các khái niệm chiến dịch và các bộ thuyết trình. Trách nhiệm của tôi bao gồm nghiên cứu thị trường, ý tưởng sáng tạo, lập kế hoạch kích hoạt và chuẩn bị tài liệu đề xuất cho các bài thuyết trình của khách hàng.",
+        "about": "Delta Engagement Marketing là một cơ quan marketing Below-the-Line (BTL) chuyên về các hoạt động kích hoạt thương hiệu, marketing trải nghiệm, các chiến dịch bán lẻ và các sự kiện. Làm việc cùng với các nhà lập kế hoạch và đội tài khoản, tôi đã hỗ trợ chuyển đổi các bản tóm tắt khách hàng thành các khái niệm kích hoạt và bản trình bày đề xuất phù hợp với mục tiêu kinh doanh và những hiểu biết của người tiêu dùng.",
+        "responsibilities": "Trách Nhiệm Của Tôi",
+        "resp": {
+          "marketResearch": {
+            "title": "Nghiên Cứu Thị Trường",
+            "desc": "Tiến hành nghiên cứu người tiêu dùng, phân tích đối thủ cạnh tranh và xác định xu hướng để thông báo các khái niệm kích hoạt."
+          },
+          "campaignConcepts": {
+            "title": "Khái Niệm Chiến Dịch",
+            "desc": "Phát triển các ý tưởng kích hoạt sáng tạo phù hợp với mục tiêu thương hiệu và nhu cầu của khán giả mục tiêu."
+          },
+          "proposalDevelopment": {
+            "title": "Phát Triển Đề Xuất",
+            "desc": "Chuẩn bị các bộ thuyết trình và tài liệu đề xuất cho các bài thuyết trình của khách hàng."
+          },
+          "timelinePlanning": {
+            "title": "Lập Kế Hoạch Thời Gian Biểu",
+            "desc": "Tổ chức các lịch trình dự án và quản lý các lịch trình kích hoạt."
+          }
+        },
+        "workflow": {
+          "clientBrief": {
+            "title": "01. Tóm Tắt Khách Hàng",
+            "desc": "Hiểu các mục tiêu chiến dịch và định vị thương hiệu trước khi phát triển các khái niệm."
+          },
+          "research": {
+            "title": "02. Nghiên Cứu",
+            "desc": "Thu thập những hiểu biết của người tiêu dùng và dữ liệu thị trường để thông báo chiến lược kích hoạt."
+          },
+          "creativeConcept": {
+            "title": "03. Khái Niệm Sáng Tạo",
+            "desc": "Phát triển các ý tưởng kích hoạt và chủ đề sáng tạo phù hợp với mục tiêu chiến dịch."
+          },
+          "presentationProposal": {
+            "title": "04. Đề Xuất Trình Bày",
+            "desc": "Biên soạn các khái niệm thành các bộ thuyết trình và tài liệu đề xuất để khách hàng xem xét."
+          }
+        },
+        "proposals": {
+          "dielac": {
+            "title": "Dielac – Kích Hoạt Kênh Trường Học",
+            "desc": "Phát triển các khái niệm kích hoạt nhắm vào các trường học và các tổ chức giáo dục."
+          },
+          "loreal": {
+            "title": "L'Oréal Beauty House",
+            "desc": "Hỗ trợ lập kế hoạch trải nghiệm của khách hàng và các hoạt động tương tác thương hiệu."
+          },
+          "kgc": {
+            "title": "Kích Hoạt Thương Hiệu KGC",
+            "desc": "Lập kế hoạch các khái niệm chiến dịch và các hoạt động khuyến mãi cho thương hiệu."
+          },
+          "vnpca": {
+            "title": "Lập Kế Hoạch Hội Nghị VNPCA",
+            "desc": "Hỗ trợ lập kế hoạch cho hội nghị của hiệp hội và sự kiện kết nối mạng."
+          },
+          "hoangQuan": {
+            "title": "Hoàng Quân Land",
+            "desc": "Chuẩn bị các khái niệm sự kiện và tài liệu chiến dịch quảng cáo."
+          },
+          "manulife": {
+            "title": "Chiến Dịch Kích Hoạt Manulife",
+            "desc": "Hỗ trợ phát triển các khái niệm kích hoạt và chiến lược sự tham gia của khách hàng."
+          }
+        },
+        "tools": "Công Cụ",
+        "keyLearnings": "Những Bài Học Chính"
+      }
+    },
+    "aiImageExtended": {
+      "featuredWorks": {
+        "intro": "Cho mỗi màu tóc, tôi đã tạo một gói hình ảnh hoàn chỉnh bao gồm các hình ảnh Before, After, Studio và Lifestyle. Các tài sản này được sử dụng trên các trang sản phẩm Shopify, trang bộ sưu tập và các chiến dịch marketing."
+      },
+      "colorVariants": {
+        "green": "Xanh Lục",
+        "blue": "Xanh Dương",
+        "platinumAshBlonde": "Bạch Kim Tro (60B)",
+        "platinumBlonde": "Bạch Kim (613)",
+        "balayageChocolateCaramel": "Balayage Nâu Sô Cô La sang Nâu Caramel (4/27/4)",
+        "balayageMochaCaramelCream": "Balayage Kem Caramel Mocha (3/8/22)"
+      },
+      "keyLearnings": {
+        "promptEngineering": {
+          "title": "Kỹ Thuật Prompt",
+          "desc": "Kỹ thuật prompt hiệu quả cho phép đạt chất lượng hình ảnh nhất quán trong khi giảm đáng kể thời gian sản xuất."
+        },
+        "marketingOrientedDesign": {
+          "title": "Thiết Kế Hướng Tới Marketing",
+          "desc": "Hình ảnh mạnh không chỉ phải trông hấp dẫn mà còn phải giao tiếp giá trị sản phẩm và khuyến khích hành động của khách hàng."
+        },
+        "continuousIteration": {
+          "title": "Lặp Lại Liên Tục",
+          "desc": "Hình ảnh AI chất lượng cao được đạt được thông qua nhiều vòng thử nghiệm, hoàn thiện và tối ưu hóa."
+        },
+        "commercialApplications": {
+          "title": "Ứng Dụng Thương Mại",
+          "desc": "Hình ảnh được tạo bằng AI có thể hỗ trợ hiệu quả các trang web, thương mại điện tử, quảng cáo và các chiến dịch phương tiện truyền thông xã hội."
+        }
+      }
+    },
+    "brandMarketingExtended": {
+      "snapshot": {
+        "company": "Công Ty",
+        "companyValue": "WIGI Hair",
+        "industry": "Ngành Công Nghiệp",
+        "industryValue": "Phần Mở Rộng Tóc Con Người",
+        "targetMarket": "Thị Trường Mục Tiêu",
+        "targetMarketValue": "Hoa Kỳ",
+        "platform": "Nền Tảng",
+        "platformValue": "Shopify",
+        "role": "Vai Trò",
+        "roleValue": "Chuyên Viên Marketing",
+        "duration": "Thời Gian",
+        "durationValue": "2025 – Hiện Tại"
+      }
+    },
+    "metaMarketingExtended": {
+      "snapshot": {
+        "business": "Doanh Nghiệp",
+        "businessValue": "TIEM NHA CO",
+        "industry": "Ngành Công Nghiệp",
+        "industryValue": "Thời Trang Secondhand",
+        "platforms": "Nền Tảng",
+        "platformsValue": "Facebook & Instagram",
+        "focus": "Tập Trung",
+        "focusValue": "Phương Tiện Truyền Thông Xã Hội & Quảng Cáo Meta",
+        "role": "Vai Trò",
+        "roleValue": "Đồng Sáng Lập & Trưởng Nhóm Marketing",
+        "duration": "Thời Gian",
+        "durationValue": "Tháng 9 2023 – Tháng 2 2025"
+      },
+      "creativePortfolio": "Triển Lãm Sáng Tạo",
+      "creativePortfolioDesc": "Trong suốt dự án, tôi đã tạo ra nhiều loại nội dung hình ảnh bao gồm chụp ảnh sản phẩm, hình ảnh lối sống, đồ họa quảng cáo, quảng cáo băng tải và nội dung video hình thức ngắn.",
+      "socialMediaPresence": "Hiện Diện Phương Tiện Xã Hội",
+      "socialMediaPresenceDesc": "Tôi đã quản lý sự hiện diện của TIEM NHA CO trên phương tiện truyền thông xã hội bằng cách lập kế hoạch nội dung, tạo chiến dịch khuyến mãi, chụp ảnh sản phẩm và tham gia với khách hàng. Facebook là kênh bán hàng chính và giao tiếp của thương hiệu, trong khi nội dung hình ảnh cũng được tạo cho Instagram trong thời kỳ dự án để tăng cường danh tính thương hiệu.",
+      "facebook": "Facebook",
+      "facebookDesc": "Nền tảng chính cho ra mắt sản phẩm, chiến dịch khuyến mãi, sự tham gia của khách hàng và bán hàng trực tuyến. Tôi quản lý lập kế hoạch nội dung, hoạt động trang và quảng cáo Meta.",
+      "visualBranding": "Thương Hiệu Hình Ảnh",
+      "visualBrandingDesc": "Tạo chụp ảnh lối sống, video hình thức ngắn, Stories và nội dung quảng cáo sáng tạo cho các chiến dịch phương tiện truyền thông xã hội của thương hiệu. Những hình ảnh này được tạo ra như một phần của chiến lược nội dung chung để xây dựng danh tính thương hiệu nhất quán.",
+      "toolsAndPlatforms": "Công Cụ & Nền Tảng",
+      "visitFacebook": "Truy Cập Facebook →"
+    },
+    "shopifyUxExtended": {
+      "snapshot": {
+        "company": "Công Ty",
+        "companyValue": "WIGI Hair",
+        "industry": "Ngành Công Nghiệp",
+        "industryValue": "Phần Mở Rộng Tóc Con Người",
+        "targetMarket": "Thị Trường Mục Tiêu",
+        "targetMarketValue": "Hoa Kỳ",
+        "platform": "Nền Tảng",
+        "platformValue": "Shopify",
+        "role": "Vai Trò",
+        "roleValue": "Chuyên Viên Marketing",
+        "duration": "Thời Gian",
+        "durationValue": "2025 – Hiện Tại"
+      },
+      "optimization": {
+        "analyze": {
+          "title": "01. Phân Tích",
+          "desc": "Xem xét phân tích, bản đồ nhiệt và hành vi của người dùng để xác định các rào cản chuyển đổi."
+        },
+        "research": {
+          "title": "02. Nghiên Cứu",
+          "desc": "So sánh đối thủ cạnh tranh, xem xét các thực hành tốt nhất và thu thập phản hồi của người dùng."
+        },
+        "improve": {
+          "title": "03. Cải Thiện",
+          "desc": "Cập nhật bố cục, trang sản phẩm và điều hướng để tăng cường trải nghiệm của người dùng."
+        },
+        "measure": {
+          "title": "04. Đo Lường",
+          "desc": "Giám sát các số liệu hiệu suất trang web để xác thực những cải thiện và hướng dẫn các bước tiếp theo."
+        }
+      }
+    },
+    "emailMarketingExtended": {
+      "snapshot": {
+        "company": "Công Ty",
+        "companyValue": "WIGI Hair",
+        "industry": "Ngành Công Nghiệp",
+        "industryValue": "Phần Mở Rộng Tóc Con Người",
+        "targetMarket": "Thị Trường Mục Tiêu",
+        "targetMarketValue": "Hoa Kỳ",
+        "platform": "Nền Tảng",
+        "platformValue": "Klaviyo",
+        "role": "Vai Trò",
+        "roleValue": "Chuyên Viên Marketing",
+        "duration": "Thời Gian",
+        "durationValue": "2025 – Hiện Tại"
+      },
+      "keyLearnings": {
+        "segmentation": {
+          "title": "Phân Đoạn Khách Hàng",
+          "desc": "Email được cá nhân hóa đáng kể cải thiện tỷ lệ mở và sự tham gia của khách hàng."
+        }
+      }
+    },
+    "brandActivationExtended": {
+      "snapshot": {
+        "company": "Công Ty",
+        "companyValue": "Delta Engagement Marketing",
+        "industry": "Ngành Công Nghiệp",
+        "industryValue": "Cơ Quan Marketing BTL",
+        "specialization": "Chuyên Môn",
+        "specializationValue": "Kích Hoạt Thương Hiệu & Sự Kiện",
+        "role": "Vai Trò",
+        "roleValue": "Thực Tập Sinh Lập Kế Hoạch",
+        "duration": "Thời Gian",
+        "durationValue": "Tháng 8 2024 – Tháng 12 2024"
+      },
+      "projectOverview": "Tổng Quan Dự Án",
+      "projectOverviewDesc": "Trong thời gian thực tập, tôi đã góp phần phát triển các đề xuất kích hoạt thương hiệu, khái niệm chiến dịch và tài liệu trình bày cho các khách hàng khác nhau.",
+      "responsibilities": {
+        "marketResearch": {
+          "title": "Nghiên Cứu Thị Trường",
+          "desc": "Tiến hành nghiên cứu người tiêu dùng, phân tích đối thủ cạnh tranh và xác định xu hướng để thông báo các khái niệm kích hoạt."
+        },
+        "campaignConcepts": {
+          "title": "Khái Niệm Chiến Dịch",
+          "desc": "Phát triển các ý tưởng kích hoạt sáng tạo phù hợp với mục tiêu thương hiệu và nhu cầu của khán giả mục tiêu."
+        },
+        "proposalDevelopment": {
+          "title": "Phát Triển Đề Xuất",
+          "desc": "Chuẩn bị các bộ thuyết trình và tài liệu đề xuất cho các bài thuyết trình của khách hàng."
+        },
+        "timelinePlanning": {
+          "title": "Lập Kế Hoạch Thời Gian Biểu",
+          "desc": "Tổ chức các lịch trình dự án và quản lý các lịch trình kích hoạt."
+        }
+      },
+      "workflow": {
+        "clientBrief": {
+          "title": "01. Tóm Tắt Khách Hàng",
+          "desc": "Hiểu các mục tiêu chiến dịch và định vị thương hiệu trước khi phát triển các khái niệm."
+        },
+        "research": {
+          "title": "02. Nghiên Cứu",
+          "desc": "Thu thập những hiểu biết của người tiêu dùng và dữ liệu thị trường để thông báo chiến lược kích hoạt."
+        },
+        "creativeConcept": {
+          "title": "03. Khái Niệm Sáng Tạo",
+          "desc": "Phát triển các ý tưởng kích hoạt và chủ đề sáng tạo phù hợp với mục tiêu chiến dịch."
+        },
+        "presentationProposal": {
+          "title": "04. Đề Xuất Trình Bày",
+          "desc": "Biên soạn các khái niệm thành các bộ thuyết trình và tài liệu đề xuất để khách hàng xem xét."
+        }
+      },
+      "featuredProjects": "Các Dự Án Được Chọn",
+      "featuredProjectsDesc": "Trong thời gian thực tập tại Delta Engagement Marketing, tôi đã góp phần cho các đề xuất cho các chiến dịch kích hoạt thương hiệu khác nhau.",
+      "proposals": {
+        "dielac": {
+          "title": "Dielac – Kích Hoạt Kênh Trường Học",
+          "desc": "Phát triển các khái niệm kích hoạt nhắm vào các trường học và các tổ chức giáo dục."
+        },
+        "loreal": {
+          "title": "L'Oréal Beauty House",
+          "desc": "Hỗ trợ lập kế hoạch trải nghiệm của khách hàng và các hoạt động tương tác thương hiệu."
+        },
+        "kgc": {
+          "title": "Kích Hoạt Thương Hiệu KGC",
+          "desc": "Lập kế hoạch các khái niệm chiến dịch và các hoạt động khuyến mãi cho thương hiệu."
+        },
+        "vnpca": {
+          "title": "Lập Kế Hoạch Hội Nghị VNPCA",
+          "desc": "Hỗ trợ lập kế hoạch cho hội nghị của hiệp hội và sự kiện kết nối mạng."
+        },
+        "hoangQuan": {
+          "title": "Hoàng Quân Land",
+          "desc": "Chuẩn bị các khái niệm sự kiện và tài liệu chiến dịch quảng cáo."
+        },
+        "manulife": {
+          "title": "Chiến Dịch Kích Hoạt Manulife",
+          "desc": "Hỗ trợ phát triển các khái niệm kích hoạt và chiến lược sự tham gia của khách hàng."
+        }
+      },
+      "toolsList": [
+        "Microsoft PowerPoint",
+        "Google Slides",
+        "Google Sheets",
+        "Google Docs",
+        "Pinterest",
+        "Canva",
+        "BeHance",
+        "ChatGPT"
+      ],
+      "keyLearningsDesc": "Thực tập này đã tăng cường sự hiểu biết của tôi về kích hoạt thương hiệu, chiến lược thị trường và phát triển đề xuất."
+    }
+  }
+}

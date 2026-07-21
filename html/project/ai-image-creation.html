@@ -26,24 +26,28 @@
 
         <nav>
 
-            <a href="../../index.html">Home</a>
+            <a href="../../index.html" data-i18n="nav.home">Home</a>
 
-            <a href="../About.html">About</a>
+            <a href="../About.html" data-i18n="nav.about">About</a>
 
             <div class="nav-dropdown">
-                <a href="../Projects.html">Work</a>
+                <a href="../Projects.html" data-i18n="nav.work">Work</a>
                 <div class="dropdown-menu">
-                <a href="ai-image-creation.html" class="active">AI Image Creation</a>
-                <a href="brand-marketing.html">Brand Marketing</a>
-                <a href="email-marketing.html">Email Marketing</a>
-                <a href="shopify-ux.html">Shopify &amp; UX/UI</a>
-                <a href="meta-marketing.html">Meta Marketing</a>
-                <a href="brand-activation-planning.html">Brand Activation Planning</a>
+                <a href="ai-image-creation.html" class="active" data-i18n="projects.aiImage">AI Image Creation</a>
+                <a href="brand-marketing.html" data-i18n="projects.brandMarketing">Brand Marketing</a>
+                <a href="email-marketing.html" data-i18n="projects.emailMarketing">Email Marketing</a>
+                <a href="shopify-ux.html" data-i18n="projects.shopifyUx">Shopify &amp; UX/UI</a>
+                <a href="meta-marketing.html" data-i18n="projects.metaMarketing">Meta Marketing</a>
+                <a href="brand-activation-planning.html" data-i18n="projects.brandActivation">Brand Activation Planning</a>
                 </div>
             </div>
 
-            <a href="../Contact.html">Contact</a>
+            <a href="../Contact.html" data-i18n="nav.contact">Contact</a>
 
+        <div class="language-toggle">
+            <button id="lang-en" class="active" onclick="window.i18n.setLanguage('en')">EN</button>
+            <button id="lang-vi" onclick="window.i18n.setLanguage('vi')">VI</button>
+        </div>
         </nav>
 
     </header>
@@ -56,19 +60,19 @@
 
         <div class="case-info">
 
-            <span class="case-company">
+            <span class="case-company" data-i18n="caseStudies.aiImage.hero.company">
 
                 Freelance
 
             </span>
 
-            <h1>
+            <h1 data-i18n="caseStudies.aiImage.hero.title">
 
                 AI Image Creation
 
             </h1>
 
-            <p>
+            <p data-i18n="caseStudies.aiImage.hero.description">
 
                 Creating high-quality AI-generated visuals for marketing campaigns,
                 e-commerce, product photography, and brand storytelling.
@@ -91,13 +95,13 @@
 
     <section class="case-section">
 
-        <h2>
+        <h2 data-i18n="caseStudy.aboutThisProject">
 
             About This Project
 
         </h2>
 
-        <p>
+        <p data-i18n="caseStudies.aiImage.about">
 
             As a freelance AI creator,
             I develop commercial visuals that help businesses
@@ -122,7 +126,7 @@
 
     <section class="case-section">
 
-        <h2>
+        <h2 data-i18n="caseStudy.projectSnapshot">
 
             Project Snapshot
 
@@ -132,7 +136,7 @@
 
             <div class="snapshot-card">
 
-                <h4>Role</h4>
+                <h4 data-i18n="other.role">Role</h4>
 
                 <p>Freelance AI Creator</p>
 
@@ -140,7 +144,7 @@
 
             <div class="snapshot-card">
 
-                <h4>Specialization</h4>
+                <h4 data-i18n="other.specialization">Specialization</h4>
 
                 <p>AI Image Generation</p>
 
@@ -148,7 +152,7 @@
 
             <div class="snapshot-card">
 
-                <h4>Industry</h4>
+                <h4 data-i18n="other.industry">Industry</h4>
 
                 <p>E-commerce & Marketing</p>
 
@@ -156,7 +160,7 @@
 
             <div class="snapshot-card">
 
-                <h4>Clients</h4>
+                <h4 data-i18n="other.clients">Clients</h4>
 
                 <p>Various Brands</p>
 
@@ -164,7 +168,7 @@
 
             <div class="snapshot-card">
 
-                <h4>Focus</h4>
+                <h4 data-i18n="other.focus">Focus</h4>
 
                 <p>Commercial Visuals</p>
 
@@ -172,7 +176,7 @@
 
             <div class="snapshot-card">
 
-                <h4>Duration</h4>
+                <h4 data-i18n="other.duration">Duration</h4>
 
                 <p>Jun 2026</p>
 
@@ -188,13 +192,13 @@
 
     <section class="case-section">
 
-        <h2>
+        <h2 data-i18n="caseStudy.projectOverview">
 
             Project Overview
 
         </h2>
 
-        <p>
+        <p data-i18n="caseStudies.aiImage.overview">
 
             My work focused on creating professional, commercially-ready AI-generated visuals that support product marketing, e-commerce, and advertising campaigns. By combining advanced prompt engineering with marketing strategy, I deliver high-quality images that effectively communicate product value and attract customers.
 
@@ -208,7 +212,7 @@
 
     <section class="case-section">
 
-        <h2>
+        <h2 data-i18n="caseStudy.myServices">
 
             My Services
 
@@ -218,13 +222,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="other.productPhotography">
 
                     Product Photography
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.services.productPhotography">
 
                     Generate realistic product images
                     suitable for e-commerce websites,
@@ -239,13 +243,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="other.lifestyleVisuals">
 
                     Lifestyle Visuals
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.services.lifestyleVisuals">
 
                     Create scenes that help customers
                     imagine products in real-life situations
@@ -259,13 +263,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="other.advertisingCreatives">
 
                     Advertising Creatives
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.services.advertisingCreatives">
 
                     Design eye-catching visuals
                     optimized for Meta Ads,
@@ -281,13 +285,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="other.conceptDevelopment">
 
                     Concept Development
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.services.conceptDevelopment">
 
                     Transform marketing ideas
                     into visual concepts before production,
@@ -308,7 +312,7 @@
 
     <section class="case-section">
 
-        <h2>
+        <h2 data-i18n="caseStudy.creativeWorkflow">
 
             Creative Workflow
 
@@ -320,11 +324,11 @@
 
                 <h3>
 
-                    01. Research
+                    01. <span data-i18n="other.research">Research</span>
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.workflow.research">
 
                     Understand the client's products,
                     target audience,
@@ -340,11 +344,11 @@
 
                 <h3>
 
-                    02. Prompt Engineering
+                    02. <span data-i18n="other.promptEngineering">Prompt Engineering</span>
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.workflow.promptEngineering">
 
                     Design structured prompts
                     to achieve consistent style,
@@ -362,11 +366,11 @@
 
                 <h3>
 
-                    03. Image Refinement
+                    03. <span data-i18n="other.imageRefinement">Image Refinement</span>
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.workflow.imageRefinement">
 
                     Iterate multiple versions,
                     refine details,
@@ -383,11 +387,11 @@
 
                 <h3>
 
-                    04. Commercial Delivery
+                    04. <span data-i18n="other.commercialDelivery">Commercial Delivery</span>
 
                 </h3>
 
-                <p>
+                <p data-i18n="caseStudies.aiImage.workflow.commercialDelivery">
 
                     Deliver optimized visuals
                     ready for websites,
@@ -406,7 +410,7 @@
 
     <section class="case-section">
 
-        <h2>
+        <h2 data-i18n="caseStudy.featuredWorks">
 
             Featured Works
 
@@ -428,7 +432,7 @@
 
             <div class="project-set">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.colorVariants.green">
 
                     Green
 
@@ -452,7 +456,7 @@
 
             <div class="project-set">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.colorVariants.blue">
 
                     Blue
 
@@ -476,7 +480,7 @@
 
             <div class="project-set">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.colorVariants.platinumAshBlonde">
 
                     Platinum Ash Blonde (60B)
 
@@ -495,7 +499,7 @@
             </div>
             <div class="project-set">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.colorVariants.platinumBlonde">
 
                     Platinum Blonde (613)
 
@@ -514,7 +518,7 @@
             </div>
             <div class="project-set">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.colorVariants.balayageChocolateCaramel">
 
                     Balayage Chocolate Brown to Caramel Blonde (4/27/4)
 
@@ -533,7 +537,7 @@
             </div>
             <div class="project-set">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.colorVariants.balayageMochaCaramelCream">
 
                     Balayage Mocha Caramel Cream (3/8/22)
 
@@ -561,7 +565,7 @@
 
     <section class="case-section">
 
-        <h2>
+        <h2 data-i18n="caseStudy.keyLearnings">
 
             Key Learnings
 
@@ -571,13 +575,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.keyLearnings.promptEngineering.title">
 
                     Prompt Engineering
 
                 </h3>
 
-                <p>
+                <p data-i18n="aiImageExtended.keyLearnings.promptEngineering.desc">
 
                     Effective prompt engineering enables
                     consistent visual quality
@@ -591,13 +595,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.keyLearnings.marketingOrientedDesign.title">
 
                     Marketing-Oriented Design
 
                 </h3>
 
-                <p>
+                <p data-i18n="aiImageExtended.keyLearnings.marketingOrientedDesign.desc">
 
                     Strong visuals should not only look attractive
                     but also communicate product value
@@ -611,13 +615,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.keyLearnings.continuousIteration.title">
 
                     Continuous Iteration
 
                 </h3>
 
-                <p>
+                <p data-i18n="aiImageExtended.keyLearnings.continuousIteration.desc">
 
                     High-quality AI images are achieved
                     through multiple rounds of testing,
@@ -632,13 +636,13 @@
 
             <div class="responsibility-card">
 
-                <h3>
+                <h3 data-i18n="aiImageExtended.keyLearnings.commercialApplications.title">
 
                     Commercial Applications
 
                 </h3>
 
-                <p>
+                <p data-i18n="aiImageExtended.keyLearnings.commercialApplications.desc">
 
                     AI-generated visuals can effectively support
                     websites,
@@ -653,12 +657,13 @@
         </div>
 
     </section>
-    <footer>
+    <footer data-i18n="footer.copyright">
 
         © 2026 Truong Kha Di. All rights reserved.
 
     </footer>
 
+    <script src="../../js/i18n.js"></script>
     <script src="../../js/script.js"></script>
 
 </body>
