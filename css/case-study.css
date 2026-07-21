@@ -15,6 +15,17 @@
 
 }
 
+/* Vietnamese font support */
+html[data-language="vi"],
+html[lang="vi"] {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+html[data-language="vi"] *,
+html[lang="vi"] * {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
 
 
 /*====================================================

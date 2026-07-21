@@ -1,8 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;600;700&family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap');
+
 @font-face {
     font-family: 'Brasika';
     src: url('../font/DFVN Brasika Display.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
+}
+
+/* Vietnamese font support */
+html[data-language="vi"],
+html[lang="vi"] {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+html[data-language="vi"] *,
+html[lang="vi"] * {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+html[data-language="vi"] .logo,
+html[lang="vi"] .logo {
+    font-family: 'Brasika', sans-serif !important;
+}
+
+html[data-language="vi"] h1,
+html[data-language="vi"] h2,
+html[data-language="vi"] h3,
+html[data-language="vi"] h4,
+html[data-language="vi"] h5,
+html[data-language="vi"] h6,
+html[lang="vi"] h1,
+html[lang="vi"] h2,
+html[lang="vi"] h3,
+html[lang="vi"] h4,
+html[lang="vi"] h5,
+html[lang="vi"] h6 {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
 }
 
 .header {
@@ -125,6 +158,11 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+}
+
+html[data-language="vi"] body,
+html[lang="vi"] body {
+    font-family: 'Roboto', sans-serif !important;
 }
 
 /* HEADER */
@@ -487,6 +525,13 @@ footer {
     border-radius: 15px;
     border: 1px solid #ddd;
     font-family: 'Poppins', sans-serif;
+}
+
+html[data-language="vi"] .contact-form input,
+html[data-language="vi"] .contact-form textarea,
+html[lang="vi"] .contact-form input,
+html[lang="vi"] .contact-form textarea {
+    font-family: 'Roboto', sans-serif !important;
 }
 
 .contact-form button {
@@ -1214,6 +1259,11 @@ footer {
 
 }
 
+html[data-language="vi"] .company-header h2,
+html[lang="vi"] .company-header h2 {
+    font-family: 'Roboto', sans-serif !important;
+}
+
 .company-header span{
 
     display:block;
@@ -1601,4 +1651,50 @@ grid-template-columns:1fr;
 
 }
 
+}
+
+/* ================= LANGUAGE TOGGLE ================= */
+
+.language-toggle {
+    display: flex;
+    gap: 0;
+    background: #fff;
+    border-radius: 6px;
+    padding: 2px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.language-toggle button {
+    background: transparent;
+    border: none;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #888;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.language-toggle button.active {
+    background: #5a73e8;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.language-toggle button:hover:not(.active) {
+    color: #5a73e8;
+}
+
+@media (max-width: 768px) {
+    .language-toggle {
+        gap: 4px;
+        padding: 3px;
+    }
+
+    .language-toggle button {
+        padding: 4px 10px;
+        font-size: 11px;
+    }
 }
