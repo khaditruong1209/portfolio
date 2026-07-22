@@ -13,14 +13,9 @@ html[lang="vi"] {
     font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
-html[data-language="vi"] *,
-html[lang="vi"] * {
-    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
-}
-
-html[data-language="vi"] .logo,
-html[lang="vi"] .logo {
-    font-family: 'Brasika', sans-serif !important;
+html[data-language="vi"] body,
+html[lang="vi"] body {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
 html[data-language="vi"] h1,
@@ -35,7 +30,25 @@ html[lang="vi"] h3,
 html[lang="vi"] h4,
 html[lang="vi"] h5,
 html[lang="vi"] h6 {
-    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Keep Brasika font for these specific elements */
+html[data-language="vi"] .logo,
+html[lang="vi"] .logo,
+html[data-language="vi"] .page-section .page-title,
+html[lang="vi"] .page-section .page-title,
+html[data-language="vi"] .contact-page .page-title,
+html[lang="vi"] .contact-page .page-title,
+html[data-language="vi"] .about-page .page-title,
+html[lang="vi"] .about-page .page-title,
+html[data-language="vi"] .portfolio-stack h1,
+html[lang="vi"] .portfolio-stack h1,
+html[data-language="vi"] .portfolio-stack h2,
+html[lang="vi"] .portfolio-stack h2,
+html[data-language="vi"] .portfolio-stack h3,
+html[lang="vi"] .portfolio-stack h3 {
+    font-family: 'Brasika', sans-serif !important;
 }
 
 .header {

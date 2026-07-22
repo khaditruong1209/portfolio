@@ -232,7 +232,8 @@
       "advertisingCreatives": "Advertising Creatives",
       "conceptDevelopment": "Concept Development",
       "business": "Business",
-      "platforms": "Platforms"
+      "platforms": "Platforms",
+      "mainDeliverables": "Main Deliverables"
     },
     "caseStudies": {
       "aiImage": {
@@ -706,6 +707,20 @@
       }
     },
     "metaMarketingExtended": {
+      "snapshot": {
+        "business": "Business",
+        "businessValue": "TIEM NHA CO",
+        "industry": "Industry",
+        "industryValue": "Secondhand Fashion",
+        "platforms": "Platforms",
+        "platformsValue": "Facebook & Instagram",
+        "focus": "Focus",
+        "focusValue": "Social Media & Meta Ads",
+        "role": "Role",
+        "roleValue": "Co-Founder & Marketing Lead",
+        "duration": "Duration",
+        "durationValue": "Sep 2023 – Feb 2025"
+      },
       "creativePortfolio": "Creative Portfolio",
       "creativePortfolioDesc": "Throughout the project, I created a wide range of visual content, from promotional campaigns and product photography to social media designs and short-form videos. Every creative was produced to strengthen the brand identity, improve customer engagement, and support online sales.",
       "socialMediaPresence": "Social Media Presence",
@@ -774,6 +789,20 @@
       }
     },
     "brandActivationExtended": {
+      "snapshot": {
+        "company": "Company",
+        "companyValue": "Delta Engagement Marketing",
+        "industry": "Industry",
+        "industryValue": "BTL Marketing Agency",
+        "specialization": "Specialization",
+        "specializationValue": "Brand Activation & Events",
+        "role": "Role",
+        "roleValue": "Planning Intern",
+        "mainDeliverables": "Main Deliverables",
+        "mainDeliverablesValue": "Proposal Decks & Activation Concepts",
+        "duration": "Duration",
+        "durationValue": "Aug 2024 – Dec 2024"
+      },
       "projectOverview": "Project Overview",
       "projectOverviewDesc": "During my internship, I contributed to developing brand activation proposals, campaign concepts, and presentation documents for various clients.",
       "responsibilities": {
@@ -1023,10 +1052,10 @@
       "subtitle": "Khám phá các dự án marketing được chọn hoàn thành trong suốt kinh nghiệm chuyên nghiệp của tôi.",
       "freelance": {
         "title": "Freelance",
-        "period": "Dự Án Sáng Tạo AI · Tháng 6 2026",
+        "period": "Tạo hình ảnh AI · Tháng 6 2026",
         "aiImage": {
           "title": "Tạo Hình Ảnh AI",
-          "description": "Đã tạo hình ảnh được tạo bằng AI cho các chiến dịch marketing, quảng cáo sản phẩm, nội dung quảng cáo sáng tạo và nội dung phương tiện truyền thông xã hội bằng cách sử dụng các công cụ AI sinh tạo."
+          "description": "Đã tạo hình ảnh được tạo bằng AI cho các chiến dịch marketing, quảng cáo sản phẩm và nội dung phương tiện truyền thông xã hội bằng cách sử dụng các công cụ AI."
         }
       },
       "wigiHair": {
@@ -1086,7 +1115,8 @@
       "advertisingCreatives": "Nội Dung Quảng Cáo Sáng Tạo",
       "conceptDevelopment": "Phát Triển Khái Niệm",
       "business": "Doanh Nghiệp",
-      "platforms": "Nền Tảng"
+      "platforms": "Nền Tảng",
+      "mainDeliverables": "Các Deliverable Chính"
     },
     "caseStudies": {
       "aiImage": {
@@ -1651,6 +1681,8 @@
         "specializationValue": "Kích Hoạt Thương Hiệu & Sự Kiện",
         "role": "Vai Trò",
         "roleValue": "Thực Tập Sinh Lập Kế Hoạch",
+        "mainDeliverables": "Các Deliverable Chính",
+        "mainDeliverablesValue": "Bộ Thuyết Trình & Khái Niệm Kích Hoạt",
         "duration": "Thời Gian",
         "durationValue": "Tháng 8 2024 – Tháng 12 2024"
       },

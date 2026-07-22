@@ -15,15 +15,25 @@
 
 }
 
-/* Vietnamese font support */
+/* Vietnamese font support - inherit from style.css */
 html[data-language="vi"],
 html[lang="vi"] {
     font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
-html[data-language="vi"] *,
-html[lang="vi"] * {
-    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
+html[data-language="vi"] h1,
+html[data-language="vi"] h2,
+html[data-language="vi"] h3,
+html[data-language="vi"] h4,
+html[data-language="vi"] h5,
+html[data-language="vi"] h6,
+html[lang="vi"] h1,
+html[lang="vi"] h2,
+html[lang="vi"] h3,
+html[lang="vi"] h4,
+html[lang="vi"] h5,
+html[lang="vi"] h6 {
+    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
 

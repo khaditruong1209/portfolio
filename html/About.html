@@ -17,44 +17,49 @@
     <header class="header">
         <div class="logo">TRUONG KHA DI</div>
         <nav>
-            <a href="../index.html">Home</a>
-            <a href="About.html" class="active">About</a>
+            <a href="../index.html" data-i18n="nav.home">Home</a>
+            <a href="About.html" class="active" data-i18n="nav.about">About</a>
 
             <div class="nav-dropdown">
-                <a href="Projects.html">Work</a>
+                <a href="Projects.html" data-i18n="nav.work">Work</a>
                 <div class="dropdown-menu">
-                    <a href="project/ai-image-creation.html">AI Image Creation</a>
-                    <a href="project/brand-marketing.html">Brand Marketing</a>
-                    <a href="project/email-marketing.html">Email Marketing</a>
-                    <a href="project/shopify-ux.html">Shopify &amp; UX/UI</a>
-                    <a href="project/meta-marketing.html">Meta Marketing</a>
-                    <a href="project/brand-activation-planning.html">Brand Activation Planning</a>
+                    <a href="project/ai-image-creation.html" data-i18n="projects.aiImage">AI Image Creation</a>
+                    <a href="project/brand-marketing.html" data-i18n="projects.brandMarketing">Brand Marketing</a>
+                    <a href="project/email-marketing.html" data-i18n="projects.emailMarketing">Email Marketing</a>
+                    <a href="project/shopify-ux.html" data-i18n="projects.shopifyUx">Shopify &amp; UX/UI</a>
+                    <a href="project/meta-marketing.html" data-i18n="projects.metaMarketing">Meta Marketing</a>
+                    <a href="project/brand-activation-planning.html" data-i18n="projects.brandActivation">Brand Activation Planning</a>
                 </div>
             </div>
 
-            <a href="Contact.html">Contact</a>
+            <a href="Contact.html" data-i18n="nav.contact">Contact</a>
+
+            <div class="language-toggle">
+                <button id="lang-en" class="active" onclick="window.i18n.setLanguage('en')">EN</button>
+                <button id="lang-vi" onclick="window.i18n.setLanguage('vi')">VI</button>
+            </div>
         </nav>
     </header>
 
     <section class="page-section about-page">
-        <h1 class="page-title">About Me</h1>
+        <h1 class="page-title" data-i18n="about.title">About Me</h1>
 
         <!-- 1. MARKETING EXECUTIVE -->
         <section class="about-intro">
-            <h2>Marketing Executive</h2>
+            <h2 data-i18n="about.role">Marketing Executive</h2>
         </section>
 
         <!-- 2. DESCRIPTION + IMAGE -->
         <section class="about-container">
             <div class="about-text">
-                <p>
+                <p data-i18n="about.intro">
                     I am a marketing professional passionate about brand strategy,
                     creative storytelling, and performance-driven campaigns.
                     My focus is helping brands grow through digital marketing,
                     content strategy, and data analysis.
                 </p>
 
-                <p>
+                <p data-i18n="about.experience">
                     With experience in campaign execution, social media management,
                     and market research, I aim to create impactful marketing solutions
                     that connect brands with their audiences.
@@ -68,14 +73,14 @@
 
         <!-- 3. EDUCATION -->
         <section class="education">
-            <h3>Education</h3>
+            <h3 data-i18n="education.title">Education</h3>
 
             <div class="education-row">
                 <div class="education-content">
-                    <h4>Foreign Trade University</h4>
-                    <p>Bachelor of International Business Economics</p>
-                    <span>2021 – 2025</span>
-                    <p class="grade"><strong>Grade:</strong> Very Good</p>
+                    <h4 data-i18n="education.ftu.name">Foreign Trade University</h4>
+                    <p data-i18n="education.ftu.degree">Bachelor of International Business Economics</p>
+                    <span data-i18n="education.ftu.years">2021 – 2025</span>
+                    <p class="grade"><strong data-i18n="other.grade">Grade:</strong> <span data-i18n="education.ftu.grade">Very Good</span></p>
                 </div>
 
                 <div class="education-logo">
@@ -85,10 +90,10 @@
 
             <div class="education-row reverse">
                 <div class="education-content">
-                    <h4>University of Economics HCMC</h4>
-                    <p>Applications of Digital Marketing for Business</p>
-                    <span>2024</span>
-                    <p class="grade"><strong>Grade:</strong> Excellent</p>
+                    <h4 data-i18n="education.ueh.name">University of Economics HCMC</h4>
+                    <p data-i18n="education.ueh.degree">Applications of Digital Marketing for Business</p>
+                    <span data-i18n="education.ueh.years">2024</span>
+                    <p class="grade"><strong data-i18n="other.grade">Grade:</strong> <span data-i18n="education.ueh.grade">Excellent</span></p>
                 </div>
 
                 <div class="education-logo">
@@ -99,13 +104,13 @@
 
         <!-- 4. SKILLS -->
         <section class="skills-section">
-            <h3>Skills</h3>
+            <h3 data-i18n="skills.title">Skills</h3>
 
             <div class="skills-grid">
                 <!-- Technical Skills -->
                 <div class="skills-block">
-                    <h4>Technical Skills</h4>
-                    <ul>
+                    <h4 data-i18n="skills.technical.title">Technical Skills</h4>
+                    <ul class="skills-list-technical">
                         <li>Digital Marketing</li>
                         <li>SEO & Content Strategy</li>
                         <li>Social Media Management</li>
@@ -116,8 +121,8 @@
 
                 <!-- Soft Skills -->
                 <div class="skills-block">
-                    <h4>Soft Skills</h4>
-                    <ul>
+                    <h4 data-i18n="skills.soft.title">Soft Skills</h4>
+                    <ul class="skills-list-soft">
                         <li>Creative Thinking</li>
                         <li>Communication</li>
                         <li>Time Management</li>
@@ -129,7 +134,7 @@
         </section>
 
         <section class="software">
-            <h3>Software</h3>
+            <h3 data-i18n="software.title">Software</h3>
 
             <ul class="software-list">
 
@@ -163,27 +168,49 @@
 
         <!-- EXPERIENCE -->
         <section class="experience">
-            <h3>Work Experience</h3>
+            <h3 data-i18n="experience.title">Work Experience</h3>
 
             <div class="experience-list">
+                <!-- WIGI HAIR -->
+                <div class="experience-card">
+                    <div class="experience-date" data-i18n="experience.wigiHair.years">
+                        January 2025 <br>–<br> Present
+                    </div>
 
+                    <div class="experience-content">
+                        <h4 data-i18n="experience.wigiHair.role">Marketing Executive</h4>
+                        <h5 data-i18n="experience.wigiHair.company">WIGI Hair</h5>
+
+                        <p data-i18n="experience.wigiHair.description">
+                            Managed e-commerce marketing activities by optimizing the Shopify
+                            website, executing digital campaigns, and improving performance
+                            through data-driven insights.
+                        </p>
+
+                        <ul class="experience-skills-wigi">
+                            <li>Shopify Management</li>
+                            <li>SEO & Content Marketing</li>
+                            <li>GA4, Clarity & Klaviyo</li>
+                        </ul>
+                    </div>
+                </div>
                 <!-- TIEM NHA CO -->
                 <div class="experience-card">
-                    <div class="experience-date">
+                    <div class="experience-date" data-i18n="experience.tiemNhaCo.years">
                         September 2023 <br>–<br> February 2025
                     </div>
 
                     <div class="experience-content">
-                        <h4>Marketing Executive</h4>
-                        <h5>TIEM NHA CO – Online Fashion Shop</h5>
+                        <h4 data-i18n="experience.tiemNhaCo.role">Marketing Executive</h4>
+                        <h5 data-i18n="experience.tiemNhaCo.company">TIEM NHA CO – Online Fashion Shop</h5>
 
-                        <p>
+                        <p data-i18n="experience.tiemNhaCo.description">
                             Managed social media, content strategy, paid advertising,
                             and promotional campaigns while growing brand awareness
                             and customer engagement.
                         </p>
 
-                        <ul>
+                        <ul class="experience-skills-tiemNhaCo">
                             <li>Facebook & Instagram Growth</li>
                             <li>Content Marketing</li>
                             <li>Paid Advertising</li>
@@ -194,21 +221,21 @@
 
                 <!-- DELTA -->
                 <div class="experience-card">
-                    <div class="experience-date">
+                    <div class="experience-date" data-i18n="experience.delta.years">
                         August 2024 <br>–<br> December 2024
                     </div>
 
                     <div class="experience-content">
-                        <h4>Planning Intern</h4>
-                        <h5>Delta Engagement Marketing</h5>
+                        <h4 data-i18n="experience.delta.role">Planning Intern</h4>
+                        <h5 data-i18n="experience.delta.company">Delta Engagement Marketing</h5>
 
-                        <p>
+                        <p data-i18n="experience.delta.description">
                             Supported planning projects through market research,
                             proposal development, and campaign brainstorming for
                             various clients.
                         </p>
 
-                        <ul>
+                        <ul class="experience-skills-delta">
                             <li>Market Research</li>
                             <li>Campaign Planning</li>
                             <li>Client Proposal</li>
@@ -219,20 +246,20 @@
 
                 <!-- REALCOIN -->
                 <div class="experience-card">
-                    <div class="experience-date">
+                    <div class="experience-date" data-i18n="experience.realcoin.years">
                         July 2023 <br>–<br> October 2023
                     </div>
 
                     <div class="experience-content">
-                        <h4>Digital Marketing Intern</h4>
-                        <h5>Realcoin.vn Joint Stock Company</h5>
+                        <h4 data-i18n="experience.realcoin.role">Digital Marketing Intern</h4>
+                        <h5 data-i18n="experience.realcoin.company">Realcoin.vn Joint Stock Company</h5>
 
-                        <p>
+                        <p data-i18n="experience.realcoin.description">
                             Produced marketing content, analyzed campaign performance,
                             and created SEO-oriented articles for digital channels.
                         </p>
 
-                        <ul>
+                        <ul class="experience-skills-realcoin">
                             <li>SEO Content</li>
                             <li>Data Analysis</li>
                             <li>Content Writing</li>
@@ -246,10 +273,11 @@
 
     </section>
 
-    <footer>
+    <footer data-i18n="footer.copyright">
         © 2026 Truong Kha Di. All rights reserved.
     </footer>
 
+    <script src="../js/i18n.js"></script>
     <script src="../js/script.js"></script>
 
 </body>
