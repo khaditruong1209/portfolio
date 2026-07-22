@@ -902,7 +902,7 @@
       "brandMarketing": "Marketing Thương Hiệu",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Shopify & Tối Ưu UX/UI",
-      "metaMarketing": "Marketing Trên Meta",
+      "metaMarketing": "Meta Marketing",
       "brandActivation": "Kế Hoạch Kích Hoạt Thương Hiệu"
     },
     "about": {
@@ -952,7 +952,7 @@
         "name": "Đại Học Ngoại Thương",
         "degree": "Cử Nhân Kinh Tế Thương Mại Quốc Tế",
         "years": "2021 – 2025",
-        "grade": "Rất Tốt"
+        "grade": "Giỏi"
       },
       "ueh": {
         "name": "Đại Học Kinh Tế TP.HCM",
@@ -1008,7 +1008,7 @@
         "skills": [
           "Phát Triển Facebook & Instagram",
           "Content Marketing",
-          "Quảng Cáo Trả Tiền",
+          "Quảng Cáo",
           "Kế Hoạch Chiến Dịch"
         ]
       },
@@ -1028,10 +1028,9 @@
         "role": "Thực Tập Sinh Digital Marketing",
         "company": "Công Ty Cổ Phần Realcoin.vn",
         "years": "Tháng 7 2023 – Tháng 10 2023",
-        "description": "Sản xuất nội dung marketing, phân tích hiệu suất chiến dịch và tạo các bài viết hướng tới SEO cho các kênh kỹ thuật số.",
+        "description": "Sản xuất nội dung marketing, và tạo các bài viết hướng tới SEO cho các kênh kỹ thuật số.",
         "skills": [
           "Nội Dung SEO",
-          "Phân Tích Dữ Liệu",
           "Viết Nội Dung",
           "Nghiên Cứu Marketing"
         ]
@@ -1048,7 +1047,7 @@
       "sendMessage": "Gửi Tin Nhắn"
     },
     "projectsPage": {
-      "myWork": "Công Việc Của Tôi",
+      "myWork": "Kinh nghiệm",
       "subtitle": "Khám phá các dự án marketing được chọn hoàn thành trong suốt kinh nghiệm chuyên nghiệp của tôi.",
       "freelance": {
         "title": "Freelance",
@@ -1078,7 +1077,7 @@
         "title": "TIEM NHA CO",
         "period": "Chuyên Viên Marketing · Tháng 9 2023 – Tháng 5 2026",
         "metaMarketing": {
-          "title": "Marketing Trên Meta",
+          "title": "Meta Marketing",
           "description": "Lập kế hoạch nội dung Facebook, Instagram, quản lý sự tham gia cộng đồng và thực hiện các chiến dịch quảng cáo Meta để tăng phạm vi tiếp cận và doanh số bán hàng."
         }
       },
