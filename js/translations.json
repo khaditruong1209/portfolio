@@ -1098,7 +1098,7 @@
       "location": "Vị Trí",
       "role": "Vai Trò",
       "specialization": "Chuyên Môn",
-      "industry": "Ngành Công Nghiệp",
+      "industry": "Lĩnh Vực",
       "clients": "Khách Hàng",
       "focus": "Tập Trung",
       "duration": "Thời Gian",
@@ -1122,15 +1122,15 @@
         "hero": {
           "company": "Freelance",
           "title": "Tạo Hình Ảnh AI",
-          "description": "Tạo hình ảnh được tạo bằng AI chất lượng cao cho các chiến dịch marketing, thương mại điện tử, chụp ảnh sản phẩm và kể chuyện thương hiệu. Kết hợp kỹ thuật prompt engineering với tư duy marketing để tạo ra nội dung hình ảnh hiệu quả về mặt thương mại."
+          "description": "Tạo hình ảnh bằng AI chất lượng cao theo yêu cầu của khách hàng cho website, thương mại điện tử và các hoạt động marketing số. Sử dụng kỹ thuật prompt engineering để tạo ra những hình ảnh có tính ứng dụng thương mại và phù hợp với định hướng thương hiệu."
         },
-        "about": "Là một nhà sáng tạo AI freelance, tôi phát triển hình ảnh thương mại giúp các doanh nghiệp trình bày sản phẩm của họ một cách chuyên nghiệp hơn. Thay vì dựa vào chụp ảnh truyền thống, tôi tạo ra hình ảnh được tạo bằng AI thực tế được điều chỉnh theo danh tính thương hiệu và mục tiêu marketing của mỗi thương hiệu.\n\nCác hình ảnh này được sử dụng trên các trang web, cửa hàng Shopify, quảng cáo Meta, phương tiện truyền thông xã hội và các chiến dịch khuyến mãi.",
+        "about": "Là một AI Image Creator làm việc tự do, tôi tạo ra các hình ảnh AI theo yêu cầu của khách hàng để sử dụng trên website, cửa hàng thương mại điện tử và các tài liệu marketing. Kết hợp công cụ tạo ảnh AI với kỹ thuật prompt engineering, tôi mang đến những hình ảnh chân thực, chất lượng cao, phù hợp với nhận diện thương hiệu và giúp sản phẩm được trình bày chuyên nghiệp, thu hút hơn trên môi trường số.",
         "snapshot": {
-          "role": "Nhà Sáng Tạo AI Freelance",
-          "specialization": "Tạo Hình Ảnh AI",
-          "industry": "Thương Mại Điện Tử & Marketing",
-          "clients": "Các Thương Hiệu Khác Nhau",
-          "focus": "Hình Ảnh Thương Mại",
+          "role": "AI Image Creator (Freelancer)",
+          "specialization": "Tạo hình ảnh bằng AI",
+          "industry": "Thương mại điện tử & Marketing số",
+          "clients": "Nhiều thương hiệu",
+          "focus": "Hình ảnh cho Website, Sản phẩm & Marketing",
           "duration": "Tháng 6 2026"
         },
         "overview": "Công việc của tôi tập trung vào việc tạo ra hình ảnh được tạo bằng AI chuyên nghiệp và sẵn sàng thương mại hỗ trợ marketing sản phẩm, thương mại điện tử và các chiến dịch quảng cáo. Bằng cách kết hợp kỹ thuật prompt engineering tiên tiến với chiến lược marketing, tôi cung cấp hình ảnh chất lượng cao giúp giao tiếp hiệu quả giá trị sản phẩm và thu hút khách hàng.",
@@ -1576,7 +1576,7 @@
       "snapshot": {
         "company": "Công Ty",
         "companyValue": "WIGI Hair",
-        "industry": "Ngành Công Nghiệp",
+        "industry": "Lĩnh Vực",
         "industryValue": "Phần Mở Rộng Tóc Con Người",
         "targetMarket": "Thị Trường Mục Tiêu",
         "targetMarketValue": "Hoa Kỳ",
@@ -1592,7 +1592,7 @@
       "snapshot": {
         "business": "Doanh Nghiệp",
         "businessValue": "TIEM NHA CO",
-        "industry": "Ngành Công Nghiệp",
+        "industry": "Lĩnh Vực",
         "industryValue": "Thời Trang Secondhand",
         "platforms": "Nền Tảng",
         "platformsValue": "Facebook & Instagram",
@@ -1618,7 +1618,7 @@
       "snapshot": {
         "company": "Công Ty",
         "companyValue": "WIGI Hair",
-        "industry": "Ngành Công Nghiệp",
+        "industry": "Lĩnh Vực",
         "industryValue": "Phần Mở Rộng Tóc Con Người",
         "targetMarket": "Thị Trường Mục Tiêu",
         "targetMarketValue": "Hoa Kỳ",
@@ -1652,7 +1652,7 @@
       "snapshot": {
         "company": "Công Ty",
         "companyValue": "WIGI Hair",
-        "industry": "Ngành Công Nghiệp",
+        "industry": "Lĩnh Vực",
         "industryValue": "Phần Mở Rộng Tóc Con Người",
         "targetMarket": "Thị Trường Mục Tiêu",
         "targetMarketValue": "Hoa Kỳ",
@@ -1674,7 +1674,7 @@
       "snapshot": {
         "company": "Công Ty",
         "companyValue": "Delta Engagement Marketing",
-        "industry": "Ngành Công Nghiệp",
+        "industry": "Lĩnh Vực",
         "industryValue": "Cơ Quan Marketing BTL",
         "specialization": "Chuyên Môn",
         "specializationValue": "Kích Hoạt Thương Hiệu & Sự Kiện",
