@@ -660,6 +660,20 @@
       }
     },
     "aiImageExtended": {
+      "snapshot": {
+        "role": "Role",
+        "roleValue": "Freelance AI Creator",
+        "specialization": "Specialization",
+        "specializationValue": "AI Image Generation",
+        "industry": "Industry",
+        "industryValue": "E-commerce & Digital Marketing",
+        "clients": "Clients",
+        "clientsValue": "Multiple Brands",
+        "focus": "Focus",
+        "focusValue": "Website, Product & Marketing Visuals",
+        "duration": "Duration",
+        "durationValue": "Jun 2026"
+      },
       "featuredWorks": {
         "intro": "For each hair color, I created a complete image package including Before, After, Studio, and Lifestyle images. These assets are used on Shopify product pages, collection pages, and marketing campaigns."
       },
@@ -877,7 +891,7 @@
       "contact": "Liên hệ"
     },
     "hero": {
-      "title": "Xin chào, tôi là Truong Kha Di",
+      "title": "Xin chào, tôi là Trương Khả Di",
       "subtitle": "Chuyên viên Marketing & Nhà sáng tạo Freelance AI",
       "description": "Tôi giúp các thương hiệu phát triển thông qua marketing dựa trên dữ liệu, chiến lược sáng tạo và nội dung hình ảnh đổi mới.",
       "viewWork": "Xem Dự Án Của Tôi"
@@ -909,7 +923,7 @@
       "message": "Gửi Tin Nhắn"
     },
     "footer": {
-      "copyright": "© 2026 Truong Kha Di. Tất cả quyền được bảo lưu."
+      "copyright": "© 2026 Trương Khả Di. Tất cả quyền được bảo lưu."
     },
     "caseStudy": {
       "aboutThisProject": "Về Dự Án Này",
@@ -1061,7 +1075,7 @@
         }
       },
       "tiemNhaCo": {
-        "title": "TIEM NHA CO",
+        "title": "TIỆM NHÀ CỎ",
         "period": "Chuyên Viên Marketing · Tháng 9 2023 – Tháng 5 2026",
         "metaMarketing": {
           "title": "Meta Marketing",
@@ -1239,7 +1253,7 @@
       },
       "emailMarketing": {
         "hero": {
-          "company": "WIGI Hair",
+          "company": "WIGI HAIR",
           "title": "Email Marketing",
           "description": "Thiết kế và thực hiện các chiến lược email marketing bằng cách sử dụng Klaviyo để nuôi dưỡng mối quan hệ khách hàng, thúc đẩy lặp lại mua hàng và tối đa hóa giá trị suốt đời của khách hàng."
         },
@@ -1371,19 +1385,19 @@
       },
       "metaMarketing": {
         "hero": {
-          "company": "TIEM NHA CO",
+          "company": "TIỆM NHÀ CỎ",
           "title": "Marketing Trên Meta",
           "description": "Quản lý và thực hiện các chiến lược quảng cáo Meta và phương tiện truyền thông xã hội toàn diện để xây dựng nhận thức thương hiệu, thúc đẩy sự tham gia và tăng doanh số bán hàng cho một doanh nghiệp thời trang thương mại điện tử."
         },
-        "about": "TIEM NHA CO là một khởi nghiệp thời trang secondhand trực tuyến nhỏ được tôi đồng sáng lập với một thành viên gia đình. Chúng tôi tinh tế lựa chọn quần áo pre-owned chất lượng cao và bán độc quyền qua Facebook và Instagram. Sứ mệnh của chúng tôi là làm cho thời trang secondhand dễ tiếp cận hơn trong khi tạo ra trải nghiệm mua sắm đáng tin cậy, thú vị và do cộng đồng điều hành.",
-        "overview": "Là đồng sáng lập kiêm người đứng đầu marketing của TIEM NHA CO, tôi chịu trách nhiệm xây dựng sự hiện diện trực tuyến của thương hiệu thông qua Facebook và Instagram. Công việc của tôi bao gồm toàn bộ quá trình tạo nội dung — từ lập kế hoạch chiến dịch, chụp ảnh sản phẩm, thiết kế hình ảnh quảng cáo, tạo video ngắn, viết chú thích hấp dẫn, đến quản lý các chiến dịch quảng cáo Meta. Mỗi nội dung được thiết kế để tăng cường danh tính thương hiệu, tăng sự tham gia của khách hàng và hỗ trợ bán hàng trực tuyến.",
+        "about": "TIỆM NHÀ CỎ là một khởi nghiệp thời trang secondhand trực tuyến nhỏ được tôi đồng sáng lập với một thành viên gia đình. Chúng tôi tinh tế lựa chọn quần áo pre-owned chất lượng cao và bán độc quyền qua Facebook và Instagram. Sứ mệnh của chúng tôi là làm cho thời trang secondhand dễ tiếp cận hơn trong khi tạo ra trải nghiệm mua sắm đáng tin cậy, thú vị và do cộng đồng điều hành.",
+        "overview": "Là đồng sáng lập kiêm người đứng đầu marketing của TIỆM NHÀ CỎ, tôi chịu trách nhiệm xây dựng sự hiện diện trực tuyến của thương hiệu thông qua Facebook và Instagram. Công việc của tôi bao gồm toàn bộ quá trình tạo nội dung — từ lập kế hoạch chiến dịch, chụp ảnh sản phẩm, thiết kế hình ảnh quảng cáo, tạo video ngắn, viết chú thích hấp dẫn, đến quản lý các chiến dịch quảng cáo Meta. Mỗi nội dung được thiết kế để tăng cường danh tính thương hiệu, tăng sự tham gia của khách hàng và hỗ trợ bán hàng trực tuyến.",
         "responsibilities": "Trách Nhiệm Của Tôi",
         "tools": "Công Cụ",
         "keyLearnings": "Những Bài Học Chính",
         "creativePortfolio": "Triển Lãm Sáng Tạo",
         "creativePortfolioDesc": "Trong suốt dự án, tôi đã tạo ra nhiều loại nội dung hình ảnh bao gồm chụp ảnh sản phẩm, hình ảnh lối sống, đồ họa quảng cáo, quảng cáo video ngắn và nội dung video hình thức ngắn. Mỗi nội dung sáng tạo được tạo ra để tăng cường danh tính thương hiệu, cải thiện sự tham gia của khách hàng và hỗ trợ bán hàng trực tuyến.",
         "socialMediaPresence": "Hiện Diện Phương Tiện Xã Hội",
-        "socialMediaPresenceDesc": "Tôi đã quản lý sự hiện diện của TIEM NHA CO trên phương tiện truyền thông xã hội bằng cách lập kế hoạch nội dung, tạo chiến dịch khuyến mãi, chụp ảnh sản phẩm và tham gia với khách hàng. Facebook là kênh bán hàng chính và giao tiếp của thương hiệu, trong khi nội dung hình ảnh cũng được tạo cho Instagram trong thời kỳ dự án để tăng cường danh tính thương hiệu.",
+        "socialMediaPresenceDesc": "Tôi đã quản lý sự hiện diện của TIỆM NHÀ CỎ trên phương tiện truyền thông xã hội bằng cách lập kế hoạch nội dung, tạo chiến dịch khuyến mãi, chụp ảnh sản phẩm và tham gia với khách hàng. Facebook là kênh bán hàng chính và giao tiếp của thương hiệu, trong khi nội dung hình ảnh cũng được tạo cho Instagram trong thời kỳ dự án để tăng cường danh tính thương hiệu.",
         "facebook": "Facebook",
         "facebookDesc": "Nền tảng chính cho ra mắt sản phẩm, chiến dịch khuyến mãi, sự tham gia của khách hàng và bán hàng trực tuyến. Tôi quản lý lập kế hoạch nội dung, hoạt động trang và quảng cáo Meta.",
         "visualBranding": "Thương Hiệu Hình Ảnh",
@@ -1529,6 +1543,20 @@
       }
     },
     "aiImageExtended": {
+      "snapshot": {
+        "role": "Vai Trò",
+        "roleValue": "Freelance AI Creator",
+        "specialization": "Chuyên Môn",
+        "specializationValue": "Tạo Hình Ảnh AI",
+        "industry": "Lĩnh Vực",
+        "industryValue": "Thương mại điện tử & Marketing số",
+        "clients": "Khách Hàng",
+        "clientsValue": "Nhiều thương hiệu",
+        "focus": "Trọng Tâm",
+        "focusValue": "Hình ảnh cho Website, Sản phẩm & Marketing",
+        "duration": "Thời Gian",
+        "durationValue": "Tháng 6 2026"
+      },
       "featuredWorks": {
         "intro": "Bộ sưu tập các hình ảnh AI được thực hiện cho website, thương mại điện tử và các hoạt động marketing. Mỗi hình ảnh được phát triển dựa trên yêu cầu của khách hàng, tập trung vào tính chân thực, sự nhất quán với thương hiệu và khả năng ứng dụng thực tế."
       },
