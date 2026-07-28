@@ -525,6 +525,17 @@ footer {
     color: #f58c8c;
 }
 
+.email-link {
+    text-decoration: none;
+    color: #5a73e8;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.email-link:hover {
+    color: #f58c8c;
+}
+
 /* FORM */
 .contact-form form {
     display: flex;

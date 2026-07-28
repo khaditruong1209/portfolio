@@ -29,15 +29,6 @@
       "experience": "My experience spans Shopify management, SEO, email marketing, Meta advertising, campaign planning, and AI-generated visual content. I enjoy learning new technologies and continuously exploring better ways to help brands communicate and grow.",
       "tools": "Tools & Skills"
     },
-    "contact": {
-      "title": "Let's Work Together",
-      "info": "Contact Information",
-      "description": "If you would like to collaborate or discuss a project, feel free to reach out.",
-      "email": "Email",
-      "phone": "Phone",
-      "linkedin": "LinkedIn",
-      "message": "Send Message"
-    },
     "footer": {
       "copyright": "© 2026 Truong Kha Di. All rights reserved."
     },
@@ -161,13 +152,13 @@
       }
     },
     "contactForm": {
-      "title": "Let's Work Together",
-      "infoTitle": "Contact Information",
-      "description": "If you would like to collaborate or discuss a project, feel free to reach out.",
+      "title": "Let's Create Something Great Together",
+      "infoTitle": "Get in Touch",
+      "description": "I'm always open to discussing new opportunities, creative collaborations, and exciting marketing projects. Let's connect and explore how we can create value together.",
       "location": "Location",
       "yourName": "Your Name",
       "yourEmail": "Your Email",
-      "yourMessage": "Your Message",
+      "yourMessage": "Tell me about your project...",
       "sendMessage": "Send Message"
     },
     "projectsPage": {
@@ -919,15 +910,6 @@
       "experience": "Tôi có kinh nghiệm trong Shopify, SEO, Email Marketing, Meta Ads, lập kế hoạch chiến dịch và phát triển hình ảnh bằng AI. Tôi luôn chủ động học hỏi các công nghệ mới để tối ưu hiệu quả marketing và mang đến giá trị thực tế cho doanh nghiệp.",
       "tools": "Công Cụ & Kỹ Năng"
     },
-    "contact": {
-      "title": "Hãy Cùng Làm Việc",
-      "info": "Thông Tin Liên Hệ",
-      "description": "Nếu bạn muốn cộng tác hoặc thảo luận về một dự án, vui lòng liên hệ với tôi.",
-      "email": "Email",
-      "phone": "Số Điện Thoại",
-      "linkedin": "LinkedIn",
-      "message": "Gửi Tin Nhắn"
-    },
     "footer": {
       "copyright": "© 2026 Trương Khả Di. Tất cả quyền được bảo lưu."
     },
@@ -1050,13 +1032,13 @@
       }
     },
     "contactForm": {
-      "title": "Hãy Cùng Làm Việc",
-      "infoTitle": "Thông Tin Liên Hệ",
-      "description": "Nếu bạn muốn cộng tác hoặc thảo luận về một dự án, vui lòng liên hệ với tôi.",
+      "title": "Hãy cùng tạo nên những dự án giá trị",
+      "infoTitle": "Liên hệ với tôi",
+      "description": "Mình luôn sẵn sàng kết nối để trao đổi về cơ hội nghề nghiệp, dự án sáng tạo và các giải pháp marketing. Rất mong được lắng nghe từ bạn.",
       "location": "Vị Trí",
       "yourName": "Tên Của Bạn",
       "yourEmail": "Email Của Bạn",
-      "yourMessage": "Tin Nhắn Của Bạn",
+      "yourMessage": "Hãy chia sẻ về dự án hoặc ý tưởng của bạn...",
       "sendMessage": "Gửi Tin Nhắn"
     },
     "projectsPage": {
