@@ -172,7 +172,7 @@
     },
     "projectsPage": {
       "myWork": "My Work",
-      "subtitle": "Each project reflects my approach to combining creativity, strategy, and data to solve business challenges. From e-commerce marketing and brand campaigns to AI-generated visuals, every project represents practical solutions designed to create measurable impact.",
+      "subtitle": "Supported brand growth through campaign planning, market research, digital marketing strategy, and performance analysis while maintaining a consistent brand experience across multiple online channels.",
       "freelance": {
         "title": "Freelance",
         "period": "AI Creative Projects · Jun 2026",
@@ -186,15 +186,15 @@
         "period": "Marketing Executive · Apr 2025 – Present",
         "brandMarketing": {
           "title": "Brand Marketing",
-          "description": "Assisted in developing brand campaigns, marketing plans and communication materials while maintaining brand consistency across digital channels."
+          "description": "Supported brand growth through campaign planning, market research, digital marketing strategy, and performance analysis while maintaining a consistent brand experience across multiple online channels."
         },
         "emailMarketing": {
           "title": "Email Marketing",
-          "description": "Planned promotional campaigns, automated customer journeys, newsletters and retention flows using Klaviyo."
+          "description": "Planned email campaigns and built automated customer journeys in Klaviyo, including promotional emails, newsletters, welcome flows, abandoned cart, and retention campaigns."
         },
         "shopifyUx": {
           "title": "Shopify & UX/UI",
-          "description": "Improved Shopify storefront, optimized UX, landing pages, product pages and conversion performance."
+          "description": "Optimized the Shopify storefront by improving user experience, refining landing and product pages, and supporting conversion rate optimization through continuous testing and analysis."
         }
       },
       "tiemNhaCo": {
@@ -202,7 +202,7 @@
         "period": "Co-founder & Marketing Executive · Sep 2023 – May 2026",
         "metaMarketing": {
           "title": "Meta Marketing",
-          "description": "Planned Facebook, Instagram content, managed community engagement, and executed Meta advertising campaigns to increase reach and sales."
+          "description": "As Co-founder and Marketing Executive, I developed the brand's Facebook marketing strategy, planned content, managed community engagement, and executed Meta advertising campaigns to increase brand awareness and drive online sales."
         }
       },
       "delta": {
@@ -210,7 +210,7 @@
         "period": "Planning Intern · Aug 2024 – Dec 2024",
         "brandActivation": {
           "title": "Brand Activation Planning",
-          "description": "Developed brand activation proposals by conducting market research, creating campaign concepts, preparing presentation decks, and planning customer engagement activities for BTL campaigns."
+          "description": "Assisted in developing brand activation proposals through market research, campaign ideation, presentation design, and customer engagement planning for BTL marketing campaigns."
         }
       }
     },
@@ -1061,7 +1061,7 @@
     },
     "projectsPage": {
       "myWork": "Kinh nghiệm",
-      "subtitle": "Mỗi dự án phản ánh cách tôi kết hợp tư duy sáng tạo, chiến lược và dữ liệu để giải quyết các bài toán kinh doanh. Từ E-commerce Marketing, Brand Marketing đến AI Image Creation, mọi dự án đều hướng đến những giải pháp thực tiễn và tạo ra kết quả có thể đo lường.",
+      "subtitle": "Hỗ trợ phát triển thương hiệu thông qua lập kế hoạch chiến dịch, nghiên cứu thị trường, xây dựng chiến lược digital marketing và phân tích hiệu quả, đồng thời duy trì sự nhất quán của thương hiệu trên nhiều kênh trực tuyến.",
       "freelance": {
         "title": "Freelance",
         "period": "Tạo hình ảnh AI · Tháng 6 2026",
@@ -1075,31 +1075,31 @@
         "period": "Chuyên Viên Marketing · Tháng 4 2025 – Hiện Tại",
         "brandMarketing": {
           "title": "Marketing Thương Hiệu",
-          "description": "Hỗ trợ phát triển các chiến dịch thương hiệu, kế hoạch marketing và tài liệu giao tiếp trong khi duy trì tính nhất quán của thương hiệu trên các kênh kỹ thuật số."
+          "description": "Hỗ trợ phát triển thương hiệu thông qua lập kế hoạch chiến dịch, nghiên cứu thị trường, xây dựng chiến lược digital marketing và phân tích hiệu quả, đồng thời duy trì sự nhất quán của thương hiệu trên nhiều kênh trực tuyến."
         },
         "emailMarketing": {
           "title": "Email Marketing",
-          "description": "Lập kế hoạch các chiến dịch khuyến mãi, hành trình khách hàng tự động, bản tin và các luồng duy trì bằng cách sử dụng Klaviyo."
+          "description": "Lên kế hoạch email marketing và xây dựng các luồng tự động trên Klaviyo, bao gồm email khuyến mãi, newsletter, welcome flow, abandoned cart và các chiến dịch giữ chân khách hàng."
         },
         "shopifyUx": {
           "title": "Shopify & Tối Ưu UX/UI",
-          "description": "Cải thiện cửa hàng trực tuyến Shopify, tối ưu hóa UX, trang hạ cánh, trang sản phẩm và hiệu suất chuyển đổi."
+          "description": "Tối ưu cửa hàng Shopify bằng cách cải thiện trải nghiệm người dùng, nâng cấp landing page và trang sản phẩm, đồng thời hỗ trợ tối ưu tỷ lệ chuyển đổi thông qua quá trình thử nghiệm và phân tích."
         }
       },
       "tiemNhaCo": {
         "title": "TIỆM NHÀ CỎ",
-        "period": "Chuyên Viên Marketing · Tháng 9 2023 – Tháng 5 2026",
+        "period": "Đồng sáng lập & Chuyên Viên Marketing · Tháng 9 2023 – Tháng 5 2026",
         "metaMarketing": {
           "title": "Meta Marketing",
-          "description": "Lập kế hoạch nội dung Facebook, Instagram, quản lý sự tham gia cộng đồng và thực hiện các chiến dịch quảng cáo Meta để tăng phạm vi tiếp cận và doanh số bán hàng."
+          "description": "Với vai trò Đồng sáng lập và Chuyên viên Marketing, tôi xây dựng chiến lược marketing trên Facebook, lập kế hoạch nội dung, quản lý cộng đồng và triển khai các chiến dịch quảng cáo Meta nhằm nâng cao nhận diện thương hiệu và thúc đẩy doanh số bán hàng."
         }
       },
       "delta": {
         "title": "DELTA ENGAGEMENT MARKETING",
         "period": "Thực Tập Sinh Lập Kế Hoạch · Tháng 8 2024 – Tháng 12 2024",
         "brandActivation": {
-          "title": "Kế Hoạch Kích Hoạt Thương Hiệu",
-          "description": "Phát triển các đề xuất kích hoạt thương hiệu bằng cách tiến hành nghiên cứu thị trường, tạo khái niệm chiến dịch, chuẩn bị các bộ thuyết trình và lập kế hoạch các hoạt động tham gia của khách hàng cho các chiến dịch BTL."
+          "title": "Hoạch định Chiến dịch Kích hoạt Thương hiệu",
+          "description": "Hỗ trợ xây dựng proposal cho các chiến dịch Brand Activation thông qua nghiên cứu thị trường, phát triển ý tưởng chiến dịch, thiết kế proposal và lập kế hoạch hoạt động tương tác khách hàng cho các chiến dịch BTL."
         }
       }
     },
