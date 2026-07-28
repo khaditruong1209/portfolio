@@ -933,7 +933,7 @@ html[lang="vi"] .contact-form textarea {
 
 .software-list {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 20px;
     list-style: none;
     padding: 0;
@@ -1710,4 +1710,24 @@ grid-template-columns:1fr;
         padding: 4px 10px;
         font-size: 11px;
     }
+}
+.tool-tag {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 18px;
+    border: 1px solid #e8e1d7;
+    border-radius: 999px;
+    background: #faf9f7;
+    color: #181615;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all .3s ease;
+}
+
+.tool-tag:hover {
+    background: #f4d6dc;
+    border-color: #f4d6dc;
+    box-shadow: 0 8px 20px rgba(244, 214, 220, 0.35);
+    transform: translateY(-2px);
 }

@@ -25,8 +25,8 @@
     "about": {
       "title": "About Me",
       "role": "Marketing Executive",
-      "intro": "I am a marketing professional passionate about brand strategy, creative storytelling, and performance-driven campaigns. My focus is helping brands grow through digital marketing, content strategy, and data analysis.",
-      "experience": "With experience in campaign execution, social media management, and market research, I aim to create impactful marketing solutions that connect brands with their audiences.",
+      "intro": "I am a Marketing Executive specializing in e-commerce, digital marketing, and AI-powered content creation. I enjoy combining creativity with data to build marketing strategies that improve customer experience, strengthen brand presence, and drive measurable business growth.",
+      "experience": "My experience spans Shopify management, SEO, email marketing, Meta advertising, campaign planning, and AI-generated visual content. I enjoy learning new technologies and continuously exploring better ways to help brands communicate and grow.",
       "tools": "Tools & Skills"
     },
     "contact": {
@@ -83,26 +83,32 @@
       "technical": {
         "title": "Technical Skills",
         "list": [
-          "Digital Marketing",
-          "SEO & Content Strategy",
-          "Social Media Management",
-          "Market Research",
-          "Performance Analysis"
+          "Shopify Management",
+          "SEO & Content Marketing",
+          "Email Marketing (Klaviyo)",
+          "Performance Marketing",
+          "GA4 & Microsoft Clarity",
+          "AI Content Creation",
+          "Meta Ads",
+          "Market Research"
         ]
       },
       "soft": {
         "title": "Soft Skills",
         "list": [
-          "Creative Thinking",
+          "Analytical Thinking",
+          "Creative Problem Solving",
+          "Managing Multiple Priorities",
           "Communication",
-          "Time Management",
-          "Team Collaboration",
-          "Problem Solving"
+          "Adaptability",
+          "Team Collaboration"
         ]
       }
     },
     "software": {
-      "title": "Software"
+      "title": "Tools & Platforms",
+      "marketing": "Marketing Platforms",
+      "productivity": "Productivity & AI Tools"
     },
     "experience": {
       "title": "Work Experience",
@@ -110,7 +116,7 @@
         "role": "Marketing Executive",
         "company": "WIGI Hair",
         "years": "January 2025 – Present",
-        "description": "Managed e-commerce marketing activities by optimizing the Shopify website, executing digital campaigns, and improving performance through data-driven insights.",
+        "description": "Managed the Shopify e-commerce website, executed SEO and email marketing strategies, optimized user experience, and analyzed performance using GA4 and Microsoft Clarity to improve customer acquisition and conversion.",
         "skills": [
           "Shopify Management",
           "SEO & Content Marketing",
@@ -118,10 +124,10 @@
         ]
       },
       "tiemNhaCo": {
-        "role": "Marketing Executive",
+        "role": "Co-founder & Marketing Executive",
         "company": "TIEM NHA CO – Online Fashion Shop",
         "years": "September 2023 – February 2025",
-        "description": "Managed social media, content strategy, paid advertising, and promotional campaigns while growing brand awareness and customer engagement.",
+        "description": "Co-founded and grew an online fashion business by leading marketing strategy, content planning, Facebook marketing, promotional campaigns, and day-to-day e-commerce operations to strengthen brand awareness and customer engagement.",
         "skills": [
           "Facebook & Instagram Growth",
           "Content Marketing",
@@ -133,7 +139,7 @@
         "role": "Planning Intern",
         "company": "Delta Engagement Marketing",
         "years": "August 2024 – December 2024",
-        "description": "Supported planning projects through market research, proposal development, and campaign brainstorming for various clients.",
+        "description": "Conducted market research, analyzed consumer insights, and supported the development of campaign proposals and presentation materials for clients across multiple industries.",
         "skills": [
           "Market Research",
           "Campaign Planning",
@@ -145,7 +151,7 @@
         "role": "Digital Marketing Intern",
         "company": "Realcoin.vn Joint Stock Company",
         "years": "July 2023 – October 2023",
-        "description": "Produced marketing content, analyzed campaign performance, and created SEO-oriented articles for digital channels.",
+        "description": "Produced SEO-focused content, monitored campaign performance, and supported digital marketing activities through content planning and data analysis.",
         "skills": [
           "SEO Content",
           "Data Analysis",
@@ -166,7 +172,7 @@
     },
     "projectsPage": {
       "myWork": "My Work",
-      "subtitle": "Explore selected marketing projects completed throughout my professional experience.",
+      "subtitle": "Each project reflects my approach to combining creativity, strategy, and data to solve business challenges. From e-commerce marketing and brand campaigns to AI-generated visuals, every project represents practical solutions designed to create measurable impact.",
       "freelance": {
         "title": "Freelance",
         "period": "AI Creative Projects · Jun 2026",
@@ -193,7 +199,7 @@
       },
       "tiemNhaCo": {
         "title": "TIEM NHA CO",
-        "period": "Marketing Executive · Sep 2023 – May 2026",
+        "period": "Co-founder & Marketing Executive · Sep 2023 – May 2026",
         "metaMarketing": {
           "title": "Meta Marketing",
           "description": "Planned Facebook, Instagram content, managed community engagement, and executed Meta advertising campaigns to increase reach and sales."
@@ -909,8 +915,8 @@
     "about": {
       "title": "Về Tôi",
       "role": "Chuyên Viên Marketing",
-      "intro": "Tôi là một chuyên gia marketing đam mê chiến lược thương hiệu, kể chuyện sáng tạo và các chiến dịch theo hiệu suất. Tôi tập trung vào việc giúp các thương hiệu phát triển thông qua marketing kỹ thuật số, chiến lược nội dung và phân tích dữ liệu.",
-      "experience": "Với kinh nghiệm trong thực hiện chiến dịch, quản lý phương tiện truyền thông xã hội và nghiên cứu thị trường, tôi mong muốn tạo ra các giải pháp marketing có tác động giúp kết nối các thương hiệu với khán giả của họ.",
+      "intro": "Tôi là Chuyên Viên Marketing với định hướng phát triển trong lĩnh vực E-commerce, Digital Marketing và AI Content Creation. Tôi yêu thích việc kết hợp tư duy sáng tạo cùng dữ liệu để xây dựng các chiến lược marketing giúp nâng cao trải nghiệm khách hàng, phát triển thương hiệu và tạo ra kết quả kinh doanh rõ ràng.",
+      "experience": "Tôi có kinh nghiệm trong Shopify, SEO, Email Marketing, Meta Ads, lập kế hoạch chiến dịch và phát triển hình ảnh bằng AI. Tôi luôn chủ động học hỏi các công nghệ mới để tối ưu hiệu quả marketing và mang đến giá trị thực tế cho doanh nghiệp.",
       "tools": "Công Cụ & Kỹ Năng"
     },
     "contact": {
@@ -967,26 +973,32 @@
       "technical": {
         "title": "Kỹ Năng Kỹ Thuật",
         "list": [
-          "Digital Marketing",
-          "SEO & Chiến Lược Nội Dung",
-          "Quản Lý Mạng Xã Hội",
-          "Nghiên Cứu Thị Trường",
-          "Phân Tích Hiệu Suất"
+          "Quản trị Shopify",
+          "SEO & Content Marketing",
+          "Email Marketing (Klaviyo)",
+          "Performance Marketing",
+          "GA4 & Microsoft Clarity",
+          "AI Image Generation",
+          "Meta Ads",
+          "Nghiên cứu thị trường"
         ]
       },
       "soft": {
         "title": "Kỹ Năng Mềm",
         "list": [
-          "Tư Duy Sáng Tạo",
-          "Giao Tiếp",
-          "Quản Lý Thời Gian",
-          "Hợp Tác Nhóm",
-          "Giải Quyết Vấn Đề"
+          "Tư duy phân tích",
+          "Giải quyết vấn đề",
+          "Quản lý nhiều đầu việc cùng lúc",
+          "Giao tiếp",
+          "Khả năng thích nghi",
+          "Làm việc nhóm"
         ]
       }
     },
     "software": {
-      "title": "Phần Mềm"
+      "title": "Công cụ & Nền tảng",
+      "marketing": "Nền tảng Marketing",
+      "productivity": "Công cụ hỗ trợ & AI"
     },
     "experience": {
       "title": "Kinh Nghiệm Làm Việc",
@@ -994,7 +1006,7 @@
         "role": "Chuyên Viên Marketing",
         "company": "WIGI Hair",
         "years": "Tháng 1 2025 – Hiện Tại",
-        "description": "Quản lý các hoạt động marketing thương mại điện tử bằng cách tối ưu hóa website Shopify, thực hiện các chiến dịch kỹ thuật số và cải thiện hiệu suất thông qua những insights dựa trên dữ liệu.",
+        "description": "Quản lý website Shopify, triển khai SEO và Email Marketing, tối ưu trải nghiệm người dùng và phân tích dữ liệu bằng GA4 cùng Microsoft Clarity nhằm cải thiện khả năng thu hút và chuyển đổi khách hàng.",
         "skills": [
           "Quản Lý Shopify",
           "SEO & Content Marketing",
@@ -1002,10 +1014,10 @@
         ]
       },
       "tiemNhaCo": {
-        "role": "Chuyên Viên Marketing",
-        "company": "TIEM NHA CO – Cửa Hàng Thời Trang Trực Tuyến",
+        "role": "Đồng sáng lập & Chuyên Viên Marketing",
+        "company": "TIỆM NHÀ CỎ – Cửa Hàng Thời Trang Trực Tuyến",
         "years": "Tháng 9 2023 – Tháng 2 2025",
-        "description": "Quản lý phương tiện truyền thông xã hội, chiến lược nội dung, quảng cáo trả tiền và các chiến dịch khuyến mãi trong khi phát triển nhận thức thương hiệu và sự tham gia của khách hàng.",
+        "description": "Đồng sáng lập và phát triển thương hiệu thời trang online, đồng thời phụ trách chiến lược marketing, xây dựng nội dung, triển khai các chiến dịch trên Facebook và các hoạt động quảng bá nhằm tăng nhận diện thương hiệu và tương tác với khách hàng.",
         "skills": [
           "Phát Triển Facebook & Instagram",
           "Content Marketing",
@@ -1017,7 +1029,7 @@
         "role": "Thực Tập Sinh Lập Kế Hoạch",
         "company": "Delta Engagement Marketing",
         "years": "Tháng 8 2024 – Tháng 12 2024",
-        "description": "Hỗ trợ các dự án lập kế hoạch thông qua nghiên cứu thị trường, phát triển đề xuất và suy nghĩ về chiến dịch cho các khách hàng khác nhau.",
+        "description": "Thực hiện nghiên cứu thị trường, phân tích insight khách hàng và hỗ trợ xây dựng proposal cùng tài liệu trình bày cho nhiều chiến dịch thuộc các ngành hàng khác nhau.",
         "skills": [
           "Nghiên Cứu Thị Trường",
           "Lập Kế Hoạch Chiến Dịch",
@@ -1029,7 +1041,7 @@
         "role": "Thực Tập Sinh Digital Marketing",
         "company": "Công Ty Cổ Phần Realcoin.vn",
         "years": "Tháng 7 2023 – Tháng 10 2023",
-        "description": "Sản xuất nội dung marketing, và tạo các bài viết hướng tới SEO cho các kênh kỹ thuật số.",
+        "description": "Sản xuất nội dung chuẩn SEO, theo dõi hiệu quả chiến dịch và hỗ trợ các hoạt động Digital Marketing thông qua lập kế hoạch nội dung và phân tích dữ liệu.",
         "skills": [
           "Nội Dung SEO",
           "Viết Nội Dung",
@@ -1049,7 +1061,7 @@
     },
     "projectsPage": {
       "myWork": "Kinh nghiệm",
-      "subtitle": "Khám phá các dự án marketing được chọn hoàn thành trong suốt kinh nghiệm chuyên nghiệp của tôi.",
+      "subtitle": "Mỗi dự án phản ánh cách tôi kết hợp tư duy sáng tạo, chiến lược và dữ liệu để giải quyết các bài toán kinh doanh. Từ E-commerce Marketing, Brand Marketing đến AI Image Creation, mọi dự án đều hướng đến những giải pháp thực tiễn và tạo ra kết quả có thể đo lường.",
       "freelance": {
         "title": "Freelance",
         "period": "Tạo hình ảnh AI · Tháng 6 2026",
