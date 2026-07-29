@@ -224,9 +224,9 @@
       "promptEngineering": "Prompt Engineering",
       "imageRefinement": "Image Refinement",
       "commercialDelivery": "Commercial Delivery",
-      "productPhotography": "Product Photography",
-      "lifestyleVisuals": "Lifestyle Visuals",
-      "advertisingCreatives": "Advertising Creatives",
+      "productPhotography": "AI Image Generation",
+      "lifestyleVisuals": "Product Visual Creation",
+      "advertisingCreatives": "Image Refinement",
       "conceptDevelopment": "Concept Development",
       "business": "Business",
       "platforms": "Platforms",
@@ -237,9 +237,9 @@
         "hero": {
           "company": "Freelance",
           "title": "AI Image Creation",
-          "description": "Creating high-quality AI-generated visuals for marketing campaigns, e-commerce, product photography, and brand storytelling. Combining prompt engineering with marketing thinking to produce commercially effective visual content."
+          "description": "Creating custom AI-generated images based on client requirements for websites, e-commerce, and digital content. Delivering high-quality visuals that align with each client's brand and project needs."
         },
-        "about": "As a freelance AI creator, I develop commercial visuals that help businesses present their products more professionally. Instead of relying on traditional photography, I create realistic AI-generated images tailored to each brand's identity and marketing objectives.\n\nThese visuals are used across websites, Shopify stores, Meta advertising, social media, and promotional campaigns.",
+        "about": "As a freelance AI Image Creator, I work with clients to create custom AI-generated images for websites and digital platforms. Based on each client's requirements, I develop visuals that match their products, branding, and intended use. My role focuses on transforming ideas into high-quality images that are ready for commercial use.",
         "snapshot": {
           "role": "Freelance AI Creator",
           "specialization": "AI Image Generation",
@@ -250,9 +250,9 @@
         },
         "overview": "My work focused on creating professional, commercially-ready AI-generated visuals that support product marketing, e-commerce, and advertising campaigns. By combining advanced prompt engineering with marketing strategy, I deliver high-quality images that effectively communicate product value and attract customers.",
         "services": {
-          "productPhotography": "Generate realistic product images suitable for e-commerce websites, marketplaces, and online stores.",
-          "lifestyleVisuals": "Create scenes that help customers imagine products in real-life situations while strengthening brand identity.",
-          "advertisingCreatives": "Design eye-catching visuals optimized for Meta Ads, Instagram, Facebook, and TikTok campaigns.",
+          "productPhotography": "Creating custom AI-generated images based on client requirements for commercial use.",
+          "lifestyleVisuals": "Producing realistic product visuals that accurately represent products and match the client's expectations.",
+          "advertisingCreatives": "Refining AI-generated images through multiple iterations to achieve the desired style, quality, and visual consistency.",
           "conceptDevelopment": "Transform marketing ideas into visual concepts before production, reducing design time and creative costs."
         },
         "workflow": {
@@ -684,7 +684,7 @@
       },
       "keyLearnings": {
         "promptEngineering": {
-          "desc": "This freelance experience strengthened my ability to translate client briefs into commercially effective visuals through AI image generation. Beyond prompt engineering, I learned the importance of understanding branding, composition, lighting, and user experience to create visuals that are both creative and practical for real business needs."
+          "desc": "Through freelance projects, I strengthened my ability to understand client requirements and translate them into AI-generated visuals that meet commercial needs. This experience also improved my attention to detail, visual consistency, and communication throughout the creative process."
         }
       }
     },
@@ -1104,9 +1104,9 @@
       "promptEngineering": "Kỹ Thuật Prompt",
       "imageRefinement": "Hoàn Thiện Hình Ảnh",
       "commercialDelivery": "Giao Hàng Thương Mại",
-      "productPhotography": "Chụp Ảnh Sản Phẩm",
-      "lifestyleVisuals": "Hình Ảnh Lối Sống",
-      "advertisingCreatives": "Nội Dung Quảng Cáo Sáng Tạo",
+      "productPhotography": "Tạo Hình Ảnh AI",
+      "lifestyleVisuals": "Tạo Hình Ảnh Sản Phẩm",
+      "advertisingCreatives": "Hoàn Thiện Hình Ảnh",
       "conceptDevelopment": "Phát Triển Khái Niệm",
       "business": "Doanh Nghiệp",
       "platforms": "Nền Tảng",
@@ -1117,9 +1117,9 @@
         "hero": {
           "company": "Freelance",
           "title": "Tạo Hình Ảnh AI",
-          "description": "Tạo hình ảnh bằng AI chất lượng cao theo yêu cầu của khách hàng cho website, thương mại điện tử và các hoạt động marketing số. Sử dụng kỹ thuật prompt engineering để tạo ra những hình ảnh có tính ứng dụng thương mại và phù hợp với định hướng thương hiệu."
+          "description": "Tạo hình ảnh bằng AI theo yêu cầu của khách hàng để sử dụng trên website, nền tảng thương mại điện tử và các nội dung số. Mang đến những hình ảnh chất lượng cao, phù hợp với nhận diện thương hiệu và mục tiêu của từng dự án."
         },
-        "about": "Là một AI Image Creator làm việc tự do, tôi tạo ra các hình ảnh AI theo yêu cầu của khách hàng để sử dụng trên website, cửa hàng thương mại điện tử và các tài liệu marketing. Kết hợp công cụ tạo ảnh AI với kỹ thuật prompt engineering, tôi mang đến những hình ảnh chân thực, chất lượng cao, phù hợp với nhận diện thương hiệu và giúp sản phẩm được trình bày chuyên nghiệp, thu hút hơn trên môi trường số.",
+        "about": "Là một AI Image Creator làm việc tự do, tôi hợp tác với khách hàng để tạo ra các hình ảnh bằng AI theo yêu cầu cho website và các nền tảng số. Dựa trên từng brief, tôi phát triển hình ảnh phù hợp với sản phẩm, nhận diện thương hiệu và mục đích sử dụng của khách hàng. Vai trò của tôi tập trung vào việc chuyển hóa ý tưởng thành những hình ảnh chất lượng cao, sẵn sàng cho mục đích thương mại.",
         "snapshot": {
           "role": "AI Image Creator (Freelancer)",
           "specialization": "Tạo hình ảnh bằng AI",
@@ -1130,9 +1130,9 @@
         },
         "overview": "Công việc của tôi tập trung vào việc tạo ra hình ảnh được tạo bằng AI chuyên nghiệp và sẵn sàng thương mại hỗ trợ marketing sản phẩm, thương mại điện tử và các chiến dịch quảng cáo. Bằng cách kết hợp kỹ thuật prompt engineering tiên tiến với chiến lược marketing, tôi cung cấp hình ảnh chất lượng cao giúp giao tiếp hiệu quả giá trị sản phẩm và thu hút khách hàng.",
         "services": {
-          "productPhotography": "Tạo hình ảnh sản phẩm thực tế phù hợp với các trang web thương mại điện tử, thị trường và cửa hàng trực tuyến.",
-          "lifestyleVisuals": "Tạo các cảnh giúp khách hàng tưởng tượng sản phẩm trong các tình huống thực tế trong khi tăng cường danh tính thương hiệu.",
-          "advertisingCreatives": "Thiết kế hình ảnh hấp dẫn tối ưu hóa cho Meta Ads, Instagram, Facebook và các chiến dịch TikTok.",
+          "productPhotography": "Tạo hình ảnh bằng AI theo yêu cầu của khách hàng phục vụ mục đích thương mại.",
+          "lifestyleVisuals": "Xây dựng hình ảnh sản phẩm chân thực, phù hợp với đặc điểm sản phẩm và yêu cầu của khách hàng.",
+          "advertisingCreatives": "Tinh chỉnh hình ảnh AI qua nhiều lần chỉnh sửa để đạt được phong cách, chất lượng và tính nhất quán theo mong muốn của khách hàng.",
           "conceptDevelopment": "Biến các ý tưởng marketing thành các khái niệm hình ảnh trước khi sản xuất, giảm thời gian thiết kế và chi phí sáng tạo."
         },
         "workflow": {
@@ -1564,7 +1564,7 @@
       },
       "keyLearnings": {
         "promptEngineering": {
-          "desc": "Dự án này giúp tôi nâng cao khả năng chuyển hóa yêu cầu của khách hàng thành những hình ảnh có giá trị ứng dụng thương mại thông qua AI. Bên cạnh kỹ thuật prompt engineering, tôi hiểu rõ hơn về vai trò của nhận diện thương hiệu, bố cục, ánh sáng và trải nghiệm người dùng trong việc tạo ra những hình ảnh vừa sáng tạo vừa đáp ứng nhu cầu kinh doanh thực tế."
+          "desc": "Thông qua các dự án freelance, tôi nâng cao khả năng tiếp nhận yêu cầu của khách hàng và chuyển hóa chúng thành những hình ảnh AI đáp ứng nhu cầu thực tế. Đồng thời, tôi cũng phát triển kỹ năng chú ý đến chi tiết, duy trì sự nhất quán trong hình ảnh và giao tiếp hiệu quả trong suốt quá trình làm việc."
         }
       }
     },
