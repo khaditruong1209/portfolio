@@ -173,7 +173,7 @@
         }
       },
       "wigiHair": {
-        "title": "WIGI Hair",
+        "title": "GEW Vietnam",
         "period": "Marketing Executive · Apr 2025 – Present",
         "brandMarketing": {
           "title": "Brand Marketing",
@@ -218,6 +218,7 @@
       "focus": "Focus",
       "duration": "Duration",
       "company": "Company",
+      "brand": "Brand",
       "targetMarket": "Target Market",
       "platform": "Platform",
       "research": "Research",
@@ -266,10 +267,10 @@
         "hero": {
           "company": "WIGI Hair",
           "title": "Brand Marketing & SEO",
-          "description": "Supporting WIGI Hair's online brand presence by managing Shopify website content, developing campaign landing pages, and improving organic visibility through SEO best practices."
+          "description": "Supporting the growth of WIGI Hair, a premium hair extension brand under GEW Vietnam, through Shopify website management, landing page development, and SEO optimization."
         },
         "about": "WIGI Hair is an e-commerce brand specializing in premium human hair extensions, helping women achieve natural, confidence-boosting hairstyles.\n\nThe brand primarily serves customers across the United States and focuses on delivering high-quality products, personalized customer support, and a seamless online shopping experience.",
-        "overview": "As a Marketing Executive, I managed WIGI Hair's Shopify website and supported the brand's organic growth through SEO. My responsibilities included maintaining website content, creating promotional landing pages, publishing and reviewing blog articles, optimizing on-page SEO, and monitoring search performance to improve visibility and user experience.",
+        "overview": "As a Marketing Executive at GEW Vietnam, I was responsible for managing the Shopify website and SEO activities for WIGI Hair, a hair extension brand serving the U.S. market. My responsibilities included maintaining website content, developing campaign landing pages, reviewing blog content, optimizing on-page SEO, and monitoring search performance to improve visibility and user experience.",
         "responsibilities": "My Responsibilities",
         "resp": {
           "shopifyWebsiteManagement": {
@@ -311,28 +312,28 @@
         "featuredWorks": "Featured Works",
         "works": {
           "homepageBanner": {
-            "title": "Homepage Campaign Banner",
-            "desc": "Seasonal homepage visuals designed to highlight promotions and new product launches."
+            "title": "Homepage Banner",
+            "desc": "Designed and updated homepage banners to communicate seasonal campaigns, promotions, and product highlights while maintaining a consistent brand identity."
           },
-          "collectionBanner": {
-            "title": "Collection Banner",
-            "desc": "Promotional banners created for product collections to enhance visual consistency."
+          "campaignLandingPages": {
+            "title": "Campaign Landing Pages",
+            "desc": "Developed dedicated landing pages for promotional campaigns and product launches with optimized layouts and user-focused content."
           },
-          "emailCampaign": {
-            "title": "Email Campaign Visual",
-            "desc": "Banner designs supporting Klaviyo campaigns and promotional newsletters."
+          "websiteContentManagement": {
+            "title": "Website Content Management",
+            "desc": "Maintained website content by updating navigation, footer, promotional sections, and storefront information to keep the website accurate and up to date."
           },
-          "productPage": {
-            "title": "Product Page Assets",
-            "desc": "Marketing visuals prepared for Shopify product pages to improve presentation."
+          "blogManagement": {
+            "title": "Blog Management",
+            "desc": "Published and reviewed SEO blog articles, ensuring content quality, keyword implementation, and proper formatting before publication."
           },
-          "socialMedia": {
-            "title": "Social Media Creative",
-            "desc": "Promotional graphics supporting campaign communication across digital channels."
+          "searchPerformance": {
+            "title": "Search Performance",
+            "desc": "Monitored indexing, keyword performance, and website visibility using SEO tools to identify opportunities for organic growth."
           },
-          "landingPage": {
-            "title": "Landing Page Design",
-            "desc": "Marketing assets prepared for campaign landing pages and promotional events."
+          "seoReporting": {
+            "title": "SEO Reporting",
+            "desc": "Prepared SEO performance reports to evaluate website growth and support ongoing optimization strategies."
           }
         },
         "tools": "Tools",
@@ -343,25 +344,26 @@
           "Canva",
           "ChatGPT",
           "Google Search Console",
-          "Microsoft Clarity"
+          "Microsoft Clarity",
+          "Sinbyte"
         ],
         "keyLearnings": "Key Learnings",
         "learnings": {
-          "collaboration": {
-            "title": "Cross-functional Collaboration",
-            "desc": "Collaborated with designers and marketers to deliver consistent campaign assets and strengthen communication throughout the creative process."
+          "websiteContentManagement": {
+            "title": "01. Website Content Management",
+            "desc": "Learned how to maintain and organize Shopify website content while ensuring consistency across every customer touchpoint."
           },
-          "brandConsistency": {
-            "title": "Brand Consistency",
-            "desc": "Developed a deeper understanding of maintaining a unified visual identity across websites, promotional materials, and marketing campaigns."
+          "seoBestPractices": {
+            "title": "02. SEO Best Practices",
+            "desc": "Developed practical experience in on-page SEO, content publishing, indexing, and keyword optimization to improve organic search visibility."
           },
-          "customerFocused": {
-            "title": "Customer-focused Marketing",
-            "desc": "Learned how branding decisions influence customer experience throughout the online shopping journey."
+          "contentQualityControl": {
+            "title": "03. Content Quality Control",
+            "desc": "Strengthened attention to detail by reviewing website and blog content before publication to ensure accuracy and brand consistency."
           },
-          "marketingExecution": {
-            "title": "Marketing Execution",
-            "desc": "Strengthened practical experience in coordinating marketing campaigns from planning to launch."
+          "continuousImprovement": {
+            "title": "04. Continuous Improvement",
+            "desc": "Built a data-driven mindset by monitoring SEO performance and continuously refining website content to support long-term business growth."
           }
         }
       },
@@ -691,7 +693,9 @@
     "brandMarketingExtended": {
       "snapshot": {
         "company": "Company",
-        "companyValue": "WIGI Hair",
+        "companyValue": "GEW Vietnam",
+        "brand": "Brand",
+        "brandValue": "WIGI Hair",
         "industry": "Industry",
         "industryValue": "Human Hair Extensions",
         "targetMarket": "Target Market",
@@ -1053,7 +1057,7 @@
         }
       },
       "wigiHair": {
-        "title": "WIGI Hair",
+        "title": "GEW Vietnam",
         "period": "Chuyên Viên Marketing · Tháng 4 2025 – Hiện Tại",
         "brandMarketing": {
           "title": "Marketing Thương Hiệu",
@@ -1098,6 +1102,7 @@
       "focus": "Trọng Tâm",
       "duration": "Thời Gian",
       "company": "Khách Hàng",
+      "brand": "Thương Hiệu",
       "targetMarket": "Thị Trường Mục Tiêu",
       "platform": "Nền Tảng",
       "research": "Nghiên Cứu",
@@ -1146,10 +1151,10 @@
         "hero": {
           "company": "WIGI Hair",
           "title": "Marketing Thương Hiệu & SEO",
-          "description": "Phát triển sự hiện diện trực tuyến của WIGI Hair thông qua quản lý nội dung website Shopify, xây dựng landing page cho các chiến dịch và tối ưu SEO nhằm gia tăng khả năng hiển thị tự nhiên."
+          "description": "Đồng hành phát triển WIGI Hair – thương hiệu tóc nối thuộc GEW Vietnam – thông qua quản lý website Shopify, xây dựng landing page và tối ưu SEO."
         },
         "about": "WIGI Hair là một thương hiệu thương mại điện tử chuyên về các phần mở rộng tóc con người cao cấp, giúp phụ nữ đạt được các kiểu tóc tự nhiên và tăng cường sự tự tin.\n\nThương hiệu chủ yếu phục vụ khách hàng trên khắp Hoa Kỳ và tập trung vào việc cung cấp sản phẩm chất lượng cao, hỗ trợ khách hàng cá nhân hóa và trải nghiệm mua sắm trực tuyến liền mạch.",
-        "overview": "Với vai trò Marketing Executive, tôi quản lý website Shopify của WIGI Hair và hỗ trợ phát triển lượng truy cập tự nhiên thông qua SEO. Công việc bao gồm quản lý nội dung website, xây dựng landing page cho các chiến dịch, đăng tải và kiểm tra bài viết blog, tối ưu SEO on-page và theo dõi hiệu quả tìm kiếm nhằm nâng cao khả năng hiển thị cũng như trải nghiệm người dùng.",
+        "overview": "Với vai trò Marketing Executive tại GEW Vietnam, tôi phụ trách quản lý website Shopify và các hoạt động SEO cho WIGI Hair – thương hiệu tóc nối hướng đến thị trường Hoa Kỳ. Công việc của tôi bao gồm quản lý nội dung website, xây dựng landing page, kiểm tra bài viết blog, tối ưu SEO on-page và theo dõi hiệu quả tìm kiếm nhằm nâng cao khả năng hiển thị cũng như trải nghiệm người dùng.",
         "responsibilities": "Trách Nhiệm Của Tôi",
         "resp": {
           "shopifyWebsiteManagement": {
@@ -1191,28 +1196,28 @@
         "featuredWorks": "Các Công Việc Nổi Bật",
         "works": {
           "homepageBanner": {
-            "title": "Banner Chiến Dịch Trang Chủ",
-            "desc": "Hình ảnh trang chủ theo mùa được thiết kế để làm nổi bật các chương trình khuyến mãi và ra mắt sản phẩm mới."
+            "title": "Banner Trang Chủ",
+            "desc": "Thiết kế và cập nhật banner trang chủ nhằm truyền tải các chiến dịch theo mùa, chương trình khuyến mãi và điểm nổi bật của sản phẩm, đồng thời duy trì hình ảnh thương hiệu nhất quán."
           },
-          "collectionBanner": {
-            "title": "Banner Bộ Sưu Tập",
-            "desc": "Banner quảng cáo được tạo cho các bộ sưu tập sản phẩm để tăng cường tính nhất quán trực quan."
+          "campaignLandingPages": {
+            "title": "Campaign Landing Pages",
+            "desc": "Xây dựng landing page dành riêng cho các chiến dịch quảng bá và ra mắt sản phẩm với bố cục tối ưu và nội dung hướng đến trải nghiệm người dùng."
           },
-          "emailCampaign": {
-            "title": "Hình Ảnh Chiến Dịch Email",
-            "desc": "Thiết kế banner hỗ trợ các chiến dịch Klaviyo và bản tin quảng cáo."
+          "websiteContentManagement": {
+            "title": "Quản Lý Nội Dung Website",
+            "desc": "Quản lý nội dung website thông qua việc cập nhật menu điều hướng, footer, khu vực khuyến mãi và các thông tin trên website nhằm đảm bảo nội dung luôn chính xác và được cập nhật."
           },
-          "productPage": {
-            "title": "Tài Sản Trang Sản Phẩm",
-            "desc": "Hình ảnh marketing được chuẩn bị cho các trang sản phẩm Shopify để cải thiện cách trình bày."
+          "blogManagement": {
+            "title": "Quản Lý Blog",
+            "desc": "Đăng tải và kiểm tra các bài viết blog chuẩn SEO, đảm bảo chất lượng nội dung, việc triển khai từ khóa và định dạng trước khi xuất bản."
           },
-          "socialMedia": {
-            "title": "Nội Dung Sáng Tạo Phương Tiện Xã Hội",
-            "desc": "Đồ họa quảng cáo hỗ trợ giao tiếp chiến dịch trên các kênh kỹ thuật số."
+          "searchPerformance": {
+            "title": "Hiệu Suất Tìm Kiếm",
+            "desc": "Theo dõi tình trạng index, hiệu quả từ khóa và khả năng hiển thị của website bằng các công cụ SEO nhằm tìm kiếm cơ hội tăng trưởng organic."
           },
-          "landingPage": {
-            "title": "Thiết Kế Trang Hạ Cánh",
-            "desc": "Tài sản marketing được chuẩn bị cho các trang hạ cánh chiến dịch và sự kiện quảng cáo."
+          "seoReporting": {
+            "title": "Báo Cáo SEO",
+            "desc": "Xây dựng báo cáo SEO nhằm đánh giá sự phát triển của website và hỗ trợ các chiến lược tối ưu trong tương lai."
           }
         },
         "tools": "Công Cụ",
@@ -1223,25 +1228,26 @@
           "Canva",
           "ChatGPT",
           "Google Search Console",
-          "Microsoft Clarity"
+          "Microsoft Clarity",
+          "Sinbyte"
         ],
         "keyLearnings": "Những Bài Học Chính",
         "learnings": {
-          "collaboration": {
-            "title": "Hợp Tác Đa Chức Năng",
-            "desc": "Hợp tác với các nhà thiết kế và chuyên viên marketing để cung cấp các tài sản chiến dịch nhất quán và tăng cường giao tiếp trong suốt quá trình sáng tạo."
+          "websiteContentManagement": {
+            "title": "01. Quản Lý Nội Dung Website",
+            "desc": "Hiểu cách quản lý và tổ chức nội dung trên website Shopify, đồng thời duy trì sự nhất quán tại mọi điểm chạm với khách hàng."
           },
-          "brandConsistency": {
-            "title": "Tính Nhất Quán Của Thương Hiệu",
-            "desc": "Phát triển sự hiểu biết sâu hơn về việc duy trì danh tính hình ảnh thống nhất trên các trang web, tài liệu quảng cáo và các chiến dịch marketing."
+          "seoBestPractices": {
+            "title": "02. Thực Hành SEO Tốt Nhất",
+            "desc": "Tích lũy kinh nghiệm thực tế về SEO on-page, quản lý nội dung, index và tối ưu từ khóa nhằm cải thiện khả năng hiển thị tự nhiên."
           },
-          "customerFocused": {
-            "title": "Marketing Hướng Tới Khách Hàng",
-            "desc": "Tìm hiểu cách các quyết định thương hiệu ảnh hưởng đến trải nghiệm khách hàng trong suốt hành trình mua sắm trực tuyến."
+          "contentQualityControl": {
+            "title": "03. Kiểm Soát Chất Lượng Nội Dung",
+            "desc": "Nâng cao khả năng kiểm soát chất lượng thông qua việc rà soát nội dung website và blog trước khi xuất bản, đảm bảo tính chính xác và sự nhất quán của thương hiệu."
           },
-          "marketingExecution": {
-            "title": "Thực Hiện Marketing",
-            "desc": "Tăng cường trải nghiệm thực tế trong việc phối hợp các chiến dịch marketing từ kế hoạch đến ra mắt."
+          "continuousImprovement": {
+            "title": "04. Cải Tiến Liên Tục",
+            "desc": "Hình thành tư duy cải tiến liên tục thông qua việc theo dõi hiệu quả SEO và tối ưu nội dung website nhằm hỗ trợ tăng trưởng bền vững."
           }
         }
       },
@@ -1571,7 +1577,9 @@
     "brandMarketingExtended": {
       "snapshot": {
         "company": "Công Ty",
-        "companyValue": "WIGI Hair",
+        "companyValue": "GEW Vietnam",
+        "brand": "Thương Hiệu",
+        "brandValue": "WIGI Hair",
         "industry": "Lĩnh Vực",
         "industryValue": "Phần Mở Rộng Tóc Con Người",
         "targetMarket": "Thị Trường Mục Tiêu",
