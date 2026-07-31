@@ -16,7 +16,7 @@
       "title": "Featured Projects",
       "viewAll": "View All Work →",
       "aiImage": "AI Image Creation",
-      "brandMarketing": "Brand Marketing",
+      "brandMarketing": "Brand Marketing & SEO",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Shopify & UX/UI",
       "metaMarketing": "Meta Marketing",
@@ -176,7 +176,7 @@
         "title": "GEW Vietnam",
         "period": "Marketing Executive · Apr 2025 – Present",
         "brandMarketing": {
-          "title": "Brand Marketing",
+          "title": "Brand Marketing & SEO",
           "description": "Supported brand growth through campaign planning, market research, digital marketing strategy, and performance analysis while maintaining a consistent brand experience across multiple online channels."
         },
         "emailMarketing": {
@@ -371,65 +371,73 @@
         "hero": {
           "company": "WIGI Hair",
           "title": "Email Marketing",
-          "description": "Designing and executing email marketing strategies using Klaviyo to nurture customer relationships, drive repeat purchases, and maximize customer lifetime value."
+          "description": "Strengthening customer relationships through strategic email campaigns, automated customer journeys, and data-driven optimization using Klaviyo."
         },
         "about": "WIGI Hair is a premium e-commerce brand specializing in human hair extensions for the United States market. The company focuses on delivering salon-quality products through Shopify while building long-term customer relationships with personalized marketing and exceptional online experiences.",
-        "overview": "Planned and managed email marketing campaigns, automated customer journeys, and lifecycle communications using Klaviyo. Focused on improving customer retention, repeat purchases, and campaign performance through data-driven optimization.",
+        "overview": "As a Marketing Executive at GEW Vietnam, I managed email marketing activities for WIGI Hair using Klaviyo. My responsibilities included planning promotional campaigns, building automated email flows, segmenting customer audiences, coordinating email content and visuals, and analyzing campaign performance to improve customer engagement and retention.",
         "responsibilities": "My Responsibilities",
         "tools": "Tools",
         "keyLearnings": "Key Learnings",
         "learnings": {
-          "segmentation": {
-            "title": "Customer Segmentation",
-            "desc": "Personalized emails significantly improve customer engagement."
+          "lifecycleEmailMarketing": {
+            "title": "01. Lifecycle Email Marketing",
+            "desc": "Developed a deeper understanding of customer lifecycle marketing by creating automated email journeys that support customer acquisition, retention, and repeat purchases."
           },
-          "automation": {
-            "title": "Automation",
-            "desc": "Lifecycle email flows help increase retention and repeat purchases."
+          "marketingAutomation": {
+            "title": "02. Marketing Automation",
+            "desc": "Learned how to build and optimize automated workflows that deliver timely and personalized experiences throughout the customer journey."
           },
-          "optimization": {
-            "title": "Optimization",
-            "desc": "Continuous testing improves subject lines, layouts, and click performance."
+          "performanceAnalysis": {
+            "title": "03. Performance Analysis",
+            "desc": "Strengthened analytical thinking by evaluating campaign performance and transforming insights into continuous improvements for future email strategies."
           },
-          "dataAnalysis": {
-            "title": "Data Analysis",
-            "desc": "Monitoring campaign metrics supports better marketing decisions and future planning."
+          "customerEngagement": {
+            "title": "04. Customer Engagement",
+            "desc": "Gained practical experience in delivering relevant and personalized communications that strengthen customer relationships and long-term brand loyalty."
           }
         },
         "resp": {
           "campaignPlanning": {
-            "title": "Campaign Planning",
-            "desc": "Planned weekly newsletters, promotional campaigns, seasonal sales, and product launch emails."
+            "title": "01. Campaign Planning & Execution",
+            "desc": "Planned and executed promotional email campaigns for seasonal sales, product launches, and marketing events while maintaining brand consistency across all communications."
           },
           "marketingAutomation": {
-            "title": "Marketing Automation",
-            "desc": "Built and optimized Welcome Series, Abandoned Cart, Browse Abandonment, and customer lifecycle flows."
+            "title": "02. Marketing Automation",
+            "desc": "Built, maintained, and optimized automated email flows, including Welcome Series, Abandoned Cart, Browse Abandonment, and post-purchase journeys to improve customer engagement."
           },
           "customerSegmentation": {
-            "title": "Customer Segmentation",
-            "desc": "Created audience segments based on customer behavior, purchase history, and engagement level."
+            "title": "03. Audience Segmentation & Content Management",
+            "desc": "Managed customer segments, coordinated email content and visuals, and ensured campaigns reached the right audience with relevant messaging."
           },
           "performanceAnalysis": {
-            "title": "Performance Analysis",
-            "desc": "Tracked campaign performance using open rate, click rate, revenue, and customer engagement metrics."
+            "title": "04. Performance Analysis & Optimization",
+            "desc": "Monitored campaign performance through key metrics such as open rate, click rate, and conversion rate, using insights to continuously optimize future campaigns."
           }
         },
-        "workflow": {
-          "planning": {
-            "title": "01. Planning",
-            "desc": "Defined campaign objectives, audience, and promotional calendar."
+        "works": {
+          "promotionalCampaigns": {
+            "title": "Promotional Campaigns",
+            "desc": "Created promotional email campaigns for seasonal offers, limited-time discounts, and special marketing events."
           },
-          "emailDesign": {
-            "title": "02. Email Design",
-            "desc": "Designed layouts and marketing content consistent with the WIGI Hair brand."
+          "welcomeSeries": {
+            "title": "Welcome Series",
+            "desc": "Developed automated welcome emails to introduce the brand, encourage first purchases, and improve customer onboarding."
           },
-          "automationSetup": {
-            "title": "03. Automation Setup",
-            "desc": "Configured email flows, triggers, and customer segmentation in Klaviyo."
+          "abandonedCartFlow": {
+            "title": "Abandoned Cart Flow",
+            "desc": "Optimized abandoned cart automation to recover potential sales through personalized reminder emails."
           },
-          "optimization": {
-            "title": "04. Optimization",
-            "desc": "Monitored campaign results and continuously improved email performance."
+          "browseAbandonmentFlow": {
+            "title": "Browse Abandonment Flow",
+            "desc": "Maintained browse abandonment flows to re-engage visitors who viewed products without completing a purchase."
+          },
+          "emailPerformanceReports": {
+            "title": "Email Performance Reports",
+            "desc": "Prepared campaign performance reports to evaluate customer engagement and identify opportunities for continuous improvement."
+          },
+          "campaignOptimization": {
+            "title": "Campaign Optimization",
+            "desc": "Refined email strategies based on customer behavior, engagement metrics, and campaign performance to maximize marketing effectiveness."
           }
         }
       },
@@ -771,7 +779,9 @@
     "emailMarketingExtended": {
       "snapshot": {
         "company": "Company",
-        "companyValue": "WIGI Hair",
+        "companyValue": "GEW Vietnam",
+        "brand": "Brand",
+        "brandValue": "WIGI Hair",
         "industry": "Industry",
         "industryValue": "Human Hair Extensions",
         "targetMarket": "Target Market",
@@ -901,7 +911,7 @@
       "title": "Dự Án Nổi Bật",
       "viewAll": "Xem Tất Cả →",
       "aiImage": "Tạo Hình Ảnh AI",
-      "brandMarketing": "Marketing Thương Hiệu",
+      "brandMarketing": "Marketing Thương Hiệu & SEO",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Shopify & Tối Ưu UX/UI",
       "metaMarketing": "Meta Marketing",
@@ -1060,7 +1070,7 @@
         "title": "GEW Vietnam",
         "period": "Chuyên Viên Marketing · Tháng 4 2025 – Hiện Tại",
         "brandMarketing": {
-          "title": "Marketing Thương Hiệu",
+          "title": "Marketing Thương Hiệu & SEO",
           "description": "Hỗ trợ phát triển thương hiệu thông qua lập kế hoạch chiến dịch, nghiên cứu thị trường, xây dựng chiến lược digital marketing và phân tích hiệu quả, đồng thời duy trì sự nhất quán của thương hiệu trên nhiều kênh trực tuyến."
         },
         "emailMarketing": {
@@ -1255,65 +1265,73 @@
         "hero": {
           "company": "WIGI HAIR",
           "title": "Email Marketing",
-          "description": "Thiết kế và thực hiện các chiến lược email marketing bằng cách sử dụng Klaviyo để nuôi dưỡng mối quan hệ khách hàng, thúc đẩy lặp lại mua hàng và tối đa hóa giá trị suốt đời của khách hàng."
+          "description": "Xây dựng mối quan hệ bền vững với khách hàng thông qua các chiến dịch email, chuỗi email tự động và tối ưu hiệu quả dựa trên dữ liệu bằng Klaviyo."
         },
         "about": "WIGI Hair là một thương hiệu thương mại điện tử cao cấp chuyên về các phần mở rộng tóc con người cho thị trường Hoa Kỳ. Công ty tập trung vào việc cung cấp các sản phẩm chất lượng salon thông qua Shopify trong khi xây dựng các mối quan hệ khách hàng dài hạn với marketing cá nhân hóa và những trải nghiệm trực tuyến ngoài sức tưởng tượng.",
-        "overview": "Lập kế hoạch và quản lý các chiến dịch email marketing, hành trình khách hàng tự động và giao tiếp vòng đời bằng cách sử dụng Klaviyo. Tập trung vào việc cải thiện lòng trung thành của khách hàng, lặp lại mua hàng và hiệu suất chiến dịch thông qua tối ưu hóa dựa trên dữ liệu.",
+        "overview": "Với vai trò Marketing Executive tại GEW Vietnam, tôi phụ trách các hoạt động Email Marketing cho WIGI Hair bằng Klaviyo. Công việc bao gồm lập kế hoạch chiến dịch email, xây dựng các chuỗi email tự động, phân nhóm khách hàng, phối hợp nội dung và hình ảnh email, đồng thời phân tích hiệu quả chiến dịch nhằm tăng mức độ tương tác và giữ chân khách hàng.",
         "responsibilities": "Trách Nhiệm Của Tôi",
         "tools": "Công Cụ",
         "keyLearnings": "Những Bài Học Chính",
         "learnings": {
-          "segmentation": {
-            "title": "Phân Đoạn Khách Hàng",
-            "desc": "Email được cá nhân hóa đáng kể cải thiện tỷ lệ mở và sự tham gia của khách hàng."
+          "lifecycleEmailMarketing": {
+            "title": "01. Email Marketing Theo Vòng Đời Khách Hàng",
+            "desc": "Hiểu rõ hơn về marketing theo vòng đời khách hàng thông qua việc xây dựng các chuỗi email tự động nhằm thu hút, giữ chân và thúc đẩy khách hàng quay lại mua hàng."
           },
-          "automation": {
-            "title": "Tự Động Hóa",
-            "desc": "Các luồng email vòng đời giúp tăng lòng trung thành và lặp lại mua hàng."
+          "marketingAutomation": {
+            "title": "02. Tự Động Hóa Marketing",
+            "desc": "Nâng cao kỹ năng xây dựng và tối ưu các quy trình tự động hóa nhằm mang đến trải nghiệm cá nhân hóa và đúng thời điểm cho khách hàng."
           },
-          "optimization": {
-            "title": "Tối Ưu Hóa",
-            "desc": "Kiểm tra liên tục cải thiện dòng tiêu đề, bố cục và hiệu suất nhấp chuột."
+          "performanceAnalysis": {
+            "title": "03. Phân Tích Hiệu Quả",
+            "desc": "Phát triển tư duy phân tích thông qua việc đánh giá hiệu quả chiến dịch và chuyển đổi dữ liệu thành các cải tiến cho những chiến dịch tiếp theo."
           },
-          "dataAnalysis": {
-            "title": "Phân Tích Dữ Liệu",
-            "desc": "Giám sát các chỉ số chiến dịch hỗ trợ các quyết định marketing tốt hơn và lập kế hoạch trong tương lai."
+          "customerEngagement": {
+            "title": "04. Tương Tác Khách Hàng",
+            "desc": "Tích lũy kinh nghiệm trong việc xây dựng các nội dung giao tiếp phù hợp và cá nhân hóa nhằm tăng mức độ gắn kết của khách hàng và xây dựng lòng trung thành với thương hiệu."
           }
         },
         "resp": {
           "campaignPlanning": {
-            "title": "Lập Kế Hoạch Chiến Dịch",
-            "desc": "Lập kế hoạch bản tin hàng tuần, chiến dịch khuyến mãi, bán hàng theo mùa và email ra mắt sản phẩm."
+            "title": "01. Lập Kế Hoạch & Triển Khai Chiến Dịch",
+            "desc": "Lập kế hoạch và triển khai các chiến dịch email cho chương trình khuyến mãi theo mùa, ra mắt sản phẩm và các hoạt động marketing, đồng thời đảm bảo sự nhất quán của thương hiệu trong mọi nội dung gửi đến khách hàng."
           },
           "marketingAutomation": {
-            "title": "Tự Động Hóa Marketing",
-            "desc": "Xây dựng và tối ưu hóa Chuỗi Chào Mừng, Giỏ Hàng Bỏ Rơi, Lướt Qua Bỏ Rơi và các luồng vòng đời khách hàng."
+            "title": "02. Tự Động Hóa Marketing",
+            "desc": "Xây dựng, duy trì và tối ưu các chuỗi email tự động như Welcome Series, Abandoned Cart, Browse Abandonment và sau mua hàng nhằm nâng cao mức độ tương tác của khách hàng."
           },
           "customerSegmentation": {
-            "title": "Phân Đoạn Khách Hàng",
-            "desc": "Tạo các phân khúc khán giả dựa trên hành vi khách hàng, lịch sử mua hàng và mức độ tham gia."
+            "title": "03. Phân Nhóm Khách Hàng & Quản Lý Nội Dung",
+            "desc": "Quản lý phân khúc khách hàng, phối hợp nội dung và hình ảnh email, đồng thời đảm bảo mỗi chiến dịch được gửi đến đúng nhóm khách hàng với thông điệp phù hợp."
           },
           "performanceAnalysis": {
-            "title": "Phân Tích Hiệu Suất",
-            "desc": "Theo dõi hiệu suất chiến dịch bằng cách sử dụng tỷ lệ mở, tỷ lệ nhấp chuột, doanh thu và các chỉ số sự tham gia của khách hàng."
+            "title": "04. Phân Tích Hiệu Quả & Tối Ưu Hóa",
+            "desc": "Theo dõi hiệu quả chiến dịch thông qua các chỉ số như Open Rate, Click Rate và Conversion Rate, đồng thời sử dụng dữ liệu để tối ưu các chiến dịch tiếp theo."
           }
         },
-        "workflow": {
-          "planning": {
-            "title": "01. Lập Kế Hoạch",
-            "desc": "Xác định mục tiêu chiến dịch, khán giả và lịch khuyến mãi."
+        "works": {
+          "promotionalCampaigns": {
+            "title": "Xây dựng Chiến Dịch Quảng Bá",
+            "desc": "Xây dựng các chiến dịch email quảng bá cho chương trình ưu đãi theo mùa, giảm giá trong thời gian giới hạn và các sự kiện marketing."
           },
-          "emailDesign": {
-            "title": "02. Thiết Kế Email",
-            "desc": "Thiết kế bố cục và nội dung marketing phù hợp với thương hiệu WIGI Hair."
+          "welcomeSeries": {
+            "title": "Welcome Series",
+            "desc": "Xây dựng chuỗi email chào mừng nhằm giới thiệu thương hiệu, khuyến khích đơn hàng đầu tiên và cải thiện trải nghiệm của khách hàng mới."
           },
-          "automationSetup": {
-            "title": "03. Thiết Lập Tự Động Hóa",
-            "desc": "Cấu hình các luồng email, kích hoạt và phân khúc khách hàng trong Klaviyo."
+          "abandonedCartFlow": {
+            "title": "Chuỗi Email Giỏ Hàng Bỏ Rơi",
+            "desc": "Tối ưu chuỗi email giỏ hàng bị bỏ quên nhằm tăng tỷ lệ khôi phục đơn hàng thông qua các email nhắc nhở được cá nhân hóa."
           },
-          "optimization": {
-            "title": "04. Tối Ưu Hóa",
-            "desc": "Giám sát kết quả chiến dịch và liên tục cải thiện hiệu suất email."
+          "browseAbandonmentFlow": {
+            "title": "Chuỗi Email Browse Abandonment",
+            "desc": "Quản lý chuỗi email Browse Abandonment nhằm thu hút lại những khách hàng đã xem sản phẩm nhưng chưa hoàn tất mua hàng."
+          },
+          "emailPerformanceReports": {
+            "title": "Báo Cáo Hiệu Quả Email",
+            "desc": "Xây dựng báo cáo hiệu quả chiến dịch nhằm đánh giá mức độ tương tác của khách hàng và tìm kiếm cơ hội tối ưu."
+          },
+          "campaignOptimization": {
+            "title": "Tối Ưu Hóa Chiến Dịch",
+            "desc": "Điều chỉnh chiến lược email dựa trên hành vi khách hàng, dữ liệu tương tác và hiệu quả chiến dịch nhằm nâng cao hiệu quả marketing."
           }
         }
       },
@@ -1655,7 +1673,9 @@
     "emailMarketingExtended": {
       "snapshot": {
         "company": "Công Ty",
-        "companyValue": "WIGI Hair",
+        "companyValue": "GEW Vietnam",
+        "brand": "Thương Hiệu",
+        "brandValue": "WIGI Hair",
         "industry": "Lĩnh Vực",
         "industryValue": "Phần Mở Rộng Tóc Con Người",
         "targetMarket": "Thị Trường Mục Tiêu",
