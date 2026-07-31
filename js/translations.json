@@ -265,28 +265,28 @@
       "brandMarketing": {
         "hero": {
           "company": "WIGI Hair",
-          "title": "Brand Marketing",
-          "description": "Supporting the growth of WIGI Hair through brand communication, creative coordination, and marketing execution for the United States market."
+          "title": "Brand Marketing & SEO",
+          "description": "Supporting WIGI Hair's online brand presence by managing Shopify website content, developing campaign landing pages, and improving organic visibility through SEO best practices."
         },
         "about": "WIGI Hair is an e-commerce brand specializing in premium human hair extensions, helping women achieve natural, confidence-boosting hairstyles.\n\nThe brand primarily serves customers across the United States and focuses on delivering high-quality products, personalized customer support, and a seamless online shopping experience.",
-        "overview": "As a Marketing Executive, I supported the development of WIGI Hair's brand through daily marketing activities.\n\nMy work included coordinating creative assets, supporting promotional campaigns, maintaining brand consistency, and collaborating with designers to ensure a unified customer experience across the website, email marketing, and other digital channels.",
+        "overview": "As a Marketing Executive, I managed WIGI Hair's Shopify website and supported the brand's organic growth through SEO. My responsibilities included maintaining website content, creating promotional landing pages, publishing and reviewing blog articles, optimizing on-page SEO, and monitoring search performance to improve visibility and user experience.",
         "responsibilities": "My Responsibilities",
         "resp": {
-          "campaignCoordination": {
-            "title": "Campaign Coordination",
-            "desc": "Assisted in organizing seasonal campaigns, promotional activities, and product launches while ensuring all deliverables were completed on schedule."
+          "shopifyWebsiteManagement": {
+            "title": "01. Shopify Website Management",
+            "desc": "Maintained and updated the Shopify storefront by managing homepage banners, collection pages, product pages, navigation menus, footer sections, and other website components to ensure a consistent and engaging shopping experience."
           },
-          "brandCommunication": {
-            "title": "Brand Communication",
-            "desc": "Maintained consistent branding across website content, promotional materials, and digital marketing assets."
+          "landingPageDevelopment": {
+            "title": "02. Landing Page Development",
+            "desc": "Built and maintained landing pages for seasonal campaigns, product launches, and promotional events while ensuring consistency with the brand identity and marketing objectives."
           },
-          "creativeCollaboration": {
-            "title": "Creative Collaboration",
-            "desc": "Worked closely with designers to review, refine, and prepare visual assets for marketing campaigns."
+          "seoContentManagement": {
+            "title": "03. SEO Content Management",
+            "desc": "Published and reviewed blog content, optimized page metadata and keywords, submitted pages for indexing, and maintained on-page SEO to improve search engine visibility."
           },
-          "marketResearch": {
-            "title": "Market Research",
-            "desc": "Researched competitors, analyzed marketing trends, and identified opportunities to improve brand positioning."
+          "seoPerformanceMonitoring": {
+            "title": "04. SEO Performance Monitoring",
+            "desc": "Monitored keyword performance, indexing status, and website search visibility using SEO tools while preparing reports to support continuous optimization."
           }
         },
         "workflow": "Marketing Workflow",
@@ -1145,28 +1145,28 @@
       "brandMarketing": {
         "hero": {
           "company": "WIGI Hair",
-          "title": "Marketing Thương Hiệu",
-          "description": "Hỗ trợ sự phát triển của WIGI Hair thông qua giao tiếp thương hiệu, phối hợp sáng tạo và thực hiện marketing cho thị trường Hoa Kỳ."
+          "title": "Marketing Thương Hiệu & SEO",
+          "description": "Phát triển sự hiện diện trực tuyến của WIGI Hair thông qua quản lý nội dung website Shopify, xây dựng landing page cho các chiến dịch và tối ưu SEO nhằm gia tăng khả năng hiển thị tự nhiên."
         },
         "about": "WIGI Hair là một thương hiệu thương mại điện tử chuyên về các phần mở rộng tóc con người cao cấp, giúp phụ nữ đạt được các kiểu tóc tự nhiên và tăng cường sự tự tin.\n\nThương hiệu chủ yếu phục vụ khách hàng trên khắp Hoa Kỳ và tập trung vào việc cung cấp sản phẩm chất lượng cao, hỗ trợ khách hàng cá nhân hóa và trải nghiệm mua sắm trực tuyến liền mạch.",
-        "overview": "Là một Chuyên Viên Marketing, tôi đã hỗ trợ phát triển thương hiệu WIGI Hair thông qua các hoạt động marketing hàng ngày.\n\nCông việc của tôi bao gồm phối hợp các tài sản sáng tạo, hỗ trợ các chiến dịch khuyến mãi, duy trì tính nhất quán của thương hiệu và hợp tác với các nhà thiết kế để đảm bảo trải nghiệm khách hàng thống nhất trên toàn bộ trang web, email marketing và các kênh kỹ thuật số khác.",
+        "overview": "Với vai trò Marketing Executive, tôi quản lý website Shopify của WIGI Hair và hỗ trợ phát triển lượng truy cập tự nhiên thông qua SEO. Công việc bao gồm quản lý nội dung website, xây dựng landing page cho các chiến dịch, đăng tải và kiểm tra bài viết blog, tối ưu SEO on-page và theo dõi hiệu quả tìm kiếm nhằm nâng cao khả năng hiển thị cũng như trải nghiệm người dùng.",
         "responsibilities": "Trách Nhiệm Của Tôi",
         "resp": {
-          "campaignCoordination": {
-            "title": "Phối Hợp Chiến Dịch",
-            "desc": "Hỗ trợ tổ chức các chiến dịch theo mùa, các hoạt động khuyến mãi và ra mắt sản phẩm trong khi đảm bảo tất cả các deliverable được hoàn thành đúng lịch."
+          "shopifyWebsiteManagement": {
+            "title": "01. Quản Lý Website Shopify",
+            "desc": "Quản lý và cập nhật website Shopify thông qua việc điều chỉnh banner trang chủ, trang bộ sưu tập, trang sản phẩm, menu điều hướng, footer và nhiều thành phần khác nhằm mang đến trải nghiệm mua sắm đồng nhất."
           },
-          "brandCommunication": {
-            "title": "Giao Tiếp Thương Hiệu",
-            "desc": "Duy trì thương hiệu nhất quán trên tất cả nội dung trang web, tài liệu quảng cáo và tài sản marketing kỹ thuật số."
+          "landingPageDevelopment": {
+            "title": "02. Phát Triển Landing Page",
+            "desc": "Xây dựng và cập nhật landing page cho các chiến dịch theo mùa, ra mắt sản phẩm và chương trình khuyến mãi, đồng thời đảm bảo sự nhất quán với hình ảnh thương hiệu và mục tiêu marketing."
           },
-          "creativeCollaboration": {
-            "title": "Hợp Tác Sáng Tạo",
-            "desc": "Làm việc chặt chẽ với các nhà thiết kế để xem xét, tinh chỉnh và chuẩn bị các tài sản hình ảnh cho các chiến dịch marketing."
+          "seoContentManagement": {
+            "title": "03. Quản Lý Nội Dung SEO",
+            "desc": "Đăng tải và kiểm tra nội dung blog, tối ưu metadata và từ khóa, gửi index cho các trang mới và duy trì SEO on-page nhằm cải thiện khả năng hiển thị trên công cụ tìm kiếm."
           },
-          "marketResearch": {
-            "title": "Nghiên Cứu Thị Trường",
-            "desc": "Nghiên cứu các đối thủ cạnh tranh, phân tích xu hướng marketing và xác định các cơ hội để cải thiện định vị thương hiệu."
+          "seoPerformanceMonitoring": {
+            "title": "04. Theo Dõi Hiệu Suất SEO",
+            "desc": "Theo dõi thứ hạng từ khóa, tình trạng index và khả năng hiển thị của website bằng các công cụ SEO, đồng thời xây dựng báo cáo nhằm hỗ trợ quá trình tối ưu liên tục."
           }
         },
         "workflow": "Quy Trình Marketing",
