@@ -537,47 +537,38 @@
         "hero": {
           "company": "TIEM NHA CO",
           "title": "Meta Marketing",
-          "description": "Managing and executing comprehensive social media and Meta advertising strategies to build brand awareness, drive engagement, and increase sales for an e-commerce fashion business."
+          "description": "Growing Tiệm Nhà Cỏ through Facebook, Instagram, and Meta advertising by building a consistent social media presence and reaching the right audience."
         },
-        "about": "TIEM NHA CO is a small online secondhand fashion startup co-founded by a family member and me. We carefully curate quality pre-owned clothing and sell exclusively through Facebook and Instagram. Our mission is to make secondhand fashion more accessible while creating a trustworthy, enjoyable, and community-driven shopping experience.",
-        "overview": "Created social media content, promotional campaigns, product photography, and managed Meta advertising for TIEM NHA CO — a secondhand fashion startup. My work focused on building a consistent brand identity, increasing customer engagement, and supporting online sales across Facebook and Instagram.",
+        "overview": "As the Co-founder and Marketing Executive of Tiệm Nhà Cỏ, I managed the brand's Facebook and Instagram presence while supporting business growth through Meta advertising. My responsibilities included planning social media content, publishing posts, managing Meta Ads campaigns, monitoring campaign performance, and maintaining a consistent brand presence across social media platforms.",
         "responsibilities": "My Responsibilities",
         "tools": "Tools",
         "keyLearnings": "Key Learnings",
-        "creativePortfolio": "Creative Portfolio",
-        "creativePortfolioDesc": "Throughout the project, I created a wide range of visual content, from promotional campaigns and product photography to social media designs and short-form videos. Every creative was produced to strengthen the brand identity, improve customer engagement, and support online sales.",
-        "socialMediaPresence": "Social Media Presence",
-        "socialMediaPresenceDesc": "I managed TIEM NHA CO's social media presence by planning content, creating promotional campaigns, photographing products, and engaging with customers. Facebook served as the brand's primary sales and communication channel, while visual content was also created for Instagram during the project period to strengthen the brand identity.",
-        "facebook": "Facebook",
-        "facebookDesc": "The primary platform for product launches, promotional campaigns, customer engagement, and online sales. I managed content planning, page operations, and Meta advertising.",
-        "visualBranding": "Visual Branding",
-        "visualBrandingDesc": "Created lifestyle photography, short-form videos, Stories, and promotional creatives for the brand's social media campaigns. These visuals were produced as part of the overall content strategy to build a consistent brand identity.",
+        "featuredWorks": "Featured Works",
+        "featuredWorksDesc": "A selection of social media content, promotional creatives, and Meta marketing campaigns developed for Tiệm Nhà Cỏ to strengthen brand awareness and customer engagement.",
+        "facebookPageTitle": "Facebook Page",
+        "facebookPlatform": "Facebook",
+        "facebookPageDesc": "The primary platform for showcasing products, promoting campaigns, and connecting with customers. I managed content planning, page operations, and Meta advertising to support brand growth and online sales.",
+        "brandVisualTitle": "Brand Visual Content",
+        "visualBrandingTitle": "Visual Branding",
+        "brandVisualDesc": "Developed product photography, lifestyle images, short-form videos, Stories, and promotional creatives used across Facebook, Instagram, and Meta advertising. These visual assets helped establish a consistent brand identity and supported both organic and paid marketing activities.",
         "toolsAndPlatforms": "Tools & Platforms",
         "visitFacebook": "Visit Facebook →",
         "resp": {
-          "contentPlanning": {
-            "title": "Content Planning",
-            "desc": "Planned monthly content calendars, promotional campaigns, and seasonal marketing activities for Facebook and Instagram."
-          },
-          "productPhotography": {
-            "title": "Product Photography",
-            "desc": "Styled, photographed, and edited product images to create visually appealing social media content."
-          },
-          "creativeDesign": {
-            "title": "Creative Design",
-            "desc": "Designed promotional banners, social media posts, story templates, and campaign visuals while maintaining a consistent brand identity."
-          },
-          "videoProduction": {
-            "title": "Video Production",
-            "desc": "Filmed and edited short-form videos, including product showcases, behind-the-scenes content, and promotional Reels for Facebook and Instagram."
-          },
           "socialMediaManagement": {
-            "title": "Social Media Management",
-            "desc": "Managed Facebook and Instagram pages, published content, engaged with customers, and maintained a consistent posting schedule."
+            "title": "01. Social Media Management",
+            "desc": "Managed Facebook and Instagram by planning content, publishing posts, and maintaining a consistent brand identity across social media channels."
           },
           "metaAdvertising": {
-            "title": "Meta Advertising",
-            "desc": "Created and optimized Meta advertising campaigns, including audience targeting, budget allocation, creative testing, and campaign monitoring."
+            "title": "02. Meta Advertising",
+            "desc": "Created and managed Meta Ads campaigns to increase brand awareness, reach potential customers, and support sales objectives."
+          },
+          "campaignOptimization": {
+            "title": "03. Campaign Optimization",
+            "desc": "Monitored advertising performance and optimized campaigns based on audience insights and campaign results to improve effectiveness."
+          },
+          "performanceReporting": {
+            "title": "04. Performance Reporting",
+            "desc": "Analyzed campaign metrics and prepared performance reports to evaluate marketing activities and support future improvements."
           }
         },
         "workflow": {
@@ -599,21 +590,21 @@
           }
         },
         "learnings": {
-          "buildingBrand": {
-            "title": "Building a Brand from Scratch",
-            "desc": "Growing a startup taught me how every marketing decision, from visual identity to content planning, contributes to building a recognizable and trustworthy brand."
-          },
-          "contentStrategy": {
-            "title": "Content Strategy",
-            "desc": "I learned how to create content that balances aesthetics with marketing objectives, ensuring every post serves a clear communication purpose."
-          },
           "socialMediaMarketing": {
-            "title": "Social Media Marketing",
-            "desc": "Managing Facebook and Instagram strengthened my understanding of audience engagement, content consistency, and community building."
+            "title": "01. Social Media Marketing",
+            "desc": "Learned how to build a consistent social media presence that supports brand awareness and customer engagement."
           },
-          "creativeBusinessMindset": {
-            "title": "Creative & Business Mindset",
-            "desc": "Working as a co-founder required balancing creativity with business thinking, helping me make practical marketing decisions while supporting sales growth."
+          "metaAdvertising": {
+            "title": "02. Meta Advertising",
+            "desc": "Developed practical experience in planning, managing, and optimizing Meta advertising campaigns to support business objectives."
+          },
+          "campaignAnalysis": {
+            "title": "03. Campaign Analysis",
+            "desc": "Strengthened analytical skills by evaluating campaign performance and using data to improve future marketing activities."
+          },
+          "brandGrowth": {
+            "title": "04. Brand Growth",
+            "desc": "Gained experience in combining organic social media management with paid advertising to support sustainable brand growth."
           }
         }
       },
@@ -1459,47 +1450,38 @@
         "hero": {
           "company": "TIỆM NHÀ CỎ",
           "title": "Marketing Trên Meta",
-          "description": "Quản lý và thực hiện các chiến lược quảng cáo Meta và phương tiện truyền thông xã hội toàn diện để xây dựng nhận thức thương hiệu, thúc đẩy sự tham gia và tăng doanh số bán hàng cho một doanh nghiệp thời trang thương mại điện tử."
+          "description": "Phát triển Tiệm Nhà Cỏ thông qua Facebook, Instagram và quảng cáo Meta bằng cách xây dựng sự hiện diện nhất quán trên mạng xã hội và tiếp cận đúng khách hàng mục tiêu."
         },
-        "about": "TIỆM NHÀ CỎ là một khởi nghiệp thời trang secondhand trực tuyến nhỏ được tôi đồng sáng lập với một thành viên gia đình. Chúng tôi tinh tế lựa chọn quần áo pre-owned chất lượng cao và bán độc quyền qua Facebook và Instagram. Sứ mệnh của chúng tôi là làm cho thời trang secondhand dễ tiếp cận hơn trong khi tạo ra trải nghiệm mua sắm đáng tin cậy, thú vị và do cộng đồng điều hành.",
-        "overview": "Là đồng sáng lập kiêm người đứng đầu marketing của TIỆM NHÀ CỎ, tôi chịu trách nhiệm xây dựng sự hiện diện trực tuyến của thương hiệu thông qua Facebook và Instagram. Công việc của tôi bao gồm toàn bộ quá trình tạo nội dung — từ lập kế hoạch chiến dịch, chụp ảnh sản phẩm, thiết kế hình ảnh quảng cáo, tạo video ngắn, viết chú thích hấp dẫn, đến quản lý các chiến dịch quảng cáo Meta. Mỗi nội dung được thiết kế để tăng cường danh tính thương hiệu, tăng sự tham gia của khách hàng và hỗ trợ bán hàng trực tuyến.",
+        "overview": "Với vai trò Co-founder & Marketing Executive của Tiệm Nhà Cỏ, tôi quản lý sự hiện diện của thương hiệu trên Facebook và Instagram, đồng thời hỗ trợ phát triển hoạt động kinh doanh thông qua quảng cáo Meta. Công việc bao gồm lập kế hoạch nội dung, đăng tải bài viết, triển khai các chiến dịch Meta Ads, theo dõi hiệu quả quảng cáo và duy trì hình ảnh thương hiệu nhất quán trên các nền tảng mạng xã hội.",
         "responsibilities": "Trách Nhiệm Của Tôi",
         "tools": "Công Cụ",
         "keyLearnings": "Những Bài Học Chính",
-        "creativePortfolio": "Triển Lãm Sáng Tạo",
-        "creativePortfolioDesc": "Trong suốt dự án, tôi đã tạo ra nhiều loại nội dung hình ảnh bao gồm chụp ảnh sản phẩm, hình ảnh lối sống, đồ họa quảng cáo, quảng cáo video ngắn và nội dung video hình thức ngắn. Mỗi nội dung sáng tạo được tạo ra để tăng cường danh tính thương hiệu, cải thiện sự tham gia của khách hàng và hỗ trợ bán hàng trực tuyến.",
-        "socialMediaPresence": "Hiện Diện Phương Tiện Xã Hội",
-        "socialMediaPresenceDesc": "Tôi đã quản lý sự hiện diện của TIỆM NHÀ CỎ trên phương tiện truyền thông xã hội bằng cách lập kế hoạch nội dung, tạo chiến dịch khuyến mãi, chụp ảnh sản phẩm và tham gia với khách hàng. Facebook là kênh bán hàng chính và giao tiếp của thương hiệu, trong khi nội dung hình ảnh cũng được tạo cho Instagram trong thời kỳ dự án để tăng cường danh tính thương hiệu.",
-        "facebook": "Facebook",
-        "facebookDesc": "Nền tảng chính cho ra mắt sản phẩm, chiến dịch khuyến mãi, sự tham gia của khách hàng và bán hàng trực tuyến. Tôi quản lý lập kế hoạch nội dung, hoạt động trang và quảng cáo Meta.",
-        "visualBranding": "Thương Hiệu Hình Ảnh",
-        "visualBrandingDesc": "Tạo chụp ảnh lối sống, video hình thức ngắn, Stories và nội dung quảng cáo sáng tạo cho các chiến dịch phương tiện truyền thông xã hội của thương hiệu. Những hình ảnh này được tạo ra như một phần của chiến lược nội dung chung để xây dựng danh tính thương hiệu nhất quán.",
+        "featuredWorks": "Các Công Việc Nổi Bật",
+        "featuredWorksDesc": "Một số nội dung mạng xã hội, ấn phẩm truyền thông và chiến dịch Meta Marketing được thực hiện cho Tiệm Nhà Cỏ nhằm nâng cao nhận diện thương hiệu và tăng tương tác với khách hàng.",
+        "facebookPageTitle": "Trang Facebook",
+        "facebookPlatform": "Facebook",
+        "facebookPageDesc": "Kênh truyền thông chính để giới thiệu sản phẩm, triển khai các chiến dịch và kết nối với khách hàng. Tôi phụ trách lập kế hoạch nội dung, quản lý fanpage và quảng cáo Meta nhằm hỗ trợ phát triển thương hiệu và tăng trưởng doanh số.",
+        "brandVisualTitle": "Nội Dung Hình Ảnh Thương Hiệu",
+        "visualBrandingTitle": "Thương Hiệu Hình Ảnh",
+        "brandVisualDesc": "Xây dựng hình ảnh sản phẩm, ảnh lifestyle, video ngắn, Stories và các ấn phẩm truyền thông được sử dụng trên Facebook, Instagram và các chiến dịch quảng cáo Meta. Những nội dung này góp phần duy trì hình ảnh thương hiệu nhất quán và hỗ trợ cả hoạt động truyền thông tự nhiên lẫn quảng cáo trả phí.",
         "toolsAndPlatforms": "Công Cụ & Nền Tảng",
         "visitFacebook": "Truy Cập Facebook →",
         "resp": {
-          "contentPlanning": {
-            "title": "Lập Kế Hoạch Nội Dung",
-            "desc": "Lập kế hoạch lịch nội dung hàng tháng, chiến dịch khuyến mãi và các hoạt động marketing theo mùa cho Facebook và Instagram."
-          },
-          "productPhotography": {
-            "title": "Chụp Ảnh Sản Phẩm",
-            "desc": "Tạo kiểu dáng, chụp ảnh và chỉnh sửa hình ảnh sản phẩm để tạo nội dung phương tiện truyền thông xã hội hấp dẫn về mặt hình ảnh."
-          },
-          "creativeDesign": {
-            "title": "Thiết Kế Sáng Tạo",
-            "desc": "Thiết kế banner khuyến mãi, bài đăng phương tiện truyền thông xã hội, mẫu câu chuyện và hình ảnh chiến dịch trong khi duy trì danh tính thương hiệu nhất quán."
-          },
-          "videoProduction": {
-            "title": "Sản Xuất Video",
-            "desc": "Quay phim và chỉnh sửa video hình thức ngắn, bao gồm trưng bày sản phẩm, nội dung hậu trường và Reels khuyến mãi cho Facebook và Instagram."
-          },
           "socialMediaManagement": {
-            "title": "Quản Lý Phương Tiện Xã Hội",
-            "desc": "Quản lý các trang Facebook và Instagram, xuất bản nội dung, tham gia với khách hàng và duy trì lịch đăng nhất quán."
+            "title": "01. Quản Lý Phương Tiện Xã Hội",
+            "desc": "Quản lý Facebook và Instagram thông qua việc lập kế hoạch nội dung, đăng tải bài viết và duy trì hình ảnh thương hiệu nhất quán trên các nền tảng mạng xã hội."
           },
           "metaAdvertising": {
-            "title": "Quảng Cáo Meta",
-            "desc": "Tạo và tối ưu hóa các chiến dịch quảng cáo Meta, bao gồm nhắm mục tiêu khán giả, phân bổ ngân sách, kiểm tra sáng tạo và giám sát chiến dịch."
+            "title": "02. Quảng Cáo Meta",
+            "desc": "Thiết lập và quản lý các chiến dịch Meta Ads nhằm nâng cao nhận diện thương hiệu, tiếp cận khách hàng tiềm năng và hỗ trợ mục tiêu kinh doanh."
+          },
+          "campaignOptimization": {
+            "title": "03. Tối Ưu Chiến Dịch",
+            "desc": "Theo dõi hiệu quả quảng cáo và tối ưu chiến dịch dựa trên dữ liệu khách hàng cũng như kết quả thực tế nhằm nâng cao hiệu quả quảng cáo."
+          },
+          "performanceReporting": {
+            "title": "04. Báo Cáo Hiệu Suất",
+            "desc": "Phân tích các chỉ số chiến dịch và xây dựng báo cáo nhằm đánh giá hiệu quả hoạt động marketing cũng như hỗ trợ các định hướng tối ưu trong tương lai."
           }
         },
         "workflow": {
@@ -1521,21 +1503,21 @@
           }
         },
         "learnings": {
-          "buildingBrand": {
-            "title": "Xây Dựng Thương Hiệu Từ Đầu",
-            "desc": "Phát triển một khởi nghiệp dạy tôi cách mỗi quyết định marketing, từ danh tính hình ảnh đến lập kế hoạch nội dung, góp phần xây dựng một thương hiệu dễ nhận biết và đáng tin cậy."
-          },
-          "contentStrategy": {
-            "title": "Chiến Lược Nội Dung",
-            "desc": "Tôi đã học cách tạo nội dung cân bằng giữa tính th美thiết kế với mục tiêu marketing, đảm bảo mỗi bài đăng phục vụ một mục đích giao tiếp rõ ràng."
-          },
           "socialMediaMarketing": {
-            "title": "Marketing Phương Tiện Xã Hội",
-            "desc": "Quản lý Facebook và Instagram tăng cường sự hiểu biết của tôi về sự tham gia của khán giả, tính nhất quán của nội dung và xây dựng cộng đồng."
+            "title": "01. Marketing Phương Tiện Xã Hội",
+            "desc": "Hiểu cách xây dựng sự hiện diện nhất quán trên mạng xã hội nhằm tăng nhận diện thương hiệu và mức độ tương tác của khách hàng."
           },
-          "creativeBusinessMindset": {
-            "title": "Tư Duy Sáng Tạo & Kinh Doanh",
-            "desc": "Làm việc như một đồng sáng lập yêu cầu cân bằng sự sáng tạo với tư duy kinh doanh, giúp tôi đưa ra những quyết định marketing thực tế trong khi hỗ trợ tăng trưởng doanh số."
+          "metaAdvertising": {
+            "title": "02. Quảng Cáo Meta",
+            "desc": "Tích lũy kinh nghiệm thực tế trong việc lập kế hoạch, triển khai và tối ưu các chiến dịch quảng cáo Meta nhằm hỗ trợ mục tiêu kinh doanh."
+          },
+          "campaignAnalysis": {
+            "title": "03. Phân Tích Chiến Dịch",
+            "desc": "Nâng cao kỹ năng phân tích thông qua việc đánh giá hiệu quả chiến dịch và sử dụng dữ liệu để cải thiện các hoạt động marketing trong tương lai."
+          },
+          "brandGrowth": {
+            "title": "04. Phát Triển Thương Hiệu",
+            "desc": "Tích lũy kinh nghiệm kết hợp giữa quản lý mạng xã hội và quảng cáo trả phí nhằm hỗ trợ sự phát triển bền vững của thương hiệu."
           }
         }
       },
