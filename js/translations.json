@@ -445,10 +445,9 @@
         "hero": {
           "company": "WIGI Hair",
           "title": "Shopify & UX/UI",
-          "description": "Optimizing the Shopify storefront experience through strategic UX improvements, conversion-focused design, and performance enhancement to increase sales and customer satisfaction."
+          "description": "Optimizing Shopify user experience through website improvements, navigation enhancements, conversion-focused design, and data-driven analysis."
         },
-        "about": "WIGI Hair is a premium e-commerce brand specializing in high-quality human hair extensions for customers in the United States. Built on Shopify, the brand focuses on delivering a seamless online shopping experience through intuitive website navigation, engaging product pages, and customer-centered design.",
-        "overview": "Besides managing the Shopify store, I continuously analyzed customer behavior and website performance to identify opportunities for UX improvements. My work covered product pages, collection pages, navigation, search functionality, SEO optimization, and overall conversion rate improvements.",
+        "overview": "As a Marketing Executive at GEW Vietnam, I focused on optimizing the Shopify experience for WIGI Hair by improving website usability, navigation, and conversion opportunities. My work included customizing Shopify sections, refining website structure, enhancing product discovery, analyzing user behavior with analytics tools, and implementing improvements that supported a smoother customer journey.",
         "responsibilities": "My Responsibilities",
         "tools": "Tools",
         "keyLearnings": "Key Learnings",
@@ -471,39 +470,66 @@
           }
         },
         "resp": {
-          "shopifyManagement": {
-            "title": "Shopify Store Management",
-            "desc": "Managed products, collections, navigation, menus, pages, and store configurations."
+          "shopifyWebsiteOptimization": {
+            "title": "01. Shopify Website Optimization",
+            "desc": "Customized and optimized Shopify pages, sections, and theme components to improve usability, responsiveness, and overall website performance."
           },
-          "uxOptimization": {
-            "title": "UX & UI Optimization",
-            "desc": "Improved website usability, homepage layouts, product pages, and collection experiences to create smoother customer journeys."
+          "navigationUserJourney": {
+            "title": "02. Navigation & User Journey",
+            "desc": "Improved website navigation, menu structure, collection organization, and customer journeys to help visitors discover products more efficiently."
           },
-          "performanceAnalysis": {
-            "title": "Performance Analysis",
-            "desc": "Used Shopify Analytics, Google Analytics 4, and Microsoft Clarity to understand customer behavior and identify optimization opportunities."
+          "uxConversionOptimization": {
+            "title": "03. UX & Conversion Optimization",
+            "desc": "Identified usability issues and implemented interface improvements to enhance customer experience and support higher conversion opportunities."
           },
-          "seoEnhancement": {
-            "title": "SEO Enhancement",
-            "desc": "Optimized page titles, meta descriptions, internal links, and content structures to improve search performance."
+          "analyticsUserBehavior": {
+            "title": "04. Analytics & User Behavior",
+            "desc": "Monitored customer behavior using analytics tools such as Google Analytics 4 and Microsoft Clarity to evaluate website performance and identify optimization opportunities."
+          }
+        },
+        "featuredWorks": "Featured Works",
+        "works": {
+          "navigationOptimization": {
+            "title": "Navigation Optimization",
+            "desc": "Redesigned website navigation and menu structures to create a more intuitive browsing experience and improve product accessibility."
+          },
+          "collectionExperience": {
+            "title": "Collection Experience",
+            "desc": "Optimized collection layouts, filtering, and product organization to simplify product discovery and browsing."
+          },
+          "productPageOptimization": {
+            "title": "Product Page Optimization",
+            "desc": "Enhanced product page layouts and customer touchpoints to improve product presentation and support purchasing decisions."
+          },
+          "mobileExperience": {
+            "title": "Mobile Experience",
+            "desc": "Refined mobile layouts and responsive components to ensure a seamless shopping experience across different devices."
+          },
+          "userBehaviorAnalysis": {
+            "title": "User Behavior Analysis",
+            "desc": "Analyzed customer interactions using heatmaps, session recordings, and behavioral insights to identify usability improvements."
+          },
+          "websitePerformanceOptimization": {
+            "title": "Website Performance Optimization",
+            "desc": "Implemented continuous website improvements based on user behavior, performance metrics, and business requirements to create a more efficient shopping experience."
           }
         },
         "learnings": {
-          "customerCentered": {
-            "title": "Customer-Centered Thinking",
-            "desc": "Small UX improvements can significantly improve user satisfaction and purchasing confidence."
+          "shopifyCustomization": {
+            "title": "01. Shopify Customization",
+            "desc": "Developed practical experience in customizing Shopify themes and website components to create flexible and user-friendly shopping experiences."
           },
-          "dataDriven": {
-            "title": "Data-Driven Decisions",
-            "desc": "Analytics and user recordings provide valuable insights beyond assumptions."
+          "userExperienceDesign": {
+            "title": "02. User Experience Design",
+            "desc": "Learned how thoughtful navigation, layout, and interface improvements can significantly enhance customer satisfaction and website usability."
           },
-          "collaboration": {
-            "title": "Cross-functional Collaboration",
-            "desc": "Working closely with designers, developers, and marketers results in stronger customer experiences."
+          "datadrivenOptimization": {
+            "title": "03. Data-driven Optimization",
+            "desc": "Strengthened analytical thinking by using customer behavior data and website metrics to guide optimization decisions."
           },
-          "continuousOptimization": {
-            "title": "Continuous Optimization",
-            "desc": "Website optimization is an ongoing process supported by testing, analysis, and iteration."
+          "continuousImprovement": {
+            "title": "04. Continuous Improvement",
+            "desc": "Built a continuous improvement mindset by testing, evaluating, and refining website experiences based on user feedback and performance insights."
           }
         }
       },
@@ -745,7 +771,9 @@
     "shopifyUxExtended": {
       "snapshot": {
         "company": "Company",
-        "companyValue": "WIGI Hair",
+        "companyValue": "GEW Vietnam",
+        "brand": "Brand",
+        "brandValue": "WIGI Hair",
         "industry": "Industry",
         "industryValue": "Human Hair Extensions",
         "targetMarket": "Target Market",
@@ -1339,10 +1367,9 @@
         "hero": {
           "company": "WIGI Hair",
           "title": "Shopify & UX/UI",
-          "description": "Tối ưu hóa trải nghiệm cửa hàng Shopify thông qua các cải tiến UX chiến lược, thiết kế tập trung vào chuyển đổi và cải thiện hiệu suất để tăng doanh số bán hàng và sự hài lòng của khách hàng."
+          "description": "Tối ưu trải nghiệm người dùng trên Shopify thông qua cải thiện website, nâng cấp điều hướng, tối ưu chuyển đổi và phân tích dữ liệu."
         },
-        "about": "WIGI Hair là một thương hiệu thương mại điện tử cao cấp chuyên về các phần mở rộng tóc con người chất lượng cao cho khách hàng tại Hoa Kỳ. Được xây dựng trên Shopify, thương hiệu tập trung vào việc cung cấp trải nghiệm mua sắm trực tuyến liền mạch thông qua điều hướng trang web trực quan, trang sản phẩm hấp dẫn và thiết kế tập trung vào khách hàng.",
-        "overview": "Ngoài việc quản lý cửa hàng Shopify, tôi liên tục phân tích hành vi của khách hàng và hiệu suất trang web để xác định các cơ hội cải thiện UX. Công việc của tôi bao gồm các trang sản phẩm, trang bộ sưu tập, điều hướng, chức năng tìm kiếm, tối ưu hóa SEO và các cải tiến tỷ lệ chuyển đổi chung.",
+        "overview": "Với vai trò Marketing Executive tại GEW Vietnam, tôi tập trung tối ưu trải nghiệm người dùng trên website Shopify của WIGI Hair thông qua việc cải thiện khả năng sử dụng, cấu trúc điều hướng và cơ hội chuyển đổi. Công việc bao gồm tùy chỉnh các thành phần trên Shopify, tối ưu cấu trúc website, cải thiện khả năng tìm kiếm sản phẩm, phân tích hành vi người dùng bằng các công cụ phân tích và triển khai các cải tiến nhằm mang đến hành trình mua sắm hiệu quả hơn.",
         "responsibilities": "Trách Nhiệm Của Tôi",
         "tools": "Công Cụ",
         "keyLearnings": "Những Bài Học Chính",
@@ -1365,39 +1392,66 @@
           }
         },
         "resp": {
-          "shopifyManagement": {
-            "title": "Quản Lý Cửa Hàng Shopify",
-            "desc": "Quản lý sản phẩm, bộ sưu tập, điều hướng, menu, trang và cấu hình cửa hàng."
+          "shopifyWebsiteOptimization": {
+            "title": "01. Tối Ưu Hóa Website Shopify",
+            "desc": "Tùy chỉnh và tối ưu các trang, section và thành phần của giao diện Shopify nhằm nâng cao khả năng sử dụng, tính tương thích trên nhiều thiết bị và hiệu suất website."
           },
-          "uxOptimization": {
-            "title": "Tối Ưu Hóa UX & UI",
-            "desc": "Cải thiện khả năng sử dụng trang web, bố cục trang chủ, trang sản phẩm và trải nghiệm bộ sưu tập để tạo hành trình khách hàng mượt mà hơn."
+          "navigationUserJourney": {
+            "title": "02. Điều Hướng & Hành Trình Người Dùng",
+            "desc": "Cải thiện menu điều hướng, cấu trúc website, cách tổ chức bộ sưu tập và hành trình người dùng nhằm giúp khách hàng tìm kiếm sản phẩm nhanh chóng và thuận tiện hơn."
           },
-          "performanceAnalysis": {
-            "title": "Phân Tích Hiệu Suất",
-            "desc": "Sử dụng Shopify Analytics, Google Analytics 4 và Microsoft Clarity để hiểu hành vi khách hàng và xác định các cơ hội tối ưu hóa."
+          "uxConversionOptimization": {
+            "title": "03. Tối Ưu Hóa UX & Chuyển Đổi",
+            "desc": "Phát hiện các vấn đề về trải nghiệm người dùng và triển khai các cải tiến giao diện nhằm nâng cao trải nghiệm khách hàng và hỗ trợ tăng tỷ lệ chuyển đổi."
           },
-          "seoEnhancement": {
-            "title": "Nâng Cao SEO",
-            "desc": "Tối ưu hóa tiêu đề trang, mô tả meta, liên kết nội bộ và cấu trúc nội dung để cải thiện hiệu suất tìm kiếm."
+          "analyticsUserBehavior": {
+            "title": "04. Phân Tích & Hành Vi Người Dùng",
+            "desc": "Theo dõi hành vi người dùng bằng các công cụ như Google Analytics 4 và Microsoft Clarity nhằm đánh giá hiệu quả website và xác định các cơ hội tối ưu."
+          }
+        },
+        "featuredWorks": "Các Công Việc Nổi Bật",
+        "works": {
+          "navigationOptimization": {
+            "title": "Tối Ưu Hóa Điều Hướng",
+            "desc": "Cải thiện menu điều hướng và cấu trúc website nhằm mang lại trải nghiệm duyệt web trực quan hơn và giúp khách hàng dễ dàng tiếp cận sản phẩm."
+          },
+          "collectionExperience": {
+            "title": "Tối Ưu Hóa Trải Nghiệm Bộ Sưu Tập",
+            "desc": "Tối ưu bố cục bộ sưu tập, bộ lọc và cách sắp xếp sản phẩm nhằm giúp khách hàng dễ dàng tìm kiếm và khám phá sản phẩm."
+          },
+          "productPageOptimization": {
+            "title": "Tối Ưu Hóa Trang Sản Phẩm",
+            "desc": "Cải thiện bố cục trang sản phẩm và các điểm chạm với khách hàng nhằm nâng cao khả năng giới thiệu sản phẩm và hỗ trợ quyết định mua hàng."
+          },
+          "mobileExperience": {
+            "title": "Tối Ưu Hóa Trải Nghiệm Di Động",
+            "desc": "Tối ưu giao diện trên thiết bị di động và các thành phần responsive nhằm đảm bảo trải nghiệm mua sắm mượt mà trên nhiều loại thiết bị."
+          },
+          "userBehaviorAnalysis": {
+            "title": "Phân Tích Hành Vi Người Dùng",
+            "desc": "Phân tích hành vi người dùng thông qua heatmap, session recording và các dữ liệu tương tác nhằm xác định các cơ hội cải thiện trải nghiệm."
+          },
+          "websitePerformanceOptimization": {
+            "title": "Tối Ưu Hóa Hiệu Suất Website",
+            "desc": "Triển khai các cải tiến website dựa trên hành vi người dùng, dữ liệu hiệu suất và yêu cầu kinh doanh nhằm mang lại trải nghiệm mua sắm hiệu quả hơn."
           }
         },
         "learnings": {
-          "customerCentered": {
-            "title": "Tư Duy Tập Trung Vào Khách Hàng",
-            "desc": "Những cải tiến UX nhỏ có thể cải thiện đáng kể sự hài lòng của người dùng và lòng tin mua hàng."
+          "shopifyCustomization": {
+            "title": "01. Tùy Chỉnh Shopify",
+            "desc": "Tích lũy kinh nghiệm thực tế trong việc tùy chỉnh giao diện Shopify và các thành phần của website nhằm mang đến trải nghiệm mua sắm linh hoạt và thân thiện với người dùng."
           },
-          "dataDriven": {
-            "title": "Quyết Định Dựa Trên Dữ Liệu",
-            "desc": "Phân tích và ghi âm người dùng cung cấp những hiểu biết có giá trị vượt quá các giả định."
+          "userExperienceDesign": {
+            "title": "02. Thiết Kế Trải Nghiệm Người Dùng",
+            "desc": "Hiểu rõ cách việc cải thiện điều hướng, bố cục và giao diện có thể nâng cao đáng kể trải nghiệm cũng như mức độ hài lòng của khách hàng."
           },
-          "collaboration": {
-            "title": "Hợp Tác Đa Chức Năng",
-            "desc": "Làm việc chặt chẽ với các nhà thiết kế, nhà phát triển và chuyên viên marketing giúp tạo ra trải nghiệm khách hàng mạnh mẽ hơn."
+          "datadrivenOptimization": {
+            "title": "03. Tối Ưu Hóa Dựa Trên Dữ Liệu",
+            "desc": "Phát triển tư duy phân tích thông qua việc sử dụng dữ liệu hành vi người dùng và các chỉ số website để đưa ra các quyết định tối ưu."
           },
-          "continuousOptimization": {
-            "title": "Tối Ưu Hóa Liên Tục",
-            "desc": "Tối ưu hóa trang web là một quá trình liên tục được hỗ trợ bởi thử nghiệm, phân tích và lặp lại."
+          "continuousImprovement": {
+            "title": "04. Cải Tiến Liên Tục",
+            "desc": "Hình thành tư duy cải tiến liên tục thông qua việc thử nghiệm, đánh giá và tối ưu trải nghiệm website dựa trên phản hồi của người dùng và dữ liệu thực tế."
           }
         }
       },
@@ -1639,7 +1693,9 @@
     "shopifyUxExtended": {
       "snapshot": {
         "company": "Công Ty",
-        "companyValue": "WIGI Hair",
+        "companyValue": "GEW Vietnam",
+        "brand": "Thương Hiệu",
+        "brandValue": "WIGI Hair",
         "industry": "Lĩnh Vực",
         "industryValue": "Phần Mở Rộng Tóc Con Người",
         "targetMarket": "Thị Trường Mục Tiêu",
