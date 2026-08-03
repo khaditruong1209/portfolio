@@ -479,7 +479,7 @@ html[lang="vi"] h6 {
 
 }
 
-.gallery-item:not(.gallery-item-mobile-exp) img{
+.gallery-item:not(.gallery-item-mobile-exp){
 
     display:none;
 
