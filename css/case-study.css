@@ -479,6 +479,12 @@ html[lang="vi"] h6 {
 
 }
 
+.gallery-item:not(.gallery-item-mobile-exp) img{
+
+    display:none;
+
+}
+
 .gallery-item img{
 
     width:100%;
