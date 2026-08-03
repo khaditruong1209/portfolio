@@ -557,6 +557,158 @@ html[lang="vi"] h6 {
 
 }
 
+.gallery-slider{
+
+    display:none;
+
+    margin: 35px 0 0 0;
+
+    padding: 0;
+
+}
+
+.slider-container{
+
+    position:relative;
+
+    width:100%;
+
+    overflow:hidden;
+
+}
+
+.slider-track{
+
+    display:flex;
+
+    gap:0;
+
+    overflow-x:hidden;
+
+    scroll-behavior:smooth;
+
+    transition:transform 0.5s ease-in-out;
+
+}
+
+.slider-item{
+
+    flex:0 0 100%;
+
+    overflow:hidden;
+
+    border-radius:18px;
+
+}
+
+.slider-item img{
+
+    width:100%;
+
+    height:auto;
+
+    display:block;
+
+    border-radius:18px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.06);
+
+}
+
+.slider-btn{
+
+    position:absolute;
+
+    top:50%;
+
+    transform:translateY(-50%);
+
+    background:rgba(0,0,0,0.6);
+
+    color:#fff;
+
+    border:none;
+
+    width:44px;
+
+    height:44px;
+
+    border-radius:50%;
+
+    font-size:24px;
+
+    cursor:pointer;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    z-index:10;
+
+    transition:all 0.3s ease;
+
+}
+
+.slider-btn:hover{
+
+    background:rgba(0,0,0,0.8);
+
+}
+
+.slider-btn-prev{
+
+    left:12px;
+
+}
+
+.slider-btn-next{
+
+    right:12px;
+
+}
+
+.slider-dots{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:8px;
+
+    margin-top:16px;
+
+    padding:0;
+
+}
+
+.dot{
+
+    width:10px;
+
+    height:10px;
+
+    border-radius:50%;
+
+    background:#ddd;
+
+    cursor:pointer;
+
+    transition:all 0.3s ease;
+
+}
+
+.dot.active{
+
+    background:#5a73e8;
+
+    width:30px;
+
+    border-radius:5px;
+
+}
+
 .gallery img{
 
     width:100%;
@@ -874,6 +1026,18 @@ html[lang="vi"] h6 {
     padding:0 18px;
 
     font-size:14px;
+
+}
+
+.gallery-desktop{
+
+    display:none;
+
+}
+
+.gallery-slider{
+
+    display:block;
 
 }
 

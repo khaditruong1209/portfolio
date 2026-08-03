@@ -360,7 +360,8 @@
 
     <h2 data-i18n="caseStudies.shopifyUx.featuredWorks">Featured Works</h2>
 
-    <div class="gallery">
+    <!-- Desktop Gallery -->
+    <div class="gallery gallery-desktop">
 
         <div class="gallery-item">
 
@@ -470,6 +471,30 @@
 
         </div>
 
+    </div>
+
+    <!-- Mobile Slider -->
+    <div class="gallery-slider">
+        <div class="slider-container">
+            <div class="slider-track">
+                <div class="slider-item">
+                    <img src="../../images/shopify-featured-1.png" alt="Featured Work 1">
+                </div>
+                <div class="slider-item">
+                    <img src="../../images/shopify-featured-2.png" alt="Featured Work 2">
+                </div>
+                <div class="slider-item">
+                    <img src="../../images/shopify-featured-3.png" alt="Featured Work 3">
+                </div>
+            </div>
+            <button class="slider-btn slider-btn-prev" id="slider-prev">‹</button>
+            <button class="slider-btn slider-btn-next" id="slider-next">›</button>
+            <div class="slider-dots">
+                <span class="dot active" data-index="0"></span>
+                <span class="dot" data-index="1"></span>
+                <span class="dot" data-index="2"></span>
+            </div>
+        </div>
     </div>
 
 </section>
