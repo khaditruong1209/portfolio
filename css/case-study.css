@@ -496,12 +496,6 @@ html[lang="vi"] h6 {
 
 }
 
-/* Hide direct img in Mobile Experience, only show slider */
-.gallery-item-mobile-exp > img{
-
-    display:none;
-
-}
 
 .gallery-item:hover img{
 
@@ -630,7 +624,7 @@ html[lang="vi"] h6 {
 
 }
 
-/* Mobile Experience Slider in Gallery Item */
+/* Mobile Experience Images in Gallery Item */
 .gallery-item-mobile-exp{
 
     display:flex;
@@ -639,9 +633,15 @@ html[lang="vi"] h6 {
 
 }
 
-.gallery-item-mobile-exp .mobile-experience-slider{
+.mobile-experience-images{
 
     width:100%;
+
+    display:grid;
+
+    grid-template-columns:repeat(3, 1fr);
+
+    gap:12px;
 
     margin:0;
 
@@ -649,46 +649,21 @@ html[lang="vi"] h6 {
 
 }
 
-.mobile-slider-container{
+.mobile-experience-images img{
 
     width:100%;
+
+    height:auto;
 
     aspect-ratio:1024/1500;
 
-    position:relative;
-
-}
-
-.mobile-slider-container .slider-track{
-
-    height:100%;
-
-}
-
-.mobile-slider-container .slider-item{
-
-    flex:0 0 100%;
-
-    height:100%;
-
-}
-
-.mobile-slider-container .slider-item img{
-
-    width:100%;
-
-    height:100%;
-
     object-fit:cover;
 
-    border-radius:18px;
+    border-radius:12px;
 
     box-shadow:0 8px 20px rgba(0,0,0,.06);
 
-    margin:0;
-
 }
-
 
 .slider-btn{
 
