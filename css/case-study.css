@@ -479,11 +479,6 @@ html[lang="vi"] h6 {
 
 }
 
-.gallery-item:not(.gallery-item-mobile-exp){
-
-    display:none;
-
-}
 
 .gallery-item img{
 
@@ -498,6 +493,13 @@ html[lang="vi"] h6 {
     box-shadow:0 8px 20px rgba(0,0,0,.06);
 
     transition:.35s;
+
+}
+
+/* Hide direct img in Mobile Experience, only show slider */
+.gallery-item-mobile-exp > img{
+
+    display:none;
 
 }
 
