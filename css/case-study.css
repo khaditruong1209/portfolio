@@ -559,8 +559,6 @@ html[lang="vi"] h6 {
 
 .gallery-slider{
 
-    display:none;
-
     margin: 35px 0 0 0;
 
     padding: 0;
@@ -605,13 +603,72 @@ html[lang="vi"] h6 {
 
     width:100%;
 
-    height:auto;
+    height:400px;
 
     display:block;
+
+    object-fit:cover;
 
     border-radius:18px;
 
     box-shadow:0 8px 20px rgba(0,0,0,.06);
+
+}
+
+/* Mobile Experience Slider */
+.mobile-experience-slider{
+
+    margin: 35px 0 30px 0;
+
+    padding: 0;
+
+}
+
+.mobile-slider-container{
+
+    width:100%;
+
+    max-width:1024px;
+
+    margin:0 auto;
+
+    aspect-ratio:1024/1500;
+
+}
+
+.mobile-slider-container .slider-track{
+
+    height:100%;
+
+}
+
+.mobile-slider-container .slider-item{
+
+    flex:0 0 100%;
+
+    height:100%;
+
+}
+
+.mobile-slider-container .slider-item img{
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:cover;
+
+    border-radius:18px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.06);
+
+    margin:0;
+
+}
+
+.mobile-experience-desc{
+
+    margin-top:28px;
 
 }
 
@@ -907,6 +964,12 @@ html[lang="vi"] h6 {
 
 }
 
+.slider-item img{
+
+    height:280px;
+
+}
+
 .case-hero,
 
 .case-section{
@@ -1031,13 +1094,7 @@ html[lang="vi"] h6 {
 
 .gallery-desktop{
 
-    display:none;
-
-}
-
-.gallery-slider{
-
-    display:block;
+    display:grid;
 
 }
 
