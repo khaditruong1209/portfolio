@@ -306,11 +306,17 @@ html[lang="vi"] h6 {
 
     width:100%;
 
-    display:grid;
+    display:flex;
 
-    grid-template-columns:repeat(3,minmax(0,1fr));
+    flex-wrap:wrap;
 
-    gap:20px;
+    justify-content:flex-start;
+
+    align-items:flex-start;
+
+    align-content:flex-start;
+
+    gap:16px;
 
     margin: 25px 0 0 0;
 
@@ -320,25 +326,29 @@ html[lang="vi"] h6 {
 
 .responsibility-card{
 
-    background:#f9f9f9;
+    background:#fde8e8;
 
-    border-radius:12px;
+    border-radius:999px;
 
-    padding:18px;
+    padding:12px 24px;
 
-    text-align:left;
+    text-align:center;
 
     transition:.3s;
 
-    width:100%;
+    display:inline-flex;
 
-    justify-self:start;
+    align-items:center;
+
+    justify-content:center;
+
+    white-space:nowrap;
 
 }
 
 .responsibility-card:hover{
 
-    background:#f0f0f0;
+    background:#f8dcdc;
 
     transform:translateY(-2px);
 
@@ -346,21 +356,19 @@ html[lang="vi"] h6 {
 
 .responsibility-card h4{
 
-    width:100%;
-
     margin: 0;
 
     padding: 0;
 
-    font-size:14px;
+    font-size:15px;
 
     font-weight:600;
 
-    color:#222;
+    color:#d63384;
 
-    text-align:left;
+    text-align:center;
 
-    line-height:1.5;
+    line-height:1.4;
 
 }
 
@@ -917,9 +925,19 @@ html[lang="vi"] h6 {
 
 .responsibility-grid{
 
-    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:12px;
 
-    gap:16px;
+}
+
+.responsibility-card{
+
+    padding:10px 20px;
+
+}
+
+.responsibility-card h4{
+
+    font-size:14px;
 
 }
 
@@ -1149,15 +1167,13 @@ html[lang="vi"] h6 {
 
 .responsibility-grid{
 
-    grid-template-columns:1fr;
-
-    gap:12px;
+    gap:10px;
 
 }
 
 .responsibility-card{
 
-    padding:16px;
+    padding:9px 18px;
 
 }
 
