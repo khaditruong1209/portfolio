@@ -16,7 +16,7 @@
       "title": "Featured Projects",
       "viewAll": "View All Work →",
       "aiImage": "AI Image Creation",
-      "brandMarketing": "Brand Marketing & SEO",
+      "brandMarketing": "Integrated Brand Marketing Campaign",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Shopify & UX/UI",
       "metaMarketing": "Meta Marketing",
@@ -176,7 +176,7 @@
         "title": "GEW Vietnam",
         "period": "Marketing Executive · Apr 2025 – Present",
         "brandMarketing": {
-          "title": "Brand Marketing & SEO",
+          "title": "Integrated Brand Marketing Campaign",
           "description": "Supported brand growth through campaign planning, market research, digital marketing strategy, and performance analysis while maintaining a consistent brand experience across multiple online channels."
         },
         "emailMarketing": {
@@ -265,13 +265,68 @@
       },
       "brandMarketing": {
         "hero": {
-          "company": "WIGI Hair",
-          "title": "Brand Marketing & SEO",
-          "description": "Supporting the growth of WIGI Hair, a premium hair extension brand under GEW Vietnam, through Shopify website management, landing page development, and SEO optimization."
+          "company": "GEW Vietnam",
+          "title": "Integrated Brand Marketing Campaign",
+          "description": "Building a consistent brand presence through integrated marketing campaigns, customer insights, and multi-channel communication."
         },
-        "about": "WIGI Hair is an e-commerce brand specializing in premium human hair extensions, helping women achieve natural, confidence-boosting hairstyles.\n\nThe brand primarily serves customers across the United States and focuses on delivering high-quality products, personalized customer support, and a seamless online shopping experience.",
-        "overview": "As a Marketing Executive at GEW Vietnam, I was responsible for managing the Shopify website and SEO activities for WIGI Hair, a hair extension brand serving the U.S. market. My responsibilities included maintaining website content, developing campaign landing pages, reviewing blog content, optimizing on-page SEO, and monitoring search performance to improve visibility and user experience.",
-        "responsibilities": "My Responsibilities",
+        "challenge": "Business Challenge",
+        "challengeDesc": "As WIGI Hair expanded into the U.S. market, the brand faced challenges in increasing awareness, maintaining consistent communication across channels, and converting traffic into loyal customers. Marketing efforts needed to be aligned across content, advertising, website, and CRM to create a seamless customer journey.",
+        "objectivesTitle": "Objectives",
+        "objectives": {
+          "item1": "Increase brand awareness in the U.S. market.",
+          "item2": "Support product launches and seasonal campaigns.",
+          "item3": "Improve consistency across marketing channels.",
+          "item4": "Enhance customer engagement throughout the buying journey.",
+          "item5": "Drive qualified traffic to the Shopify website."
+        },
+        "researchTitle": "Research & Insights",
+        "researchContent": {
+          "sources": "Research Sources",
+          "sourcesDesc": "Google Analytics 4, Microsoft Clarity, Shopify Analytics, Meta Ads Manager, Klaviyo Reports, Competitor Analysis, Customer Feedback",
+          "insights": "Key Insights",
+          "insightsDesc": "Educational and lifestyle-focused content generated stronger engagement than promotional-only content. Customers interacted with multiple touchpoints before purchasing. Website experience and email marketing significantly influenced customer retention."
+        },
+        "strategyTitle": "Strategy",
+        "strategyDesc": "Based on research findings, I supported the development of an integrated marketing strategy focused on creating a consistent customer experience across digital channels.",
+        "strategyFocus": {
+          "campaignPlanning": "Campaign Planning",
+          "brandCommunication": "Brand Communication",
+          "contentStrategy": "Content Strategy",
+          "customerJourneyOptimization": "Customer Journey Optimization",
+          "performanceMonitoring": "Performance Monitoring",
+          "crossChannelCoordination": "Cross-channel Coordination"
+        },
+        "executionTitle": "Execution",
+        "executionItems": {
+          "campaignPlanning": {
+            "title": "Campaign Planning",
+            "desc": "Planned promotional campaigns, product launches, and seasonal marketing activities aligned with business priorities."
+          },
+          "brandCommunication": {
+            "title": "Brand Communication",
+            "desc": "Maintained consistent messaging across Facebook, website, email marketing, and promotional assets."
+          },
+          "digitalMarketing": {
+            "title": "Digital Marketing",
+            "desc": "Executed campaigns across Meta Ads, Google Ads, Bing Ads, email marketing, and Shopify."
+          },
+          "websiteOptimization": {
+            "title": "Website Optimization",
+            "desc": "Improved landing pages, product pages, navigation, and customer journeys to support marketing campaigns."
+          },
+          "creativeProduction": {
+            "title": "Creative Production",
+            "desc": "Produced promotional banners, lifestyle photography, videos, and marketing materials supporting campaign execution."
+          }
+        },
+        "resultsTitle": "Results & Impact",
+        "results": {
+          "item1": "Strengthened brand consistency across multiple digital channels.",
+          "item2": "Supported successful execution of promotional campaigns and product launches.",
+          "item3": "Improved collaboration between marketing, e-commerce, and creative teams.",
+          "item4": "Established more structured marketing workflows for future campaigns.",
+          "item5": "Enhanced customer engagement through integrated communication."
+        },
         "resp": {
           "shopifyWebsiteManagement": {
             "title": "01. Shopify Website Management",
@@ -311,6 +366,26 @@
         },
         "featuredWorks": "Featured Works",
         "works": {
+          "campaignPlanningWork": {
+            "title": "Campaign Planning",
+            "desc": "Planned seasonal campaigns and coordinated execution timelines across multiple channels."
+          },
+          "brandCommunicationWork": {
+            "title": "Brand Communication",
+            "desc": "Maintained consistent brand messaging across owned digital channels."
+          },
+          "customerJourney": {
+            "title": "Customer Journey",
+            "desc": "Connected website, social media, and email marketing into a unified customer experience."
+          },
+          "creativeAssets": {
+            "title": "Creative Assets",
+            "desc": "Produced campaign visuals supporting promotional and branding activities."
+          },
+          "performanceAnalysis": {
+            "title": "Performance Analysis",
+            "desc": "Evaluated campaign performance using marketing analytics to identify optimization opportunities."
+          },
           "homepageBanner": {
             "title": "Homepage Banner",
             "desc": "Designed and updated homepage banners to communicate seasonal campaigns, promotions, and product highlights while maintaining a consistent brand identity."
@@ -337,6 +412,10 @@
           }
         },
         "tools": "Tools",
+        "toolsMarketing": "Marketing",
+        "toolsAnalytics": "Analytics",
+        "toolsAdvertising": "Advertising",
+        "toolsPlatforms": "Platforms",
         "toolList": [
           "Shopify",
           "Google Analytics 4",
@@ -347,8 +426,24 @@
           "Microsoft Clarity",
           "Sinbyte"
         ],
-        "keyLearnings": "Key Learnings",
+        "keyLearningsTitle": "Key Learnings",
         "learnings": {
+          "customerBehavior": {
+            "title": "01. Customer-Centric Marketing",
+            "desc": "Effective marketing starts with understanding customer behavior rather than assumptions."
+          },
+          "consistentCommunication": {
+            "title": "02. Consistent Communication",
+            "desc": "Consistent communication across channels improves both brand recognition and campaign performance."
+          },
+          "dataDriven": {
+            "title": "03. Data-Driven Decision Making",
+            "desc": "Data-driven decision making enables continuous optimization and better business outcomes."
+          },
+          "teamCollaboration": {
+            "title": "04. Team Collaboration",
+            "desc": "Strong collaboration across teams is essential for delivering integrated marketing campaigns."
+          },
           "websiteContentManagement": {
             "title": "01. Website Content Management",
             "desc": "Learned how to maintain and organize Shopify website content while ensuring consistency across every customer touchpoint."
@@ -930,7 +1025,7 @@
       "title": "Dự Án Nổi Bật",
       "viewAll": "Xem Tất Cả →",
       "aiImage": "Tạo Hình Ảnh AI",
-      "brandMarketing": "Marketing Thương Hiệu & SEO",
+      "brandMarketing": "Chiến dịch Marketing Thương hiệu Tích hợp",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Shopify & Tối Ưu UX/UI",
       "metaMarketing": "Meta Marketing",
@@ -1089,7 +1184,7 @@
         "title": "GEW Vietnam",
         "period": "Chuyên Viên Marketing · Tháng 4 2025 – Hiện Tại",
         "brandMarketing": {
-          "title": "Marketing Thương Hiệu & SEO",
+          "title": "Chiến dịch Marketing Thương hiệu Tích hợp",
           "description": "Hỗ trợ phát triển thương hiệu thông qua lập kế hoạch chiến dịch, nghiên cứu thị trường, xây dựng chiến lược digital marketing và phân tích hiệu quả, đồng thời duy trì sự nhất quán của thương hiệu trên nhiều kênh trực tuyến."
         },
         "emailMarketing": {
@@ -1178,13 +1273,68 @@
       },
       "brandMarketing": {
         "hero": {
-          "company": "WIGI Hair",
-          "title": "Marketing Thương Hiệu & SEO",
-          "description": "Đồng hành phát triển WIGI Hair – thương hiệu tóc nối thuộc GEW Vietnam – thông qua quản lý website Shopify, xây dựng landing page và tối ưu SEO."
+          "company": "GEW Vietnam",
+          "title": "Chiến dịch Marketing Thương hiệu Tích hợp",
+          "description": "Xây dựng hình ảnh thương hiệu nhất quán thông qua các chiến dịch marketing tích hợp, phân tích khách hàng và truyền thông đa kênh."
         },
-        "about": "WIGI Hair là một thương hiệu thương mại điện tử chuyên về các phần mở rộng tóc con người cao cấp, giúp phụ nữ đạt được các kiểu tóc tự nhiên và tăng cường sự tự tin.\n\nThương hiệu chủ yếu phục vụ khách hàng trên khắp Hoa Kỳ và tập trung vào việc cung cấp sản phẩm chất lượng cao, hỗ trợ khách hàng cá nhân hóa và trải nghiệm mua sắm trực tuyến liền mạch.",
-        "overview": "Với vai trò Marketing Executive tại GEW Vietnam, tôi phụ trách quản lý website Shopify và các hoạt động SEO cho WIGI Hair – thương hiệu tóc nối hướng đến thị trường Hoa Kỳ. Công việc của tôi bao gồm quản lý nội dung website, xây dựng landing page, kiểm tra bài viết blog, tối ưu SEO on-page và theo dõi hiệu quả tìm kiếm nhằm nâng cao khả năng hiển thị cũng như trải nghiệm người dùng.",
-        "responsibilities": "Trách Nhiệm Của Tôi",
+        "challenge": "Thách Thức Kinh Doanh",
+        "challengeDesc": "Trong quá trình mở rộng sang thị trường Hoa Kỳ, WIGI Hair gặp nhiều thách thức trong việc gia tăng nhận diện thương hiệu, duy trì thông điệp nhất quán trên các kênh và chuyển đổi khách truy cập thành khách hàng trung thành. Các hoạt động marketing cần được kết nối giữa nội dung, quảng cáo, website và CRM để tạo nên hành trình khách hàng liền mạch.",
+        "objectivesTitle": "Mục Tiêu",
+        "objectives": {
+          "item1": "Gia tăng nhận diện thương hiệu tại thị trường Hoa Kỳ.",
+          "item2": "Hỗ trợ các chiến dịch ra mắt sản phẩm và chương trình khuyến mãi theo mùa.",
+          "item3": "Đồng bộ hình ảnh và thông điệp trên các kênh marketing.",
+          "item4": "Nâng cao mức độ tương tác trong toàn bộ hành trình khách hàng.",
+          "item5": "Thu hút lượng truy cập chất lượng đến website Shopify."
+        },
+        "researchTitle": "Nghiên Cứu & Insight",
+        "researchContent": {
+          "sources": "Nguồn Dữ Liệu",
+          "sourcesDesc": "Google Analytics 4, Microsoft Clarity, Shopify Analytics, Meta Ads Manager, Báo cáo Klaviyo, Phân tích đối thủ, Phản hồi khách hàng",
+          "insights": "Insight Chính",
+          "insightsDesc": "Nội dung mang tính chia sẻ kiến thức và phong cách sống tạo mức độ tương tác tốt hơn nội dung chỉ tập trung bán hàng. Khách hàng thường tiếp cận thương hiệu qua nhiều điểm chạm trước khi mua. Trải nghiệm website và email marketing có ảnh hưởng lớn đến quyết định mua hàng."
+        },
+        "strategyTitle": "Chiến Lược",
+        "strategyDesc": "Dựa trên các kết quả nghiên cứu, tôi tham gia xây dựng chiến lược marketing tích hợp nhằm tạo trải nghiệm đồng nhất cho khách hàng trên các kênh số.",
+        "strategyFocus": {
+          "campaignPlanning": "Lập Kế Hoạch Chiến Dịch",
+          "brandCommunication": "Truyền Thông Thương Hiệu",
+          "contentStrategy": "Chiến Lược Nội Dung",
+          "customerJourneyOptimization": "Tối Ưu Hành Trình Khách Hàng",
+          "performanceMonitoring": "Theo Dõi Hiệu Quả Marketing",
+          "crossChannelCoordination": "Phối Hợp Đa Kênh"
+        },
+        "executionTitle": "Triển Khai",
+        "executionItems": {
+          "campaignPlanning": {
+            "title": "Lập Kế Hoạch Chiến Dịch",
+            "desc": "Lập kế hoạch cho các chương trình khuyến mãi, ra mắt sản phẩm và chiến dịch theo mùa phù hợp với mục tiêu kinh doanh."
+          },
+          "brandCommunication": {
+            "title": "Truyền Thông Thương Hiệu",
+            "desc": "Đảm bảo thông điệp thương hiệu nhất quán trên Facebook, website, email marketing và các ấn phẩm truyền thông."
+          },
+          "digitalMarketing": {
+            "title": "Marketing Số",
+            "desc": "Triển khai các hoạt động trên Meta Ads, Google Ads, Bing Ads, email marketing và Shopify."
+          },
+          "websiteOptimization": {
+            "title": "Tối Ưu Website",
+            "desc": "Cải thiện landing page, trang sản phẩm, điều hướng và hành trình khách hàng nhằm hỗ trợ hiệu quả cho các chiến dịch marketing."
+          },
+          "creativeProduction": {
+            "title": "Sản Xuất Nội Dung",
+            "desc": "Thiết kế banner, chụp ảnh sản phẩm, sản xuất video ngắn và các tài liệu truyền thông phục vụ chiến dịch."
+          }
+        },
+        "resultsTitle": "Kết Quả & Tác Động",
+        "results": {
+          "item1": "Xây dựng hình ảnh thương hiệu nhất quán trên nhiều kênh digital.",
+          "item2": "Hỗ trợ triển khai hiệu quả các chiến dịch khuyến mãi và ra mắt sản phẩm.",
+          "item3": "Tăng cường phối hợp giữa đội Marketing, E-commerce và Creative.",
+          "item4": "Chuẩn hóa quy trình triển khai chiến dịch cho các hoạt động sau này.",
+          "item5": "Cải thiện mức độ tương tác của khách hàng thông qua truyền thông tích hợp."
+        },
         "resp": {
           "shopifyWebsiteManagement": {
             "title": "01. Quản Lý Website Shopify",
@@ -1224,6 +1374,26 @@
         },
         "featuredWorks": "Các Công Việc Nổi Bật",
         "works": {
+          "campaignPlanningWork": {
+            "title": "Lập Kế Hoạch Chiến Dịch",
+            "desc": "Lập kế hoạch các chiến dịch theo mùa và phối hợp tiến độ triển khai trên nhiều kênh."
+          },
+          "brandCommunicationWork": {
+            "title": "Truyền Thông Thương Hiệu",
+            "desc": "Duy trì thông điệp thương hiệu nhất quán trên các kênh truyền thông sở hữu."
+          },
+          "customerJourney": {
+            "title": "Hành Trình Khách Hàng",
+            "desc": "Kết nối website, mạng xã hội và email marketing thành một hành trình khách hàng thống nhất."
+          },
+          "creativeAssets": {
+            "title": "Tài Nguyên Sáng Tạo",
+            "desc": "Thiết kế các tài nguyên hình ảnh phục vụ chiến dịch quảng bá và xây dựng thương hiệu."
+          },
+          "performanceAnalysis": {
+            "title": "Phân Tích Hiệu Quả",
+            "desc": "Đánh giá hiệu quả chiến dịch bằng dữ liệu marketing để xác định cơ hội tối ưu."
+          },
           "homepageBanner": {
             "title": "Banner Trang Chủ",
             "desc": "Thiết kế và cập nhật banner trang chủ nhằm truyền tải các chiến dịch theo mùa, chương trình khuyến mãi và điểm nổi bật của sản phẩm, đồng thời duy trì hình ảnh thương hiệu nhất quán."
@@ -1250,6 +1420,10 @@
           }
         },
         "tools": "Công Cụ",
+        "toolsMarketing": "Marketing",
+        "toolsAnalytics": "Phân Tích Dữ Liệu",
+        "toolsAdvertising": "Quảng Cáo",
+        "toolsPlatforms": "Nền Tảng",
         "toolList": [
           "Shopify",
           "Google Analytics 4",
@@ -1260,8 +1434,24 @@
           "Microsoft Clarity",
           "Sinbyte"
         ],
-        "keyLearnings": "Những Bài Học Chính",
+        "keyLearningsTitle": "Những Bài Học Chính",
         "learnings": {
+          "customerBehavior": {
+            "title": "01. Marketing Hướng Đến Khách Hàng",
+            "desc": "Marketing hiệu quả bắt đầu từ việc thấu hiểu hành vi khách hàng thay vì dựa trên giả định."
+          },
+          "consistentCommunication": {
+            "title": "02. Truyền Thông Nhất Quán",
+            "desc": "Sự nhất quán trong truyền thông trên các kênh giúp nâng cao nhận diện thương hiệu và hiệu quả chiến dịch."
+          },
+          "dataDriven": {
+            "title": "03. Quyết Định Dựa Trên Dữ Liệu",
+            "desc": "Quyết định dựa trên dữ liệu giúp tối ưu liên tục và mang lại kết quả kinh doanh tốt hơn."
+          },
+          "teamCollaboration": {
+            "title": "04. Phối Hợp Đội Ngũ",
+            "desc": "Sự phối hợp chặt chẽ giữa các bộ phận là yếu tố quan trọng để triển khai thành công các chiến dịch marketing tích hợp."
+          },
           "websiteContentManagement": {
             "title": "01. Quản Lý Nội Dung Website",
             "desc": "Hiểu cách quản lý và tổ chức nội dung trên website Shopify, đồng thời duy trì sự nhất quán tại mọi điểm chạm với khách hàng."

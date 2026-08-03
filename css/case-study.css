@@ -183,6 +183,8 @@ html[lang="vi"] h6 {
 
     text-align:left;
 
+    width: 100%;
+
 }
 
 /* Chỉ áp dụng cho đoạn mô tả ngay dưới heading */
@@ -196,6 +198,8 @@ html[lang="vi"] h6 {
     color:#555;
 
     text-align:left;
+
+    width: 100%;
 
 }
 
@@ -1376,6 +1380,252 @@ html[lang="vi"] h6 {
 
 
 /*====================================================
+            OBJECTIVES, RESULTS, RESEARCH
+====================================================*/
+
+.objectives-list {
+    display: block;
+    text-align: left;
+    margin: 30px 0 0 0;
+    padding: 0;
+    width: 100%;
+    justify-items: start;
+}
+
+.objectives-list p {
+    font-size: 18px;
+    line-height: 2.2;
+    color: #555;
+    margin: 0 0 0 0;
+    padding: 0;
+    text-align: left;
+    display: block;
+    width: 100%;
+    justify-self: start;
+}
+
+.objectives-list p::before {
+    content: "→ ";
+    color: #f28a8a;
+    font-weight: 600;
+    margin-right: 12px;
+}
+
+.results-list {
+    display: block;
+    text-align: left;
+    margin: 30px 0 0 0;
+    padding: 0;
+    width: 100%;
+    justify-items: start;
+}
+
+.results-list p {
+    font-size: 18px;
+    line-height: 2.2;
+    color: #555;
+    margin: 0 0 0 0;
+    padding: 0;
+    text-align: left;
+    display: block;
+    width: 100%;
+    justify-self: start;
+}
+
+.results-list p::before {
+    content: "✓ ";
+    color: #f28a8a;
+    font-weight: 600;
+    margin-right: 12px;
+}
+
+/*====================================================
+            RESEARCH & INSIGHTS
+====================================================*/
+
+.research-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    margin: 35px 0 0 0;
+    padding: 0;
+    width: 100%;
+    justify-items: start;
+    align-items: start;
+}
+
+.research-card {
+    background: #f9f9f9;
+    border-radius: 16px;
+    padding: 28px;
+    text-align: left;
+    width: 100%;
+    justify-self: start;
+}
+
+.research-card h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #222;
+    margin: 0 0 15px 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+.research-card p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+/*====================================================
+            STRATEGY
+====================================================*/
+
+.strategy-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin: 35px 0 0 0;
+    padding: 0;
+    width: 100%;
+    justify-items: start;
+    align-items: start;
+}
+
+.strategy-card {
+    background: #f9f9f9;
+    border-radius: 16px;
+    padding: 24px;
+    text-align: left;
+    transition: 0.3s;
+    width: 100%;
+    justify-self: start;
+}
+
+.strategy-card:hover {
+    background: #f0f0f0;
+    transform: translateY(-4px);
+}
+
+.strategy-card h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    text-align: left;
+    width: 100%;
+}
+
+/*====================================================
+            EXECUTION
+====================================================*/
+
+.execution-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin: 35px 0 0 0;
+    padding: 0;
+    width: 100%;
+    justify-items: start;
+    align-items: start;
+}
+
+.execution-card {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 16px;
+    padding: 28px;
+    text-align: left;
+    transition: 0.3s;
+    width: 100%;
+    justify-self: start;
+}
+
+.execution-card:hover {
+    border-color: #f28a8a;
+    box-shadow: 0 10px 25px rgba(242, 138, 138, 0.1);
+}
+
+.execution-card h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+    margin: 0 0 12px 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+.execution-card p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+/*====================================================
+            KEY LEARNINGS
+====================================================*/
+
+.learnings-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 35px;
+    margin: 35px 0 0 0;
+    padding: 0;
+    width: 100%;
+    justify-items: start;
+    align-items: start;
+}
+
+.learning-card {
+    background: #f9f9f9;
+    border-radius: 16px;
+    padding: 30px;
+    text-align: left;
+    transition: 0.3s;
+    width: 100%;
+    justify-self: start;
+}
+
+.learning-card:hover {
+    background: #f0f0f0;
+    transform: translateY(-4px);
+}
+
+.learning-card h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+    margin: 0 0 15px 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+.learning-card p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+/*====================================================
                     MOBILE
 ====================================================*/
 
@@ -1421,6 +1671,69 @@ html[lang="vi"] h6 {
 
     line-height:1.8;
 
+}
+
+/* Objectives & Results Mobile */
+.objectives-list p,
+.results-list p {
+    font-size: 16px;
+    line-height: 2;
+}
+
+/* Research Grid Mobile */
+.research-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+}
+
+/* Strategy Grid Mobile */
+.strategy-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.strategy-card {
+    padding: 20px;
+}
+
+.strategy-card h3 {
+    font-size: 16px;
+}
+
+/* Execution Grid Mobile */
+.execution-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.execution-card {
+    padding: 20px;
+}
+
+.execution-card h3 {
+    font-size: 16px;
+}
+
+.execution-card p {
+    font-size: 14px;
+}
+
+/* Learnings Grid Mobile */
+.learnings-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+}
+
+.learning-card {
+    padding: 20px;
+}
+
+.learning-card h3 {
+    font-size: 16px;
+}
+
+.learning-card p {
+    font-size: 14px;
 }
 
 }
