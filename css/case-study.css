@@ -1122,7 +1122,7 @@ html[lang="vi"] h6 {
 
 .gallery-desktop{
 
-    display:grid;
+    display:none !important;
 
 }
 
