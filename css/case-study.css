@@ -308,11 +308,11 @@ html[lang="vi"] h6 {
 
     display:grid;
 
-    grid-template-columns:repeat(2,minmax(0,1fr));
+    grid-template-columns:repeat(3,minmax(0,1fr));
 
-    gap:30px;
+    gap:20px;
 
-    margin: 35px 0 0 0;
+    margin: 25px 0 0 0;
 
     padding: 0;
 
@@ -320,63 +320,47 @@ html[lang="vi"] h6 {
 
 .responsibility-card{
 
-    background:#fff;
+    background:#f9f9f9;
 
-    border-radius:24px;
+    border-radius:12px;
 
-    padding:35px;
-
-    box-shadow:0 10px 30px rgba(0,0,0,.05);
-
-    display:flex;
-
-    flex-direction:column;
-
-    align-items:flex-start;
-
-    justify-content:flex-start;
+    padding:18px;
 
     text-align:left;
 
     transition:.3s;
 
+    width:100%;
+
+    justify-self:start;
+
 }
 
 .responsibility-card:hover{
 
-    transform:translateY(-6px);
+    background:#f0f0f0;
+
+    transform:translateY(-2px);
 
 }
 
-.responsibility-card h3{
+.responsibility-card h4{
 
     width:100%;
 
-    margin: 0 0 18px 0;
+    margin: 0;
 
     padding: 0;
 
-    font-size:24px;
+    font-size:14px;
 
     font-weight:600;
 
-    color:#5a73e8;
+    color:#222;
 
     text-align:left;
 
-}
-
-.responsibility-card p{
-
-    width:100%;
-
-    font-size:17px;
-
-    line-height:1.8;
-
-    color:#555;
-
-    text-align:left;
+    line-height:1.5;
 
 }
 
@@ -933,7 +917,9 @@ html[lang="vi"] h6 {
 
 .responsibility-grid{
 
-    grid-template-columns:1fr;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+
+    gap:16px;
 
 }
 
@@ -1161,9 +1147,23 @@ html[lang="vi"] h6 {
 
 }
 
+.responsibility-grid{
+
+    grid-template-columns:1fr;
+
+    gap:12px;
+
+}
+
 .responsibility-card{
 
-    padding:22px;
+    padding:16px;
+
+}
+
+.responsibility-card h4{
+
+    font-size:13px;
 
 }
 
