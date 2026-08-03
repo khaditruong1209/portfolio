@@ -557,6 +557,12 @@ html[lang="vi"] h6 {
 
 }
 
+.gallery-item:not(.gallery-item-mobile-experience){
+
+    display:none;
+
+}
+
 .gallery-slider{
 
     margin: 35px 0 0 0;
