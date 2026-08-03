@@ -1043,6 +1043,14 @@ html[lang="vi"] h6 {
 
 }
 
+.case-section h3{
+
+    margin-top:40px;
+
+    font-size:18px;
+
+}
+
 .case-section > p{
 
     font-size:16px;
@@ -1168,6 +1176,14 @@ html[lang="vi"] h6 {
 .case-section h2{
 
     font-size:26px;
+
+}
+
+.case-section h3{
+
+    margin-top:35px;
+
+    font-size:16px;
 
 }
 
