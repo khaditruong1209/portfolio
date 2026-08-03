@@ -1436,7 +1436,7 @@ html[lang="vi"] h6 {
 .objectives-list {
     display: block;
     text-align: left;
-    margin: 30px 0 0 0;
+    margin: 35px 0 0 0;
     padding: 0;
     width: 100%;
     justify-items: start;
@@ -1444,14 +1444,18 @@ html[lang="vi"] h6 {
 
 .objectives-list p {
     font-size: 18px;
-    line-height: 2.2;
+    line-height: 1.8;
     color: #555;
-    margin: 0 0 0 0;
+    margin: 0 0 24px 0;
     padding: 0;
     text-align: left;
     display: block;
     width: 100%;
     justify-self: start;
+}
+
+.objectives-list p:last-child {
+    margin-bottom: 0;
 }
 
 .objectives-list p::before {
@@ -1464,7 +1468,7 @@ html[lang="vi"] h6 {
 .results-list {
     display: block;
     text-align: left;
-    margin: 30px 0 0 0;
+    margin: 35px 0 0 0;
     padding: 0;
     width: 100%;
     justify-items: start;
@@ -1472,14 +1476,18 @@ html[lang="vi"] h6 {
 
 .results-list p {
     font-size: 18px;
-    line-height: 2.2;
+    line-height: 1.8;
     color: #555;
-    margin: 0 0 0 0;
+    margin: 0 0 24px 0;
     padding: 0;
     text-align: left;
     display: block;
     width: 100%;
     justify-self: start;
+}
+
+.results-list p:last-child {
+    margin-bottom: 0;
 }
 
 .results-list p::before {
@@ -1778,7 +1786,13 @@ html[lang="vi"] h6 {
 .objectives-list p,
 .results-list p {
     font-size: 16px;
-    line-height: 2;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+.objectives-list p:last-child,
+.results-list p:last-child {
+    margin-bottom: 0;
 }
 
 /* Research Grid Mobile */
