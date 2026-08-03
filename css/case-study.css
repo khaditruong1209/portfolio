@@ -557,11 +557,6 @@ html[lang="vi"] h6 {
 
 }
 
-.gallery-item:not(.gallery-item-mobile-experience){
-
-    display:none;
-
-}
 
 .gallery-slider{
 
@@ -627,8 +622,8 @@ html[lang="vi"] h6 {
 
 }
 
-/* Mobile Experience Slider in Gallery */
-.gallery-item-mobile-experience{
+/* Mobile Experience Slider in Gallery Item */
+.gallery-item-mobile-exp{
 
     display:flex;
 
@@ -636,15 +631,13 @@ html[lang="vi"] h6 {
 
 }
 
-.gallery-item-mobile-experience .mobile-experience-slider{
+.gallery-item-mobile-exp .mobile-experience-slider{
 
     width:100%;
 
-    margin:0 0 0 0;
+    margin:0;
 
     padding:0;
-
-    flex-grow:1;
 
 }
 
@@ -688,17 +681,6 @@ html[lang="vi"] h6 {
 
 }
 
-.gallery-item-mobile-experience h3{
-
-    margin:18px 20px 10px 20px !important;
-
-}
-
-.gallery-item-mobile-experience p{
-
-    margin:0 20px 20px 20px !important;
-
-}
 
 .slider-btn{
 
@@ -1000,7 +982,7 @@ html[lang="vi"] h6 {
 
 .mobile-slider-container{
 
-    aspect-ratio:768/1125;
+    aspect-ratio:680/1000;
 
 }
 
