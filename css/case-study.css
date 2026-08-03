@@ -1576,6 +1576,57 @@ html[lang="vi"] h6 {
 }
 
 /*====================================================
+            CAMPAIGN ECOSYSTEM
+====================================================*/
+
+.ecosystem-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin: 35px 0 0 0;
+    padding: 0;
+    width: 100%;
+    justify-items: start;
+    align-items: start;
+}
+
+.ecosystem-card {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 16px;
+    padding: 28px;
+    text-align: left;
+    transition: 0.3s;
+    width: 100%;
+    justify-self: start;
+}
+
+.ecosystem-card:hover {
+    border-color: #f28a8a;
+    box-shadow: 0 10px 25px rgba(242, 138, 138, 0.1);
+}
+
+.ecosystem-card h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+    margin: 0 0 12px 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+.ecosystem-card p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+
+/*====================================================
             KEY LEARNINGS
 ====================================================*/
 
@@ -1715,6 +1766,24 @@ html[lang="vi"] h6 {
 }
 
 .execution-card p {
+    font-size: 14px;
+}
+
+/* Ecosystem Grid Mobile */
+.ecosystem-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.ecosystem-card {
+    padding: 20px;
+}
+
+.ecosystem-card h3 {
+    font-size: 16px;
+}
+
+.ecosystem-card p {
     font-size: 14px;
 }
 

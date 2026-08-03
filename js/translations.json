@@ -269,8 +269,32 @@
           "title": "Integrated Brand Marketing Campaign",
           "description": "Building a consistent brand presence through integrated marketing campaigns, customer insights, and multi-channel communication."
         },
+        "projectSnapshot": {
+          "title": "Project Snapshot",
+          "company": "Company",
+          "companyValue": "GEW Vietnam",
+          "brand": "Brand",
+          "brandValue": "WIGI Hair",
+          "industry": "Industry",
+          "industryValue": "Hair Extensions · E-commerce",
+          "role": "Role",
+          "roleValue": "Marketing Executive",
+          "projectType": "Project Type",
+          "projectTypeValue": "Integrated Brand Marketing",
+          "duration": "Duration",
+          "durationValue": "2025 – Present",
+          "responsibilities": "Responsibilities",
+          "resp": {
+            "campaignPlanning": "Campaign Planning",
+            "marketingAnalytics": "Marketing Analytics",
+            "performanceMarketing": "Performance Marketing",
+            "websiteOptimization": "Website Optimization",
+            "emailMarketing": "Email Marketing",
+            "brandCommunication": "Brand Communication"
+          }
+        },
         "challenge": "Business Challenge",
-        "challengeDesc": "As WIGI Hair expanded into the U.S. market, the brand faced challenges in increasing awareness, maintaining consistent communication across channels, and converting traffic into loyal customers. Marketing efforts needed to be aligned across content, advertising, website, and CRM to create a seamless customer journey.",
+        "challengeDesc": "As GEW Vietnam's portfolio brand expanded into the U.S. market, the brand faced challenges in increasing awareness, maintaining consistent communication across channels, and converting traffic into loyal customers. Marketing efforts needed to be aligned across content, advertising, website, and CRM to create a seamless customer journey.",
         "objectivesTitle": "Objectives",
         "objectives": {
           "item1": "Increase brand awareness in the U.S. market.",
@@ -286,7 +310,7 @@
           "insights": "Key Insights",
           "insightsDesc": "Educational and lifestyle-focused content generated stronger engagement than promotional-only content. Customers interacted with multiple touchpoints before purchasing. Website experience and email marketing significantly influenced customer retention."
         },
-        "strategyTitle": "Strategy",
+        "strategyTitle": "Marketing Strategy",
         "strategyDesc": "Based on research findings, I supported the development of an integrated marketing strategy focused on creating a consistent customer experience across digital channels.",
         "strategyFocus": {
           "campaignPlanning": "Campaign Planning",
@@ -295,6 +319,24 @@
           "customerJourneyOptimization": "Customer Journey Optimization",
           "performanceMonitoring": "Performance Monitoring",
           "crossChannelCoordination": "Cross-channel Coordination"
+        },
+        "campaignEcosystem": {
+          "title": "Campaign Ecosystem",
+          "desc": "The integrated marketing approach connects multiple channels and touchpoints to create a cohesive customer experience.",
+          "items": {
+            "contentMarketing": "Content Marketing",
+            "contentMarketingDesc": "Educational and lifestyle content across blog, social, and email channels.",
+            "paidAdvertising": "Paid Advertising",
+            "paidAdvertisingDesc": "Meta Ads, Google Ads, and Bing Ads campaigns targeting key audiences.",
+            "emailMarketing": "Email Marketing",
+            "emailMarketingDesc": "Automated workflows and promotional campaigns via Klaviyo.",
+            "websiteOptimization": "Website Optimization",
+            "websiteOptimizationDesc": "Landing page design and Shopify UX improvements for conversions.",
+            "customerJourney": "Customer Journey",
+            "customerJourneyDesc": "Mapped touchpoints from awareness through advocacy.",
+            "analytics": "Analytics & Insights",
+            "analyticsDesc": "Continuous monitoring and optimization using data-driven insights."
+          }
         },
         "executionTitle": "Execution",
         "executionItems": {
@@ -364,7 +406,18 @@
             "desc": "Review campaign performance, gather feedback, and continuously improve future marketing activities."
           }
         },
-        "featuredWorks": "Featured Works",
+        "featuredWorks": {
+          "title": "Featured Works",
+          "desc": "A selection of key marketing deliverables and campaign highlights that demonstrate the integrated approach to brand marketing.",
+          "items": {
+            "campaignPlanning": "Campaign Planning",
+            "campaignPlanningDesc": "Planned seasonal campaigns and coordinated execution timelines across multiple channels.",
+            "brandCommunication": "Brand Communication",
+            "brandCommunicationDesc": "Maintained consistent brand messaging across owned digital channels.",
+            "customerJourney": "Customer Journey",
+            "customerJourneyDesc": "Connected website, social media, and email marketing into a unified customer experience."
+          }
+        },
         "works": {
           "campaignPlanningWork": {
             "title": "Campaign Planning",
@@ -1277,8 +1330,32 @@
           "title": "Chiến dịch Marketing Thương hiệu Tích hợp",
           "description": "Xây dựng hình ảnh thương hiệu nhất quán thông qua các chiến dịch marketing tích hợp, phân tích khách hàng và truyền thông đa kênh."
         },
+        "projectSnapshot": {
+          "title": "Tóm Tắt Dự Án",
+          "company": "Công ty",
+          "companyValue": "GEW Vietnam",
+          "brand": "Thương hiệu",
+          "brandValue": "WIGI Hair",
+          "industry": "Lĩnh vực",
+          "industryValue": "Tóc nối · Thương mại điện tử",
+          "role": "Vai trò",
+          "roleValue": "Marketing Executive",
+          "projectType": "Loại dự án",
+          "projectTypeValue": "Marketing thương hiệu tích hợp",
+          "duration": "Thời gian",
+          "durationValue": "2025 – Hiện tại",
+          "responsibilities": "Vai trò chính",
+          "resp": {
+            "campaignPlanning": "Lập kế hoạch chiến dịch",
+            "marketingAnalytics": "Phân tích Marketing",
+            "performanceMarketing": "Performance Marketing",
+            "websiteOptimization": "Tối ưu Website",
+            "emailMarketing": "Email Marketing",
+            "brandCommunication": "Truyền thông thương hiệu"
+          }
+        },
         "challenge": "Thách Thức Kinh Doanh",
-        "challengeDesc": "Trong quá trình mở rộng sang thị trường Hoa Kỳ, WIGI Hair gặp nhiều thách thức trong việc gia tăng nhận diện thương hiệu, duy trì thông điệp nhất quán trên các kênh và chuyển đổi khách truy cập thành khách hàng trung thành. Các hoạt động marketing cần được kết nối giữa nội dung, quảng cáo, website và CRM để tạo nên hành trình khách hàng liền mạch.",
+        "challengeDesc": "Trong quá trình mở rộng sang thị trường Hoa Kỳ, thương hiệu của GEW Vietnam gặp nhiều thách thức trong việc gia tăng nhận diện thương hiệu, duy trì thông điệp nhất quán trên các kênh và chuyển đổi khách truy cập thành khách hàng trung thành. Các hoạt động marketing cần được kết nối giữa nội dung, quảng cáo, website và CRM để tạo nên hành trình khách hàng liền mạch.",
         "objectivesTitle": "Mục Tiêu",
         "objectives": {
           "item1": "Gia tăng nhận diện thương hiệu tại thị trường Hoa Kỳ.",
@@ -1294,7 +1371,7 @@
           "insights": "Insight Chính",
           "insightsDesc": "Nội dung mang tính chia sẻ kiến thức và phong cách sống tạo mức độ tương tác tốt hơn nội dung chỉ tập trung bán hàng. Khách hàng thường tiếp cận thương hiệu qua nhiều điểm chạm trước khi mua. Trải nghiệm website và email marketing có ảnh hưởng lớn đến quyết định mua hàng."
         },
-        "strategyTitle": "Chiến Lược",
+        "strategyTitle": "Chiến Lược Marketing",
         "strategyDesc": "Dựa trên các kết quả nghiên cứu, tôi tham gia xây dựng chiến lược marketing tích hợp nhằm tạo trải nghiệm đồng nhất cho khách hàng trên các kênh số.",
         "strategyFocus": {
           "campaignPlanning": "Lập Kế Hoạch Chiến Dịch",
@@ -1303,6 +1380,24 @@
           "customerJourneyOptimization": "Tối Ưu Hành Trình Khách Hàng",
           "performanceMonitoring": "Theo Dõi Hiệu Quả Marketing",
           "crossChannelCoordination": "Phối Hợp Đa Kênh"
+        },
+        "campaignEcosystem": {
+          "title": "Hệ Sinh Thái Chiến Dịch",
+          "desc": "Cách tiếp cận marketing tích hợp kết nối nhiều kênh và điểm chạm để tạo trải nghiệm khách hàng gắn kết.",
+          "items": {
+            "contentMarketing": "Content Marketing",
+            "contentMarketingDesc": "Nội dung chia sẻ kiến thức và lối sống trên blog, mạng xã hội và email.",
+            "paidAdvertising": "Quảng Cáo Trả Phí",
+            "paidAdvertisingDesc": "Các chiến dịch trên Meta Ads, Google Ads, và Bing Ads nhắm vào khán giả chính.",
+            "emailMarketing": "Email Marketing",
+            "emailMarketingDesc": "Các chuỗi tự động và chiến dịch khuyến mãi qua Klaviyo.",
+            "websiteOptimization": "Tối Ưu Website",
+            "websiteOptimizationDesc": "Thiết kế landing page và cải thiện UX Shopify để nâng cao chuyển đổi.",
+            "customerJourney": "Hành Trình Khách Hàng",
+            "customerJourneyDesc": "Các điểm chạm được lập bản đồ từ nhận thức đến ủng hộ.",
+            "analytics": "Phân Tích & Insight",
+            "analyticsDesc": "Theo dõi liên tục và tối ưu bằng cách sử dụng dữ liệu."
+          }
         },
         "executionTitle": "Triển Khai",
         "executionItems": {
@@ -1372,7 +1467,18 @@
             "desc": "Xem xét hiệu suất chiến dịch, thu thập phản hồi và liên tục cải thiện các hoạt động marketing trong tương lai."
           }
         },
-        "featuredWorks": "Các Công Việc Nổi Bật",
+        "featuredWorks": {
+          "title": "Các Công Việc Nổi Bật",
+          "desc": "Một số tài liệu marketing chính và các điểm nổi bật chiến dịch thể hiện cách tiếp cận tích hợp marketing thương hiệu.",
+          "items": {
+            "campaignPlanning": "Lập Kế Hoạch Chiến Dịch",
+            "campaignPlanningDesc": "Lập kế hoạch các chiến dịch theo mùa và phối hợp tiến độ triển khai trên nhiều kênh.",
+            "brandCommunication": "Truyền Thông Thương Hiệu",
+            "brandCommunicationDesc": "Duy trì thông điệp thương hiệu nhất quán trên các kênh truyền thông sở hữu.",
+            "customerJourney": "Hành Trình Khách Hàng",
+            "customerJourneyDesc": "Kết nối website, mạng xã hội và email marketing thành một hành trình khách hàng thống nhất."
+          }
+        },
         "works": {
           "campaignPlanningWork": {
             "title": "Lập Kế Hoạch Chiến Dịch",
