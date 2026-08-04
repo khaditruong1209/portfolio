@@ -327,7 +327,7 @@ html[lang="vi"] h6 {
 
     margin: 35px 0 0 0;
 
-    padding: 40px 0;
+    padding: 50px 0;
 
 }
 
@@ -337,9 +337,11 @@ html[lang="vi"] h6 {
 
     grid-template-columns:repeat(4, 1fr);
 
-    gap:24px;
+    gap:40px;
 
     position:relative;
+
+    align-items:start;
 
 }
 
@@ -349,15 +351,15 @@ html[lang="vi"] h6 {
 
     position:absolute;
 
-    top:30px;
+    top:50px;
 
-    left:12.5%;
+    left:0;
 
-    right:12.5%;
+    right:0;
 
-    height:2px;
+    height:3px;
 
-    background:linear-gradient(to right, transparent, #f0f0f0 5%, #f0f0f0 95%, transparent);
+    background:linear-gradient(to right, transparent, #f0f0f0 8%, #f0f0f0 92%, transparent);
 
     z-index:0;
 
@@ -381,15 +383,15 @@ html[lang="vi"] h6 {
 
 .step-badge{
 
-    width:60px;
+    width:100px;
 
-    height:60px;
+    height:100px;
 
-    background:linear-gradient(135deg, #f28a8a, #f78b89);
+    background:linear-gradient(135deg, #f28a8a 0%, #f78b89 100%);
 
     color:#fff;
 
-    font-size:20px;
+    font-size:32px;
 
     font-weight:700;
 
@@ -401,25 +403,27 @@ html[lang="vi"] h6 {
 
     justify-content:center;
 
-    margin-bottom:16px;
+    margin-bottom:24px;
 
-    box-shadow:0 4px 12px rgba(242, 138, 138, 0.2);
+    box-shadow:0 8px 24px rgba(242, 138, 138, 0.3);
 
-    transition:.3s;
+    transition:.3s ease;
+
+    flex-shrink:0;
 
 }
 
 .workflow-step:hover .step-badge{
 
-    transform:scale(1.1);
+    transform:translateY(-8px) scale(1.08);
 
-    box-shadow:0 8px 20px rgba(242, 138, 138, 0.3);
+    box-shadow:0 16px 36px rgba(242, 138, 138, 0.4);
 
 }
 
 .workflow-step h3{
 
-    font-size:16px;
+    font-size:18px;
 
     font-weight:600;
 
@@ -429,7 +433,7 @@ html[lang="vi"] h6 {
 
     padding:0;
 
-    line-height:1.4;
+    line-height:1.5;
 
 }
 
@@ -1228,7 +1232,9 @@ html[lang="vi"] h6 {
 
     grid-template-columns:repeat(2, 1fr);
 
-    gap:32px;
+    gap:48px 32px;
+
+    padding:0 20px;
 
 }
 
@@ -1405,23 +1411,27 @@ html[lang="vi"] h6 {
 
     grid-template-columns:1fr;
 
-    gap:28px;
+    gap:40px;
+
+    padding:0;
 
 }
 
 .step-badge{
 
-    width:56px;
+    width:80px;
 
-    height:56px;
+    height:80px;
 
-    font-size:18px;
+    font-size:28px;
+
+    margin-bottom:20px;
 
 }
 
 .workflow-step h3{
 
-    font-size:15px;
+    font-size:16px;
 
 }
 
