@@ -4,7 +4,8 @@
       "home": "Home",
       "about": "About",
       "work": "Projects",
-      "contact": "Contact"
+      "contact": "Contact",
+      "logo": "TRUONG KHA DI"
     },
     "hero": {
       "title": "Hi, I'm Truong Kha Di",
@@ -1191,7 +1192,8 @@
       "home": "Trang chủ",
       "about": "Về tôi",
       "work": "Dự Án",
-      "contact": "Liên hệ"
+      "contact": "Liên hệ",
+      "logo": "TRƯƠNG KHẢ DI"
     },
     "hero": {
       "title": "Xin chào, tôi là Trương Khả Di",
