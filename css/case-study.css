@@ -327,7 +327,7 @@ html[lang="vi"] h6 {
 
     margin: 35px 0 0 0;
 
-    padding: 50px 0;
+    padding: 0;
 
 }
 
@@ -337,31 +337,7 @@ html[lang="vi"] h6 {
 
     grid-template-columns:repeat(4, 1fr);
 
-    gap:40px;
-
-    position:relative;
-
-    align-items:start;
-
-}
-
-.workflow-steps::before{
-
-    content:'';
-
-    position:absolute;
-
-    top:50px;
-
-    left:0;
-
-    right:0;
-
-    height:3px;
-
-    background:linear-gradient(to right, transparent, #f0f0f0 8%, #f0f0f0 92%, transparent);
-
-    z-index:0;
+    gap:30px;
 
 }
 
@@ -369,29 +345,27 @@ html[lang="vi"] h6 {
 
     display:flex;
 
-    flex-direction:column;
+    flex-direction:row;
 
-    align-items:center;
+    align-items:flex-start;
 
-    text-align:center;
+    gap:16px;
 
-    position:relative;
-
-    z-index:1;
+    text-align:left;
 
 }
 
-.step-badge{
+.step-number{
 
-    width:100px;
+    width:48px;
 
-    height:100px;
+    height:48px;
 
     background:linear-gradient(135deg, #f28a8a 0%, #f78b89 100%);
 
     color:#fff;
 
-    font-size:32px;
+    font-size:20px;
 
     font-weight:700;
 
@@ -403,25 +377,29 @@ html[lang="vi"] h6 {
 
     justify-content:center;
 
-    margin-bottom:24px;
+    flex-shrink:0;
 
-    box-shadow:0 8px 24px rgba(242, 138, 138, 0.3);
+    box-shadow:0 4px 12px rgba(242, 138, 138, 0.2);
 
     transition:.3s ease;
 
-    flex-shrink:0;
+}
+
+.workflow-step:hover .step-number{
+
+    transform:scale(1.1);
+
+    box-shadow:0 8px 20px rgba(242, 138, 138, 0.3);
 
 }
 
-.workflow-step:hover .step-badge{
+.step-content{
 
-    transform:translateY(-8px) scale(1.08);
-
-    box-shadow:0 16px 36px rgba(242, 138, 138, 0.4);
+    flex:1;
 
 }
 
-.workflow-step h3{
+.step-content h3{
 
     font-size:18px;
 
@@ -429,11 +407,25 @@ html[lang="vi"] h6 {
 
     color:#222;
 
+    margin:0 0 8px 0;
+
+    padding:0;
+
+    line-height:1.4;
+
+}
+
+.step-content p{
+
+    font-size:16px;
+
+    color:#666;
+
     margin:0;
 
     padding:0;
 
-    line-height:1.5;
+    line-height:1.6;
 
 }
 
@@ -1232,15 +1224,7 @@ html[lang="vi"] h6 {
 
     grid-template-columns:repeat(2, 1fr);
 
-    gap:48px 32px;
-
-    padding:0 20px;
-
-}
-
-.workflow-steps::before{
-
-    display:none;
+    gap:32px;
 
 }
 
@@ -1411,27 +1395,31 @@ html[lang="vi"] h6 {
 
     grid-template-columns:1fr;
 
-    gap:40px;
-
-    padding:0;
+    gap:28px;
 
 }
 
-.step-badge{
+.step-number{
 
-    width:80px;
+    width:44px;
 
-    height:80px;
+    height:44px;
 
-    font-size:28px;
+    font-size:18px;
 
-    margin-bottom:20px;
+    margin-top:2px;
 
 }
 
-.workflow-step h3{
+.step-content h3{
 
-    font-size:16px;
+    font-size:17px;
+
+}
+
+.step-content p{
+
+    font-size:15px;
 
 }
 
