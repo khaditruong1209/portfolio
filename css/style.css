@@ -316,7 +316,7 @@ nav a.active,
     width: 100%;
     max-width: 640px;
     justify-self: start;
-    transform: translateY(-20px);
+    transform: translateY(0px);
 }
 
 .portfolio-stack {
