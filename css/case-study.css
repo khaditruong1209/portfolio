@@ -613,6 +613,14 @@ html[lang="vi"] h6 {
                     TOOLS
 ====================================================*/
 
+.case-section:has(.tool-list) {
+    text-align: left !important;
+}
+
+.case-section:has(.tool-list) h2 {
+    text-align: left !important;
+}
+
 .tool-list{
 
     width:100%;
