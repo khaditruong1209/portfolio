@@ -349,9 +349,29 @@ html[lang="vi"] h6 {
 
     align-items:flex-start;
 
-    gap:16px;
+    gap:20px;
 
     text-align:left;
+
+    background:#fff;
+
+    border:1px solid #e8e8e8;
+
+    border-radius:16px;
+
+    padding:28px;
+
+    transition:.3s;
+
+}
+
+.workflow-step:hover{
+
+    border-color:#f28a8a;
+
+    box-shadow:0 12px 30px rgba(242,138,138,0.15);
+
+    transform:translateY(-6px);
 
 }
 
@@ -1224,7 +1244,7 @@ html[lang="vi"] h6 {
 
     grid-template-columns:repeat(2, 1fr);
 
-    gap:32px;
+    gap:28px;
 
 }
 
@@ -1395,7 +1415,15 @@ html[lang="vi"] h6 {
 
     grid-template-columns:1fr;
 
-    gap:28px;
+    gap:24px;
+
+}
+
+.workflow-step{
+
+    padding:24px;
+
+    gap:16px;
 
 }
 
