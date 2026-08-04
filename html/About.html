@@ -45,12 +45,12 @@
     <section class="page-section about-page">
         <h1 class="page-title" data-i18n="about.title">About Me</h1>
 
-        <!-- 1. MARKETING EXECUTIVE -->
-        <section class="about-intro">
-            <h2 data-i18n="about.role">Marketing Executive</h2>
-        </section>
-
         <!-- 2. DESCRIPTION + IMAGE -->
+        <div class="about-highlight">
+            <p class="role" data-i18n="hero.role">Marketing Executive</p>
+            <p class="skills" data-i18n="hero.skills">Campaign Planning • Performance Marketing • Marketing Analytics</p>
+        </div>
+
         <section class="about-container">
             <div class="about-text">
                 <p data-i18n="about.intro">
@@ -71,111 +71,36 @@
             </div>
         </section>
 
-        <!-- 3. EDUCATION -->
-        <section class="education">
-            <h3 data-i18n="education.title">Education</h3>
+        <!-- 3. CORE EXPERTISE -->
+        <section class="core-expertise">
+            <h3 data-i18n="about.coreExpertise">Core Expertise</h3>
 
-            <div class="education-row">
-                <div class="education-content">
-                    <h4 data-i18n="education.ftu.name">Foreign Trade University</h4>
-                    <p data-i18n="education.ftu.degree">Bachelor of International Business Economics</p>
-                    <span data-i18n="education.ftu.years">2021 – 2025</span>
-                    <p class="grade"><strong data-i18n="other.grade">Grade:</strong> <span
-                            data-i18n="education.ftu.grade">Very Good</span></p>
+            <div class="expertise-grid">
+                <div class="expertise-card">
+                    <h4 data-i18n="about.campaignPlanning">Campaign Planning</h4>
+                    <p data-i18n="about.campaignPlanningDesc">Planning integrated marketing campaigns by aligning business objectives, customer insights, and cross-channel execution.</p>
                 </div>
 
-                <div class="education-logo">
-                    <img src="../images/ftu-logo.png" alt="FTU">
-                </div>
-            </div>
-
-            <div class="education-row reverse">
-                <div class="education-content">
-                    <h4 data-i18n="education.ueh.name">University of Economics HCMC</h4>
-                    <p data-i18n="education.ueh.degree">Applications of Digital Marketing for Business</p>
-                    <span data-i18n="education.ueh.years">2024</span>
-                    <p class="grade"><strong data-i18n="other.grade">Grade:</strong> <span
-                            data-i18n="education.ueh.grade">Excellent</span></p>
+                <div class="expertise-card">
+                    <h4 data-i18n="about.integratedMarketing">Integrated Marketing</h4>
+                    <p data-i18n="about.integratedMarketingDesc">Coordinating marketing activities across digital channels, including website, email marketing, social media, paid advertising, and CRM to deliver consistent customer experiences.</p>
                 </div>
 
-                <div class="education-logo">
-                    <img src="../images/ueh-logo.png" alt="UEH">
+                <div class="expertise-card">
+                    <h4 data-i18n="about.customerExperience">Customer Experience Optimization</h4>
+                    <p data-i18n="about.customerExperienceDesc">Improving website usability, customer journeys, and conversion performance through analytics and user behavior insights.</p>
+                </div>
+
+                <div class="expertise-card">
+                    <h4 data-i18n="about.marketingAnalytics">Marketing Analytics</h4>
+                    <p data-i18n="about.marketingAnalyticsDesc">Monitoring campaign performance using Google Analytics 4, Microsoft Clarity, Shopify Analytics, and reporting tools to identify opportunities for continuous improvement.</p>
                 </div>
             </div>
         </section>
 
-        <!-- 4. SKILLS -->
-        <section class="skills-section">
-            <h3 data-i18n="skills.title">Skills</h3>
-
-            <div class="skills-grid">
-                <!-- Technical Skills -->
-                <div class="skills-block">
-                    <h4 data-i18n="skills.technical.title">Technical Skills</h4>
-                    <ul class="skills-list-technical">
-                        <li>Shopify Management</li>
-                        <li>SEO & Content Marketing</li>
-                        <li>Email Marketing (Klaviyo)</li>
-                        <li>Performance Marketing</li>
-                        <li>GA4 & Microsoft Clarity</li>
-                        <li>AI Content Creation</li>
-                        <li>Meta Ads</li>
-                        <li>Market Research</li>
-                    </ul>
-                </div>
-
-                <!-- Soft Skills -->
-                <div class="skills-block">
-                    <h4 data-i18n="skills.soft.title">Soft Skills</h4>
-                    <ul class="skills-list-soft">
-                        <li>Analytical Thinking</li>
-                        <li>Creative Problem Solving</li>
-                        <li>Managing Multiple Priorities</li>
-                        <li>Communication</li>
-                        <li>Adaptability</li>
-                        <li>Team Collaboration</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-
-        <section class="software">
-            <h3 data-i18n="software.title">Tools & Platforms</h3>
-
-            <div class="software-grid">
-
-                <!-- Marketing Platforms -->
-                <div class="software-category">
-                    <h4 data-i18n="software.marketing">Marketing Platforms</h4>
-
-                    <div class="tool-tags">
-                        <span class="tool-tag">Shopify</span>
-                        <span class="tool-tag">Klaviyo</span>
-                        <span class="tool-tag">GA4</span>
-                        <span class="tool-tag">Microsoft Clarity</span>
-                        <span class="tool-tag">Google Search Console</span>
-                        <span class="tool-tag">Meta Business Suite</span>
-                    </div>
-                </div>
-
-                <!-- Productivity & AI -->
-                <div class="software-category">
-                    <h4 data-i18n="software.productivity">Productivity & AI Tools</h4>
-
-                    <div class="tool-tags">
-                        <span class="tool-tag">Excel</span>
-                        <span class="tool-tag">PowerPoint</span>
-                        <span class="tool-tag">Canva</span>
-                        <span class="tool-tag">ChatGPT</span>
-                    </div>
-                </div>
-
-            </div>
-        </section>
-
-        <!-- EXPERIENCE -->
+        <!-- 4. PROFESSIONAL EXPERIENCE (moved up) -->
         <section class="experience">
-            <h3 data-i18n="experience.title">Work Experience</h3>
+            <h3 data-i18n="about.professionalExperience">Professional Experience</h3>
 
             <div class="experience-list">
                 <!-- WIGI HAIR -->
@@ -186,16 +111,16 @@
 
                     <div class="experience-content">
                         <h4 data-i18n="experience.wigiHair.role">Marketing Executive</h4>
-                        <h5 data-i18n="experience.wigiHair.company">WIGI Hair</h5>
+                        <h5 data-i18n="experience.wigiHair.company">GEW Vietnam</h5>
 
                         <p data-i18n="experience.wigiHair.description">
-                            Managed the Shopify e-commerce website, executed SEO and email marketing strategies, optimized user experience, and analyzed performance using GA4 and Microsoft Clarity to improve customer acquisition and conversion.
+                            Planned and executed integrated marketing activities across e-commerce, paid media, website optimization, and CRM. Leveraged marketing analytics and customer behavior insights to optimize campaign performance, improve customer experience, and support business growth.
                         </p>
 
                         <ul class="experience-skills-wigi">
-                            <li>Shopify Management</li>
-                            <li>SEO & Content Marketing</li>
-                            <li>GA4, Clarity & Klaviyo</li>
+                            <li>Campaign Planning</li>
+                            <li>E-commerce Optimization</li>
+                            <li>Marketing Analytics</li>
                         </ul>
                     </div>
                 </div>
@@ -211,7 +136,6 @@
 
                         <p data-i18n="experience.tiemNhaCo.description">
                             Co-founded and grew an online fashion business by leading marketing strategy, content planning, Facebook marketing, promotional campaigns, and day-to-day e-commerce operations to strengthen brand awareness and customer engagement.
-                            and customer engagement.
                         </p>
 
                         <ul class="experience-skills-tiemNhaCo">
@@ -266,6 +190,131 @@
                             <li>Content Writing</li>
                             <li>Marketing Research</li>
                         </ul>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- 5. EDUCATION -->
+        <section class="education">
+            <h3 data-i18n="education.title">Education</h3>
+
+            <div class="education-row">
+                <div class="education-content">
+                    <h4 data-i18n="education.ftu.name">Foreign Trade University</h4>
+                    <p data-i18n="education.ftu.degree">Bachelor of International Business Economics</p>
+                    <span data-i18n="education.ftu.years">2021 – 2025</span>
+                    <p class="grade"><strong data-i18n="other.grade">Grade:</strong> <span
+                            data-i18n="education.ftu.grade">Very Good</span></p>
+                </div>
+
+                <div class="education-logo">
+                    <img src="../images/ftu-logo.png" alt="FTU">
+                </div>
+            </div>
+
+            <div class="education-row reverse">
+                <div class="education-content">
+                    <h4 data-i18n="education.ueh.name">University of Economics HCMC</h4>
+                    <p data-i18n="education.ueh.degree">Applications of Digital Marketing for Business</p>
+                    <span data-i18n="education.ueh.years">2024</span>
+                    <p class="grade"><strong data-i18n="other.grade">Grade:</strong> <span
+                            data-i18n="education.ueh.grade">Excellent</span></p>
+                </div>
+
+                <div class="education-logo">
+                    <img src="../images/ueh-logo.png" alt="UEH">
+                </div>
+            </div>
+        </section>
+
+        <!-- 6. HOW I WORK -->
+        <section class="how-i-work">
+            <h3 data-i18n="about.howIWork">How I Work</h3>
+
+            <div class="how-i-work-grid">
+                <div class="how-i-work-card">
+                    <h4 data-i18n="about.dataInformedThinking">Data-informed Thinking</h4>
+                    <p data-i18n="about.dataInformedThinkingDesc">I use customer and campaign data to support marketing decisions.</p>
+                </div>
+
+                <div class="how-i-work-card">
+                    <h4 data-i18n="about.customerFirstMindset">Customer-first Mindset</h4>
+                    <p data-i18n="about.customerFirstMindsetDesc">I focus on understanding customer behavior before proposing solutions.</p>
+                </div>
+
+                <div class="how-i-work-card">
+                    <h4 data-i18n="about.crossFunctionalCollaboration">Cross-functional Collaboration</h4>
+                    <p data-i18n="about.crossFunctionalCollaborationDesc">I enjoy working with designers, developers, and business teams to deliver integrated campaigns.</p>
+                </div>
+
+                <div class="how-i-work-card">
+                    <h4 data-i18n="about.continuousImprovement">Continuous Improvement</h4>
+                    <p data-i18n="about.continuousImprovementDesc">I continuously evaluate campaign performance and explore new technologies to improve marketing effectiveness.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 7. CAREER ASPIRATION -->
+        <section class="career-aspiration">
+            <h3 data-i18n="about.careerAspiration">Career Aspiration</h3>
+            <p data-i18n="about.careerAspirationDesc">I aspire to grow as a Marketing Planner who connects customer insights, media strategy, and performance analytics to develop integrated campaigns that create measurable business impact. I enjoy working in collaborative environments where data, creativity, and strategic thinking come together to solve marketing challenges.</p>
+        </section>
+
+        <!-- 8. TOOLS & PLATFORMS -->
+        <section class="software">
+            <h3 data-i18n="software.title">Tools & Platforms</h3>
+
+            <div class="software-grid">
+
+                <!-- Analytics -->
+                <div class="software-category">
+                    <h4 data-i18n="software.analytics">Analytics</h4>
+                    <div class="tool-tags">
+                        <span class="tool-tag">Google Analytics 4</span>
+                        <span class="tool-tag">Microsoft Clarity</span>
+                        <span class="tool-tag">Google Search Console</span>
+                    </div>
+                </div>
+
+                <!-- Marketing Platforms -->
+                <div class="software-category">
+                    <h4 data-i18n="software.marketingPlatforms">Marketing Platforms</h4>
+                    <div class="tool-tags">
+                        <span class="tool-tag">Shopify</span>
+                        <span class="tool-tag">Klaviyo</span>
+                        <span class="tool-tag">Meta Business Suite</span>
+                    </div>
+                </div>
+
+                <!-- Advertising -->
+                <div class="software-category">
+                    <h4 data-i18n="software.advertising">Advertising</h4>
+                    <div class="tool-tags">
+                        <span class="tool-tag">Google Ads</span>
+                        <span class="tool-tag">Meta Ads</span>
+                        <span class="tool-tag">Bing Ads</span>
+                    </div>
+                </div>
+
+                <!-- Productivity -->
+                <div class="software-category">
+                    <h4 data-i18n="software.productivity">Productivity</h4>
+                    <div class="tool-tags">
+                        <span class="tool-tag">Excel</span>
+                        <span class="tool-tag">PowerPoint</span>
+                        <span class="tool-tag">Canva</span>
+                    </div>
+                </div>
+
+                <!-- AI -->
+                <div class="software-category">
+                    <h4 data-i18n="software.ai">AI</h4>
+                    <div class="tool-tags">
+                        <span class="tool-tag">ChatGPT</span>
+                        <span class="tool-tag">Claude</span>
+                        <span class="tool-tag">Midjourney</span>
                     </div>
                 </div>
 
