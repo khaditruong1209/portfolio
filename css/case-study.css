@@ -635,7 +635,7 @@ html[lang="vi"] h6 {
 
     align-content:flex-start;
 
-    gap:16px;
+    gap:24px;
 
     margin: 35px 0 0 0;
 
@@ -1517,7 +1517,7 @@ html[lang="vi"] h6 {
 
 .tool-list{
 
-    gap:12px;
+    gap:16px;
 
 }
 
