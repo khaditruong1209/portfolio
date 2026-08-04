@@ -627,9 +627,9 @@ html[lang="vi"] h6 {
 
     align-content:flex-start;
 
-    gap:32px;
+    gap:16px;
 
-    margin: 30px 0 0 0;
+    margin: 35px 0 0 0;
 
     padding: 0;
 
@@ -644,21 +644,23 @@ html[lang="vi"] h6 {
 
     justify-content:center;
 
-    height:46px;
+    height:56px;
 
-    padding:0 22px;
+    padding:0 28px;
 
     background:#fde8e8;
 
     border-radius:999px;
 
-    font-size:15px;
+    font-size:16px;
 
     font-weight:500;
 
     color:#444;
 
     transition:.25s;
+
+    box-shadow:0 2px 8px rgba(242, 138, 138, 0.1);
 
 }
 
@@ -667,7 +669,9 @@ html[lang="vi"] h6 {
 
     background:#f8dcdc;
 
-    transform:translateY(-2px);
+    transform:translateY(-3px);
+
+    box-shadow:0 6px 16px rgba(242, 138, 138, 0.15);
 
 }
 /*====================================================
@@ -1505,17 +1509,18 @@ html[lang="vi"] h6 {
 
 .tool-list{
 
-    gap:24px;
+    gap:12px;
 
 }
 
-.tool-list span{
+.tool-list span,
+.tool-item{
 
-    height:42px;
+    height:50px;
 
-    padding:0 18px;
+    padding:0 24px;
 
-    font-size:14px;
+    font-size:15px;
 
 }
 
