@@ -316,7 +316,7 @@ nav a.active,
     width: 100%;
     max-width: 640px;
     justify-self: start;
-    transform: translateY(-62px);
+    transform: translateY(-20px);
 }
 
 .portfolio-stack {
@@ -356,6 +356,27 @@ nav a.active,
     font-size: 16px;
     line-height: 1.6;
     margin: 0;
+}
+
+.hero-highlight {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 8px 0;
+}
+
+.hero-highlight .role {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    color: #5a73e8;
+}
+
+.hero-highlight .skills {
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 0;
+    color: #666;
 }
 
 .btn {
@@ -446,6 +467,27 @@ footer {
 
 .about-text p {
     margin-bottom: 20px;
+}
+
+.about-highlight {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 24px;
+}
+
+.about-highlight .role {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    color: #5a73e8;
+}
+
+.about-highlight .skills {
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 0;
+    color: #666;
 }
 
 .skills ul {
@@ -749,8 +791,142 @@ html[lang="vi"] .contact-form textarea {
     }
 }
 
+/* CORE EXPERTISE */
+.core-expertise {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.core-expertise h3 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    letter-spacing: -0.5px;
+}
+
+.expertise-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 28px;
+}
+
+.expertise-card {
+    padding: 32px;
+    border: none;
+    border-radius: 12px;
+    background: #ffffff;
+    border-left: 4px solid #5a73e8;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: all 0.3s ease;
+}
+
+.expertise-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.expertise-card h4 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+    color: #2d2d2d;
+    letter-spacing: -0.3px;
+}
+
+.expertise-card p {
+    font-size: 15px;
+    line-height: 1.7;
+    margin: 0;
+    color: #555;
+}
+
+/* HOW I WORK */
+.how-i-work {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.how-i-work h3 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    letter-spacing: -0.5px;
+}
+
+.how-i-work-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 28px;
+}
+
+.how-i-work-card {
+    padding: 32px;
+    background: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #f0f0f0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.how-i-work-card:hover {
+    box-shadow: 0 8px 16px rgba(90, 115, 232, 0.12);
+    border-color: #5a73e8;
+}
+
+.how-i-work-card h4 {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 12px 0;
+    color: #5a73e8;
+    letter-spacing: -0.3px;
+}
+
+.how-i-work-card p {
+    font-size: 15px;
+    line-height: 1.7;
+    margin: 0;
+    color: #555;
+    text-align: left;
+}
+
+/* CAREER ASPIRATION */
+.career-aspiration {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 40px;
+    background: linear-gradient(135deg, #f5f5f5 0%, #fafafa 100%);
+    border-left: 4px solid #5a73e8;
+    border-radius: 8px;
+}
+
+.career-aspiration h3 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    letter-spacing: -0.5px;
+    color: #5a73e8;
+}
+
+.career-aspiration p {
+    font-size: 16px;
+    line-height: 1.8;
+    margin: 0;
+    color: #555;
+}
+
 .education {
-    margin-top: 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.education h3 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    letter-spacing: -0.5px;
 }
 
 .education-row {
@@ -933,13 +1109,57 @@ html[lang="vi"] .contact-form textarea {
 
 .software {
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .software h3 {
-    font-size: 40px;
+    font-size: 28px;
     font-weight: 700;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     color: #111;
+    letter-spacing: -0.5px;
+}
+
+.software-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 28px;
+}
+
+.software-category {
+    padding: 0;
+}
+
+.software-category h4 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: #5a73e8;
+    letter-spacing: -0.3px;
+}
+
+.tool-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.tool-tag {
+    display: inline-block;
+    padding: 8px 14px;
+    background: #f5f5f5;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #555;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.tool-tag:hover {
+    background: #f58c8c;
+    color: #2d2d2d;
+    border-color: #f58c8c;
 }
 
 .software-list {
@@ -998,12 +1218,14 @@ html[lang="vi"] .contact-form textarea {
 
 .experience {
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .experience h3 {
-    font-size: 26px;
+    font-size: 28px;
     font-weight: 700;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    letter-spacing: -0.5px;
 }
 
 .experience-grid {
@@ -1387,6 +1609,38 @@ html[lang="vi"] .company-header h2 {
     color:#f28a8a;
 
     padding-left:8px;
+
+}
+
+.work-card .capabilities{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:8px;
+
+    margin-bottom:24px;
+
+    margin-top:auto;
+
+}
+
+.work-card .capabilities span{
+
+    display:inline-block;
+
+    font-size:12px;
+
+    background:#f0f2ff;
+
+    color:#5a73e8;
+
+    padding:6px 12px;
+
+    border-radius:6px;
+
+    font-weight:500;
 
 }
 
@@ -1916,5 +2170,76 @@ grid-template-columns:1fr;
         bottom: 10px;
         padding: 6px 12px;
         font-size: 12px;
+    }
+
+    /* Mobile - Core Expertise */
+    .core-expertise {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .core-expertise h3 {
+        font-size: 22px;
+    }
+
+    .expertise-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .expertise-card {
+        padding: 24px;
+    }
+
+    .expertise-card h4 {
+        font-size: 16px;
+    }
+
+    .expertise-card p {
+        font-size: 14px;
+    }
+
+    /* Mobile - How I Work */
+    .how-i-work {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .how-i-work h3 {
+        font-size: 22px;
+    }
+
+    .how-i-work-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .how-i-work-card {
+        padding: 24px;
+    }
+
+    .how-i-work-card h4 {
+        font-size: 16px;
+    }
+
+    .how-i-work-card p {
+        font-size: 14px;
+    }
+
+    /* Mobile - Career Aspiration */
+    .career-aspiration {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        padding: 24px;
+    }
+
+    .career-aspiration h3 {
+        font-size: 22px;
+        margin-bottom: 16px;
+    }
+
+    .career-aspiration p {
+        font-size: 14px;
+        line-height: 1.7;
     }
 }

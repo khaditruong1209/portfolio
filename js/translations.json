@@ -9,25 +9,48 @@
     "hero": {
       "title": "Hi, I'm Truong Kha Di",
       "subtitle": "Marketing Executive & Freelance AI Creator",
-      "description": "I help brands grow through strategic digital marketing, AI-powered visual creation, and data-driven decisions that deliver measurable results.",
+      "description": "I help businesses grow through campaign planning, performance marketing, customer insights, and data-driven optimization – turning marketing strategies into measurable business results.",
+      "role": "Marketing Executive",
+      "skills": "Campaign Planning • Performance Marketing • Marketing Analytics",
       "viewWork": "View My Work"
     },
     "projects": {
       "title": "Featured Projects",
       "viewAll": "View All Work →",
-      "aiImage": "AI Image Creation",
-      "brandMarketing": "Integrated Brand Marketing Campaign",
+      "aiImage": "AI Creative Production",
+      "brandMarketing": "Brand Marketing",
       "emailMarketing": "Email Marketing",
-      "shopifyUx": "Shopify & UX/UI",
+      "shopifyUx": "Website Experience Optimization",
       "metaMarketing": "Meta Marketing",
       "brandActivation": "Brand Activation Planning"
     },
     "about": {
       "title": "About Me",
       "role": "Marketing Executive",
-      "intro": "I am a Marketing Executive specializing in e-commerce, digital marketing, and AI-powered content creation. I enjoy combining creativity with data to build marketing strategies that improve customer experience, strengthen brand presence, and drive measurable business growth.",
-      "experience": "My experience spans Shopify management, SEO, email marketing, Meta advertising, campaign planning, and AI-generated visual content. I enjoy learning new technologies and continuously exploring better ways to help brands communicate and grow.",
-      "tools": "Tools & Skills"
+      "intro": "I am a Marketing Executive with hands-on experience in campaign planning, integrated marketing, performance marketing, and e-commerce optimization. My work focuses on connecting customer insights, marketing analytics, and cross-functional collaboration to develop marketing initiatives that improve customer experience and support business growth.",
+      "experience": "I enjoy transforming marketing data into actionable insights, optimizing customer journeys, and continuously exploring new technologies that improve marketing effectiveness. I believe successful marketing starts with understanding customers and delivering consistent experiences across every touchpoint.",
+      "tools": "Tools & Platforms",
+      "coreExpertise": "Core Expertise",
+      "campaignPlanning": "Campaign Planning",
+      "campaignPlanningDesc": "Planning integrated marketing campaigns by aligning business objectives, customer insights, and cross-channel execution.",
+      "integratedMarketing": "Integrated Marketing",
+      "integratedMarketingDesc": "Coordinating marketing activities across digital channels, including website, email marketing, social media, paid advertising, and CRM to deliver consistent customer experiences.",
+      "customerExperience": "Customer Experience Optimization",
+      "customerExperienceDesc": "Improving website usability, customer journeys, and conversion performance through analytics and user behavior insights.",
+      "marketingAnalytics": "Marketing Analytics",
+      "marketingAnalyticsDesc": "Monitoring campaign performance using Google Analytics 4, Microsoft Clarity, Shopify Analytics, and reporting tools to identify opportunities for continuous improvement.",
+      "professionalExperience": "Professional Experience",
+      "howIWork": "Professional Approach",
+      "dataInformedThinking": "Data-driven Decision Making",
+      "dataInformedThinkingDesc": "I use customer insights and marketing data to support campaign planning and optimization.",
+      "customerFirstMindset": "Customer-centric Thinking",
+      "customerFirstMindsetDesc": "I focus on understanding customer behavior before proposing marketing solutions.",
+      "crossFunctionalCollaboration": "Cross-functional Collaboration",
+      "crossFunctionalCollaborationDesc": "I enjoy collaborating with designers, developers, and business teams to deliver integrated marketing initiatives.",
+      "continuousImprovement": "Continuous Learning",
+      "continuousImprovementDesc": "I continuously evaluate marketing performance and explore new technologies to improve productivity and campaign effectiveness.",
+      "careerAspiration": "Career Aspiration",
+      "careerAspirationDesc": "I aspire to grow as a Marketing Planner who connects customer insights, media strategy, and performance analytics to develop integrated campaigns that create measurable business impact. I enjoy working in collaborative environments where data, creativity, and strategic thinking come together to solve marketing challenges."
     },
     "footer": {
       "copyright": "© 2026 Truong Kha Di. All rights reserved."
@@ -98,43 +121,46 @@
     },
     "software": {
       "title": "Tools & Platforms",
-      "marketing": "Marketing Platforms",
-      "productivity": "Productivity & AI Tools"
+      "analytics": "Analytics",
+      "marketingPlatforms": "Marketing Platforms",
+      "advertising": "Advertising",
+      "productivity": "Productivity",
+      "ai": "AI"
     },
     "experience": {
       "title": "Work Experience",
       "wigiHair": {
         "role": "Marketing Executive",
-        "company": "WIGI Hair",
+        "company": "GEW Vietnam",
         "years": "January 2025 – Present",
-        "description": "Managed the Shopify e-commerce website, executed SEO and email marketing strategies, optimized user experience, and analyzed performance using GA4 and Microsoft Clarity to improve customer acquisition and conversion.",
+        "description": "Planned and executed integrated marketing initiatives across e-commerce, website optimization, email marketing, paid advertising, and CRM. Leveraged customer insights and marketing analytics to improve campaign performance, optimize customer journeys, and support business growth.",
         "skills": [
-          "Shopify Management",
-          "SEO & Content Marketing",
-          "GA4, Clarity & Klaviyo"
+          "Integrated Marketing",
+          "Campaign Planning",
+          "Marketing Analytics"
         ]
       },
       "tiemNhaCo": {
         "role": "Co-founder & Marketing Executive",
         "company": "TIEM NHA CO – Online Fashion Shop",
         "years": "September 2023 – February 2025",
-        "description": "Co-founded and grew an online fashion business by leading marketing strategy, content planning, Facebook marketing, promotional campaigns, and day-to-day e-commerce operations to strengthen brand awareness and customer engagement.",
+        "description": "Co-founded an online fashion business and developed integrated marketing strategies to grow brand awareness and customer engagement through social media, content marketing, promotional campaigns, and paid advertising.",
         "skills": [
-          "Facebook & Instagram Growth",
-          "Content Marketing",
-          "Paid Advertising",
-          "Campaign Planning"
+          "Brand Marketing",
+          "Campaign Planning",
+          "Social Media Marketing",
+          "Paid Advertising"
         ]
       },
       "delta": {
         "role": "Planning Intern",
         "company": "Delta Engagement Marketing",
         "years": "August 2024 – December 2024",
-        "description": "Conducted market research, analyzed consumer insights, and supported the development of campaign proposals and presentation materials for clients across multiple industries.",
+        "description": "Conducted market research, analyzed consumer behavior, and supported campaign planning by preparing strategic proposals and client presentation materials across multiple industries.",
         "skills": [
           "Market Research",
           "Campaign Planning",
-          "Client Proposal",
+          "Strategic Thinking",
           "Presentation Design"
         ]
       },
@@ -142,12 +168,12 @@
         "role": "Digital Marketing Intern",
         "company": "Realcoin.vn Joint Stock Company",
         "years": "July 2023 – October 2023",
-        "description": "Produced SEO-focused content, monitored campaign performance, and supported digital marketing activities through content planning and data analysis.",
+        "description": "Supported digital marketing activities through SEO content planning, campaign reporting, and marketing research to improve content performance and search visibility.",
         "skills": [
-          "SEO Content",
-          "Data Analysis",
-          "Content Writing",
-          "Marketing Research"
+          "SEO Strategy",
+          "Content Marketing",
+          "Marketing Research",
+          "Performance Reporting"
         ]
       }
     },
@@ -162,46 +188,65 @@
       "sendMessage": "Send Message"
     },
     "projectsPage": {
-      "myWork": "My Work",
-      "subtitle": "Supported brand growth through campaign planning, market research, digital marketing strategy, and performance analysis while maintaining a consistent brand experience across multiple online channels.",
-      "freelance": {
-        "title": "Freelance",
-        "period": "AI Creative Projects · Jun 2026",
-        "aiImage": {
-          "title": "AI Image Creation",
-          "description": "Created AI-generated visuals for marketing campaigns, product promotion, advertising creatives, and social media content using generative AI tools."
-        }
-      },
-      "wigiHair": {
+      "selectedProjects": "Selected Projects",
+      "subtitle": "A collection of projects demonstrating my experience across campaign planning, integrated marketing, customer experience optimization, performance analysis, and creative execution. Each project reflects a different stage of the marketing planning and execution process.",
+      "capabilities": "Capabilities",
+      "gewVietnam": {
         "title": "GEW Vietnam",
         "period": "Marketing Executive · Apr 2025 – Present",
         "brandMarketing": {
-          "title": "Integrated Brand Marketing Campaign",
-          "description": "Supported brand growth through campaign planning, market research, digital marketing strategy, and performance analysis while maintaining a consistent brand experience across multiple online channels."
+          "title": "Brand Marketing",
+          "description": "Planned and coordinated integrated marketing initiatives by combining customer research, campaign planning, content strategy, and performance analysis to strengthen brand positioning and support business growth.",
+          "capability1": "Campaign Planning",
+          "capability2": "Integrated Marketing",
+          "capability3": "Marketing Analytics"
         },
         "emailMarketing": {
           "title": "Email Marketing",
-          "description": "Planned email campaigns and built automated customer journeys in Klaviyo, including promotional emails, newsletters, welcome flows, abandoned cart, and retention campaigns."
+          "description": "Developed lifecycle email marketing strategies and automated customer journeys using Klaviyo to improve customer engagement, retention, and conversion across multiple touchpoints.",
+          "capability1": "CRM Strategy",
+          "capability2": "Lifecycle Marketing",
+          "capability3": "Performance Analysis"
         },
-        "shopifyUx": {
-          "title": "Shopify & UX/UI",
-          "description": "Optimized the Shopify storefront by improving user experience, refining landing and product pages, and supporting conversion rate optimization through continuous testing and analysis."
+        "websiteOptimization": {
+          "title": "Website Experience Optimization",
+          "description": "Improved website experience by optimizing customer journeys, information architecture, landing pages, and conversion opportunities based on user behavior analysis.",
+          "capability1": "Customer Journey",
+          "capability2": "UX Optimization",
+          "capability3": "Analytics"
+        }
+      },
+      "delta": {
+        "title": "Delta Engagement Marketing",
+        "period": "Planning Intern · Aug 2024 – Dec 2024",
+        "brandActivation": {
+          "title": "Brand Activation Planning",
+          "description": "Supported the planning of brand activation campaigns through market research, consumer insight analysis, campaign ideation, proposal development, and presentation design for clients across multiple industries.",
+          "capability1": "Consumer Insight",
+          "capability2": "Campaign Planning",
+          "capability3": "Proposal Development"
         }
       },
       "tiemNhaCo": {
         "title": "TIEM NHA CO",
-        "period": "Co-founder & Marketing Executive · Sep 2023 – May 2026",
+        "period": "Co-Founder & Marketing Executive · Sep 2023 – Feb 2025",
         "metaMarketing": {
           "title": "Meta Marketing",
-          "description": "As Co-founder and Marketing Executive, I developed the brand's Facebook marketing strategy, planned content, managed community engagement, and executed Meta advertising campaigns to increase brand awareness and drive online sales."
+          "description": "Managed Meta marketing activities by planning content calendars, executing paid advertising campaigns, monitoring performance, and optimizing social media engagement to support brand awareness and online sales.",
+          "capability1": "Social Media",
+          "capability2": "Paid Advertising",
+          "capability3": "Content Strategy"
         }
       },
-      "delta": {
-        "title": "DELTA ENGAGEMENT MARKETING",
-        "period": "Planning Intern · Aug 2024 – Dec 2024",
-        "brandActivation": {
-          "title": "Brand Activation Planning",
-          "description": "Assisted in developing brand activation proposals through market research, campaign ideation, presentation design, and customer engagement planning for BTL marketing campaigns."
+      "freelance": {
+        "title": "Freelance",
+        "period": "AI Creative Projects · Jun 2026",
+        "aiCreative": {
+          "title": "AI Creative Production",
+          "description": "Produced AI-generated marketing visuals for advertising, product communication, and social media by combining creative direction, prompt engineering, and iterative design workflows.",
+          "capability1": "Creative Production",
+          "capability2": "Prompt Engineering",
+          "capability3": "AI Workflow"
         }
       }
     },
@@ -306,19 +351,50 @@
         "researchTitle": "Research & Insights",
         "researchContent": {
           "sources": "Research Sources",
-          "sourcesDesc": "Google Analytics 4, Microsoft Clarity, Shopify Analytics, Meta Ads Manager, Klaviyo Reports, Competitor Analysis, Customer Feedback",
-          "insights": "Key Insights",
-          "insightsDesc": "Educational and lifestyle-focused content generated stronger engagement than promotional-only content. Customers interacted with multiple touchpoints before purchasing. Website experience and email marketing significantly influenced customer retention."
+          "sourcesList": {
+            "item1": "Google Analytics 4",
+            "item2": "Microsoft Clarity",
+            "item3": "Shopify Analytics",
+            "item4": "Meta Ads Manager",
+            "item5": "Klaviyo Reports",
+            "item6": "Competitor Benchmarking",
+            "item7": "Customer Feedback"
+          },
+          "insights": {
+            "title": "Key Insights",
+            "customerBehavior": {
+              "title": "Customer Behavior",
+              "desc": "Customers responded more positively to educational content, styling tips, and authentic product demonstrations than to purely promotional posts."
+            },
+            "channelPerformance": {
+              "title": "Channel Performance",
+              "desc": "Marketing campaigns achieved stronger engagement when social media, email marketing, and website content delivered consistent messaging."
+            },
+            "websiteExperience": {
+              "title": "Website Experience",
+              "desc": "Improving navigation, product information, and landing page structure helped create a smoother shopping experience."
+            }
+          }
         },
         "strategyTitle": "Marketing Strategy",
-        "strategyDesc": "Based on research findings, I supported the development of an integrated marketing strategy focused on creating a consistent customer experience across digital channels.",
+        "strategyDesc": "Based on the research findings, I supported an integrated marketing approach focusing on four key priorities:",
         "strategyFocus": {
-          "campaignPlanning": "Campaign Planning",
-          "brandCommunication": "Brand Communication",
-          "contentStrategy": "Content Strategy",
-          "customerJourneyOptimization": "Customer Journey Optimization",
-          "performanceMonitoring": "Performance Monitoring",
-          "crossChannelCoordination": "Cross-channel Coordination"
+          "integratedCampaignPlanning": {
+            "title": "Integrated Campaign Planning",
+            "desc": "Coordinated promotional campaigns across social media, website, email marketing, and paid advertising to ensure consistent customer communication."
+          },
+          "contentBrandConsistency": {
+            "title": "Content & Brand Consistency",
+            "desc": "Maintained unified messaging and visual identity across digital touchpoints to strengthen brand recognition."
+          },
+          "customerJourneyOptimization": {
+            "title": "Customer Journey Optimization",
+            "desc": "Improved the customer experience by aligning website content, landing pages, and email marketing with campaign objectives."
+          },
+          "performanceMonitoring": {
+            "title": "Performance Monitoring",
+            "desc": "Tracked campaign performance through analytics and customer behavior data to continuously identify optimization opportunities."
+          }
         },
         "campaignEcosystem": {
           "title": "Campaign Ecosystem",
@@ -408,14 +484,46 @@
         },
         "featuredWorks": {
           "title": "Featured Works",
-          "desc": "A selection of key marketing deliverables and campaign highlights that demonstrate the integrated approach to brand marketing.",
           "items": {
-            "campaignPlanning": "Campaign Planning",
-            "campaignPlanningDesc": "Planned seasonal campaigns and coordinated execution timelines across multiple channels.",
-            "brandCommunication": "Brand Communication",
-            "brandCommunicationDesc": "Maintained consistent brand messaging across owned digital channels.",
-            "customerJourney": "Customer Journey",
-            "customerJourneyDesc": "Connected website, social media, and email marketing into a unified customer experience."
+            "seasonalCampaign": {
+              "number": "Featured Work 01",
+              "title": "Seasonal Campaign Planning",
+              "cat1": "Campaign Calendar",
+              "cat2": "Timeline",
+              "caption": "Planning campaign schedules and coordinating marketing activities across multiple channels."
+            },
+            "brandComm": {
+              "number": "Featured Work 02",
+              "title": "Brand Communication",
+              "cat1": "Facebook",
+              "cat2": "Website",
+              "cat3": "Email",
+              "caption": "Maintaining consistent messaging across customer touchpoints."
+            },
+            "custJourney": {
+              "number": "Featured Work 03",
+              "title": "Customer Journey Optimization",
+              "cat1": "Website",
+              "cat2": "Landing Page",
+              "cat3": "Flow",
+              "caption": "Optimizing customer journeys from awareness to purchase."
+            },
+            "marketingAsset": {
+              "number": "Featured Work 04",
+              "title": "Marketing Asset Production",
+              "cat1": "Banner",
+              "cat2": "Photography",
+              "cat3": "Video",
+              "caption": "Producing creative assets supporting campaign execution."
+            },
+            "campaignPerf": {
+              "number": "Featured Work 05",
+              "title": "Campaign Performance Review",
+              "cat1": "Dashboard",
+              "cat2": "GA4",
+              "cat3": "Clarity",
+              "caption": "Analyzing campaign performance to identify optimization opportunities."
+            }
           }
         },
         "works": {
@@ -1071,25 +1179,48 @@
     "hero": {
       "title": "Xin chào, tôi là Trương Khả Di",
       "subtitle": "Chuyên viên Marketing & Nhà sáng tạo Freelance AI",
-      "description": "Tôi giúp các thương hiệu phát triển thông qua chiến lược digital marketing, sáng tạo hình ảnh bằng AI và các quyết định dựa trên dữ liệu để mang lại kết quả đo lường được.",
+      "description": "Tôi giúp doanh nghiệp phát triển thông qua lập kế hoạch chiến dịch, performance marketing, phân tích hành vi khách hàng và tối ưu dựa trên dữ liệu, biến chiến lược marketing thành kết quả kinh doanh có thể đo lường.",
+      "role": "Marketing Executive",
+      "skills": "Lập kế hoạch chiến dịch • Performance Marketing • Phân tích Marketing",
       "viewWork": "Xem Dự Án Của Tôi"
     },
     "projects": {
       "title": "Dự Án Nổi Bật",
       "viewAll": "Xem Tất Cả →",
-      "aiImage": "Tạo Hình Ảnh AI",
-      "brandMarketing": "Chiến dịch Marketing Thương hiệu Tích hợp",
+      "aiImage": "Sản xuất nội dung sáng tạo AI",
+      "brandMarketing": "Brand Marketing",
       "emailMarketing": "Email Marketing",
-      "shopifyUx": "Shopify & Tối Ưu UX/UI",
+      "shopifyUx": "Tối ưu trải nghiệm website",
       "metaMarketing": "Meta Marketing",
       "brandActivation": "Kế Hoạch Kích Hoạt Thương Hiệu"
     },
     "about": {
       "title": "Về Tôi",
       "role": "Chuyên Viên Marketing",
-      "intro": "Tôi là Chuyên Viên Marketing với định hướng phát triển trong lĩnh vực E-commerce, Digital Marketing và AI Content Creation. Tôi yêu thích việc kết hợp tư duy sáng tạo cùng dữ liệu để xây dựng các chiến lược marketing giúp nâng cao trải nghiệm khách hàng, phát triển thương hiệu và tạo ra kết quả kinh doanh rõ ràng.",
-      "experience": "Tôi có kinh nghiệm trong Shopify, SEO, Email Marketing, Meta Ads, lập kế hoạch chiến dịch và phát triển hình ảnh bằng AI. Tôi luôn chủ động học hỏi các công nghệ mới để tối ưu hiệu quả marketing và mang đến giá trị thực tế cho doanh nghiệp.",
-      "tools": "Công Cụ & Kỹ Năng"
+      "intro": "Tôi là một Marketing Executive với kinh nghiệm thực tế trong lập kế hoạch chiến dịch, marketing tích hợp, performance marketing và tối ưu thương mại điện tử. Công việc của tôi tập trung vào việc kết nối insight khách hàng, dữ liệu marketing và sự phối hợp giữa các bộ phận để xây dựng các hoạt động marketing giúp cải thiện trải nghiệm khách hàng và hỗ trợ tăng trưởng kinh doanh.",
+      "experience": "Tôi yêu thích việc chuyển đổi dữ liệu thành những insight có giá trị, tối ưu hành trình khách hàng và liên tục khám phá các công nghệ mới nhằm nâng cao hiệu quả marketing. Tôi tin rằng một chiến dịch thành công luôn bắt đầu từ việc thấu hiểu khách hàng và mang đến trải nghiệm nhất quán trên mọi điểm chạm.",
+      "tools": "Công Cụ & Nền Tảng",
+      "coreExpertise": "Chuyên Môn",
+      "campaignPlanning": "Lập kế hoạch chiến dịch",
+      "campaignPlanningDesc": "Lập kế hoạch các chiến dịch marketing tích hợp dựa trên mục tiêu kinh doanh, insight khách hàng và sự phối hợp giữa các kênh truyền thông.",
+      "integratedMarketing": "Marketing Tích hợp",
+      "integratedMarketingDesc": "Phối hợp các hoạt động marketing trên nhiều kênh như website, email marketing, mạng xã hội, quảng cáo trả phí và CRM nhằm mang đến trải nghiệm khách hàng nhất quán.",
+      "customerExperience": "Tối ưu trải nghiệm khách hàng",
+      "customerExperienceDesc": "Cải thiện website, hành trình khách hàng và hiệu quả chuyển đổi thông qua dữ liệu và hành vi người dùng.",
+      "marketingAnalytics": "Phân tích Marketing",
+      "marketingAnalyticsDesc": "Theo dõi hiệu quả chiến dịch bằng Google Analytics 4, Microsoft Clarity, Shopify Analytics và các báo cáo marketing nhằm xác định cơ hội tối ưu.",
+      "professionalExperience": "Kinh Nghiệm Chuyên Nghiệp",
+      "howIWork": "Phương pháp làm việc",
+      "dataInformedThinking": "Ra quyết định dựa trên dữ liệu",
+      "dataInformedThinkingDesc": "Tôi sử dụng insight khách hàng và dữ liệu marketing để hỗ trợ lập kế hoạch và tối ưu chiến dịch.",
+      "customerFirstMindset": "Lấy khách hàng làm trung tâm",
+      "customerFirstMindsetDesc": "Tôi ưu tiên tìm hiểu hành vi khách hàng trước khi đề xuất các giải pháp marketing.",
+      "crossFunctionalCollaboration": "Phối hợp liên phòng ban",
+      "crossFunctionalCollaborationDesc": "Tôi yêu thích làm việc cùng đội ngũ thiết kế, kỹ thuật và kinh doanh để triển khai các hoạt động marketing tích hợp.",
+      "continuousImprovement": "Không ngừng học hỏi",
+      "continuousImprovementDesc": "Tôi luôn đánh giá hiệu quả marketing và chủ động tìm hiểu các công nghệ mới nhằm nâng cao năng suất và hiệu quả chiến dịch.",
+      "careerAspiration": "Định hướng nghề nghiệp",
+      "careerAspirationDesc": "Tôi mong muốn phát triển trở thành một Marketing Planner có khả năng kết nối insight khách hàng, chiến lược truyền thông và phân tích hiệu quả marketing để xây dựng các chiến dịch marketing tích hợp mang lại giá trị kinh doanh rõ ràng. Tôi yêu thích môi trường làm việc đề cao sự hợp tác, tư duy chiến lược và ra quyết định dựa trên dữ liệu."
     },
     "footer": {
       "copyright": "© 2026 Trương Khả Di. Tất cả quyền được bảo lưu."
@@ -1167,36 +1298,36 @@
       "title": "Kinh Nghiệm Làm Việc",
       "wigiHair": {
         "role": "Chuyên Viên Marketing",
-        "company": "WIGI Hair",
+        "company": "GEW Vietnam",
         "years": "Tháng 1 2025 – Hiện Tại",
-        "description": "Quản lý website Shopify, triển khai SEO và Email Marketing, tối ưu trải nghiệm người dùng và phân tích dữ liệu bằng GA4 cùng Microsoft Clarity nhằm cải thiện khả năng thu hút và chuyển đổi khách hàng.",
+        "description": "Lập kế hoạch và triển khai các hoạt động marketing tích hợp trên nền tảng thương mại điện tử, tối ưu website, email marketing, quảng cáo trả phí và CRM. Ứng dụng insight khách hàng và dữ liệu marketing để tối ưu hiệu quả chiến dịch, cải thiện hành trình khách hàng và hỗ trợ tăng trưởng kinh doanh.",
         "skills": [
-          "Quản Lý Shopify",
-          "SEO & Content Marketing",
-          "GA4, Clarity & Klaviyo"
+          "Marketing tích hợp",
+          "Lập kế hoạch chiến dịch",
+          "Phân tích Marketing"
         ]
       },
       "tiemNhaCo": {
         "role": "Đồng sáng lập & Chuyên Viên Marketing",
         "company": "TIỆM NHÀ CỎ – Cửa Hàng Thời Trang Trực Tuyến",
         "years": "Tháng 9 2023 – Tháng 2 2025",
-        "description": "Đồng sáng lập và phát triển thương hiệu thời trang online, đồng thời phụ trách chiến lược marketing, xây dựng nội dung, triển khai các chiến dịch trên Facebook và các hoạt động quảng bá nhằm tăng nhận diện thương hiệu và tương tác với khách hàng.",
+        "description": "Đồng sáng lập cửa hàng thời trang trực tuyến và xây dựng chiến lược marketing tích hợp nhằm phát triển nhận diện thương hiệu và tăng tương tác khách hàng thông qua mạng xã hội, content marketing, các chiến dịch quảng bá và quảng cáo trả phí.",
         "skills": [
-          "Phát Triển Facebook & Instagram",
-          "Content Marketing",
-          "Quảng Cáo",
-          "Kế Hoạch Chiến Dịch"
+          "Marketing thương hiệu",
+          "Lập kế hoạch chiến dịch",
+          "Social Media Marketing",
+          "Quảng cáo trả phí"
         ]
       },
       "delta": {
         "role": "Thực Tập Sinh Lập Kế Hoạch",
         "company": "Delta Engagement Marketing",
         "years": "Tháng 8 2024 – Tháng 12 2024",
-        "description": "Thực hiện nghiên cứu thị trường, phân tích insight khách hàng và hỗ trợ xây dựng proposal cùng tài liệu trình bày cho nhiều chiến dịch thuộc các ngành hàng khác nhau.",
+        "description": "Thực hiện nghiên cứu thị trường, phân tích hành vi người tiêu dùng và hỗ trợ lập kế hoạch chiến dịch thông qua việc xây dựng proposal và tài liệu thuyết trình cho khách hàng thuộc nhiều ngành hàng khác nhau.",
         "skills": [
           "Nghiên Cứu Thị Trường",
           "Lập Kế Hoạch Chiến Dịch",
-          "Đề Xuất Khách Hàng",
+          "Tư Duy Chiến Lược",
           "Thiết Kế Thuyết Trình"
         ]
       },
@@ -1204,11 +1335,12 @@
         "role": "Thực Tập Sinh Digital Marketing",
         "company": "Công Ty Cổ Phần Realcoin.vn",
         "years": "Tháng 7 2023 – Tháng 10 2023",
-        "description": "Sản xuất nội dung chuẩn SEO, theo dõi hiệu quả chiến dịch và hỗ trợ các hoạt động Digital Marketing thông qua lập kế hoạch nội dung và phân tích dữ liệu.",
+        "description": "Hỗ trợ các hoạt động digital marketing thông qua lập kế hoạch nội dung SEO, theo dõi báo cáo chiến dịch và nghiên cứu thị trường nhằm cải thiện hiệu quả nội dung và khả năng hiển thị trên công cụ tìm kiếm.",
         "skills": [
-          "Nội Dung SEO",
-          "Viết Nội Dung",
-          "Nghiên Cứu Marketing"
+          "Chiến lược SEO",
+          "Content Marketing",
+          "Nghiên cứu Marketing",
+          "Báo cáo hiệu quả"
         ]
       }
     },
@@ -1223,46 +1355,65 @@
       "sendMessage": "Gửi Tin Nhắn"
     },
     "projectsPage": {
-      "myWork": "Kinh nghiệm",
-      "subtitle": "Hỗ trợ phát triển thương hiệu thông qua lập kế hoạch chiến dịch, nghiên cứu thị trường, xây dựng chiến lược digital marketing và phân tích hiệu quả, đồng thời duy trì sự nhất quán của thương hiệu trên nhiều kênh trực tuyến.",
-      "freelance": {
-        "title": "Freelance",
-        "period": "Tạo hình ảnh AI · Tháng 6 2026",
-        "aiImage": {
-          "title": "Tạo Hình Ảnh AI",
-          "description": "Đã tạo hình ảnh được tạo bằng AI cho các chiến dịch marketing, quảng cáo sản phẩm và nội dung phương tiện truyền thông xã hội bằng cách sử dụng các công cụ AI."
-        }
-      },
-      "wigiHair": {
+      "selectedProjects": "Dự án tiêu biểu",
+      "subtitle": "Tổng hợp các dự án thể hiện kinh nghiệm của tôi trong lập kế hoạch chiến dịch, marketing tích hợp, tối ưu trải nghiệm khách hàng, phân tích hiệu quả và triển khai sáng tạo. Mỗi dự án phản ánh một giai đoạn khác nhau trong quá trình xây dựng và thực thi hoạt động marketing.",
+      "capabilities": "Chuyên môn",
+      "gewVietnam": {
         "title": "GEW Vietnam",
         "period": "Chuyên Viên Marketing · Tháng 4 2025 – Hiện Tại",
         "brandMarketing": {
-          "title": "Chiến dịch Marketing Thương hiệu Tích hợp",
-          "description": "Hỗ trợ phát triển thương hiệu thông qua lập kế hoạch chiến dịch, nghiên cứu thị trường, xây dựng chiến lược digital marketing và phân tích hiệu quả, đồng thời duy trì sự nhất quán của thương hiệu trên nhiều kênh trực tuyến."
+          "title": "Brand Marketing",
+          "description": "Lập kế hoạch và điều phối các hoạt động marketing tích hợp thông qua nghiên cứu khách hàng, xây dựng kế hoạch chiến dịch, chiến lược nội dung và phân tích hiệu quả nhằm củng cố định vị thương hiệu và hỗ trợ tăng trưởng kinh doanh.",
+          "capability1": "Lập kế hoạch chiến dịch",
+          "capability2": "Marketing Tích hợp",
+          "capability3": "Phân tích Marketing"
         },
         "emailMarketing": {
           "title": "Email Marketing",
-          "description": "Lên kế hoạch email marketing và xây dựng các luồng tự động trên Klaviyo, bao gồm email khuyến mãi, newsletter, welcome flow, abandoned cart và các chiến dịch giữ chân khách hàng."
+          "description": "Xây dựng chiến lược Email Marketing theo vòng đời khách hàng và thiết lập các hành trình tự động trên Klaviyo nhằm tăng mức độ tương tác, giữ chân khách hàng và cải thiện tỷ lệ chuyển đổi.",
+          "capability1": "Chiến lược CRM",
+          "capability2": "Lifecycle Marketing",
+          "capability3": "Phân tích hiệu quả"
         },
-        "shopifyUx": {
-          "title": "Shopify & Tối Ưu UX/UI",
-          "description": "Tối ưu cửa hàng Shopify bằng cách cải thiện trải nghiệm người dùng, nâng cấp landing page và trang sản phẩm, đồng thời hỗ trợ tối ưu tỷ lệ chuyển đổi thông qua quá trình thử nghiệm và phân tích."
+        "websiteOptimization": {
+          "title": "Website Experience Optimization",
+          "description": "Cải thiện trải nghiệm website thông qua tối ưu hành trình khách hàng, cấu trúc nội dung, landing page và các điểm chuyển đổi dựa trên phân tích hành vi người dùng.",
+          "capability1": "Hành trình khách hàng",
+          "capability2": "Tối ưu UX",
+          "capability3": "Phân tích"
+        }
+      },
+      "delta": {
+        "title": "Delta Engagement Marketing",
+        "period": "Thực Tập Sinh Lập Kế Hoạch · Tháng 8 2024 – Tháng 12 2024",
+        "brandActivation": {
+          "title": "Brand Activation Planning",
+          "description": "Hỗ trợ xây dựng kế hoạch các chiến dịch Brand Activation thông qua nghiên cứu thị trường, phân tích insight người tiêu dùng, phát triển ý tưởng chiến dịch, xây dựng proposal và thiết kế tài liệu thuyết trình cho nhiều khách hàng thuộc các ngành hàng khác nhau.",
+          "capability1": "Consumer Insight",
+          "capability2": "Lập kế hoạch chiến dịch",
+          "capability3": "Phát triển Proposal"
         }
       },
       "tiemNhaCo": {
         "title": "TIỆM NHÀ CỎ",
-        "period": "Đồng sáng lập & Chuyên Viên Marketing · Tháng 9 2023 – Tháng 5 2026",
+        "period": "Đồng sáng lập & Chuyên Viên Marketing · Tháng 9 2023 – Tháng 2 2025",
         "metaMarketing": {
           "title": "Meta Marketing",
-          "description": "Với vai trò Đồng sáng lập và Chuyên viên Marketing, tôi xây dựng chiến lược marketing trên Facebook, lập kế hoạch nội dung, quản lý cộng đồng và triển khai các chiến dịch quảng cáo Meta nhằm nâng cao nhận diện thương hiệu và thúc đẩy doanh số bán hàng."
+          "description": "Quản lý các hoạt động Meta Marketing thông qua lập kế hoạch nội dung, triển khai quảng cáo trả phí, theo dõi hiệu quả và tối ưu tương tác trên mạng xã hội nhằm tăng nhận diện thương hiệu và thúc đẩy doanh số.",
+          "capability1": "Social Media",
+          "capability2": "Quảng cáo trả phí",
+          "capability3": "Chiến lược nội dung"
         }
       },
-      "delta": {
-        "title": "DELTA ENGAGEMENT MARKETING",
-        "period": "Thực Tập Sinh Lập Kế Hoạch · Tháng 8 2024 – Tháng 12 2024",
-        "brandActivation": {
-          "title": "Hoạch định Chiến dịch Kích hoạt Thương hiệu",
-          "description": "Hỗ trợ xây dựng proposal cho các chiến dịch Brand Activation thông qua nghiên cứu thị trường, phát triển ý tưởng chiến dịch, thiết kế proposal và lập kế hoạch hoạt động tương tác khách hàng cho các chiến dịch BTL."
+      "freelance": {
+        "title": "Freelance",
+        "period": "Tạo nội dung sáng tạo AI · Tháng 6 2026",
+        "aiCreative": {
+          "title": "AI Creative Production",
+          "description": "Sản xuất hình ảnh marketing bằng AI phục vụ quảng cáo, truyền thông sản phẩm và mạng xã hội thông qua việc kết hợp định hướng sáng tạo, Prompt Engineering và quy trình tối ưu thiết kế lặp.",
+          "capability1": "Sản xuất sáng tạo",
+          "capability2": "Prompt Engineering",
+          "capability3": "Quy trình AI"
         }
       }
     },
@@ -1366,20 +1517,51 @@
         },
         "researchTitle": "Nghiên Cứu & Insight",
         "researchContent": {
-          "sources": "Nguồn Dữ Liệu",
-          "sourcesDesc": "Google Analytics 4, Microsoft Clarity, Shopify Analytics, Meta Ads Manager, Báo cáo Klaviyo, Phân tích đối thủ, Phản hồi khách hàng",
-          "insights": "Insight Chính",
-          "insightsDesc": "Nội dung mang tính chia sẻ kiến thức và phong cách sống tạo mức độ tương tác tốt hơn nội dung chỉ tập trung bán hàng. Khách hàng thường tiếp cận thương hiệu qua nhiều điểm chạm trước khi mua. Trải nghiệm website và email marketing có ảnh hưởng lớn đến quyết định mua hàng."
+          "sources": "Nguồn Nghiên Cứu",
+          "sourcesList": {
+            "item1": "Google Analytics 4",
+            "item2": "Microsoft Clarity",
+            "item3": "Shopify Analytics",
+            "item4": "Meta Ads Manager",
+            "item5": "Báo cáo Klaviyo",
+            "item6": "Phân tích đối thủ",
+            "item7": "Phản hồi khách hàng"
+          },
+          "insights": {
+            "title": "Insight Chính",
+            "customerBehavior": {
+              "title": "Hành vi khách hàng",
+              "desc": "Khách hàng có xu hướng tương tác nhiều hơn với nội dung chia sẻ kiến thức, hướng dẫn tạo kiểu và trải nghiệm thực tế thay vì nội dung chỉ tập trung bán hàng."
+            },
+            "channelPerformance": {
+              "title": "Hiệu quả kênh",
+              "desc": "Các chiến dịch đạt hiệu quả tốt hơn khi mạng xã hội, email marketing và website truyền tải thông điệp nhất quán."
+            },
+            "websiteExperience": {
+              "title": "Trải nghiệm website",
+              "desc": "Việc cải thiện điều hướng, thông tin sản phẩm và landing page giúp khách hàng tìm kiếm sản phẩm dễ dàng hơn."
+            }
+          }
         },
         "strategyTitle": "Chiến Lược Marketing",
-        "strategyDesc": "Dựa trên các kết quả nghiên cứu, tôi tham gia xây dựng chiến lược marketing tích hợp nhằm tạo trải nghiệm đồng nhất cho khách hàng trên các kênh số.",
+        "strategyDesc": "Dựa trên kết quả nghiên cứu, tôi tham gia triển khai chiến lược marketing tích hợp với bốn trọng tâm chính:",
         "strategyFocus": {
-          "campaignPlanning": "Lập Kế Hoạch Chiến Dịch",
-          "brandCommunication": "Truyền Thông Thương Hiệu",
-          "contentStrategy": "Chiến Lược Nội Dung",
-          "customerJourneyOptimization": "Tối Ưu Hành Trình Khách Hàng",
-          "performanceMonitoring": "Theo Dõi Hiệu Quả Marketing",
-          "crossChannelCoordination": "Phối Hợp Đa Kênh"
+          "integratedCampaignPlanning": {
+            "title": "Lập kế hoạch chiến dịch tích hợp",
+            "desc": "Phối hợp các hoạt động trên mạng xã hội, website, email marketing và quảng cáo nhằm đảm bảo trải nghiệm truyền thông nhất quán."
+          },
+          "contentBrandConsistency": {
+            "title": "Đồng bộ thương hiệu và nội dung",
+            "desc": "Duy trì thông điệp và hình ảnh thương hiệu thống nhất trên các điểm chạm số."
+          },
+          "customerJourneyOptimization": {
+            "title": "Tối ưu hành trình khách hàng",
+            "desc": "Điều chỉnh nội dung website, landing page và email marketing để hỗ trợ mục tiêu của từng chiến dịch."
+          },
+          "performanceMonitoring": {
+            "title": "Theo dõi và tối ưu hiệu quả",
+            "desc": "Theo dõi dữ liệu chiến dịch và hành vi khách hàng để liên tục cải thiện hiệu quả marketing."
+          }
         },
         "campaignEcosystem": {
           "title": "Hệ Sinh Thái Chiến Dịch",
@@ -1469,14 +1651,46 @@
         },
         "featuredWorks": {
           "title": "Các Công Việc Nổi Bật",
-          "desc": "Một số tài liệu marketing chính và các điểm nổi bật chiến dịch thể hiện cách tiếp cận tích hợp marketing thương hiệu.",
           "items": {
-            "campaignPlanning": "Lập Kế Hoạch Chiến Dịch",
-            "campaignPlanningDesc": "Lập kế hoạch các chiến dịch theo mùa và phối hợp tiến độ triển khai trên nhiều kênh.",
-            "brandCommunication": "Truyền Thông Thương Hiệu",
-            "brandCommunicationDesc": "Duy trì thông điệp thương hiệu nhất quán trên các kênh truyền thông sở hữu.",
-            "customerJourney": "Hành Trình Khách Hàng",
-            "customerJourneyDesc": "Kết nối website, mạng xã hội và email marketing thành một hành trình khách hàng thống nhất."
+            "seasonalCampaign": {
+              "number": "Công Việc Nổi Bật 01",
+              "title": "Lập Kế Hoạch Chiến Dịch Theo Mùa",
+              "cat1": "Lịch Chiến Dịch",
+              "cat2": "Timeline",
+              "caption": "Lập kế hoạch lịch trình chiến dịch và phối hợp các hoạt động marketing trên nhiều kênh."
+            },
+            "brandComm": {
+              "number": "Công Việc Nổi Bật 02",
+              "title": "Truyền Thông Thương Hiệu",
+              "cat1": "Facebook",
+              "cat2": "Website",
+              "cat3": "Email",
+              "caption": "Duy trì thông điệp nhất quán trên các điểm chạm khách hàng."
+            },
+            "custJourney": {
+              "number": "Công Việc Nổi Bật 03",
+              "title": "Tối Ưu Hành Trình Khách Hàng",
+              "cat1": "Website",
+              "cat2": "Landing Page",
+              "cat3": "Flow",
+              "caption": "Tối ưu hành trình khách hàng từ nhận diện đến mua hàng."
+            },
+            "marketingAsset": {
+              "number": "Công Việc Nổi Bật 04",
+              "title": "Sản Xuất Tài Sản Marketing",
+              "cat1": "Banner",
+              "cat2": "Photography",
+              "cat3": "Video",
+              "caption": "Sản xuất các tài sản sáng tạo hỗ trợ thực hiện chiến dịch."
+            },
+            "campaignPerf": {
+              "number": "Công Việc Nổi Bật 05",
+              "title": "Đánh Giá Hiệu Quả Chiến Dịch",
+              "cat1": "Dashboard",
+              "cat2": "GA4",
+              "cat3": "Clarity",
+              "caption": "Phân tích hiệu quả chiến dịch để xác định cơ hội tối ưu."
+            }
           }
         },
         "works": {
