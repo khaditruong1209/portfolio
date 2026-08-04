@@ -3,7 +3,7 @@
     "nav": {
       "home": "Home",
       "about": "About",
-      "work": "Work",
+      "work": "Projects",
       "contact": "Contact"
     },
     "hero": {
@@ -1173,7 +1173,7 @@
     "nav": {
       "home": "Trang chủ",
       "about": "Về tôi",
-      "work": "Dự án",
+      "work": "Dự Án",
       "contact": "Liên hệ"
     },
     "hero": {
