@@ -318,6 +318,90 @@ html[lang="vi"] h6 {
 
 
 /*====================================================
+            CONTRIBUTIONS
+====================================================*/
+
+.contributions-grid{
+
+    width:100%;
+
+    display:grid;
+
+    grid-template-columns:repeat(3,minmax(0,1fr));
+
+    gap:30px;
+
+    margin: 35px 0 0 0;
+
+    padding: 0;
+
+}
+
+.contributions-card{
+
+    background:#f9f9f9;
+
+    border: 1px solid #e8e8e8;
+
+    border-radius:16px;
+
+    padding:28px;
+
+    text-align:left;
+
+    transition:.3s;
+
+    width:100%;
+
+}
+
+.contributions-card:hover{
+
+    border-color:#f28a8a;
+
+    box-shadow:0 12px 30px rgba(242,138,138,0.15);
+
+    transform:translateY(-6px);
+
+}
+
+.contributions-card h3{
+
+    font-size:18px;
+
+    font-weight:600;
+
+    color:#222;
+
+    margin:0 0 12px 0;
+
+    padding:0;
+
+    text-align:left;
+
+    width:100%;
+
+}
+
+.contributions-card p{
+
+    font-size:16px;
+
+    line-height:1.7;
+
+    color:#666;
+
+    margin:0;
+
+    padding:0;
+
+    text-align:left;
+
+    width:100%;
+
+}
+
+/*====================================================
                 RESPONSIBILITY
 ====================================================*/
 
@@ -1032,6 +1116,14 @@ html[lang="vi"] h6 {
 
 }
 
+.contributions-grid{
+
+    grid-template-columns:repeat(2,minmax(0,1fr));
+
+    gap:24px;
+
+}
+
 .responsibility-grid{
 
     gap:12px;
@@ -1176,6 +1268,32 @@ html[lang="vi"] h6 {
 .snapshot-card p{
 
     font-size:18px;
+
+}
+
+.contributions-grid{
+
+    grid-template-columns:1fr;
+
+    gap:20px;
+
+}
+
+.contributions-card{
+
+    padding:24px;
+
+}
+
+.contributions-card h3{
+
+    font-size:18px;
+
+}
+
+.contributions-card p{
+
+    font-size:15px;
 
 }
 
