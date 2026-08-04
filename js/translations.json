@@ -282,30 +282,30 @@
       "aiImage": {
         "hero": {
           "company": "Freelance",
-          "title": "AI Image Creation",
-          "description": "Creating custom AI-generated images based on client requirements for websites, e-commerce, and digital content. Delivering high-quality visuals that align with each client's brand and project needs."
+          "title": "AI Creative Production",
+          "description": "Produced AI-generated marketing visuals for e-commerce brands by transforming creative briefs into commercially ready assets. The project focused on combining prompt engineering, visual direction, and iterative refinement to deliver consistent, high-quality marketing images."
         },
-        "about": "As a freelance AI Image Creator, I work with clients to create custom AI-generated images for websites and digital platforms. Based on each client's requirements, I develop visuals that match their products, branding, and intended use. My role focuses on transforming ideas into high-quality images that are ready for commercial use.",
+        "about": "This freelance project focused on producing AI-generated visual assets for e-commerce and digital marketing. Working from client briefs, I transformed product requirements and creative references into marketing visuals suitable for websites, advertisements, social media, and promotional campaigns. Rather than simply generating images, the process emphasized understanding brand identity, ensuring visual consistency, and refining outputs until they met commercial quality standards.",
         "snapshot": {
-          "role": "Freelance AI Creator",
-          "specialization": "AI Image Generation",
-          "industry": "E-commerce & Marketing",
-          "clients": "Various Brands",
-          "focus": "Commercial Visuals",
-          "duration": "Jun 2026"
+          "role": "Freelance AI Creative Producer",
+          "specialization": "AI Creative Production",
+          "industry": "E-commerce & Beauty",
+          "clients": "E-commerce Brands",
+          "focus": "Marketing Visual Production",
+          "duration": "2026"
         },
-        "overview": "My work focused on creating professional, commercially-ready AI-generated visuals that support product marketing, e-commerce, and advertising campaigns. By combining advanced prompt engineering with marketing strategy, I deliver high-quality images that effectively communicate product value and attract customers.",
+        "overview": "This freelance project focused on producing AI-generated visual assets for e-commerce and digital marketing. Working from client briefs, I transformed product requirements and creative references into marketing visuals suitable for websites, advertisements, social media, and promotional campaigns. Rather than simply generating images, the process emphasized understanding brand identity, ensuring visual consistency, and refining outputs until they met commercial quality standards.",
         "services": {
-          "productPhotography": "Creating custom AI-generated images based on client requirements for commercial use.",
-          "lifestyleVisuals": "Producing realistic product visuals that accurately represent products and match the client's expectations.",
-          "advertisingCreatives": "Refining AI-generated images through multiple iterations to achieve the desired style, quality, and visual consistency.",
+          "productPhotography": "Translated client requirements into detailed AI prompts while maintaining consistency with product positioning and brand identity.",
+          "lifestyleVisuals": "Produced product and lifestyle visuals using generative AI to support e-commerce websites, advertisements, and social media campaigns.",
+          "advertisingCreatives": "Iteratively refined generated images by adjusting prompts, composition, lighting, colors, and visual details to achieve commercially usable results.",
           "conceptDevelopment": "Transform marketing ideas into visual concepts before production, reducing design time and creative costs."
         },
         "workflow": {
-          "research": "Understand the client's products, target audience, and marketing objectives.",
-          "promptEngineering": "Design structured prompts to achieve consistent style, composition, lighting, and branding.",
-          "imageRefinement": "Iterate multiple versions, refine details, upscale images, and improve overall quality.",
-          "commercialDelivery": "Deliver optimized visuals ready for websites, advertising, product pages, and social media."
+          "clientBrief": "Client Brief",
+          "promptDevelopment": "Prompt Development",
+          "imageGeneration": "Image Generation",
+          "refinementDelivery": "Refinement & Delivery"
         }
       },
       "brandMarketing": {
@@ -942,20 +942,37 @@
     "aiImageExtended": {
       "snapshot": {
         "role": "Role",
-        "roleValue": "Freelance AI Creator",
+        "roleValue": "Freelance AI Creative Producer",
         "specialization": "Specialization",
-        "specializationValue": "AI Image Generation",
+        "specializationValue": "AI Creative Production",
         "industry": "Industry",
-        "industryValue": "E-commerce & Digital Marketing",
+        "industryValue": "E-commerce & Beauty",
         "clients": "Clients",
-        "clientsValue": "Multiple Brands",
+        "clientsValue": "E-commerce Brands",
         "focus": "Focus",
-        "focusValue": "Website, Product & Marketing Visuals",
+        "focusValue": "Marketing Visual Production",
         "duration": "Duration",
-        "durationValue": "Jun 2026"
+        "durationValue": "2026"
+      },
+      "creativeWorkflow": {
+        "title": "Creative Workflow",
+        "step1": "Client Brief",
+        "step2": "Prompt Development",
+        "step3": "Image Generation",
+        "step4": "Refinement & Delivery"
       },
       "featuredWorks": {
-        "intro": "For each hair color, I created a complete image package including Before, After, Studio, and Lifestyle images. These assets are used on Shopify product pages, collection pages, and marketing campaigns."
+        "intro": "A selection of AI-generated marketing visuals created for commercial use. Each project demonstrates the ability to transform product references into consistent, high-quality assets suitable for websites, advertising, and digital marketing."
+      },
+      "toolsAndTechnologies": {
+        "title": "Tools & Technologies",
+        "tools": [
+          "ChatGPT",
+          "Claude",
+          "Midjourney",
+          "Photoshop",
+          "Canva"
+        ]
       },
       "colorVariants": {
         "green": "Green",
@@ -967,7 +984,7 @@
       },
       "keyLearnings": {
         "promptEngineering": {
-          "desc": "Through freelance projects, I strengthened my ability to understand client requirements and translate them into AI-generated visuals that meet commercial needs. This experience also improved my attention to detail, visual consistency, and communication throughout the creative process."
+          "desc": "This project strengthened my ability to combine AI tools with marketing thinking rather than relying solely on image generation. I learned how to interpret creative briefs, maintain brand consistency, iterate efficiently through prompt engineering, and produce visuals that support real business and marketing objectives."
         }
       }
     },
@@ -1449,30 +1466,30 @@
       "aiImage": {
         "hero": {
           "company": "Freelance",
-          "title": "Tạo Hình Ảnh AI",
-          "description": "Tạo hình ảnh bằng AI theo yêu cầu của khách hàng để sử dụng trên website, nền tảng thương mại điện tử và các nội dung số. Mang đến những hình ảnh chất lượng cao, phù hợp với nhận diện thương hiệu và mục tiêu của từng dự án."
+          "title": "AI Creative Production",
+          "description": "Sản xuất hình ảnh marketing bằng AI cho các thương hiệu thương mại điện tử thông qua việc chuyển hóa yêu cầu sáng tạo thành các sản phẩm hình ảnh sẵn sàng sử dụng trong kinh doanh. Dự án tập trung vào việc kết hợp Prompt Engineering, định hướng hình ảnh và quy trình tối ưu nhiều vòng để tạo ra các visual chất lượng cao và đồng nhất."
         },
-        "about": "Là một AI Image Creator làm việc tự do, tôi hợp tác với khách hàng để tạo ra các hình ảnh bằng AI theo yêu cầu cho website và các nền tảng số. Dựa trên từng brief, tôi phát triển hình ảnh phù hợp với sản phẩm, nhận diện thương hiệu và mục đích sử dụng của khách hàng. Vai trò của tôi tập trung vào việc chuyển hóa ý tưởng thành những hình ảnh chất lượng cao, sẵn sàng cho mục đích thương mại.",
+        "about": "Dự án freelance này tập trung vào việc sản xuất hình ảnh bằng AI phục vụ thương mại điện tử và marketing. Dựa trên yêu cầu của khách hàng, tôi chuyển hóa thông tin sản phẩm và định hướng sáng tạo thành các hình ảnh sử dụng cho website, quảng cáo, mạng xã hội và các chiến dịch truyền thông. Thay vì chỉ tạo hình bằng AI, quy trình còn chú trọng vào việc hiểu định vị thương hiệu, đảm bảo tính nhất quán về hình ảnh và liên tục tinh chỉnh để đạt chất lượng thương mại.",
         "snapshot": {
-          "role": "AI Image Creator (Freelancer)",
-          "specialization": "Tạo hình ảnh bằng AI",
-          "industry": "Thương mại điện tử & Marketing số",
-          "clients": "Nhiều thương hiệu",
-          "focus": "Hình ảnh cho Website, Sản phẩm & Marketing",
-          "duration": "Tháng 6 2026"
+          "role": "AI Creative Producer (Freelancer)",
+          "specialization": "AI Creative Production",
+          "industry": "Thương mại điện tử & Beauty",
+          "clients": "E-commerce Brands",
+          "focus": "Marketing Visual Production",
+          "duration": "2026"
         },
-        "overview": "Công việc của tôi tập trung vào việc tạo ra hình ảnh được tạo bằng AI chuyên nghiệp và sẵn sàng thương mại hỗ trợ marketing sản phẩm, thương mại điện tử và các chiến dịch quảng cáo. Bằng cách kết hợp kỹ thuật prompt engineering tiên tiến với chiến lược marketing, tôi cung cấp hình ảnh chất lượng cao giúp giao tiếp hiệu quả giá trị sản phẩm và thu hút khách hàng.",
+        "overview": "Dự án freelance này tập trung vào việc sản xuất hình ảnh bằng AI phục vụ thương mại điện tử và marketing. Dựa trên yêu cầu của khách hàng, tôi chuyển hóa thông tin sản phẩm và định hướng sáng tạo thành các hình ảnh sử dụng cho website, quảng cáo, mạng xã hội và các chiến dịch truyền thông. Thay vì chỉ tạo hình bằng AI, quy trình còn chú trọng vào việc hiểu định vị thương hiệu, đảm bảo tính nhất quán về hình ảnh và liên tục tinh chỉnh để đạt chất lượng thương mại.",
         "services": {
-          "productPhotography": "Tạo hình ảnh bằng AI theo yêu cầu của khách hàng phục vụ mục đích thương mại.",
-          "lifestyleVisuals": "Xây dựng hình ảnh sản phẩm chân thực, phù hợp với đặc điểm sản phẩm và yêu cầu của khách hàng.",
-          "advertisingCreatives": "Tinh chỉnh hình ảnh AI qua nhiều lần chỉnh sửa để đạt được phong cách, chất lượng và tính nhất quán theo mong muốn của khách hàng.",
+          "productPhotography": "Chuyển đổi yêu cầu của khách hàng thành hệ thống prompt chi tiết, đảm bảo hình ảnh phù hợp với định vị sản phẩm và nhận diện thương hiệu.",
+          "lifestyleVisuals": "Tạo hình ảnh sản phẩm và lifestyle bằng AI phục vụ website, quảng cáo và các chiến dịch truyền thông trên nền tảng số.",
+          "advertisingCreatives": "Liên tục tinh chỉnh prompt, bố cục, ánh sáng, màu sắc và các chi tiết hình ảnh nhằm tạo ra các visual đạt tiêu chuẩn sử dụng trong hoạt động marketing.",
           "conceptDevelopment": "Biến các ý tưởng marketing thành các khái niệm hình ảnh trước khi sản xuất, giảm thời gian thiết kế và chi phí sáng tạo."
         },
         "workflow": {
-          "research": "Hiểu các sản phẩm của khách hàng, khán giả mục tiêu và mục tiêu marketing.",
-          "promptEngineering": "Thiết kế các prompt có cấu trúc để đạt được phong cách, thành phần, ánh sáng và thương hiệu nhất quán.",
-          "imageRefinement": "Lặp lại các phiên bản khác nhau, hoàn thiện chi tiết, nâng cấp hình ảnh và cải thiện chất lượng tổng thể.",
-          "commercialDelivery": "Cung cấp hình ảnh được tối ưu hóa sẵn sàng cho các trang web, quảng cáo, trang sản phẩm và phương tiện truyền thông xã hội."
+          "clientBrief": "Tiếp nhận Brief",
+          "promptDevelopment": "Xây dựng Prompt",
+          "imageGeneration": "Tạo hình AI",
+          "refinementDelivery": "Tinh chỉnh & Bàn giao"
         }
       },
       "brandMarketing": {
@@ -2109,20 +2126,37 @@
     "aiImageExtended": {
       "snapshot": {
         "role": "Vai Trò",
-        "roleValue": "Freelance AI Creator",
+        "roleValue": "Freelance AI Creative Producer",
         "specialization": "Chuyên Môn",
-        "specializationValue": "Tạo Hình Ảnh AI",
+        "specializationValue": "AI Creative Production",
         "industry": "Lĩnh Vực",
-        "industryValue": "Thương mại điện tử & Marketing số",
+        "industryValue": "Thương mại điện tử & Beauty",
         "clients": "Khách Hàng",
-        "clientsValue": "Nhiều thương hiệu",
+        "clientsValue": "E-commerce Brands",
         "focus": "Trọng Tâm",
-        "focusValue": "Hình ảnh cho Website, Sản phẩm & Marketing",
+        "focusValue": "Marketing Visual Production",
         "duration": "Thời Gian",
-        "durationValue": "Tháng 6 2026"
+        "durationValue": "2026"
+      },
+      "creativeWorkflow": {
+        "title": "Creative Workflow",
+        "step1": "Tiếp nhận Brief",
+        "step2": "Xây dựng Prompt",
+        "step3": "Tạo hình AI",
+        "step4": "Tinh chỉnh & Bàn giao"
       },
       "featuredWorks": {
-        "intro": "Bộ sưu tập các hình ảnh AI được thực hiện cho website, thương mại điện tử và các hoạt động marketing. Mỗi hình ảnh được phát triển dựa trên yêu cầu của khách hàng, tập trung vào tính chân thực, sự nhất quán với thương hiệu và khả năng ứng dụng thực tế."
+        "intro": "Một số hình ảnh marketing được tạo bằng AI phục vụ mục đích thương mại. Mỗi dự án thể hiện khả năng chuyển đổi hình ảnh sản phẩm thành các visual chất lượng cao, đồng nhất và phù hợp với website, quảng cáo và các hoạt động digital marketing."
+      },
+      "toolsAndTechnologies": {
+        "title": "Tools & Technologies",
+        "tools": [
+          "ChatGPT",
+          "Claude",
+          "Midjourney",
+          "Photoshop",
+          "Canva"
+        ]
       },
       "colorVariants": {
         "green": "Xanh Lục",
@@ -2134,7 +2168,7 @@
       },
       "keyLearnings": {
         "promptEngineering": {
-          "desc": "Thông qua các dự án freelance, tôi nâng cao khả năng tiếp nhận yêu cầu của khách hàng và chuyển hóa chúng thành những hình ảnh AI đáp ứng nhu cầu thực tế. Đồng thời, tôi cũng phát triển kỹ năng chú ý đến chi tiết, duy trì sự nhất quán trong hình ảnh và giao tiếp hiệu quả trong suốt quá trình làm việc."
+          "desc": "Dự án này giúp tôi phát triển khả năng kết hợp công cụ AI với tư duy marketing thay vì chỉ tạo hình ảnh. Tôi học được cách phân tích creative brief, duy trì sự nhất quán của thương hiệu, tối ưu prompt qua nhiều vòng lặp và tạo ra các hình ảnh phục vụ hiệu quả cho mục tiêu kinh doanh và marketing."
         }
       }
     },
