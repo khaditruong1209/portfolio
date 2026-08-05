@@ -19,7 +19,7 @@
       "title": "Featured Projects",
       "viewAll": "View All Work →",
       "aiImage": "AI Creative Production",
-      "brandMarketing": "Brand Marketing",
+      "brandMarketing": "Integrated Brand Marketing Campaign",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Website Experience Optimization",
       "metaMarketing": "Meta Marketing",
@@ -196,8 +196,8 @@
         "title": "GEW Vietnam",
         "period": "Marketing Executive · Apr 2025 – Present",
         "brandMarketing": {
-          "title": "Brand Marketing",
-          "description": "Planned and coordinated integrated marketing initiatives by combining customer research, campaign planning, content strategy, and performance analysis to strengthen brand positioning and support business growth.",
+          "title": "Integrated Brand Marketing Campaign",
+          "description": "Planned and coordinated integrated digital marketing campaigns across e-commerce, CRM, paid media, SEO, and website optimization to support business growth and improve customer experience.",
           "capability1": "Campaign Planning",
           "capability2": "Integrated Marketing",
           "capability3": "Marketing Analytics"
@@ -277,6 +277,7 @@
       "conceptDevelopment": "Concept Development",
       "business": "Business",
       "platforms": "Platforms",
+      "deliverables": "Deliverables",
       "mainDeliverables": "Main Deliverables"
     },
     "caseStudies": {
@@ -313,328 +314,265 @@
         "hero": {
           "company": "GEW Vietnam",
           "title": "Integrated Brand Marketing Campaign",
-          "description": "Building a consistent brand presence through integrated marketing campaigns, customer insights, and multi-channel communication."
+          "description": "Planning and coordinating integrated digital marketing activities across e-commerce, CRM, paid media, SEO, and website optimization to support business growth and improve customer experience."
         },
         "projectSnapshot": {
           "title": "Project Snapshot",
+          "role": "Role",
+          "roleValue": "Marketing Executive",
           "company": "Company",
           "companyValue": "GEW Vietnam",
           "brand": "Brand",
           "brandValue": "WIGI Hair",
           "industry": "Industry",
-          "industryValue": "Hair Extensions · E-commerce",
-          "role": "Role",
-          "roleValue": "Marketing Executive",
-          "projectType": "Project Type",
-          "projectTypeValue": "Integrated Brand Marketing",
+          "industryValue": "E-commerce",
           "duration": "Duration",
-          "durationValue": "2025 – Present",
-          "responsibilities": "Responsibilities",
-          "resp": {
-            "campaignPlanning": "Campaign Planning",
-            "marketingAnalytics": "Marketing Analytics",
-            "performanceMarketing": "Performance Marketing",
-            "websiteOptimization": "Website Optimization",
-            "emailMarketing": "Email Marketing",
-            "brandCommunication": "Brand Communication"
+          "durationValue": "Jan 2025 – Present",
+          "focus": "Focus",
+          "focusValue": "Integrated Digital Marketing"
+        },
+        "overview": {
+          "title": "Project Overview",
+          "descEn": "As the Marketing Executive for WIGI Hair, I supported the planning and execution of integrated marketing campaigns across multiple digital touchpoints. My responsibilities included aligning website optimization, email marketing, paid advertising, SEO, AI creative production, and performance analysis to create a consistent customer journey and improve overall marketing effectiveness.",
+          "descEn2": "Rather than managing isolated channels, I focused on connecting marketing activities into an integrated campaign strategy supported by customer insights and business objectives."
+        },
+        "planningProcess": {
+          "title": "Campaign Planning Process",
+          "analysis": {
+            "title": "Business & Market Analysis",
+            "desc": "Research customer behavior, product performance, and market trends to identify growth opportunities."
+          },
+          "strategy": {
+            "title": "Marketing Strategy",
+            "desc": "Translate business objectives into integrated marketing plans across digital channels."
+          },
+          "coordination": {
+            "title": "Channel Coordination",
+            "desc": "Coordinate activities across Shopify, SEO, Email Marketing, Meta Ads, and AI Creative to ensure consistent communication."
+          },
+          "review": {
+            "title": "Performance Review",
+            "desc": "Monitor campaign performance and customer behavior to optimize future marketing decisions."
           }
         },
-        "challenge": "Business Challenge",
-        "challengeDesc": "As WIGI Hair expanded into the U.S. market, the brand needed to strengthen its market presence while maintaining a consistent customer experience across multiple digital touchpoints. Although marketing activities were already running across social media, advertising, email, and e-commerce, these channels required better alignment to improve campaign effectiveness, customer engagement, and long-term brand growth.",
-        "objectivesTitle": "Objectives",
-        "objectives": {
-          "item1": "Increase brand awareness in the U.S. market.",
-          "item2": "Support product launches and seasonal campaigns.",
-          "item3": "Improve consistency across marketing channels.",
-          "item4": "Enhance customer engagement throughout the buying journey.",
-          "item5": "Drive qualified traffic to the Shopify website."
-        },
-        "researchTitle": "Research & Insights",
-        "researchContent": {
-          "sources": "Research Sources",
-          "sourcesList": {
-            "item1": "Google Analytics 4",
-            "item2": "Microsoft Clarity",
-            "item3": "Shopify Analytics",
-            "item4": "Meta Ads Manager",
-            "item5": "Klaviyo Reports",
-            "item6": "Competitor Benchmarking",
-            "item7": "Customer Feedback"
-          },
-          "insights": {
-            "title": "Key Insights",
-            "customerBehavior": {
-              "title": "Customer Behavior",
-              "desc": "Customers responded more positively to educational content, styling tips, and authentic product demonstrations than to purely promotional posts."
-            },
-            "channelPerformance": {
-              "title": "Channel Performance",
-              "desc": "Marketing campaigns achieved stronger engagement when social media, email marketing, and website content delivered consistent messaging."
-            },
-            "websiteExperience": {
-              "title": "Website Experience",
-              "desc": "Improving navigation, product information, and landing page structure helped create a smoother shopping experience."
-            }
-          }
-        },
-        "strategyTitle": "Marketing Strategy",
-        "strategyDesc": "Based on the research findings, I supported an integrated marketing approach focusing on four key priorities:",
-        "strategyFocus": {
-          "integratedCampaignPlanning": {
-            "title": "Integrated Campaign Planning",
-            "desc": "Coordinated promotional campaigns across social media, website, email marketing, and paid advertising to ensure consistent customer communication."
-          },
-          "contentBrandConsistency": {
-            "title": "Content & Brand Consistency",
-            "desc": "Maintained unified messaging and visual identity across digital touchpoints to strengthen brand recognition."
-          },
-          "customerJourneyOptimization": {
-            "title": "Customer Journey Optimization",
-            "desc": "Improved the customer experience by aligning website content, landing pages, and email marketing with campaign objectives."
-          },
-          "performanceMonitoring": {
-            "title": "Performance Monitoring",
-            "desc": "Tracked campaign performance through analytics and customer behavior data to continuously identify optimization opportunities."
-          }
-        },
-        "campaignEcosystem": {
-          "title": "Campaign Ecosystem",
-          "desc": "The integrated marketing approach connects multiple channels and touchpoints to create a cohesive customer experience.",
-          "items": {
-            "contentMarketing": "Content Marketing",
-            "contentMarketingDesc": "Educational and lifestyle content across blog, social, and email channels.",
-            "paidAdvertising": "Paid Advertising",
-            "paidAdvertisingDesc": "Meta Ads, Google Ads, and Bing Ads campaigns targeting key audiences.",
-            "emailMarketing": "Email Marketing",
-            "emailMarketingDesc": "Automated workflows and promotional campaigns via Klaviyo.",
-            "websiteOptimization": "Website Optimization",
-            "websiteOptimizationDesc": "Landing page design and Shopify UX improvements for conversions.",
-            "customerJourney": "Customer Journey",
-            "customerJourneyDesc": "Mapped touchpoints from awareness through advocacy.",
-            "analytics": "Analytics & Insights",
-            "analyticsDesc": "Continuous monitoring and optimization using data-driven insights."
-          }
-        },
-        "executionTitle": "Execution",
-        "executionItems": {
+        "contributions": {
+          "title": "My Contributions",
           "campaignPlanning": {
-            "title": "Campaign Planning",
-            "desc": "Planned promotional campaigns, product launches, and seasonal marketing activities aligned with business priorities."
+            "title": "Integrated Campaign Planning",
+            "desc": "Planned marketing initiatives by aligning business objectives, customer insights, and channel priorities."
           },
-          "brandCommunication": {
-            "title": "Brand Communication",
-            "desc": "Maintained consistent messaging across Facebook, website, email marketing, and promotional assets."
+          "crossChannel": {
+            "title": "Cross-channel Coordination",
+            "desc": "Managed execution across Shopify, Klaviyo, Meta Ads, SEO, and AI creative production."
           },
-          "digitalMarketing": {
-            "title": "Digital Marketing",
-            "desc": "Executed campaigns across Meta Ads, Google Ads, Bing Ads, email marketing, and Shopify."
-          },
-          "websiteOptimization": {
-            "title": "Website Optimization",
-            "desc": "Improved landing pages, product pages, navigation, and customer journeys to support marketing campaigns."
-          },
-          "creativeProduction": {
-            "title": "Creative Production",
-            "desc": "Produced promotional banners, lifestyle photography, videos, and marketing materials supporting campaign execution."
-          }
-        },
-        "resultsTitle": "Results & Impact",
-        "results": {
-          "item1": "Strengthened brand consistency across multiple digital channels.",
-          "item2": "Supported successful execution of promotional campaigns and product launches.",
-          "item3": "Improved collaboration between marketing, e-commerce, and creative teams.",
-          "item4": "Established more structured marketing workflows for future campaigns.",
-          "item5": "Enhanced customer engagement through integrated communication."
-        },
-        "resp": {
-          "shopifyWebsiteManagement": {
-            "title": "01. Shopify Website Management",
-            "desc": "Maintained and updated the Shopify storefront by managing homepage banners, collection pages, product pages, navigation menus, footer sections, and other website components to ensure a consistent and engaging shopping experience."
-          },
-          "landingPageDevelopment": {
-            "title": "02. Landing Page Development",
-            "desc": "Built and maintained landing pages for seasonal campaigns, product launches, and promotional events while ensuring consistency with the brand identity and marketing objectives."
-          },
-          "seoContentManagement": {
-            "title": "03. SEO Content Management",
-            "desc": "Published and reviewed blog content, optimized page metadata and keywords, submitted pages for indexing, and maintained on-page SEO to improve search engine visibility."
-          },
-          "seoPerformanceMonitoring": {
-            "title": "04. SEO Performance Monitoring",
-            "desc": "Monitored keyword performance, indexing status, and website search visibility using SEO tools while preparing reports to support continuous optimization."
-          }
-        },
-        "workflow": "Marketing Workflow",
-        "workflowSteps": {
-          "research": {
-            "title": "01. Research",
-            "desc": "Understand campaign goals, target audience, and brand requirements before developing marketing materials."
-          },
-          "assetDevelopment": {
-            "title": "02. Asset Development",
-            "desc": "Coordinate with designers to prepare banners, promotional visuals, and campaign creatives."
-          },
-          "campaignExecution": {
-            "title": "03. Campaign Execution",
-            "desc": "Publish assets across Shopify, email marketing, and promotional channels while maintaining brand consistency."
+          "analytics": {
+            "title": "Marketing Analytics",
+            "desc": "Monitored website traffic, user behavior, email performance, and campaign results using GA4 and Microsoft Clarity."
           },
           "optimization": {
-            "title": "04. Optimization",
-            "desc": "Review campaign performance, gather feedback, and continuously improve future marketing activities."
+            "title": "Continuous Optimization",
+            "desc": "Identified improvement opportunities and optimized customer journeys based on performance insights."
+          }
+        },
+        "execution": {
+          "title": "Campaign Execution",
+          "website": {
+            "title": "Website & CRO",
+            "desc": "Optimized Shopify storefront, landing pages, and customer journeys to improve conversion rates and user experience."
+          },
+          "email": {
+            "title": "Email Marketing",
+            "desc": "Executed automated email campaigns and promotional flows through Klaviyo to nurture customer relationships."
+          },
+          "paidMedia": {
+            "title": "Paid Media",
+            "desc": "Managed Meta Ads, Google Ads, and Bing Ads campaigns targeting key audiences and campaign objectives."
+          },
+          "seoAi": {
+            "title": "SEO & AI Content",
+            "desc": "Published SEO-optimized content, monitored search performance, and produced AI creative assets for campaigns."
+          }
+        },
+        "performance": {
+          "title": "Performance & Optimization",
+          "customerBehavior": {
+            "title": "Customer Behavior Analysis",
+            "desc": "Analyzed website user behavior and customer interactions to understand engagement patterns."
+          },
+          "campaignReporting": {
+            "title": "Campaign Performance Reporting",
+            "desc": "Tracked and reported campaign metrics across channels to measure effectiveness and ROI."
+          },
+          "conversionOptimization": {
+            "title": "Conversion Optimization",
+            "desc": "Implemented improvements to website elements and user journeys to increase conversion rates."
+          },
+          "insights": {
+            "title": "Marketing Insights",
+            "desc": "Generated actionable insights from data to guide strategic decisions and channel optimization."
           }
         },
         "featuredWorks": {
           "title": "Featured Works",
-          "items": {
-            "seasonalCampaign": {
-              "number": "Featured Work 01",
-              "title": "Seasonal Campaign Planning",
-              "cat1": "Campaign Calendar",
-              "cat2": "Timeline",
-              "caption": "Planning campaign schedules and coordinating marketing activities across multiple channels."
-            },
-            "brandComm": {
-              "number": "Featured Work 02",
-              "title": "Brand Communication",
-              "cat1": "Facebook",
-              "cat2": "Website",
-              "cat3": "Email",
-              "caption": "Maintaining consistent messaging across customer touchpoints."
-            },
-            "custJourney": {
-              "number": "Featured Work 03",
-              "title": "Customer Journey Optimization",
-              "cat1": "Website",
-              "cat2": "Landing Page",
-              "cat3": "Flow",
-              "caption": "Optimizing customer journeys from awareness to purchase."
-            },
-            "marketingAsset": {
-              "number": "Featured Work 04",
-              "title": "Marketing Asset Production",
-              "cat1": "Banner",
-              "cat2": "Photography",
-              "cat3": "Video",
-              "caption": "Producing creative assets supporting campaign execution."
-            },
-            "campaignPerf": {
-              "number": "Featured Work 05",
-              "title": "Campaign Performance Review",
-              "cat1": "Dashboard",
-              "cat2": "GA4",
-              "cat3": "Clarity",
-              "caption": "Analyzing campaign performance to identify optimization opportunities."
-            }
-          }
-        },
-        "works": {
-          "campaignPlanningWork": {
-            "title": "Campaign Planning",
-            "desc": "Planned seasonal campaigns and coordinated execution timelines across multiple channels."
+          "website": {
+            "number": "Featured Work 01",
+            "title": "Website Optimization",
+            "cat1": "Landing Page",
+            "cat2": "UX/UI",
+            "caption": "Optimizing Shopify storefront and landing pages to improve customer experience and conversions."
           },
-          "brandCommunicationWork": {
-            "title": "Brand Communication",
-            "desc": "Maintained consistent brand messaging across owned digital channels."
+          "email": {
+            "number": "Featured Work 02",
+            "title": "Email Campaign",
+            "cat1": "Email Marketing",
+            "cat2": "Klaviyo",
+            "caption": "Designing and executing email campaigns to nurture leads and drive repeat purchases."
           },
-          "customerJourney": {
+          "journey": {
+            "number": "Featured Work 03",
             "title": "Customer Journey",
-            "desc": "Connected website, social media, and email marketing into a unified customer experience."
+            "cat1": "Strategy",
+            "cat2": "Mapping",
+            "caption": "Mapping integrated customer journey across multiple touchpoints."
           },
-          "creativeAssets": {
-            "title": "Creative Assets",
-            "desc": "Produced campaign visuals supporting promotional and branding activities."
+          "dashboard": {
+            "number": "Featured Work 04",
+            "title": "Performance Dashboard",
+            "cat1": "GA4",
+            "cat2": "Analytics",
+            "caption": "Tracking and analyzing campaign performance using GA4 and analytics tools."
           },
-          "performanceAnalysis": {
-            "title": "Performance Analysis",
-            "desc": "Evaluated campaign performance using marketing analytics to identify optimization opportunities."
-          },
-          "homepageBanner": {
-            "title": "Homepage Banner",
-            "desc": "Designed and updated homepage banners to communicate seasonal campaigns, promotions, and product highlights while maintaining a consistent brand identity."
-          },
-          "campaignLandingPages": {
-            "title": "Campaign Landing Pages",
-            "desc": "Developed dedicated landing pages for promotional campaigns and product launches with optimized layouts and user-focused content."
-          },
-          "websiteContentManagement": {
-            "title": "Website Content Management",
-            "desc": "Maintained website content by updating navigation, footer, promotional sections, and storefront information to keep the website accurate and up to date."
-          },
-          "blogManagement": {
-            "title": "Blog Management",
-            "desc": "Published and reviewed SEO blog articles, ensuring content quality, keyword implementation, and proper formatting before publication."
-          },
-          "searchPerformance": {
-            "title": "Search Performance",
-            "desc": "Monitored indexing, keyword performance, and website visibility using SEO tools to identify opportunities for organic growth."
-          },
-          "seoReporting": {
-            "title": "SEO Reporting",
-            "desc": "Prepared SEO performance reports to evaluate website growth and support ongoing optimization strategies."
+          "aiCreative": {
+            "number": "Featured Work 05",
+            "title": "AI Creative",
+            "cat1": "AI Image",
+            "cat2": "Production",
+            "caption": "Producing AI-generated creative assets and visuals for campaign execution."
           }
         },
-        "tools": "Tools",
-        "toolsMarketing": "Marketing",
-        "toolsAnalytics": "Analytics",
-        "toolsAdvertising": "Advertising",
-        "toolsPlatforms": "Platforms",
-        "toolList": [
-          "Shopify",
-          "Google Analytics 4",
-          "Klaviyo",
-          "Canva",
-          "ChatGPT",
-          "Google Search Console",
-          "Microsoft Clarity",
-          "Sinbyte"
-        ],
+        "tools": {
+          "title": "Tools & Platforms",
+          "analytics": "Analytics",
+          "advertising": "Advertising",
+          "crm": "CRM",
+          "ai": "AI"
+        },
         "keyLearningsTitle": "Key Learnings",
-        "learnings": {
-          "customerBehavior": {
-            "title": "01. Customer-Centric Marketing",
-            "desc": "Effective marketing starts with understanding customer behavior rather than assumptions."
-          },
-          "consistentCommunication": {
-            "title": "02. Consistent Communication",
-            "desc": "Consistent communication across channels improves both brand recognition and campaign performance."
-          },
-          "dataDriven": {
-            "title": "03. Data-Driven Decision Making",
-            "desc": "Data-driven decision making enables continuous optimization and better business outcomes."
-          },
-          "teamCollaboration": {
-            "title": "04. Team Collaboration",
-            "desc": "Strong collaboration across teams is essential for delivering integrated marketing campaigns."
-          },
-          "websiteContentManagement": {
-            "title": "01. Website Content Management",
-            "desc": "Learned how to maintain and organize Shopify website content while ensuring consistency across every customer touchpoint."
-          },
-          "seoBestPractices": {
-            "title": "02. SEO Best Practices",
-            "desc": "Developed practical experience in on-page SEO, content publishing, indexing, and keyword optimization to improve organic search visibility."
-          },
-          "contentQualityControl": {
-            "title": "03. Content Quality Control",
-            "desc": "Strengthened attention to detail by reviewing website and blog content before publication to ensure accuracy and brand consistency."
-          },
-          "continuousImprovement": {
-            "title": "04. Continuous Improvement",
-            "desc": "Built a data-driven mindset by monitoring SEO performance and continuously refining website content to support long-term business growth."
-          }
-        }
+        "keyLearningsDesc": "This project strengthened my understanding of integrated marketing planning by connecting customer insights, campaign execution, and performance analysis into one continuous optimization process. I learned how different digital channels work together to support business objectives rather than treating each channel independently."
       },
       "emailMarketing": {
         "hero": {
-          "company": "WIGI Hair",
-          "title": "Email Marketing",
-          "description": "Strengthening customer relationships through strategic email campaigns, automated customer journeys, and data-driven optimization using Klaviyo."
+          "company": "GEW Vietnam",
+          "title": "Email Marketing Strategy & CRM",
+          "description": "Planning and optimizing lifecycle email campaigns to strengthen customer engagement, improve retention, and support business growth through data-driven CRM strategies."
         },
         "about": "WIGI Hair is a premium e-commerce brand specializing in human hair extensions for the United States market. The company focuses on delivering salon-quality products through Shopify while building long-term customer relationships with personalized marketing and exceptional online experiences.",
-        "overview": "As a Marketing Executive at GEW Vietnam, I managed email marketing activities for WIGI Hair using Klaviyo. My responsibilities included planning promotional campaigns, building automated email flows, segmenting customer audiences, coordinating email content and visuals, and analyzing campaign performance to improve customer engagement and retention.",
+        "overview": "Email marketing was an important part of WIGI Hair's integrated marketing strategy. Rather than sending promotional emails only, I planned lifecycle campaigns based on customer behavior, purchase stages, and marketing objectives. Working alongside website optimization and paid media, email marketing helped improve customer engagement, retention, and repeat purchase opportunities.",
+        "overviewNew": "Email marketing was an important part of WIGI Hair's integrated marketing strategy. Rather than sending promotional emails only, I planned lifecycle campaigns based on customer behavior, purchase stages, and marketing objectives. Working alongside website optimization and paid media, email marketing helped improve customer engagement, retention, and repeat purchase opportunities.",
+        "overviewNew2": "My role included campaign planning, customer segmentation, automation management, performance monitoring, and continuous optimization using campaign data.",
+        "emailCampaignPlanning": "Email Campaign Planning",
+        "planning": {
+          "audienceSegmentation": {
+            "title": "Audience Segmentation",
+            "desc": "Grouped customers based on behavior, purchase history, and engagement level."
+          },
+          "campaignPlanning": {
+            "title": "Campaign Planning",
+            "desc": "Planned promotional, seasonal, educational, and retention campaigns aligned with marketing objectives."
+          },
+          "automationStrategy": {
+            "title": "Automation Strategy",
+            "desc": "Designed customer journeys including Welcome Series, Browse Abandonment, Abandoned Cart, and Post-purchase flows."
+          },
+          "performanceReview": {
+            "title": "Performance Review",
+            "desc": "Monitored campaign performance and optimized content, timing, and audience targeting."
+          }
+        },
+        "myContributions": "My Contributions",
+        "contributions": {
+          "lifecycleCampaignPlanning": {
+            "title": "Lifecycle Campaign Planning",
+            "desc": "Planned lifecycle email campaigns aligned with customer journeys and marketing objectives."
+          },
+          "crmAutomationManagement": {
+            "title": "CRM Automation Management",
+            "desc": "Built and maintained automated email flows to support customer acquisition and retention."
+          },
+          "performanceAnalysis": {
+            "title": "Performance Analysis",
+            "desc": "Tracked open rates, click rates, conversions, and customer engagement using Klaviyo reports."
+          },
+          "campaignOptimization": {
+            "title": "Campaign Optimization",
+            "desc": "Improved email performance through A/B testing, content refinement, and audience segmentation."
+          }
+        },
+        "campaignExecution": "Campaign Execution",
+        "execution": {
+          "welcomeSeries": {
+            "title": "Welcome Series",
+            "desc": "Introduce new customers to the brand and products."
+          },
+          "promotionalCampaigns": {
+            "title": "Promotional Campaigns",
+            "desc": "Support seasonal sales and product launches."
+          },
+          "browseCartRecovery": {
+            "title": "Browse & Cart Recovery",
+            "desc": "Recover potential customers through behavioral automation."
+          },
+          "customerRetention": {
+            "title": "Customer Retention",
+            "desc": "Maintain engagement after purchase through educational and follow-up emails."
+          }
+        },
+        "performanceOptimization": "Performance & Optimization",
+        "performance": {
+          "emailReporting": {
+            "title": "Email Performance Reporting",
+            "desc": "Analyze campaign KPIs and identify improvement opportunities."
+          },
+          "behaviorAnalysis": {
+            "title": "Customer Behavior Analysis",
+            "desc": "Evaluate engagement trends to improve lifecycle communication."
+          },
+          "abTesting": {
+            "title": "A/B Testing",
+            "desc": "Compare subject lines, content, and sending schedules."
+          },
+          "continuousImprovement": {
+            "title": "Continuous Improvement",
+            "desc": "Use campaign insights to optimize future CRM strategies."
+          }
+        },
+        "featuredWorks": {
+          "welcomeSeries": {
+            "title": "Welcome Series",
+            "desc": "Automated welcome email flows to introduce brand and products to new customers."
+          },
+          "productLaunchCampaign": {
+            "title": "Product Launch Campaign",
+            "desc": "Planned and executed email campaigns for new product launches and seasonal promotions."
+          },
+          "promotionalCampaign": {
+            "title": "Promotional Campaign",
+            "desc": "Seasonal promotional campaigns including Black Friday and special events."
+          },
+          "browseAbandonmentFlow": {
+            "title": "Browse Abandonment Flow",
+            "desc": "Behavioral automation flows to re-engage visitors who browsed products without purchase."
+          },
+          "customerRetentionFlow": {
+            "title": "Customer Retention Flow",
+            "desc": "Post-purchase emails and retention campaigns to maintain customer engagement and encourage repeat purchases."
+          }
+        },
         "responsibilities": "My Responsibilities",
         "tools": "Tools",
+        "toolsAndPlatforms": "Tools & Platforms",
         "keyLearnings": "Key Learnings",
+        "keyLearningsDesc": "This project strengthened my understanding of CRM and lifecycle marketing by demonstrating how customer data, segmentation, and automation can work together to improve engagement and retention. I also learned how continuous performance analysis supports more effective campaign planning and optimization.",
         "learnings": {
           "lifecycleEmailMarketing": {
             "title": "01. Lifecycle Email Marketing",
@@ -794,150 +732,117 @@
         "hero": {
           "company": "TIEM NHA CO",
           "title": "Meta Marketing",
-          "description": "Growing Tiệm Nhà Cỏ through Facebook, Instagram, and Meta advertising by building a consistent social media presence and reaching the right audience."
+          "description": "Planned and executed Meta marketing activities to build brand awareness, engage online communities, and support sales growth through content planning, paid advertising, and performance optimization."
         },
-        "overview": "As the Co-founder and Marketing Executive of Tiệm Nhà Cỏ, I managed the brand's Facebook and Instagram presence while supporting business growth through Meta advertising. My responsibilities included planning social media content, publishing posts, managing Meta Ads campaigns, monitoring campaign performance, and maintaining a consistent brand presence across social media platforms.",
-        "responsibilities": "My Responsibilities",
+        "overview": "This project focused on managing Meta marketing activities for an online fashion brand. My responsibilities covered campaign planning, content strategy, community engagement, paid advertising, and performance monitoring to strengthen brand visibility and support online sales. Rather than focusing solely on ad execution, the project emphasized understanding customer interests, maintaining a consistent brand presence, and continuously improving campaign effectiveness through performance insights.",
+        "contributions": "My Contributions",
         "tools": "Tools",
         "keyLearnings": "Key Learnings",
         "featuredWorks": "Featured Works",
-        "featuredWorksDesc": "A selection of social media content, promotional creatives, and Meta marketing campaigns developed for Tiệm Nhà Cỏ to strengthen brand awareness and customer engagement.",
-        "facebookPageTitle": "Facebook Page",
-        "facebookPlatform": "Facebook",
-        "facebookPageDesc": "The primary platform for showcasing products, promoting campaigns, and connecting with customers. I managed content planning, page operations, and Meta advertising to support brand growth and online sales.",
-        "brandVisualTitle": "Brand Visual Content",
-        "visualBrandingTitle": "Visual Branding",
-        "brandVisualDesc": "Developed product photography, lifestyle images, short-form videos, Stories, and promotional creatives used across Facebook, Instagram, and Meta advertising. These visual assets helped establish a consistent brand identity and supported both organic and paid marketing activities.",
+        "featuredWorksDesc": "Selected Meta marketing campaigns demonstrating content planning, campaign execution, and brand communication across Facebook. These projects highlight the integration of creative content with marketing objectives to strengthen audience engagement and business performance.",
         "toolsAndPlatforms": "Tools & Platforms",
-        "visitFacebook": "Visit Facebook →",
-        "resp": {
-          "socialMediaManagement": {
-            "title": "01. Social Media Management",
-            "desc": "Managed Facebook and Instagram by planning content, publishing posts, and maintaining a consistent brand identity across social media channels."
+        "contrib": {
+          "contentPlanning": {
+            "title": "Content & Campaign Planning",
+            "desc": "Developed monthly content calendars and marketing campaigns aligned with promotional activities, seasonal events, and business objectives."
           },
-          "metaAdvertising": {
-            "title": "02. Meta Advertising",
-            "desc": "Created and managed Meta Ads campaigns to increase brand awareness, reach potential customers, and support sales objectives."
+          "audienceEngagement": {
+            "title": "Audience Engagement",
+            "desc": "Managed community interactions and created social content that strengthened customer relationships and increased brand visibility."
           },
           "campaignOptimization": {
-            "title": "03. Campaign Optimization",
-            "desc": "Monitored advertising performance and optimized campaigns based on audience insights and campaign results to improve effectiveness."
-          },
-          "performanceReporting": {
-            "title": "04. Performance Reporting",
-            "desc": "Analyzed campaign metrics and prepared performance reports to evaluate marketing activities and support future improvements."
+            "title": "Campaign Optimization",
+            "desc": "Monitored campaign performance, evaluated engagement metrics, and refined content and advertising activities to improve marketing effectiveness."
           }
         },
-        "workflow": {
-          "contentPlanning": {
-            "title": "01. Content Planning",
-            "desc": "Planned monthly content, selected campaign themes, and identified promotional opportunities based on seasonal events and customer interests."
+        "campaignWorkflow": {
+          "objective": {
+            "title": "Campaign Objective",
+            "desc": "Defined clear campaign goals aligned with business objectives and seasonal opportunities."
           },
-          "contentCreation": {
-            "title": "02. Content Creation",
-            "desc": "Photographed products, designed social media creatives, and produced short-form videos for Facebook and Instagram."
+          "planning": {
+            "title": "Content Planning",
+            "desc": "Developed monthly content calendars and identified key messaging for each campaign phase."
           },
-          "publishingPromotion": {
-            "title": "03. Publishing & Promotion",
-            "desc": "Published content, scheduled promotional posts, and launched Meta advertising campaigns to increase reach and engagement."
+          "execution": {
+            "title": "Campaign Execution",
+            "desc": "Launched campaigns across Facebook and Instagram, including organic posts and paid advertising."
           },
-          "performanceReview": {
-            "title": "04. Performance Review",
-            "desc": "Monitored content performance, evaluated audience engagement, and refined future creatives based on campaign insights."
+          "review": {
+            "title": "Performance Review",
+            "desc": "Analyzed campaign metrics and engagement data to identify improvements and optimize future campaigns."
           }
         },
         "learnings": {
-          "socialMediaMarketing": {
-            "title": "01. Social Media Marketing",
-            "desc": "Learned how to build a consistent social media presence that supports brand awareness and customer engagement."
-          },
-          "metaAdvertising": {
-            "title": "02. Meta Advertising",
-            "desc": "Developed practical experience in planning, managing, and optimizing Meta advertising campaigns to support business objectives."
-          },
-          "campaignAnalysis": {
-            "title": "03. Campaign Analysis",
-            "desc": "Strengthened analytical skills by evaluating campaign performance and using data to improve future marketing activities."
-          },
-          "brandGrowth": {
-            "title": "04. Brand Growth",
-            "desc": "Gained experience in combining organic social media management with paid advertising to support sustainable brand growth."
-          }
+          "description": "This project strengthened my understanding of how content planning, audience engagement, and campaign performance work together to support business objectives. It also reinforced the importance of using customer feedback and performance insights to continuously optimize marketing activities rather than relying solely on creative execution."
         }
       },
       "brandActivation": {
         "hero": {
           "company": "Delta Engagement Marketing",
           "title": "Brand Activation Planning",
-          "description": "During my internship at Delta Engagement Marketing, I supported the Planning team by conducting market research, analyzing consumer trends, and developing proposal materials for brand activation campaigns across various industries. I also assisted in brainstorming strategic ideas when required."
+          "description": "Supporting brand activation planning through consumer research, campaign ideation, and proposal development for BTL marketing campaigns."
         },
-        "overview": "During my internship at Delta Engagement Marketing, I supported the Planning team in developing brand activation proposals, campaign concepts, and presentation decks. My responsibilities included market research, creative ideation, activation planning, and preparing proposal materials for client presentations.",
-        "about": "Delta Engagement Marketing is a Below-the-Line (BTL) marketing agency specializing in brand activations, experiential marketing, retail campaigns, and events. Working alongside planners and account teams, I assisted in transforming client briefs into activation concepts and proposal presentations that aligned with business objectives and consumer insights.",
-        "responsibilities": "My Responsibilities",
-        "resp": {
+        "overview": "Rather than executing marketing campaigns, this internship focused on supporting the planning phase of brand activation projects. I collaborated with planners and account teams to research markets, analyze consumer behavior, develop campaign concepts, and prepare client proposals across multiple industries.",
+        "contributions": "My Contributions",
+        "contrib": {
           "marketResearch": {
-            "title": "Market Research",
-            "desc": "Conducted market research and analyzed consumer trends to support the development of marketing campaigns across various industries."
+            "title": "Consumer & Market Research",
+            "desc": "Collected market information, analyzed competitors, and identified consumer trends to support campaign planning."
+          },
+          "conceptDevelopment": {
+            "title": "Campaign Concept Development",
+            "desc": "Supported brainstorming sessions and translated research findings into activation ideas aligned with client objectives."
           },
           "proposalDevelopment": {
             "title": "Proposal Development",
-            "desc": "Developed client proposal decks by organizing research findings, campaign information, and strategic content into clear and professional proposals."
-          },
-          "presentationDesign": {
-            "title": "Presentation Design",
-            "desc": "Designed proposal templates and presentation layouts to improve the visual quality, clarity, and consistency of client proposals."
-          },
-          "planningSupport": {
-            "title": "Planning Support",
-            "desc": "Supported the Planning team by assisting with strategic brainstorming and proposal development based on client requirements."
+            "desc": "Prepared presentation materials that clearly communicated campaign strategy, activation concepts, and execution recommendations."
           }
         },
-        "workflow": {
+        "planningWorkflow": {
           "clientBrief": {
-            "title": "01. Client Brief",
-            "desc": "Understood campaign objectives and brand positioning before developing concepts."
+            "title": "Client Brief",
+            "desc": "Understand business objectives and campaign requirements."
           },
           "research": {
-            "title": "02. Research",
-            "desc": "Gathered consumer insights and market data to inform activation strategy."
+            "title": "Market Research",
+            "desc": "Analyze target audience, competitors and industry trends."
           },
-          "creativeConcept": {
-            "title": "03. Creative Concept",
-            "desc": "Developed activation ideas and creative themes aligned with campaign objectives."
+          "insight": {
+            "title": "Insight Development",
+            "desc": "Identify opportunities that connect brand objectives with consumer behavior."
           },
-          "presentationProposal": {
-            "title": "04. Presentation Proposal",
-            "desc": "Compiled concepts into presentation decks and proposal documents for client review."
+          "idea": {
+            "title": "Campaign Idea",
+            "desc": "Develop activation concepts aligned with research and business goals."
+          },
+          "proposal": {
+            "title": "Activation Proposal",
+            "desc": "Organize presentation materials and communicate strategy to stakeholders."
           }
         },
-        "proposals": {
-          "dielac": {
-            "title": "Dielac – School Channel Activation",
-            "desc": "Developed activation concepts targeting schools and educational organizations."
+        "toolsAndMethods": "Tools & Methods",
+        "planningThinking": "Planning Thinking",
+        "thinking": {
+          "businessObjective": {
+            "title": "Business Objective",
+            "desc": "Understand what the client wants to achieve before proposing solutions."
           },
-          "loreal": {
-            "title": "L'Oréal Beauty House",
-            "desc": "Supported planning of customer experiences and brand interaction activities."
+          "consumerInsight": {
+            "title": "Consumer Insight",
+            "desc": "Identify audience motivations and behavior to support campaign ideas."
           },
-          "kgc": {
-            "title": "KGC Brand Activation",
-            "desc": "Planned campaign concepts and promotional activities for the brand."
+          "strategicThinking": {
+            "title": "Strategic Thinking",
+            "desc": "Translate research findings into practical activation concepts."
           },
-          "vnpca": {
-            "title": "VNPCA Conference Planning",
-            "desc": "Supported planning of association conferences and networking events."
-          },
-          "hoangQuan": {
-            "title": "Hoang Quan Land",
-            "desc": "Prepared event concepts and advertising campaign documents."
-          },
-          "manulife": {
-            "title": "Manulife Activation Campaign",
-            "desc": "Supported development of activation concepts and customer engagement strategy."
+          "collaboration": {
+            "title": "Presentation & Collaboration",
+            "desc": "Communicate ideas clearly and collaborate with planning and account teams."
           }
         },
-        "tools": "Tools",
-        "keyLearnings": "Key Learnings"
+        "keyLearnings": "Key Learnings",
+        "keyLearningsDesc": "This internship helped me understand that effective campaign planning starts with understanding the business challenge rather than generating creative ideas immediately. I learned how market research, consumer insights, and structured thinking work together to build stronger activation proposals."
       }
     },
     "aiImageExtended": {
@@ -1009,18 +914,18 @@
     },
     "metaMarketingExtended": {
       "snapshot": {
-        "business": "Business",
-        "businessValue": "TIEM NHA CO",
-        "industry": "Industry",
-        "industryValue": "Secondhand Fashion",
-        "platforms": "Platforms",
-        "platformsValue": "Facebook & Instagram",
-        "focus": "Focus",
-        "focusValue": "Social Media & Meta Ads",
         "role": "Role",
-        "roleValue": "Co-Founder & Marketing Lead",
+        "roleValue": "Marketing Executive & Co-founder",
+        "specialization": "Specialization",
+        "specializationValue": "Meta Marketing",
+        "industry": "Industry",
+        "industryValue": "Fashion E-commerce",
+        "business": "Business",
+        "businessValue": "Second-hand Fashion",
+        "focus": "Focus",
+        "focusValue": "Brand Awareness & Sales Growth",
         "duration": "Duration",
-        "durationValue": "Sep 2023 – Feb 2025"
+        "durationValue": "2023–2025"
       },
       "creativePortfolio": "Creative Portfolio",
       "creativePortfolioDesc": "Throughout the project, I created a wide range of visual content, from promotional campaigns and product photography to social media designs and short-form videos. Every creative was produced to strengthen the brand identity, improve customer engagement, and support online sales.",
@@ -1095,19 +1000,20 @@
     },
     "brandActivationExtended": {
       "snapshot": {
+        "role": "Role",
+        "roleValue": "Planning Intern",
         "company": "Company",
         "companyValue": "Delta Engagement Marketing",
         "industry": "Industry",
         "industryValue": "BTL Marketing Agency",
-        "specialization": "Specialization",
-        "specializationValue": "Brand Activation & Events",
-        "role": "Role",
-        "roleValue": "Planning Intern",
-        "mainDeliverables": "Main Deliverables",
-        "mainDeliverablesValue": "Proposal Decks & Activation Concepts",
+        "focus": "Focus",
+        "focusValue": "Brand Activation Planning",
+        "deliverables": "Deliverables",
+        "deliverablesValue": "Campaign Proposals & Presentations",
         "duration": "Duration",
         "durationValue": "Aug 2024 – Dec 2024"
       },
+      "featuredProjectsDesc": "During my internship at Delta Engagement Marketing, I contributed to planning proposals for clients across education, beauty, healthcare, real estate, finance, and retail industries. Below are selected proposal decks that demonstrate my involvement in research, concept development, activation planning, and presentation design.",
       "projectOverview": "Project Overview",
       "projectOverviewDesc": "During my internship at Delta Engagement Marketing, I supported the Planning team in developing proposal decks for marketing campaigns across various industries. My primary responsibilities included conducting market research, analyzing consumer trends, and developing client proposals based on business objectives. I also assisted with strategic brainstorming when required, gaining hands-on experience in planning and proposal development within a fast-paced agency environment.",
       "responsibilities": {
@@ -1146,8 +1052,6 @@
           "desc": "Compiled concepts into presentation decks and proposal documents for client review."
         }
       },
-      "featuredProjects": "Featured Projects",
-      "featuredProjectsDesc": "During my internship at Delta Engagement Marketing, I contributed to proposals for various brand activation campaigns.",
       "proposals": {
         "dielac": {
           "title": "Dielac – School Channel Activation",
@@ -1207,7 +1111,7 @@
       "title": "Dự Án Nổi Bật",
       "viewAll": "Xem Tất Cả →",
       "aiImage": "Sản xuất nội dung sáng tạo AI",
-      "brandMarketing": "Brand Marketing",
+      "brandMarketing": "Chiến dịch Marketing Tích hợp cho Thương hiệu",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Tối ưu trải nghiệm website",
       "metaMarketing": "Meta Marketing",
@@ -1381,8 +1285,8 @@
         "title": "GEW Vietnam",
         "period": "Chuyên Viên Marketing · Tháng 4 2025 – Hiện Tại",
         "brandMarketing": {
-          "title": "Brand Marketing",
-          "description": "Lập kế hoạch và điều phối các hoạt động marketing tích hợp thông qua nghiên cứu khách hàng, xây dựng kế hoạch chiến dịch, chiến lược nội dung và phân tích hiệu quả nhằm củng cố định vị thương hiệu và hỗ trợ tăng trưởng kinh doanh.",
+          "title": "Chiến dịch Marketing Tích hợp cho Thương hiệu",
+          "description": "Lập kế hoạch và triển khai các chiến dịch marketing tích hợp trên nhiều kênh như thương mại điện tử, CRM, quảng cáo trả phí, SEO và tối ưu website nhằm thúc đẩy tăng trưởng kinh doanh và nâng cao trải nghiệm khách hàng.",
           "capability1": "Lập kế hoạch chiến dịch",
           "capability2": "Marketing Tích hợp",
           "capability3": "Phân tích Marketing"
@@ -1462,6 +1366,7 @@
       "conceptDevelopment": "Phát Triển Khái Niệm",
       "business": "Doanh Nghiệp",
       "platforms": "Nền Tảng",
+      "deliverables": "Deliverables",
       "mainDeliverables": "Các Deliverable Chính"
     },
     "caseStudies": {
@@ -1497,329 +1402,266 @@
       "brandMarketing": {
         "hero": {
           "company": "GEW Vietnam",
-          "title": "Chiến dịch Marketing Thương hiệu Tích hợp",
-          "description": "Xây dựng hình ảnh thương hiệu nhất quán thông qua các chiến dịch marketing tích hợp, phân tích khách hàng và truyền thông đa kênh."
+          "title": "Chiến dịch Marketing Tích hợp cho Thương hiệu",
+          "description": "Lập kế hoạch và triển khai các hoạt động marketing tích hợp trên nhiều kênh như thương mại điện tử, CRM, quảng cáo trả phí, SEO và tối ưu website nhằm thúc đẩy tăng trưởng kinh doanh và nâng cao trải nghiệm khách hàng."
         },
         "projectSnapshot": {
-          "title": "Tóm Tắt Dự Án",
+          "title": "Tóm tắt Dự án",
+          "role": "Vị trí",
+          "roleValue": "Marketing Executive",
           "company": "Công ty",
           "companyValue": "GEW Vietnam",
           "brand": "Thương hiệu",
           "brandValue": "WIGI Hair",
-          "industry": "Lĩnh vực",
-          "industryValue": "Tóc nối · Thương mại điện tử",
-          "role": "Vai trò",
-          "roleValue": "Marketing Executive",
-          "projectType": "Loại dự án",
-          "projectTypeValue": "Marketing thương hiệu tích hợp",
+          "industry": "Ngành",
+          "industryValue": "Thương mại điện tử",
           "duration": "Thời gian",
-          "durationValue": "2025 – Hiện tại",
-          "responsibilities": "Vai trò chính",
-          "resp": {
-            "campaignPlanning": "Lập kế hoạch chiến dịch",
-            "marketingAnalytics": "Phân tích Marketing",
-            "performanceMarketing": "Performance Marketing",
-            "websiteOptimization": "Tối ưu Website",
-            "emailMarketing": "Email Marketing",
-            "brandCommunication": "Truyền thông thương hiệu"
+          "durationValue": "Tháng 1 2025 – Hiện tại",
+          "focus": "Tập trung",
+          "focusValue": "Marketing Digital Tích hợp"
+        },
+        "overview": {
+          "title": "Tổng quan Dự án",
+          "descEn": "Với vai trò Marketing Executive tại WIGI Hair, tôi tham gia lập kế hoạch và triển khai các chiến dịch marketing tích hợp trên nhiều điểm chạm số. Công việc bao gồm phối hợp giữa tối ưu website, email marketing, quảng cáo trả phí, SEO, AI Creative và phân tích hiệu quả nhằm tạo ra hành trình khách hàng nhất quán và nâng cao hiệu quả marketing.",
+          "descEn2": "Thay vì quản lý từng kênh riêng lẻ, tôi tập trung kết nối các hoạt động marketing thành một chiến lược thống nhất dựa trên insight khách hàng và mục tiêu kinh doanh."
+        },
+        "planningProcess": {
+          "title": "Quy trình Lập kế hoạch Chiến dịch",
+          "analysis": {
+            "title": "Phân tích thị trường & khách hàng",
+            "desc": "Nghiên cứu hành vi khách hàng, hiệu quả sản phẩm và xu hướng thị trường nhằm xác định cơ hội tăng trưởng."
+          },
+          "strategy": {
+            "title": "Lập kế hoạch Marketing",
+            "desc": "Chuyển đổi mục tiêu kinh doanh thành kế hoạch marketing tích hợp trên nhiều kênh."
+          },
+          "coordination": {
+            "title": "Điều phối các kênh",
+            "desc": "Phối hợp Shopify, SEO, Email Marketing, Meta Ads và AI Creative nhằm đảm bảo trải nghiệm thương hiệu nhất quán."
+          },
+          "review": {
+            "title": "Đánh giá hiệu quả",
+            "desc": "Theo dõi dữ liệu chiến dịch và hành vi khách hàng để tối ưu các hoạt động marketing."
           }
         },
-        "challenge": "Thách Thức Kinh Doanh",
-        "challengeDesc": "Trong quá trình mở rộng sang thị trường Hoa Kỳ, WIGI Hair cần gia tăng sự hiện diện thương hiệu đồng thời duy trì trải nghiệm khách hàng nhất quán trên nhiều kênh số. Mặc dù các hoạt động marketing đã được triển khai trên mạng xã hội, quảng cáo, email và website thương mại điện tử, các kênh này vẫn cần được kết nối chặt chẽ hơn để nâng cao hiệu quả chiến dịch, tăng mức độ tương tác và hỗ trợ tăng trưởng thương hiệu bền vững.",
-        "objectivesTitle": "Mục Tiêu",
-        "objectives": {
-          "item1": "Gia tăng nhận diện thương hiệu tại thị trường Hoa Kỳ.",
-          "item2": "Hỗ trợ các chiến dịch ra mắt sản phẩm và chương trình khuyến mãi theo mùa.",
-          "item3": "Đồng bộ hình ảnh và thông điệp trên các kênh marketing.",
-          "item4": "Nâng cao mức độ tương tác trong toàn bộ hành trình khách hàng.",
-          "item5": "Thu hút lượng truy cập chất lượng đến website Shopify."
-        },
-        "researchTitle": "Nghiên Cứu & Insight",
-        "researchContent": {
-          "sources": "Nguồn Nghiên Cứu",
-          "sourcesList": {
-            "item1": "Google Analytics 4",
-            "item2": "Microsoft Clarity",
-            "item3": "Shopify Analytics",
-            "item4": "Meta Ads Manager",
-            "item5": "Báo cáo Klaviyo",
-            "item6": "Phân tích đối thủ",
-            "item7": "Phản hồi khách hàng"
-          },
-          "insights": {
-            "title": "Insight Chính",
-            "customerBehavior": {
-              "title": "Hành vi khách hàng",
-              "desc": "Khách hàng có xu hướng tương tác nhiều hơn với nội dung chia sẻ kiến thức, hướng dẫn tạo kiểu và trải nghiệm thực tế thay vì nội dung chỉ tập trung bán hàng."
-            },
-            "channelPerformance": {
-              "title": "Hiệu quả kênh",
-              "desc": "Các chiến dịch đạt hiệu quả tốt hơn khi mạng xã hội, email marketing và website truyền tải thông điệp nhất quán."
-            },
-            "websiteExperience": {
-              "title": "Trải nghiệm website",
-              "desc": "Việc cải thiện điều hướng, thông tin sản phẩm và landing page giúp khách hàng tìm kiếm sản phẩm dễ dàng hơn."
-            }
-          }
-        },
-        "strategyTitle": "Chiến Lược Marketing",
-        "strategyDesc": "Dựa trên kết quả nghiên cứu, tôi tham gia triển khai chiến lược marketing tích hợp với bốn trọng tâm chính:",
-        "strategyFocus": {
-          "integratedCampaignPlanning": {
-            "title": "Lập kế hoạch chiến dịch tích hợp",
-            "desc": "Phối hợp các hoạt động trên mạng xã hội, website, email marketing và quảng cáo nhằm đảm bảo trải nghiệm truyền thông nhất quán."
-          },
-          "contentBrandConsistency": {
-            "title": "Đồng bộ thương hiệu và nội dung",
-            "desc": "Duy trì thông điệp và hình ảnh thương hiệu thống nhất trên các điểm chạm số."
-          },
-          "customerJourneyOptimization": {
-            "title": "Tối ưu hành trình khách hàng",
-            "desc": "Điều chỉnh nội dung website, landing page và email marketing để hỗ trợ mục tiêu của từng chiến dịch."
-          },
-          "performanceMonitoring": {
-            "title": "Theo dõi và tối ưu hiệu quả",
-            "desc": "Theo dõi dữ liệu chiến dịch và hành vi khách hàng để liên tục cải thiện hiệu quả marketing."
-          }
-        },
-        "campaignEcosystem": {
-          "title": "Hệ Sinh Thái Chiến Dịch",
-          "desc": "Cách tiếp cận marketing tích hợp kết nối nhiều kênh và điểm chạm để tạo trải nghiệm khách hàng gắn kết.",
-          "items": {
-            "contentMarketing": "Content Marketing",
-            "contentMarketingDesc": "Nội dung chia sẻ kiến thức và lối sống trên blog, mạng xã hội và email.",
-            "paidAdvertising": "Quảng Cáo Trả Phí",
-            "paidAdvertisingDesc": "Các chiến dịch trên Meta Ads, Google Ads, và Bing Ads nhắm vào khán giả chính.",
-            "emailMarketing": "Email Marketing",
-            "emailMarketingDesc": "Các chuỗi tự động và chiến dịch khuyến mãi qua Klaviyo.",
-            "websiteOptimization": "Tối Ưu Website",
-            "websiteOptimizationDesc": "Thiết kế landing page và cải thiện UX Shopify để nâng cao chuyển đổi.",
-            "customerJourney": "Hành Trình Khách Hàng",
-            "customerJourneyDesc": "Các điểm chạm được lập bản đồ từ nhận thức đến ủng hộ.",
-            "analytics": "Phân Tích & Insight",
-            "analyticsDesc": "Theo dõi liên tục và tối ưu bằng cách sử dụng dữ liệu."
-          }
-        },
-        "executionTitle": "Triển Khai",
-        "executionItems": {
+        "contributions": {
+          "title": "Đóng góp của tôi",
           "campaignPlanning": {
-            "title": "Lập Kế Hoạch Chiến Dịch",
-            "desc": "Lập kế hoạch cho các chương trình khuyến mãi, ra mắt sản phẩm và chiến dịch theo mùa phù hợp với mục tiêu kinh doanh."
+            "title": "Lập kế hoạch Marketing tích hợp",
+            "desc": "Xây dựng kế hoạch marketing dựa trên mục tiêu kinh doanh, insight khách hàng và ưu tiên của từng kênh."
           },
-          "brandCommunication": {
-            "title": "Truyền Thông Thương Hiệu",
-            "desc": "Đảm bảo thông điệp thương hiệu nhất quán trên Facebook, website, email marketing và các ấn phẩm truyền thông."
+          "crossChannel": {
+            "title": "Điều phối đa kênh",
+            "desc": "Triển khai và phối hợp hoạt động giữa Shopify, Klaviyo, Meta Ads, SEO và AI Creative."
           },
-          "digitalMarketing": {
-            "title": "Marketing Số",
-            "desc": "Triển khai các hoạt động trên Meta Ads, Google Ads, Bing Ads, email marketing và Shopify."
-          },
-          "websiteOptimization": {
-            "title": "Tối Ưu Website",
-            "desc": "Cải thiện landing page, trang sản phẩm, điều hướng và hành trình khách hàng nhằm hỗ trợ hiệu quả cho các chiến dịch marketing."
-          },
-          "creativeProduction": {
-            "title": "Sản Xuất Nội Dung",
-            "desc": "Thiết kế banner, chụp ảnh sản phẩm, sản xuất video ngắn và các tài liệu truyền thông phục vụ chiến dịch."
-          }
-        },
-        "resultsTitle": "Kết Quả & Tác Động",
-        "results": {
-          "item1": "Xây dựng hình ảnh thương hiệu nhất quán trên nhiều kênh digital.",
-          "item2": "Hỗ trợ triển khai hiệu quả các chiến dịch khuyến mãi và ra mắt sản phẩm.",
-          "item3": "Tăng cường phối hợp giữa đội Marketing, E-commerce và Creative.",
-          "item4": "Chuẩn hóa quy trình triển khai chiến dịch cho các hoạt động sau này.",
-          "item5": "Cải thiện mức độ tương tác của khách hàng thông qua truyền thông tích hợp."
-        },
-        "resp": {
-          "shopifyWebsiteManagement": {
-            "title": "01. Quản Lý Website Shopify",
-            "desc": "Quản lý và cập nhật website Shopify thông qua việc điều chỉnh banner trang chủ, trang bộ sưu tập, trang sản phẩm, menu điều hướng, footer và nhiều thành phần khác nhằm mang đến trải nghiệm mua sắm đồng nhất."
-          },
-          "landingPageDevelopment": {
-            "title": "02. Phát Triển Landing Page",
-            "desc": "Xây dựng và cập nhật landing page cho các chiến dịch theo mùa, ra mắt sản phẩm và chương trình khuyến mãi, đồng thời đảm bảo sự nhất quán với hình ảnh thương hiệu và mục tiêu marketing."
-          },
-          "seoContentManagement": {
-            "title": "03. Quản Lý Nội Dung SEO",
-            "desc": "Đăng tải và kiểm tra nội dung blog, tối ưu metadata và từ khóa, gửi index cho các trang mới và duy trì SEO on-page nhằm cải thiện khả năng hiển thị trên công cụ tìm kiếm."
-          },
-          "seoPerformanceMonitoring": {
-            "title": "04. Theo Dõi Hiệu Suất SEO",
-            "desc": "Theo dõi thứ hạng từ khóa, tình trạng index và khả năng hiển thị của website bằng các công cụ SEO, đồng thời xây dựng báo cáo nhằm hỗ trợ quá trình tối ưu liên tục."
-          }
-        },
-        "workflow": "Quy Trình Marketing",
-        "workflowSteps": {
-          "research": {
-            "title": "01. Nghiên Cứu",
-            "desc": "Hiểu mục tiêu chiến dịch, khán giả mục tiêu và yêu cầu thương hiệu trước khi phát triển các tài liệu marketing."
-          },
-          "assetDevelopment": {
-            "title": "02. Phát Triển Tài Sản",
-            "desc": "Phối hợp với các nhà thiết kế để chuẩn bị banner, hình ảnh quảng cáo và nội dung sáng tạo chiến dịch."
-          },
-          "campaignExecution": {
-            "title": "03. Thực Hiện Chiến Dịch",
-            "desc": "Xuất bản tài sản trên Shopify, email marketing và các kênh quảng cáo trong khi duy trì tính nhất quán của thương hiệu."
+          "analytics": {
+            "title": "Phân tích Marketing",
+            "desc": "Theo dõi lưu lượng website, hành vi khách hàng, hiệu quả email và chiến dịch bằng GA4 và Microsoft Clarity."
           },
           "optimization": {
-            "title": "04. Tối Ưu Hóa",
-            "desc": "Xem xét hiệu suất chiến dịch, thu thập phản hồi và liên tục cải thiện các hoạt động marketing trong tương lai."
+            "title": "Tối ưu liên tục",
+            "desc": "Đề xuất cải tiến dựa trên dữ liệu nhằm nâng cao trải nghiệm khách hàng và hiệu quả marketing."
+          }
+        },
+        "execution": {
+          "title": "Triển khai Chiến dịch",
+          "website": {
+            "title": "Website & Tối ưu chuyển đổi",
+            "desc": "Tối ưu cửa hàng Shopify, trang đích và hành trình khách hàng để cải thiện tỷ lệ chuyển đổi và trải nghiệm người dùng."
+          },
+          "email": {
+            "title": "Email Marketing",
+            "desc": "Thực thi các chiến dịch email tự động và luồng khuyến mãi thông qua Klaviyo để nuôi dưỡng mối quan hệ khách hàng."
+          },
+          "paidMedia": {
+            "title": "Quảng cáo Trả phí",
+            "desc": "Quản lý các chiến dịch Meta Ads, Google Ads và Bing Ads nhắm vào các đối tượng chính và mục tiêu chiến dịch."
+          },
+          "seoAi": {
+            "title": "SEO & Nội dung AI",
+            "desc": "Xuất bản nội dung tối ưu SEO, theo dõi hiệu quả tìm kiếm và tạo tài sản sáng tạo AI cho các chiến dịch."
+          }
+        },
+        "performance": {
+          "title": "Hiệu quả & Tối ưu",
+          "customerBehavior": {
+            "title": "Phân tích Hành vi Khách hàng",
+            "desc": "Phân tích hành vi người dùng trên website và tương tác khách hàng để hiểu rõ hơn về các mô hình tương tác."
+          },
+          "campaignReporting": {
+            "title": "Báo cáo Hiệu quả Chiến dịch",
+            "desc": "Theo dõi và báo cáo các số liệu chiến dịch trên các kênh để đo lường hiệu quả và ROI."
+          },
+          "conversionOptimization": {
+            "title": "Tối ưu Chuyển đổi",
+            "desc": "Triển khai cải tiến cho các phần tử website và hành trình người dùng để tăng tỷ lệ chuyển đổi."
+          },
+          "insights": {
+            "title": "Insight Marketing",
+            "desc": "Tạo ra các insight hành động từ dữ liệu để hướng dẫn các quyết định chiến lược và tối ưu kênh."
           }
         },
         "featuredWorks": {
-          "title": "Các Công Việc Nổi Bật",
-          "items": {
-            "seasonalCampaign": {
-              "number": "Công Việc Nổi Bật 01",
-              "title": "Lập Kế Hoạch Chiến Dịch Theo Mùa",
-              "cat1": "Lịch Chiến Dịch",
-              "cat2": "Timeline",
-              "caption": "Lập kế hoạch lịch trình chiến dịch và phối hợp các hoạt động marketing trên nhiều kênh."
-            },
-            "brandComm": {
-              "number": "Công Việc Nổi Bật 02",
-              "title": "Truyền Thông Thương Hiệu",
-              "cat1": "Facebook",
-              "cat2": "Website",
-              "cat3": "Email",
-              "caption": "Duy trì thông điệp nhất quán trên các điểm chạm khách hàng."
-            },
-            "custJourney": {
-              "number": "Công Việc Nổi Bật 03",
-              "title": "Tối Ưu Hành Trình Khách Hàng",
-              "cat1": "Website",
-              "cat2": "Landing Page",
-              "cat3": "Flow",
-              "caption": "Tối ưu hành trình khách hàng từ nhận diện đến mua hàng."
-            },
-            "marketingAsset": {
-              "number": "Công Việc Nổi Bật 04",
-              "title": "Sản Xuất Tài Sản Marketing",
-              "cat1": "Banner",
-              "cat2": "Photography",
-              "cat3": "Video",
-              "caption": "Sản xuất các tài sản sáng tạo hỗ trợ thực hiện chiến dịch."
-            },
-            "campaignPerf": {
-              "number": "Công Việc Nổi Bật 05",
-              "title": "Đánh Giá Hiệu Quả Chiến Dịch",
-              "cat1": "Dashboard",
-              "cat2": "GA4",
-              "cat3": "Clarity",
-              "caption": "Phân tích hiệu quả chiến dịch để xác định cơ hội tối ưu."
-            }
+          "title": "Các công việc nổi bật",
+          "website": {
+            "number": "Công việc nổi bật 01",
+            "title": "Tối ưu Website",
+            "cat1": "Trang đích",
+            "cat2": "UX/UI",
+            "caption": "Tối ưu cửa hàng Shopify và trang đích để cải thiện trải nghiệm khách hàng và chuyển đổi."
+          },
+          "email": {
+            "number": "Công việc nổi bật 02",
+            "title": "Chiến dịch Email",
+            "cat1": "Email Marketing",
+            "cat2": "Klaviyo",
+            "caption": "Thiết kế và thực thi các chiến dịch email để nuôi dưỡng khách hàng tiềm năng và tăng mua hàng lặp lại."
+          },
+          "journey": {
+            "number": "Công việc nổi bật 03",
+            "title": "Hành trình Khách hàng",
+            "cat1": "Chiến lược",
+            "cat2": "Lập bản đồ",
+            "caption": "Lập bản đồ hành trình khách hàng tích hợp trên nhiều điểm chạm."
+          },
+          "dashboard": {
+            "number": "Công việc nổi bật 04",
+            "title": "Bảng điều khiển Hiệu quả",
+            "cat1": "GA4",
+            "cat2": "Analytics",
+            "caption": "Theo dõi và phân tích hiệu quả chiến dịch bằng GA4 và các công cụ phân tích."
+          },
+          "aiCreative": {
+            "number": "Công việc nổi bật 05",
+            "title": "Sáng tạo AI",
+            "cat1": "Hình ảnh AI",
+            "cat2": "Sản xuất",
+            "caption": "Tạo tài sản sáng tạo và hình ảnh được tạo bằng AI cho việc triển khai chiến dịch."
           }
         },
-        "works": {
-          "campaignPlanningWork": {
-            "title": "Lập Kế Hoạch Chiến Dịch",
-            "desc": "Lập kế hoạch các chiến dịch theo mùa và phối hợp tiến độ triển khai trên nhiều kênh."
-          },
-          "brandCommunicationWork": {
-            "title": "Truyền Thông Thương Hiệu",
-            "desc": "Duy trì thông điệp thương hiệu nhất quán trên các kênh truyền thông sở hữu."
-          },
-          "customerJourney": {
-            "title": "Hành Trình Khách Hàng",
-            "desc": "Kết nối website, mạng xã hội và email marketing thành một hành trình khách hàng thống nhất."
-          },
-          "creativeAssets": {
-            "title": "Tài Nguyên Sáng Tạo",
-            "desc": "Thiết kế các tài nguyên hình ảnh phục vụ chiến dịch quảng bá và xây dựng thương hiệu."
-          },
-          "performanceAnalysis": {
-            "title": "Phân Tích Hiệu Quả",
-            "desc": "Đánh giá hiệu quả chiến dịch bằng dữ liệu marketing để xác định cơ hội tối ưu."
-          },
-          "homepageBanner": {
-            "title": "Banner Trang Chủ",
-            "desc": "Thiết kế và cập nhật banner trang chủ nhằm truyền tải các chiến dịch theo mùa, chương trình khuyến mãi và điểm nổi bật của sản phẩm, đồng thời duy trì hình ảnh thương hiệu nhất quán."
-          },
-          "campaignLandingPages": {
-            "title": "Campaign Landing Pages",
-            "desc": "Xây dựng landing page dành riêng cho các chiến dịch quảng bá và ra mắt sản phẩm với bố cục tối ưu và nội dung hướng đến trải nghiệm người dùng."
-          },
-          "websiteContentManagement": {
-            "title": "Quản Lý Nội Dung Website",
-            "desc": "Quản lý nội dung website thông qua việc cập nhật menu điều hướng, footer, khu vực khuyến mãi và các thông tin trên website nhằm đảm bảo nội dung luôn chính xác và được cập nhật."
-          },
-          "blogManagement": {
-            "title": "Quản Lý Blog",
-            "desc": "Đăng tải và kiểm tra các bài viết blog chuẩn SEO, đảm bảo chất lượng nội dung, việc triển khai từ khóa và định dạng trước khi xuất bản."
-          },
-          "searchPerformance": {
-            "title": "Hiệu Suất Tìm Kiếm",
-            "desc": "Theo dõi tình trạng index, hiệu quả từ khóa và khả năng hiển thị của website bằng các công cụ SEO nhằm tìm kiếm cơ hội tăng trưởng organic."
-          },
-          "seoReporting": {
-            "title": "Báo Cáo SEO",
-            "desc": "Xây dựng báo cáo SEO nhằm đánh giá sự phát triển của website và hỗ trợ các chiến lược tối ưu trong tương lai."
-          }
+        "tools": {
+          "title": "Công cụ & Nền tảng",
+          "analytics": "Phân tích",
+          "advertising": "Quảng cáo",
+          "crm": "CRM",
+          "ai": "AI"
         },
-        "tools": "Công Cụ",
-        "toolsMarketing": "Marketing",
-        "toolsAnalytics": "Phân Tích Dữ Liệu",
-        "toolsAdvertising": "Quảng Cáo",
-        "toolsPlatforms": "Nền Tảng",
-        "toolList": [
-          "Shopify",
-          "Google Analytics 4",
-          "Klaviyo",
-          "Canva",
-          "ChatGPT",
-          "Google Search Console",
-          "Microsoft Clarity",
-          "Sinbyte"
-        ],
-        "keyLearningsTitle": "Những Bài Học Chính",
-        "learnings": {
-          "customerBehavior": {
-            "title": "01. Marketing Hướng Đến Khách Hàng",
-            "desc": "Marketing hiệu quả bắt đầu từ việc thấu hiểu hành vi khách hàng thay vì dựa trên giả định."
-          },
-          "consistentCommunication": {
-            "title": "02. Truyền Thông Nhất Quán",
-            "desc": "Sự nhất quán trong truyền thông trên các kênh giúp nâng cao nhận diện thương hiệu và hiệu quả chiến dịch."
-          },
-          "dataDriven": {
-            "title": "03. Quyết Định Dựa Trên Dữ Liệu",
-            "desc": "Quyết định dựa trên dữ liệu giúp tối ưu liên tục và mang lại kết quả kinh doanh tốt hơn."
-          },
-          "teamCollaboration": {
-            "title": "04. Phối Hợp Đội Ngũ",
-            "desc": "Sự phối hợp chặt chẽ giữa các bộ phận là yếu tố quan trọng để triển khai thành công các chiến dịch marketing tích hợp."
-          },
-          "websiteContentManagement": {
-            "title": "01. Quản Lý Nội Dung Website",
-            "desc": "Hiểu cách quản lý và tổ chức nội dung trên website Shopify, đồng thời duy trì sự nhất quán tại mọi điểm chạm với khách hàng."
-          },
-          "seoBestPractices": {
-            "title": "02. Thực Hành SEO Tốt Nhất",
-            "desc": "Tích lũy kinh nghiệm thực tế về SEO on-page, quản lý nội dung, index và tối ưu từ khóa nhằm cải thiện khả năng hiển thị tự nhiên."
-          },
-          "contentQualityControl": {
-            "title": "03. Kiểm Soát Chất Lượng Nội Dung",
-            "desc": "Nâng cao khả năng kiểm soát chất lượng thông qua việc rà soát nội dung website và blog trước khi xuất bản, đảm bảo tính chính xác và sự nhất quán của thương hiệu."
-          },
-          "continuousImprovement": {
-            "title": "04. Cải Tiến Liên Tục",
-            "desc": "Hình thành tư duy cải tiến liên tục thông qua việc theo dõi hiệu quả SEO và tối ưu nội dung website nhằm hỗ trợ tăng trưởng bền vững."
-          }
-        }
+        "keyLearningsTitle": "Những bài học chính",
+        "keyLearningsDesc": "Dự án này giúp tôi phát triển tư duy lập kế hoạch marketing tích hợp bằng cách kết nối insight khách hàng, triển khai chiến dịch và phân tích hiệu quả thành một quy trình tối ưu liên tục. Tôi hiểu rõ hơn cách các kênh digital phối hợp với nhau để đạt mục tiêu kinh doanh thay vì hoạt động riêng lẻ."
       },
       "emailMarketing": {
         "hero": {
-          "company": "WIGI HAIR",
-          "title": "Email Marketing",
-          "description": "Xây dựng mối quan hệ bền vững với khách hàng thông qua các chiến dịch email, chuỗi email tự động và tối ưu hiệu quả dựa trên dữ liệu bằng Klaviyo."
+          "company": "GEW Vietnam",
+          "title": "Chiến lược Email Marketing & CRM",
+          "description": "Lập kế hoạch và tối ưu các chiến dịch email theo vòng đời khách hàng nhằm tăng mức độ tương tác, cải thiện tỷ lệ giữ chân và hỗ trợ tăng trưởng kinh doanh thông qua chiến lược CRM dựa trên dữ liệu."
         },
         "about": "WIGI Hair là một thương hiệu thương mại điện tử cao cấp chuyên về các phần mở rộng tóc con người cho thị trường Hoa Kỳ. Công ty tập trung vào việc cung cấp các sản phẩm chất lượng salon thông qua Shopify trong khi xây dựng các mối quan hệ khách hàng dài hạn với marketing cá nhân hóa và những trải nghiệm trực tuyến ngoài sức tưởng tượng.",
-        "overview": "Với vai trò Marketing Executive tại GEW Vietnam, tôi phụ trách các hoạt động Email Marketing cho WIGI Hair bằng Klaviyo. Công việc bao gồm lập kế hoạch chiến dịch email, xây dựng các chuỗi email tự động, phân nhóm khách hàng, phối hợp nội dung và hình ảnh email, đồng thời phân tích hiệu quả chiến dịch nhằm tăng mức độ tương tác và giữ chân khách hàng.",
+        "overview": "Email Marketing là một phần quan trọng trong chiến lược marketing tích hợp của WIGI Hair. Thay vì chỉ gửi email khuyến mãi, tôi xây dựng các chiến dịch theo vòng đời khách hàng dựa trên hành vi, giai đoạn mua hàng và mục tiêu marketing. Kết hợp cùng website và quảng cáo trả phí, email marketing góp phần tăng tương tác, duy trì khách hàng và thúc đẩy mua hàng quay lại.",
+        "overviewNew": "Email Marketing là một phần quan trọng trong chiến lược marketing tích hợp của WIGI Hair. Thay vì chỉ gửi email khuyến mãi, tôi xây dựng các chiến dịch theo vòng đời khách hàng dựa trên hành vi, giai đoạn mua hàng và mục tiêu marketing. Kết hợp cùng website và quảng cáo trả phí, email marketing góp phần tăng tương tác, duy trì khách hàng và thúc đẩy mua hàng quay lại.",
+        "overviewNew2": "Công việc của tôi bao gồm lập kế hoạch chiến dịch, phân khúc khách hàng, quản lý automation, theo dõi hiệu quả và liên tục tối ưu dựa trên dữ liệu.",
+        "emailCampaignPlanning": "Lập Kế Hoạch Email Campaign",
+        "planning": {
+          "audienceSegmentation": {
+            "title": "Phân khúc khách hàng",
+            "desc": "Phân loại khách hàng dựa trên hành vi, lịch sử mua hàng và mức độ tương tác."
+          },
+          "campaignPlanning": {
+            "title": "Lập kế hoạch chiến dịch",
+            "desc": "Xây dựng kế hoạch cho email khuyến mãi, chiến dịch theo mùa, nội dung giáo dục và chăm sóc khách hàng."
+          },
+          "automationStrategy": {
+            "title": "Chiến lược Automation",
+            "desc": "Thiết kế các hành trình khách hàng như Welcome Series, Browse Abandonment, Abandoned Cart và Post-purchase."
+          },
+          "performanceReview": {
+            "title": "Đánh giá hiệu quả",
+            "desc": "Theo dõi kết quả chiến dịch và tối ưu nội dung, thời điểm gửi cũng như đối tượng nhận."
+          }
+        },
+        "myContributions": "Đóng Góp Của Tôi",
+        "contributions": {
+          "lifecycleCampaignPlanning": {
+            "title": "Lập kế hoạch Email theo vòng đời khách hàng",
+            "desc": "Xây dựng các chiến dịch email phù hợp với từng giai đoạn trong hành trình khách hàng."
+          },
+          "crmAutomationManagement": {
+            "title": "Quản lý CRM Automation",
+            "desc": "Thiết lập và duy trì các email automation nhằm hỗ trợ thu hút và giữ chân khách hàng."
+          },
+          "performanceAnalysis": {
+            "title": "Phân tích hiệu quả",
+            "desc": "Theo dõi Open Rate, Click Rate, Conversion và mức độ tương tác bằng Klaviyo."
+          },
+          "campaignOptimization": {
+            "title": "Tối ưu chiến dịch",
+            "desc": "Cải thiện hiệu quả email thông qua A/B Testing, tối ưu nội dung và phân khúc khách hàng."
+          }
+        },
+        "campaignExecution": "Triển Khai Chiến Dịch",
+        "execution": {
+          "welcomeSeries": {
+            "title": "Welcome Series",
+            "desc": "Giới thiệu thương hiệu và sản phẩm cho khách hàng mới."
+          },
+          "promotionalCampaigns": {
+            "title": "Promotional Campaigns",
+            "desc": "Hỗ trợ các chiến dịch khuyến mãi và ra mắt sản phẩm."
+          },
+          "browseCartRecovery": {
+            "title": "Browse & Cart Recovery",
+            "desc": "Khôi phục khách hàng tiềm năng dựa trên hành vi truy cập và giỏ hàng."
+          },
+          "customerRetention": {
+            "title": "Customer Retention",
+            "desc": "Duy trì tương tác sau mua bằng email chăm sóc và hướng dẫn."
+          }
+        },
+        "performanceOptimization": "Hiệu Quả & Tối Ưu Hóa",
+        "performance": {
+          "emailReporting": {
+            "title": "Báo cáo hiệu quả",
+            "desc": "Theo dõi KPI của từng chiến dịch để xác định cơ hội cải thiện."
+          },
+          "behaviorAnalysis": {
+            "title": "Phân tích hành vi khách hàng",
+            "desc": "Đánh giá xu hướng tương tác nhằm tối ưu chiến lược CRM."
+          },
+          "abTesting": {
+            "title": "A/B Testing",
+            "desc": "So sánh tiêu đề, nội dung và thời điểm gửi email."
+          },
+          "continuousImprovement": {
+            "title": "Cải tiến liên tục",
+            "desc": "Áp dụng dữ liệu từ các chiến dịch trước để tối ưu các hoạt động tiếp theo."
+          }
+        },
+        "featuredWorks": {
+          "welcomeSeries": {
+            "title": "Welcome Series",
+            "desc": "Các chuỗi email chào mừng tự động để giới thiệu thương hiệu và sản phẩm cho khách hàng mới."
+          },
+          "productLaunchCampaign": {
+            "title": "Product Launch Campaign",
+            "desc": "Lập kế hoạch và triển khai các chiến dịch email cho ra mắt sản phẩm mới và chiến dịch theo mùa."
+          },
+          "promotionalCampaign": {
+            "title": "Promotional Campaign",
+            "desc": "Các chiến dịch quảng bá theo mùa bao gồm Black Friday và các sự kiện đặc biệt."
+          },
+          "browseAbandonmentFlow": {
+            "title": "Browse Abandonment Flow",
+            "desc": "Các chuỗi automation hành vi để tái kết nối với những khách hàng xem sản phẩm nhưng chưa mua."
+          },
+          "customerRetentionFlow": {
+            "title": "Customer Retention Flow",
+            "desc": "Email sau mua hàng và các chiến dịch giữ chân khách hàng để duy trì tương tác và thúc đẩy mua lại."
+          }
+        },
         "responsibilities": "Trách Nhiệm Của Tôi",
         "tools": "Công Cụ",
+        "toolsAndPlatforms": "Công Cụ & Nền Tảng",
         "keyLearnings": "Những Bài Học Chính",
+        "keyLearningsDesc": "Dự án này giúp tôi hiểu rõ hơn về CRM và Lifecycle Marketing thông qua việc kết hợp dữ liệu khách hàng, phân khúc đối tượng và automation để nâng cao mức độ tương tác và tỷ lệ giữ chân. Đồng thời, tôi nhận ra việc phân tích hiệu quả liên tục đóng vai trò quan trọng trong lập kế hoạch và tối ưu các chiến dịch email.",
         "learnings": {
           "lifecycleEmailMarketing": {
             "title": "01. Email Marketing Theo Vòng Đời Khách Hàng",
@@ -1978,151 +1820,118 @@
       "metaMarketing": {
         "hero": {
           "company": "TIỆM NHÀ CỎ",
-          "title": "Marketing Trên Meta",
-          "description": "Phát triển Tiệm Nhà Cỏ thông qua Facebook, Instagram và quảng cáo Meta bằng cách xây dựng sự hiện diện nhất quán trên mạng xã hội và tiếp cận đúng khách hàng mục tiêu."
+          "title": "Meta Marketing",
+          "description": "Lập kế hoạch và triển khai các hoạt động Meta Marketing nhằm xây dựng nhận diện thương hiệu, phát triển cộng đồng và hỗ trợ tăng trưởng doanh số thông qua lập kế hoạch nội dung, quảng cáo trả phí và tối ưu hiệu quả chiến dịch."
         },
-        "overview": "Với vai trò Co-founder & Marketing Executive của Tiệm Nhà Cỏ, tôi quản lý sự hiện diện của thương hiệu trên Facebook và Instagram, đồng thời hỗ trợ phát triển hoạt động kinh doanh thông qua quảng cáo Meta. Công việc bao gồm lập kế hoạch nội dung, đăng tải bài viết, triển khai các chiến dịch Meta Ads, theo dõi hiệu quả quảng cáo và duy trì hình ảnh thương hiệu nhất quán trên các nền tảng mạng xã hội.",
-        "responsibilities": "Trách Nhiệm Của Tôi",
+        "overview": "Dự án tập trung vào việc quản lý các hoạt động Meta Marketing cho một thương hiệu thời trang trực tuyến. Tôi chịu trách nhiệm lập kế hoạch chiến dịch, xây dựng chiến lược nội dung, phát triển cộng đồng, triển khai quảng cáo trả phí và theo dõi hiệu quả nhằm tăng nhận diện thương hiệu và hỗ trợ doanh số. Thay vì chỉ triển khai quảng cáo, dự án chú trọng vào việc hiểu khách hàng mục tiêu, duy trì hình ảnh thương hiệu nhất quán và liên tục tối ưu hoạt động marketing dựa trên dữ liệu.",
+        "contributions": "Đóng Góp Của Tôi",
         "tools": "Công Cụ",
         "keyLearnings": "Những Bài Học Chính",
         "featuredWorks": "Các Công Việc Nổi Bật",
-        "featuredWorksDesc": "Một số nội dung mạng xã hội, ấn phẩm truyền thông và chiến dịch Meta Marketing được thực hiện cho Tiệm Nhà Cỏ nhằm nâng cao nhận diện thương hiệu và tăng tương tác với khách hàng.",
-        "facebookPageTitle": "Trang Facebook",
-        "facebookPlatform": "Facebook",
-        "facebookPageDesc": "Kênh truyền thông chính để giới thiệu sản phẩm, triển khai các chiến dịch và kết nối với khách hàng. Tôi phụ trách lập kế hoạch nội dung, quản lý fanpage và quảng cáo Meta nhằm hỗ trợ phát triển thương hiệu và tăng trưởng doanh số.",
-        "brandVisualTitle": "Nội Dung Hình Ảnh Thương Hiệu",
-        "visualBrandingTitle": "Thương Hiệu Hình Ảnh",
-        "brandVisualDesc": "Xây dựng hình ảnh sản phẩm, ảnh lifestyle, video ngắn, Stories và các ấn phẩm truyền thông được sử dụng trên Facebook, Instagram và các chiến dịch quảng cáo Meta. Những nội dung này góp phần duy trì hình ảnh thương hiệu nhất quán và hỗ trợ cả hoạt động truyền thông tự nhiên lẫn quảng cáo trả phí.",
+        "featuredWorksDesc": "Một số chiến dịch Meta Marketing tiêu biểu thể hiện quá trình lập kế hoạch nội dung, triển khai chiến dịch và truyền thông thương hiệu trên Facebook. Các dự án cho thấy cách kết hợp giữa nội dung sáng tạo và mục tiêu marketing nhằm tăng tương tác với khách hàng và hỗ trợ hiệu quả kinh doanh.",
         "toolsAndPlatforms": "Công Cụ & Nền Tảng",
-        "visitFacebook": "Truy Cập Facebook →",
-        "resp": {
-          "socialMediaManagement": {
-            "title": "01. Quản Lý Phương Tiện Xã Hội",
-            "desc": "Quản lý Facebook và Instagram thông qua việc lập kế hoạch nội dung, đăng tải bài viết và duy trì hình ảnh thương hiệu nhất quán trên các nền tảng mạng xã hội."
+        "contrib": {
+          "contentPlanning": {
+            "title": "Lập Kế Hoạch Nội Dung & Chiến Dịch",
+            "desc": "Xây dựng kế hoạch nội dung và các chiến dịch marketing theo tháng, bám sát chương trình khuyến mãi, mùa vụ và mục tiêu kinh doanh."
           },
-          "metaAdvertising": {
-            "title": "02. Quảng Cáo Meta",
-            "desc": "Thiết lập và quản lý các chiến dịch Meta Ads nhằm nâng cao nhận diện thương hiệu, tiếp cận khách hàng tiềm năng và hỗ trợ mục tiêu kinh doanh."
+          "audienceEngagement": {
+            "title": "Phát Triển Cộng Đồng",
+            "desc": "Quản lý tương tác với khách hàng và xây dựng nội dung giúp tăng kết nối với cộng đồng, đồng thời nâng cao mức độ nhận diện thương hiệu."
           },
           "campaignOptimization": {
-            "title": "03. Tối Ưu Chiến Dịch",
-            "desc": "Theo dõi hiệu quả quảng cáo và tối ưu chiến dịch dựa trên dữ liệu khách hàng cũng như kết quả thực tế nhằm nâng cao hiệu quả quảng cáo."
-          },
-          "performanceReporting": {
-            "title": "04. Báo Cáo Hiệu Suất",
-            "desc": "Phân tích các chỉ số chiến dịch và xây dựng báo cáo nhằm đánh giá hiệu quả hoạt động marketing cũng như hỗ trợ các định hướng tối ưu trong tương lai."
+            "title": "Tối Ưu Chiến Dịch",
+            "desc": "Theo dõi hiệu quả chiến dịch, phân tích các chỉ số tương tác và điều chỉnh nội dung cũng như quảng cáo nhằm cải thiện hiệu quả marketing."
           }
         },
-        "workflow": {
-          "contentPlanning": {
-            "title": "01. Lập Kế Hoạch Nội Dung",
-            "desc": "Lập kế hoạch nội dung hàng tháng, chọn chủ đề chiến dịch và xác định các cơ hội khuyến mãi dựa trên các sự kiện theo mùa và lợi ích của khách hàng."
+        "campaignWorkflow": {
+          "objective": {
+            "title": "Xác Định Mục Tiêu Chiến Dịch",
+            "desc": "Xác định mục tiêu chiến dịch rõ ràng phù hợp với mục tiêu kinh doanh và cơ hội theo mùa."
           },
-          "contentCreation": {
-            "title": "02. Tạo Nội Dung",
-            "desc": "Chụp ảnh sản phẩm, thiết kế nội dung sáng tạo phương tiện truyền thông xã hội và sản xuất video hình thức ngắn cho Facebook và Instagram."
+          "planning": {
+            "title": "Lập Kế Hoạch Nội Dung",
+            "desc": "Xây dựng kế hoạch nội dung hàng tháng và xác định các thông điệp chính cho từng giai đoạn chiến dịch."
           },
-          "publishingPromotion": {
-            "title": "03. Xuất Bản & Quảng Bá",
-            "desc": "Xuất bản nội dung, lên lịch các bài đăng khuyến mãi và khởi động các chiến dịch quảng cáo Meta để tăng phạm vi tiếp cận và sự tham gia."
+          "execution": {
+            "title": "Triển Khai Chiến Dịch",
+            "desc": "Khởi động các chiến dịch trên Facebook và Instagram, bao gồm bài đăng tự nhiên và quảng cáo trả phí."
           },
-          "performanceReview": {
-            "title": "04. Đánh Giá Hiệu Suất",
-            "desc": "Giám sát hiệu suất nội dung, đánh giá sự tham gia của khán giả và tinh chỉnh các nội dung sáng tạo trong tương lai dựa trên những hiểu biết về chiến dịch."
+          "review": {
+            "title": "Đánh Giá & Tối Ưu",
+            "desc": "Phân tích các chỉ số chiến dịch và dữ liệu tương tác để xác định các cơ hội cải thiện và tối ưu các chiến dịch tương lai."
           }
         },
         "learnings": {
-          "socialMediaMarketing": {
-            "title": "01. Marketing Phương Tiện Xã Hội",
-            "desc": "Hiểu cách xây dựng sự hiện diện nhất quán trên mạng xã hội nhằm tăng nhận diện thương hiệu và mức độ tương tác của khách hàng."
-          },
-          "metaAdvertising": {
-            "title": "02. Quảng Cáo Meta",
-            "desc": "Tích lũy kinh nghiệm thực tế trong việc lập kế hoạch, triển khai và tối ưu các chiến dịch quảng cáo Meta nhằm hỗ trợ mục tiêu kinh doanh."
-          },
-          "campaignAnalysis": {
-            "title": "03. Phân Tích Chiến Dịch",
-            "desc": "Nâng cao kỹ năng phân tích thông qua việc đánh giá hiệu quả chiến dịch và sử dụng dữ liệu để cải thiện các hoạt động marketing trong tương lai."
-          },
-          "brandGrowth": {
-            "title": "04. Phát Triển Thương Hiệu",
-            "desc": "Tích lũy kinh nghiệm kết hợp giữa quản lý mạng xã hội và quảng cáo trả phí nhằm hỗ trợ sự phát triển bền vững của thương hiệu."
-          }
+          "description": "Dự án giúp tôi hiểu rõ hơn mối liên hệ giữa lập kế hoạch nội dung, phát triển cộng đồng và hiệu quả chiến dịch trong việc hỗ trợ mục tiêu kinh doanh. Đồng thời, tôi nhận thấy tầm quan trọng của việc sử dụng phản hồi từ khách hàng và dữ liệu hiệu quả để liên tục tối ưu các hoạt động marketing thay vì chỉ tập trung vào việc triển khai nội dung."
         }
       },
       "brandActivation": {
         "hero": {
           "company": "Delta Engagement Marketing",
           "title": "Kế Hoạch Kích Hoạt Thương Hiệu",
-          "description": "Trong thời gian thực tập tại Delta Engagement Marketing, tôi hỗ trợ đội ngũ Planning thực hiện nghiên cứu thị trường, phân tích xu hướng người tiêu dùng và phát triển proposal cho các chiến dịch Brand Activation thuộc nhiều ngành hàng khác nhau. Khi cần, tôi cũng tham gia hỗ trợ brainstorming ý tưởng chiến dịch."
+          "description": "Hỗ trợ lập kế hoạch Brand Activation thông qua nghiên cứu người tiêu dùng, ý tưởng chiến dịch và phát triển proposal cho các chiến dịch BTL Marketing."
         },
-        "overview": "Trong thời gian thực tập tại Delta Engagement Marketing, tôi đã hỗ trợ đội Lập kế hoạch trong việc phát triển các đề xuất kích hoạt thương hiệu, các khái niệm chiến dịch và các bộ thuyết trình. Trách nhiệm của tôi bao gồm nghiên cứu thị trường, ý tưởng sáng tạo, lập kế hoạch kích hoạt và chuẩn bị tài liệu đề xuất cho các bài thuyết trình của khách hàng.",
-        "about": "Delta Engagement Marketing là một cơ quan marketing Below-the-Line (BTL) chuyên về các hoạt động kích hoạt thương hiệu, marketing trải nghiệm, các chiến dịch bán lẻ và các sự kiện. Làm việc cùng với các nhà lập kế hoạch và đội tài khoản, tôi đã hỗ trợ chuyển đổi các bản tóm tắt khách hàng thành các khái niệm kích hoạt và bản trình bày đề xuất phù hợp với mục tiêu kinh doanh và những hiểu biết của người tiêu dùng.",
-        "responsibilities": "Trách Nhiệm Của Tôi",
-        "resp": {
+        "overview": "Thay vì trực tiếp triển khai chiến dịch, dự án này tập trung vào giai đoạn lập kế hoạch cho các hoạt động Brand Activation. Tôi phối hợp với đội Planning và Account để nghiên cứu thị trường, phân tích hành vi người tiêu dùng, phát triển ý tưởng chiến dịch và xây dựng proposal cho nhiều khách hàng thuộc các ngành khác nhau.",
+        "contributions": "Đóng Góp Của Tôi",
+        "contrib": {
           "marketResearch": {
-            "title": "Nghiên cứu thị trường",
-            "desc": "Thực hiện nghiên cứu thị trường và phân tích xu hướng người tiêu dùng nhằm hỗ trợ phát triển các chiến dịch marketing thuộc nhiều lĩnh vực khác nhau."
+            "title": "Nghiên Cứu Người Tiêu Dùng & Thị Trường",
+            "desc": "Thu thập thông tin thị trường, phân tích đối thủ và xu hướng người tiêu dùng để làm cơ sở xây dựng chiến dịch."
+          },
+          "conceptDevelopment": {
+            "title": "Phát Triển Ý Tưởng Chiến Dịch",
+            "desc": "Tham gia brainstorming và chuyển hóa kết quả nghiên cứu thành các ý tưởng activation phù hợp với mục tiêu của khách hàng."
           },
           "proposalDevelopment": {
-            "title": "Phát triển Proposal",
-            "desc": "Xây dựng proposal cho khách hàng bằng cách tổng hợp kết quả nghiên cứu, thông tin chiến dịch và nội dung chiến lược thành các proposal rõ ràng và chuyên nghiệp."
-          },
-          "presentationDesign": {
-            "title": "Thiết kế trình bày",
-            "desc": "Thiết kế template và bố cục trình bày nhằm nâng cao tính trực quan, rõ ràng và nhất quán của các proposal dành cho khách hàng."
-          },
-          "planningSupport": {
-            "title": "Hỗ trợ Planning",
-            "desc": "Hỗ trợ đội ngũ Planning trong quá trình brainstorming ý tưởng và phát triển proposal dựa trên yêu cầu của khách hàng."
+            "title": "Phát Triển Proposal",
+            "desc": "Chuẩn bị proposal giúp trình bày rõ chiến lược, ý tưởng activation và định hướng triển khai với khách hàng."
           }
         },
-        "workflow": {
+        "planningWorkflow": {
           "clientBrief": {
-            "title": "01. Tóm Tắt Khách Hàng",
-            "desc": "Hiểu các mục tiêu chiến dịch và định vị thương hiệu trước khi phát triển các khái niệm."
+            "title": "Tiếp Nhận Brief",
+            "desc": "Hiểu mục tiêu kinh doanh và yêu cầu chiến dịch của khách hàng."
           },
           "research": {
-            "title": "02. Nghiên Cứu",
-            "desc": "Thu thập những hiểu biết của người tiêu dùng và dữ liệu thị trường để thông báo chiến lược kích hoạt."
+            "title": "Nghiên Cứu Thị Trường",
+            "desc": "Phân tích khách hàng mục tiêu, đối thủ cạnh tranh và xu hướng ngành."
           },
-          "creativeConcept": {
-            "title": "03. Khái Niệm Sáng Tạo",
-            "desc": "Phát triển các ý tưởng kích hoạt và chủ đề sáng tạo phù hợp với mục tiêu chiến dịch."
+          "insight": {
+            "title": "Phát Triển Insight",
+            "desc": "Xác định cơ hội kết nối mục tiêu thương hiệu với hành vi người tiêu dùng."
           },
-          "presentationProposal": {
-            "title": "04. Đề Xuất Trình Bày",
-            "desc": "Biên soạn các khái niệm thành các bộ thuyết trình và tài liệu đề xuất để khách hàng xem xét."
+          "idea": {
+            "title": "Ý Tưởng Chiến Dịch",
+            "desc": "Phát triển ý tưởng activation phù hợp với nghiên cứu và mục tiêu kinh doanh."
+          },
+          "proposal": {
+            "title": "Activation Proposal",
+            "desc": "Sắp xếp tài liệu trình bày và truyền đạt chiến lược cho các bên liên quan."
           }
         },
-        "proposals": {
-          "dielac": {
-            "title": "Dielac – Kích Hoạt Kênh Trường Học",
-            "desc": "Phát triển các khái niệm kích hoạt nhắm vào các trường học và các tổ chức giáo dục."
+        "toolsAndMethods": "Công Cụ & Phương Pháp",
+        "planningThinking": "Planning Thinking",
+        "thinking": {
+          "businessObjective": {
+            "title": "Mục Tiêu Kinh Doanh",
+            "desc": "Hiểu rõ mục tiêu khách hàng muốn đạt được trước khi đề xuất giải pháp."
           },
-          "loreal": {
-            "title": "L'Oréal Beauty House",
-            "desc": "Hỗ trợ lập kế hoạch trải nghiệm của khách hàng và các hoạt động tương tác thương hiệu."
+          "consumerInsight": {
+            "title": "Insight Người Tiêu Dùng",
+            "desc": "Xác định động lực và hành vi của khách hàng để hỗ trợ ý tưởng chiến dịch."
           },
-          "kgc": {
-            "title": "Kích Hoạt Thương Hiệu KGC",
-            "desc": "Lập kế hoạch các khái niệm chiến dịch và các hoạt động khuyến mãi cho thương hiệu."
+          "strategicThinking": {
+            "title": "Tư Duy Chiến Lược",
+            "desc": "Chuyển hóa kết quả nghiên cứu thành các khái niệm activation thực tiễn."
           },
-          "vnpca": {
-            "title": "Lập Kế Hoạch Hội Nghị VNPCA",
-            "desc": "Hỗ trợ lập kế hoạch cho hội nghị của hiệp hội và sự kiện kết nối mạng."
-          },
-          "hoangQuan": {
-            "title": "Hoàng Quân Land",
-            "desc": "Chuẩn bị các khái niệm sự kiện và tài liệu chiến dịch quảng cáo."
-          },
-          "manulife": {
-            "title": "Chiến Dịch Kích Hoạt Manulife",
-            "desc": "Hỗ trợ phát triển các khái niệm kích hoạt và chiến lược sự tham gia của khách hàng."
+          "collaboration": {
+            "title": "Trình Bày & Phối Hợp",
+            "desc": "Truyền đạt ý tưởng rõ ràng và phối hợp với đội Planning và Account."
           }
         },
-        "tools": "Công Cụ",
-        "keyLearnings": "Những Bài Học Chính"
+        "keyLearnings": "Những Bài Học Chính",
+        "keyLearningsDesc": "Kỳ thực tập này giúp tôi hiểu rằng một chiến dịch hiệu quả luôn bắt đầu từ việc hiểu đúng bài toán kinh doanh thay vì vội vàng nghĩ ra ý tưởng sáng tạo. Tôi học được cách kết hợp nghiên cứu thị trường, insight người tiêu dùng và tư duy có hệ thống để xây dựng proposal có tính thuyết phục hơn."
       }
     },
     "aiImageExtended": {
@@ -2194,18 +2003,18 @@
     },
     "metaMarketingExtended": {
       "snapshot": {
-        "business": "Doanh Nghiệp",
-        "businessValue": "TIEM NHA CO",
-        "industry": "Lĩnh Vực",
-        "industryValue": "Thời Trang Secondhand",
-        "platforms": "Nền Tảng",
-        "platformsValue": "Facebook & Instagram",
-        "focus": "Tập Trung",
-        "focusValue": "Phương Tiện Truyền Thông Xã Hội & Quảng Cáo Meta",
         "role": "Vai Trò",
-        "roleValue": "Đồng Sáng Lập & Trưởng Nhóm Marketing",
+        "roleValue": "Marketing Executive & Đồng Sáng Lập",
+        "specialization": "Chuyên Môn",
+        "specializationValue": "Meta Marketing",
+        "industry": "Ngành",
+        "industryValue": "Thời Trang Thương Mại Điện Tử",
+        "business": "Lĩnh Vực",
+        "businessValue": "Thời Trang Second-hand",
+        "focus": "Trọng Tâm",
+        "focusValue": "Xây Dựng Thương Hiệu & Tăng Trưởng Doanh Số",
         "duration": "Thời Gian",
-        "durationValue": "Tháng 9 2023 – Tháng 2 2025"
+        "durationValue": "2023–2025"
       },
       "creativePortfolio": "Triển Lãm Sáng Tạo",
       "creativePortfolioDesc": "Trong suốt dự án, tôi đã tạo ra nhiều loại nội dung hình ảnh bao gồm chụp ảnh sản phẩm, hình ảnh lối sống, đồ họa quảng cáo, quảng cáo băng tải và nội dung video hình thức ngắn.",
@@ -2280,19 +2089,20 @@
     },
     "brandActivationExtended": {
       "snapshot": {
+        "role": "Vai Trò",
+        "roleValue": "Thực Tập Sinh Lập Kế Hoạch",
         "company": "Công Ty",
         "companyValue": "Delta Engagement Marketing",
         "industry": "Lĩnh Vực",
         "industryValue": "Cơ Quan Marketing BTL",
-        "specialization": "Chuyên Môn",
-        "specializationValue": "Kích Hoạt Thương Hiệu & Sự Kiện",
-        "role": "Vai Trò",
-        "roleValue": "Thực Tập Sinh Lập Kế Hoạch",
-        "mainDeliverables": "Các Deliverable Chính",
-        "mainDeliverablesValue": "Bộ Thuyết Trình & Khái Niệm Kích Hoạt",
+        "focus": "Trọng Tâm",
+        "focusValue": "Lập Kế Hoạch Kích Hoạt Thương Hiệu",
+        "deliverables": "Deliverables",
+        "deliverablesValue": "Campaign Proposals & Presentations",
         "duration": "Thời Gian",
         "durationValue": "Tháng 8 2024 – Tháng 12 2024"
       },
+      "featuredProjectsDesc": "Trong thời gian thực tập tại Delta Engagement Marketing, tôi đã góp phần cho các đề xuất cho các chiến dịch kích hoạt thương hiệu khác nhau trong nhiều lĩnh vực như giáo dục, làm đẹp, y tế, bất động sản, tài chính và bán lẻ. Dưới đây là các proposal được chọn lọc thể hiện sự tham gia của tôi trong nghiên cứu, phát triển ý tưởng, lập kế hoạch kích hoạt và thiết kế presentation.",
       "projectOverview": "Tổng Quan Dự Án",
       "projectOverviewDesc": "Trong thời gian thực tập tại Delta Engagement Marketing, tôi hỗ trợ đội ngũ Planning phát triển proposal cho các chiến dịch marketing thuộc nhiều lĩnh vực khác nhau. Công việc chính của tôi bao gồm nghiên cứu thị trường, phân tích xu hướng người tiêu dùng và xây dựng proposal dựa trên mục tiêu kinh doanh của khách hàng. Khi cần, tôi cũng hỗ trợ brainstorming ý tưởng, qua đó tích lũy kinh nghiệm thực tế về lập kế hoạch và phát triển proposal trong môi trường agency năng động.",
       "responsibilities": {
@@ -2331,8 +2141,6 @@
           "desc": "Biên soạn các khái niệm thành các bộ thuyết trình và tài liệu đề xuất để khách hàng xem xét."
         }
       },
-      "featuredProjects": "Các Dự Án Được Chọn",
-      "featuredProjectsDesc": "Trong thời gian thực tập tại Delta Engagement Marketing, tôi đã góp phần cho các đề xuất cho các chiến dịch kích hoạt thương hiệu khác nhau.",
       "proposals": {
         "dielac": {
           "title": "Dielac – Kích Hoạt Kênh Trường Học",
