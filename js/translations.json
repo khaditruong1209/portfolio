@@ -842,9 +842,9 @@
         "tools": {
           "title": "Tools & Platforms",
           "analytics": "Analytics",
-          "cms": "CMS",
-          "ux": "UX",
-          "productivity": "Productivity"
+          "crmEcommerce": "CRM & E-commerce",
+          "designCollaboration": "Design & Collaboration",
+          "aiTools": "AI Tools"
         },
         "keyLearningsTitle": "Key Learnings",
         "keyLearningsDesc": "This project strengthened my understanding of website optimization as part of an integrated marketing strategy rather than a standalone design activity. By combining customer behavior analysis, business objectives, and cross-functional collaboration, I learned how data-driven improvements can enhance user experience and contribute to better marketing performance."
@@ -2052,9 +2052,9 @@
         "tools": {
           "title": "Tools & Platforms",
           "analytics": "Analytics",
-          "cms": "CMS",
-          "ux": "UX",
-          "productivity": "Productivity"
+          "crmEcommerce": "CRM & E-commerce",
+          "designCollaboration": "Design & Collaboration",
+          "aiTools": "AI Tools"
         },
         "keyLearningsTitle": "Những Bài Học Chính",
         "keyLearningsDesc": "Dự án này giúp tôi hiểu rằng tối ưu website không chỉ là cải thiện giao diện mà còn là một phần của chiến lược marketing tổng thể. Thông qua việc kết hợp dữ liệu hành vi khách hàng, mục tiêu kinh doanh và sự phối hợp với các bộ phận liên quan, tôi học được cách sử dụng insight để cải thiện trải nghiệm người dùng và hỗ trợ hiệu quả marketing."
