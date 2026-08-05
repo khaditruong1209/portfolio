@@ -689,6 +689,102 @@ html[lang="vi"] h6 {
     text-align: left !important;
 }
 
+.tools-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:32px;
+
+    margin:35px 0 0 0;
+
+    padding:0;
+
+    width:100%;
+
+}
+
+.tools-category{
+
+    text-align:left;
+
+}
+
+.tools-category h4{
+
+    font-size:16px;
+
+    font-weight:600;
+
+    color:#222;
+
+    margin:0 0 18px 0;
+
+    padding:0;
+
+    text-transform:uppercase;
+
+    letter-spacing:.5px;
+
+}
+
+.tools-list{
+
+    width:100%;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:12px;
+
+    margin:0;
+
+    padding:0;
+
+}
+
+.tools-list span{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    justify-content:flex-start;
+
+    height:48px;
+
+    padding:0 16px;
+
+    background:#fde8e8;
+
+    border-radius:999px;
+
+    font-size:15px;
+
+    font-weight:500;
+
+    color:#444;
+
+    transition:.25s;
+
+    box-shadow:0 2px 8px rgba(242,138,138,0.1);
+
+}
+
+.tools-list span:hover{
+
+    background:#f28a8a;
+
+    color:#fff;
+
+    transform:translateY(-2px);
+
+    box-shadow:0 6px 16px rgba(242,138,138,0.25);
+
+}
+
 .tool-list{
 
     width:100%;
@@ -1434,6 +1530,14 @@ html[lang="vi"] h6 {
     grid-template-columns:repeat(2,minmax(0,1fr));
 
     gap:20px;
+
+}
+
+.tools-grid{
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:28px;
 
 }
 
@@ -2624,6 +2728,23 @@ html[lang="vi"] h6 {
 
 .strategic-card p {
     font-size: 14px;
+}
+
+/* Tools Grid Mobile */
+.tools-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.tools-category h4 {
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+
+.tools-list span {
+    font-size: 14px;
+    height: 44px;
+    padding: 0 14px;
 }
 
 }
