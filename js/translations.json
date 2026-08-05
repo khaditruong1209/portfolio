@@ -22,6 +22,7 @@
       "brandMarketing": "Integrated Brand Marketing Campaign",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Website Experience Optimization",
+      "websiteExperienceOptimization": "Website Experience Optimization",
       "metaMarketing": "Meta Marketing",
       "brandActivation": "Brand Activation Planning"
     },
@@ -728,6 +729,126 @@
           }
         }
       },
+      "websiteExperienceOptimization": {
+        "hero": {
+          "company": "GEW Vietnam",
+          "title": "Website Experience Optimization",
+          "description": "Optimizing the e-commerce website through customer journey improvements, usability enhancements, and data-driven analysis to create a better shopping experience and support business growth."
+        },
+        "projectSnapshot": {
+          "title": "Project Snapshot",
+          "role": "Role",
+          "roleValue": "Marketing Executive",
+          "company": "Company",
+          "companyValue": "GEW Vietnam",
+          "brand": "Brand",
+          "brandValue": "WIGI Hair",
+          "platform": "Platform",
+          "platformValue": "Shopify",
+          "industry": "Industry",
+          "industryValue": "E-commerce",
+          "focus": "Focus",
+          "focusValue": "Website Experience • CRO • Customer Journey",
+          "duration": "Duration",
+          "durationValue": "Jan 2025 – Present"
+        },
+        "overview": {
+          "title": "Project Overview",
+          "descEn": "The website serves as the primary touchpoint for customer acquisition and online sales at WIGI Hair. My role focused on continuously improving website usability, navigation, content presentation, and conversion opportunities based on customer behavior and business objectives.",
+          "descEn2": "Using website analytics and user behavior insights, I collaborated on optimization initiatives that enhanced the customer journey across desktop and mobile experiences."
+        },
+        "strategy": {
+          "title": "Website Optimization Strategy",
+          "customerJourney": {
+            "title": "Customer Journey Analysis",
+            "desc": "Analyze customer navigation paths and identify friction points."
+          },
+          "websitePlanning": {
+            "title": "Website Planning",
+            "desc": "Prioritize improvements based on business goals and user needs."
+          },
+          "uxOptimization": {
+            "title": "UX Optimization",
+            "desc": "Improve navigation, layouts, search experience, and mobile usability."
+          },
+          "continuousMeasurement": {
+            "title": "Continuous Measurement",
+            "desc": "Evaluate website performance through behavioral analytics and optimization cycles."
+          }
+        },
+        "contributions": {
+          "title": "My Contributions",
+          "websiteOptimizationPlanning": {
+            "title": "Website Optimization Planning",
+            "desc": "Identified optimization opportunities by combining customer behavior insights with business priorities."
+          },
+          "crossfunctionalCollaboration": {
+            "title": "Cross-functional Collaboration",
+            "desc": "Worked closely with designers and developers to implement website improvements."
+          },
+          "analyticsReporting": {
+            "title": "Analytics & Reporting",
+            "desc": "Monitored user behavior using Google Analytics 4 and Microsoft Clarity."
+          },
+          "conversionImprovement": {
+            "title": "Conversion Improvement",
+            "desc": "Recommended UX enhancements to reduce friction and improve conversion opportunities."
+          }
+        },
+        "performanceInsights": {
+          "title": "Performance & Insights",
+          "websiteAnalytics": {
+            "title": "Website Analytics",
+            "desc": "Analyze traffic, engagement, and customer journeys."
+          },
+          "heatmapAnalysis": {
+            "title": "Heatmap Analysis",
+            "desc": "Identify usability issues using Microsoft Clarity."
+          },
+          "userBehaviorInsights": {
+            "title": "User Behavior Insights",
+            "desc": "Evaluate customer interactions to support optimization decisions."
+          },
+          "continuousImprovement": {
+            "title": "Continuous Improvement",
+            "desc": "Apply findings to future website enhancements."
+          }
+        },
+        "featuredWorks": {
+          "title": "Optimization Initiatives"
+        },
+        "works": {
+          "navigationOptimization": {
+            "title": "Navigation Optimization",
+            "desc": "Improved menu structure and product discoverability to simplify customer navigation."
+          },
+          "mobileExperience": {
+            "title": "Mobile Experience",
+            "desc": "Enhanced layouts and responsive components for mobile shopping."
+          },
+          "landingPageOptimization": {
+            "title": "Landing Page Optimization",
+            "desc": "Improved product presentation and information hierarchy."
+          },
+          "searchFilterExperience": {
+            "title": "Search & Filter Experience",
+            "desc": "Optimized product filtering and browsing experience."
+          },
+          "productPageEnhancement": {
+            "title": "Product Page Enhancement",
+            "desc": "Improved product information, trust elements, and buying flow."
+          }
+        },
+        "tools": {
+          "title": "Tools & Platforms",
+          "analytics": "Analytics",
+          "cms": "CMS",
+          "ux": "UX",
+          "productivity": "Productivity"
+        },
+        "keyLearningsTitle": "Key Learnings",
+        "keyLearningsDesc": "This project strengthened my understanding of website optimization as part of an integrated marketing strategy rather than a standalone design activity. By combining customer behavior analysis, business objectives, and cross-functional collaboration, I learned how data-driven improvements can enhance user experience and contribute to better marketing performance."
+      },
       "metaMarketing": {
         "hero": {
           "company": "TIEM NHA CO",
@@ -1114,6 +1235,7 @@
       "brandMarketing": "Chiến dịch Marketing Tích hợp cho Thương hiệu",
       "emailMarketing": "Email Marketing",
       "shopifyUx": "Tối ưu trải nghiệm website",
+      "websiteExperienceOptimization": "Tối ưu trải nghiệm website",
       "metaMarketing": "Meta Marketing",
       "brandActivation": "Kế Hoạch Kích Hoạt Thương Hiệu"
     },
@@ -1816,6 +1938,126 @@
             "desc": "Hình thành tư duy cải tiến liên tục thông qua việc thử nghiệm, đánh giá và tối ưu trải nghiệm website dựa trên phản hồi của người dùng và dữ liệu thực tế."
           }
         }
+      },
+      "websiteExperienceOptimization": {
+        "hero": {
+          "company": "GEW Vietnam",
+          "title": "Tối Ưu Trải Nghiệm Website",
+          "description": "Tối ưu website thương mại điện tử thông qua cải thiện hành trình khách hàng, nâng cao khả năng sử dụng và phân tích dữ liệu nhằm mang lại trải nghiệm mua sắm tốt hơn và hỗ trợ tăng trưởng kinh doanh."
+        },
+        "projectSnapshot": {
+          "title": "Project Snapshot",
+          "role": "Vai Trò",
+          "roleValue": "Marketing Executive",
+          "company": "Công Ty",
+          "companyValue": "GEW Vietnam",
+          "brand": "Thương Hiệu",
+          "brandValue": "WIGI Hair",
+          "platform": "Nền Tảng",
+          "platformValue": "Shopify",
+          "industry": "Lĩnh Vực",
+          "industryValue": "Thương mại điện tử",
+          "focus": "Trọng Tâm",
+          "focusValue": "Website Experience • CRO • Customer Journey",
+          "duration": "Thời Gian",
+          "durationValue": "Tháng 1/2025 – Hiện Tại"
+        },
+        "overview": {
+          "title": "Project Overview",
+          "descEn": "Website là điểm chạm chính trong hành trình mua hàng của khách hàng tại WIGI Hair. Vai trò của tôi tập trung vào việc liên tục cải thiện khả năng sử dụng, điều hướng, cách trình bày nội dung và các cơ hội chuyển đổi dựa trên hành vi khách hàng và mục tiêu kinh doanh.",
+          "descEn2": "Thông qua dữ liệu phân tích website và hành vi người dùng, tôi phối hợp triển khai các hoạt động tối ưu nhằm nâng cao trải nghiệm trên cả desktop và mobile."
+        },
+        "strategy": {
+          "title": "Website Optimization Strategy",
+          "customerJourney": {
+            "title": "Phân Tích Hành Trình Khách Hàng",
+            "desc": "Phân tích cách người dùng di chuyển trên website để xác định các điểm gây cản trở."
+          },
+          "websitePlanning": {
+            "title": "Lập Kế Hoạch Tối Ưu",
+            "desc": "Ưu tiên các hạng mục cải thiện dựa trên mục tiêu kinh doanh và nhu cầu người dùng."
+          },
+          "uxOptimization": {
+            "title": "Cải Thiện Trải Nghiệm",
+            "desc": "Tối ưu điều hướng, bố cục, tìm kiếm và trải nghiệm trên thiết bị di động."
+          },
+          "continuousMeasurement": {
+            "title": "Đo Lường Liên Tục",
+            "desc": "Theo dõi hiệu quả website bằng dữ liệu hành vi để liên tục tối ưu."
+          }
+        },
+        "contributions": {
+          "title": "Đóng Góp Của Tôi",
+          "websiteOptimizationPlanning": {
+            "title": "Lập Kế Hoạch Tối Ưu Website",
+            "desc": "Xác định cơ hội cải thiện website dựa trên dữ liệu hành vi khách hàng và mục tiêu kinh doanh."
+          },
+          "crossfunctionalCollaboration": {
+            "title": "Phối Hợp Đa Phòng Ban",
+            "desc": "Làm việc cùng designer và developer để triển khai các cải tiến."
+          },
+          "analyticsReporting": {
+            "title": "Phân Tích Dữ Liệu",
+            "desc": "Theo dõi hành vi người dùng bằng Google Analytics 4 và Microsoft Clarity."
+          },
+          "conversionImprovement": {
+            "title": "Cải Thiện Chuyển Đổi",
+            "desc": "Đề xuất các cải tiến UX nhằm giảm điểm cản và tăng khả năng chuyển đổi."
+          }
+        },
+        "performanceInsights": {
+          "title": "Performance & Insights",
+          "websiteAnalytics": {
+            "title": "Phân Tích Website",
+            "desc": "Theo dõi lưu lượng truy cập, mức độ tương tác và hành trình khách hàng."
+          },
+          "heatmapAnalysis": {
+            "title": "Heatmap Analysis",
+            "desc": "Sử dụng Microsoft Clarity để xác định các vấn đề về trải nghiệm."
+          },
+          "userBehaviorInsights": {
+            "title": "Phân Tích Hành Vi",
+            "desc": "Đánh giá cách khách hàng tương tác với website nhằm hỗ trợ quyết định tối ưu."
+          },
+          "continuousImprovement": {
+            "title": "Cải Tiến Liên Tục",
+            "desc": "Ứng dụng các insight để nâng cao hiệu quả website trong các giai đoạn tiếp theo."
+          }
+        },
+        "featuredWorks": {
+          "title": "Optimization Initiatives"
+        },
+        "works": {
+          "navigationOptimization": {
+            "title": "Tối Ưu Navigation",
+            "desc": "Cải thiện cấu trúc menu và khả năng tìm kiếm sản phẩm."
+          },
+          "mobileExperience": {
+            "title": "Tối Ưu Mobile",
+            "desc": "Điều chỉnh bố cục và thành phần giao diện cho thiết bị di động."
+          },
+          "landingPageOptimization": {
+            "title": "Landing Page",
+            "desc": "Cải thiện cách trình bày sản phẩm và cấu trúc nội dung."
+          },
+          "searchFilterExperience": {
+            "title": "Search & Filter",
+            "desc": "Nâng cao trải nghiệm tìm kiếm và lọc sản phẩm."
+          },
+          "productPageEnhancement": {
+            "title": "Product Page",
+            "desc": "Tối ưu thông tin sản phẩm, trust signals và quy trình mua hàng."
+          }
+        },
+        "tools": {
+          "title": "Tools & Platforms",
+          "analytics": "Analytics",
+          "cms": "CMS",
+          "ux": "UX",
+          "productivity": "Productivity"
+        },
+        "keyLearningsTitle": "Những Bài Học Chính",
+        "keyLearningsDesc": "Dự án này giúp tôi hiểu rằng tối ưu website không chỉ là cải thiện giao diện mà còn là một phần của chiến lược marketing tổng thể. Thông qua việc kết hợp dữ liệu hành vi khách hàng, mục tiêu kinh doanh và sự phối hợp với các bộ phận liên quan, tôi học được cách sử dụng insight để cải thiện trải nghiệm người dùng và hỗ trợ hiệu quả marketing."
       },
       "metaMarketing": {
         "hero": {
