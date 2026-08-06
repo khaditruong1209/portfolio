@@ -3237,6 +3237,10 @@ html[lang="vi"] h6 {
 /* Browse Abandonment Journey - 7 Columns (same as Welcome Series for consistent card size) */
 .email-journey.desktop-view.browse-abandonment-journey {
     grid-template-columns: repeat(7, 1fr);
+    justify-content: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Empty stage for grid alignment */
