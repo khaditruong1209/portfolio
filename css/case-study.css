@@ -2979,6 +2979,16 @@ html[lang="vi"] h6 {
     display: none;
 }
 
+/* Hide arrows from placeholder and last visible card */
+.journey-stage[style*="visibility: hidden"]::after {
+    display: none;
+}
+
+.email-journey.desktop-view.browse-abandonment-journey .journey-stage:nth-last-of-type(2)::after,
+.email-journey.desktop-view.abandoned-cart-journey .journey-stage:nth-last-of-type(2)::after {
+    display: none;
+}
+
 .stage-label {
     font-size: 12px;
     font-weight: 600;
@@ -3168,6 +3178,12 @@ html[lang="vi"] h6 {
         grid-template-columns: repeat(4, 1fr);
         gap: 16px;
     }
+
+    .email-journey.desktop-view.browse-abandonment-journey,
+    .email-journey.desktop-view.abandoned-cart-journey {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -3234,36 +3250,34 @@ html[lang="vi"] h6 {
     margin: 0 auto;
 }
 
-/* Browse Abandonment Journey - 7 Columns (same as Welcome Series for consistent card size) */
+/* Browse Abandonment Journey - Same size cards as Welcome Series, centered */
 .email-journey.desktop-view.browse-abandonment-journey {
-    grid-template-columns: repeat(7, 1fr);
-    justify-content: center;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 50px;
+    align-items: start;
+    width: fit-content;
+    margin: 0 auto;
 }
 
 
 
-/* Browse Abandonment Journey Header - Custom alignment */
+
+
+/* Browse Abandonment Journey Header - Left aligned like case-section h2 */
 .journey-header.browse-abandonment-header {
     text-align: left;
+    margin-bottom: 50px;
 }
 
 .journey-header.browse-abandonment-header h3 {
     text-align: left;
-    margin-bottom: 12px;
-    padding-left: 0;
+    padding-left: 20px;
 }
 
 .journey-header.browse-abandonment-header .journey-subtitle {
     text-align: center;
-    display: block;
-    margin: 12px auto 50px auto;
     max-width: 800px;
-}
-
-/* Empty stage for grid alignment */
-.journey-stage.empty-stage {
-    visibility: hidden;
-    pointer-events: none;
+    margin: 12px auto 0 auto;
 }
 
 /* Browse Abandonment Card Colors */
@@ -3289,6 +3303,48 @@ html[lang="vi"] h6 {
 
 .email-card-ba-6 {
     border-top: 4px solid #C0392B;
+}
+
+/* Abandoned Cart Journey - 6 cards centered */
+.email-journey.desktop-view.abandoned-cart-journey {
+    grid-template-columns: repeat(6, 1fr);
+    gap: 50px;
+    align-items: start;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+/* Abandoned Cart Card Colors */
+.email-card-ac-1 {
+    border-top: 4px solid #F39C12;
+}
+
+.email-card-ac-2 {
+    border-top: 4px solid #3498DB;
+}
+
+.email-card-ac-3 {
+    border-top: 4px solid #27AE60;
+}
+
+.email-card-ac-4 {
+    border-top: 4px solid #C0392B;
+}
+
+/* Mobile Badge Colors for Abandoned Cart */
+.stage-badge.reminder {
+    background: rgba(243, 156, 18, 0.1);
+    color: #F39C12;
+}
+
+.stage-badge.incentive {
+    background: rgba(39, 174, 96, 0.1);
+    color: #27AE60;
+}
+
+.stage-badge.urgency {
+    background: rgba(192, 57, 43, 0.1);
+    color: #C0392B;
 }
 
 /* Mobile Badge Colors for Browse Abandonment */

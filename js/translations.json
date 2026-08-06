@@ -836,6 +836,39 @@
               "cta": "Shop Now"
             }
           }
+        },
+        "abandonedCart": {
+          "title": "Abandoned Cart Email Journey",
+          "description": "A conversion-focused email journey designed to recover abandoned carts by reinforcing purchase confidence, creating urgency, and encouraging customers to complete their checkout.",
+          "subtitle": "A conversion-focused email journey designed to recover abandoned carts by reinforcing purchase confidence, creating urgency, and encouraging customers to complete their checkout.",
+          "stages": {
+            "reminder": "Reminder",
+            "trust": "Trust",
+            "incentive": "Incentive",
+            "urgency": "Urgency"
+          },
+          "cards": {
+            "forgotSomething": {
+              "title": "Forgot Something?",
+              "goal": "Return to Cart",
+              "cta": "Return to Cart"
+            },
+            "socialProof": {
+              "title": "Why Customers Love It",
+              "goal": "Social Proof",
+              "cta": "See Reviews"
+            },
+            "discount": {
+              "title": "Complete Your Order",
+              "goal": "Exclusive Discount",
+              "cta": "Claim Offer"
+            },
+            "lastChance": {
+              "title": "Last Chance",
+              "goal": "Offer Ending Soon",
+              "cta": "Checkout Now"
+            }
+          }
         }
       },
       "shopifyUx": {
@@ -2245,6 +2278,39 @@
               "title": "Ưu đãi dành cho bạn",
               "goal": "Khuyến khích quay lại",
               "cta": "Mua Ngay"
+            }
+          }
+        },
+        "abandonedCart": {
+          "title": "Hành trình Email Abandoned Cart",
+          "description": "Chuỗi email tập trung vào chuyển đổi, được thiết kế để khôi phục các giỏ hàng bị bỏ quên bằng cách tăng niềm tin, tạo động lực mua và khuyến khích khách hàng hoàn tất thanh toán.",
+          "subtitle": "Chuỗi email tập trung vào chuyển đổi, được thiết kế để khôi phục các giỏ hàng bị bỏ quên bằng cách tăng niềm tin, tạo động lực mua và khuyến khích khách hàng hoàn tất thanh toán.",
+          "stages": {
+            "reminder": "Nhắc Nhỡ",
+            "trust": "Tăng Niềm Tin",
+            "incentive": "Ưu Đãi",
+            "urgency": "Khẩn Cấp"
+          },
+          "cards": {
+            "forgotSomething": {
+              "title": "Bạn quên sản phẩm?",
+              "goal": "Quay lại giỏ hàng",
+              "cta": "Quay Lại Giỏ Hàng"
+            },
+            "socialProof": {
+              "title": "Vì sao khách hàng yêu thích?",
+              "goal": "Đánh giá thực tế",
+              "cta": "Xem Đánh Giá"
+            },
+            "discount": {
+              "title": "Hoàn tất đơn hàng",
+              "goal": "Nhận ưu đãi độc quyền",
+              "cta": "Nhận Ưu Đãi"
+            },
+            "lastChance": {
+              "title": "Cơ hội cuối",
+              "goal": "Ưu đãi sắp kết thúc",
+              "cta": "Thanh Toán Ngay"
             }
           }
         }

@@ -900,6 +900,10 @@ html[lang="vi"] .contact-form textarea {
     background: linear-gradient(135deg, #f5f5f5 0%, #fafafa 100%);
     border-left: 4px solid #5a73e8;
     border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 250px;
 }
 
 .career-aspiration h3 {
