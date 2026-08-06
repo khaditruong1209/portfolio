@@ -3234,9 +3234,15 @@ html[lang="vi"] h6 {
     margin: 0 auto;
 }
 
-/* Browse Abandonment Journey - 6 Columns */
+/* Browse Abandonment Journey - 7 Columns (same as Welcome Series for consistent card size) */
 .email-journey.desktop-view.browse-abandonment-journey {
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(7, 1fr);
+}
+
+/* Empty stage for grid alignment */
+.journey-stage.empty-stage {
+    visibility: hidden;
+    pointer-events: none;
 }
 
 /* Browse Abandonment Card Colors */
