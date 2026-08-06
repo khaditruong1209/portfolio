@@ -2860,3 +2860,366 @@ html[lang="vi"] h6 {
         margin-bottom: 20px;
     }
 }
+
+/*====================================================
+        TOOLS ITEMS INLINE
+====================================================*/
+
+.tools-items-inline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 35px 0 0 0;
+    padding: 0;
+    width: 100%;
+}
+
+.tools-items-inline .tool-card {
+    background: #fde8e8;
+    border: none;
+    border-radius: 999px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #444;
+    text-align: center;
+    transition: 0.25s;
+    box-shadow: 0 2px 8px rgba(242, 138, 138, 0.1);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.tools-items-inline .tool-card:hover {
+    background: #f28a8a;
+    color: #fff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(242, 138, 138, 0.25);
+}
+
+@media (max-width: 768px) {
+    .tools-items-inline {
+        gap: 10px;
+    }
+    
+    .tools-items-inline .tool-card {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .tools-items-inline {
+        gap: 8px;
+    }
+    
+    .tools-items-inline .tool-card {
+        padding: 8px 14px;
+        font-size: 13px;
+    }
+}
+
+/* ====================================================
+   EMAIL JOURNEY INFOGRAPHIC STYLES
+==================================================== */
+
+.journey-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.journey-header h3 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 12px;
+    letter-spacing: -0.5px;
+}
+
+.journey-header p {
+    font-size: 16px;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Desktop Timeline Layout */
+.email-journey.desktop-view {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 20px;
+    align-items: start;
+    margin-bottom: 60px;
+}
+
+.journey-stage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.stage-label {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: #999;
+    text-align: center;
+    min-height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Email Cards */
+.email-card {
+    width: 100%;
+    background: white;
+    border: 2px solid #e8e8e8;
+    border-radius: 14px;
+    padding: 20px 16px;
+    text-align: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    min-height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.email-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #5a73e8, #7c8df0);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+
+.email-card:hover {
+    border-color: #5a73e8;
+    box-shadow: 0 8px 24px rgba(90, 115, 232, 0.12);
+    transform: translateY(-6px);
+}
+
+.email-card:hover::before {
+    transform: scaleX(1);
+}
+
+/* Card Colors */
+.email-card-1 {
+    border-top: 4px solid #FF6B9D;
+}
+
+.email-card-2 {
+    border-top: 4px solid #C44569;
+}
+
+.email-card-3 {
+    border-top: 4px solid #F8B500;
+}
+
+.email-card-4 {
+    border-top: 4px solid #5a73e8;
+}
+
+.email-card-5 {
+    border-top: 4px solid #00D4FF;
+}
+
+.email-card-6 {
+    border-top: 4px solid #00B859;
+}
+
+.email-card-7 {
+    border-top: 4px solid #E85D75;
+}
+
+.email-icon {
+    font-size: 28px;
+    line-height: 1;
+}
+
+.email-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.3px;
+}
+
+.email-goal {
+    font-size: 12px;
+    color: #888;
+    font-weight: 500;
+}
+
+.email-cta {
+    font-size: 12px;
+    font-weight: 600;
+    color: #5a73e8;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 4px;
+}
+
+/* Connectors */
+.connector {
+    font-size: 20px;
+    color: #ddd;
+    margin-top: -8px;
+    line-height: 1;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 0.6;
+        transform: translateY(0);
+    }
+    50% {
+        opacity: 1;
+        transform: translateY(2px);
+    }
+}
+
+/* Mobile View */
+.email-journey-mobile.mobile-view {
+    display: none;
+}
+
+.mobile-journey-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.mobile-journey-item {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+}
+
+.stage-badge {
+    display: inline-block;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+    min-width: 90px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.stage-badge.awareness {
+    background: rgba(255, 107, 157, 0.1);
+    color: #FF6B9D;
+}
+
+.stage-badge.consideration {
+    background: rgba(196, 69, 105, 0.1);
+    color: #C44569;
+}
+
+.stage-badge.education {
+    background: rgba(248, 181, 0, 0.1);
+    color: #F8B500;
+}
+
+.stage-badge.trust {
+    background: rgba(90, 115, 232, 0.1);
+    color: #5a73e8;
+}
+
+.stage-badge.conversion {
+    background: rgba(0, 212, 255, 0.1);
+    color: #00D4FF;
+}
+
+.stage-badge.retention {
+    background: rgba(0, 184, 89, 0.1);
+    color: #00B859;
+}
+
+.stage-badge.reengagement {
+    background: rgba(232, 93, 117, 0.1);
+    color: #E85D75;
+}
+
+.mobile-journey-item .email-card {
+    flex: 1;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .email-journey.desktop-view {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .email-journey.desktop-view {
+        display: none;
+    }
+
+    .email-journey-mobile.mobile-view {
+        display: block;
+    }
+
+    .journey-header h3 {
+        font-size: 24px;
+    }
+
+    .journey-header p {
+        font-size: 14px;
+    }
+
+    .email-card {
+        min-height: auto;
+        padding: 16px 12px;
+        gap: 8px;
+    }
+
+    .email-icon {
+        font-size: 24px;
+    }
+
+    .email-title {
+        font-size: 13px;
+    }
+
+    .email-goal {
+        font-size: 11px;
+    }
+
+    .email-cta {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 480px) {
+    .journey-header h3 {
+        font-size: 20px;
+    }
+
+    .stage-badge {
+        min-width: 80px;
+        font-size: 10px;
+    }
+
+    .mobile-journey-item {
+        gap: 10px;
+    }
+}
