@@ -789,7 +789,8 @@
               "goal": "Win Back Customer",
               "cta": "Re-Shop"
             }
-          }
+          },
+          "subtitle": "A lifecycle email journey designed to guide customers from their first interaction to purchase while supporting engagement and long-term retention."
         }
       },
       "shopifyUx": {
@@ -2154,7 +2155,8 @@
               "goal": "Khuyến khích khách hàng quay lại mua",
               "cta": "Mua lại"
             }
-          }
+          },
+          "subtitle": "Chuỗi email được thiết kế theo hành trình khách hàng nhằm dẫn dắt người dùng từ lần tương tác đầu tiên đến mua hàng, đồng thời tăng mức độ gắn kết và duy trì mối quan hệ lâu dài."
         }
       },
       "shopifyUx": {

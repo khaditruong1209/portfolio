@@ -3223,3 +3223,12 @@ html[lang="vi"] h6 {
         gap: 10px;
     }
 }
+
+/* Journey Subtitle */
+.journey-header .journey-subtitle {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #666;
+    max-width: 800px;
+    margin: 0 auto;
+}
