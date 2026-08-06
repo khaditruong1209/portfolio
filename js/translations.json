@@ -330,7 +330,18 @@
           "duration": "Duration",
           "durationValue": "Jan 2025 – Present",
           "focus": "Focus",
-          "focusValue": "Integrated Digital Marketing"
+          "focusValue": "Integrated Digital Marketing",
+          "projectType": "Project Type",
+          "projectTypeValue": "Integrated Brand Marketing",
+          "responsibilities": "Responsibilities",
+          "resp": {
+            "campaignPlanning": "Campaign Planning",
+            "marketingAnalytics": "Marketing Analytics",
+            "performanceMarketing": "Performance Marketing",
+            "websiteOptimization": "Website Optimization",
+            "emailMarketing": "Email Marketing",
+            "brandCommunication": "Brand Communication"
+          }
         },
         "overview": {
           "title": "Project Overview",
@@ -413,53 +424,147 @@
             "desc": "Generated actionable insights from data to guide strategic decisions and channel optimization."
           }
         },
-        "featuredWorks": {
-          "title": "Featured Works",
-          "website": {
-            "number": "Featured Work 01",
-            "title": "Website Optimization",
-            "cat1": "Landing Page",
-            "cat2": "UX/UI",
-            "caption": "Optimizing Shopify storefront and landing pages to improve customer experience and conversions."
-          },
-          "email": {
-            "number": "Featured Work 02",
-            "title": "Email Campaign",
-            "cat1": "Email Marketing",
-            "cat2": "Klaviyo",
-            "caption": "Designing and executing email campaigns to nurture leads and drive repeat purchases."
-          },
-          "journey": {
-            "number": "Featured Work 03",
-            "title": "Customer Journey",
-            "cat1": "Strategy",
-            "cat2": "Mapping",
-            "caption": "Mapping integrated customer journey across multiple touchpoints."
-          },
-          "dashboard": {
-            "number": "Featured Work 04",
-            "title": "Performance Dashboard",
-            "cat1": "GA4",
-            "cat2": "Analytics",
-            "caption": "Tracking and analyzing campaign performance using GA4 and analytics tools."
-          },
-          "aiCreative": {
-            "number": "Featured Work 05",
-            "title": "AI Creative",
-            "cat1": "AI Image",
-            "cat2": "Production",
-            "caption": "Producing AI-generated creative assets and visuals for campaign execution."
-          }
-        },
         "tools": {
           "title": "Tools & Platforms",
-          "analytics": "Analytics",
-          "advertising": "Advertising",
-          "crm": "CRM",
-          "ai": "AI"
+          "planning": "Planning & Analytics",
+          "content": "Content & Brand",
+          "ecommerce": "E-commerce & CRM",
+          "productivity": "Productivity"
+        },
+        "challenge": "Business Challenge",
+        "challengeDesc": "As WIGI Hair expanded into the U.S. market, the brand needed to strengthen its market presence while maintaining a consistent customer experience across multiple digital touchpoints. Although marketing activities were already running across social media, advertising, email, and e-commerce, these channels required better alignment to improve campaign effectiveness, customer engagement, and long-term brand growth.",
+        "objectivesTitle": "Objectives",
+        "objectives": {
+          "item1": "Increase brand awareness in the U.S. market.",
+          "item2": "Support product launches and seasonal campaigns.",
+          "item3": "Improve consistency across marketing channels.",
+          "item4": "Enhance customer engagement throughout the buying journey.",
+          "item5": "Drive qualified traffic to the Shopify website."
+        },
+        "researchTitle": "Research & Insights",
+        "researchContent": {
+          "sources": "Research Sources",
+          "sourcesList": {
+            "item1": "Google Analytics 4",
+            "item2": "Microsoft Clarity",
+            "item3": "Shopify Analytics",
+            "item4": "Meta Ads Manager",
+            "item5": "Klaviyo Reports",
+            "item6": "Competitor Benchmarking",
+            "item7": "Customer Feedback"
+          },
+          "insights": {
+            "title": "Key Insights",
+            "customerBehavior": {
+              "title": "Customer Behavior",
+              "desc": "Customers responded more positively to educational content, styling tips, and authentic product demonstrations than to purely promotional posts."
+            },
+            "channelPerformance": {
+              "title": "Channel Performance",
+              "desc": "Marketing campaigns achieved stronger engagement when social media, email marketing, and website content delivered consistent messaging."
+            },
+            "conversionOpportunity": {
+              "title": "Conversion Opportunity",
+              "desc": "A/B testing revealed that personalized email sequences and retargeting campaigns significantly improved customer retention and repeat purchase rates."
+            },
+            "websiteExperience": {
+              "title": "Website Experience",
+              "desc": "Improving navigation, product information, and landing page structure helped create a smoother shopping experience."
+            }
+          }
+        },
+        "learnings": {
+          "dataDriven": {
+            "title": "Data-Driven Decision Making",
+            "desc": "This project strengthened my ability to use customer insights, marketing analytics, and performance data to inform campaign strategies and optimize channel performance."
+          },
+          "customerBehavior": {
+            "title": "Understanding Customer Behavior",
+            "desc": "I learned how different customer segments respond to various marketing messages, and how understanding these nuances helps create more effective campaigns."
+          },
+          "consistentCommunication": {
+            "title": "Consistent Brand Communication",
+            "desc": "Coordinating messaging across multiple channels ensures a stronger brand presence and improves customer experience at every touchpoint."
+          },
+          "teamCollaboration": {
+            "title": "Cross-Functional Collaboration",
+            "desc": "Successfully executing integrated marketing requires close collaboration between designers, developers, and marketing teams to align strategies and execute efficiently."
+          }
+        },
+        "featuredWorks": {
+          "title": "Featured Works",
+          "items": {
+            "campaignPerf": {
+              "number": "Featured Work 01",
+              "title": "Campaign Performance Strategy",
+              "cat1": "Analytics",
+              "cat2": "Optimization",
+              "cat3": "GA4",
+              "caption": "Analyzing campaign performance across channels to identify high-performing tactics and optimize marketing spend."
+            },
+            "custJourney": {
+              "number": "Featured Work 02",
+              "title": "Customer Journey",
+              "cat1": "Strategy",
+              "cat2": "Mapping",
+              "cat3": "Planning",
+              "caption": "Mapping integrated customer journey across multiple touchpoints from awareness to advocacy."
+            },
+            "seasonalCampaign": {
+              "number": "Featured Work 03",
+              "title": "Seasonal Campaign Planning",
+              "cat1": "Campaign Planning",
+              "cat2": "Content Strategy",
+              "caption": "Planning coordinated seasonal campaigns across email, social media, and paid advertising."
+            },
+            "marketingAsset": {
+              "number": "Featured Work 04",
+              "title": "Marketing Assets & Creative",
+              "cat1": "AI Creative",
+              "cat2": "Content Production",
+              "cat3": "Design",
+              "caption": "Producing AI-generated marketing assets and visual content for multiple campaigns."
+            },
+            "brandComm": {
+              "number": "Featured Work 05",
+              "title": "Brand Communication Strategy",
+              "cat1": "Brand Strategy",
+              "cat2": "Content Planning",
+              "cat3": "Messaging",
+              "caption": "Developing consistent brand messaging and communication guidelines across all marketing channels."
+            }
+          }
+        },
+        "resultsTitle": "Results & Impact",
+        "results": {
+          "item1": "Strengthened brand consistency across multiple digital channels.",
+          "item2": "Supported successful execution of promotional campaigns and product launches.",
+          "item3": "Improved collaboration between marketing, e-commerce, and creative teams.",
+          "item4": "Established more structured marketing workflows for future campaigns.",
+          "item5": "Enhanced customer engagement through integrated communication."
         },
         "keyLearningsTitle": "Key Learnings",
-        "keyLearningsDesc": "This project strengthened my understanding of integrated marketing planning by connecting customer insights, campaign execution, and performance analysis into one continuous optimization process. I learned how different digital channels work together to support business objectives rather than treating each channel independently."
+        "keyLearningsDesc": "This project strengthened my understanding of integrated marketing planning by connecting customer insights, campaign execution, and performance analysis into one continuous optimization process. I learned how different digital channels work together to support business objectives rather than treating each channel independently.",
+        "strategyTitle": "Marketing Strategy",
+        "strategyDesc": "Based on the research findings, I supported an integrated marketing approach focusing on four key priorities:",
+        "strategyFocus": {
+          "integratedCampaignPlanning": {
+            "title": "Integrated Campaign Planning",
+            "desc": "Coordinated promotional campaigns across social media, website, email marketing, and paid advertising to ensure consistent customer communication."
+          },
+          "contentBrandConsistency": {
+            "title": "Content & Brand Consistency",
+            "desc": "Maintained unified messaging and visual identity across digital touchpoints to strengthen brand recognition."
+          },
+          "customerJourneyOptimization": {
+            "title": "Customer Journey Optimization",
+            "desc": "Improved the customer experience by aligning website content, landing pages, and email marketing with campaign objectives."
+          },
+          "performanceMonitoring": {
+            "title": "Performance Monitoring",
+            "desc": "Tracked campaign performance through analytics and customer behavior data to continuously identify optimization opportunities."
+          }
+        }
       },
       "emailMarketing": {
         "hero": {
@@ -634,6 +739,56 @@
           "campaignOptimization": {
             "title": "Campaign Optimization",
             "desc": "Refined email strategies based on customer behavior, engagement metrics, and campaign performance to maximize marketing effectiveness."
+          }
+        },
+        "emailJourney": {
+          "title": "Welcome Series Email Journey",
+          "description": "A lifecycle email journey designed to guide customers from their first interaction to purchase while supporting engagement and long-term retention.",
+          "stages": {
+            "awareness": "Awareness",
+            "consideration": "Consideration",
+            "education": "Education",
+            "trust": "Trust",
+            "conversion": "Conversion",
+            "retention": "Retention",
+            "reengagement": "Re-engagement"
+          },
+          "cards": {
+            "welcome": {
+              "title": "Welcome",
+              "goal": "Introduce WIGI",
+              "cta": "Shop Now"
+            },
+            "bestSellers": {
+              "title": "Best Sellers",
+              "goal": "Product Discovery",
+              "cta": "Explore"
+            },
+            "buyingGuide": {
+              "title": "Buying Guide",
+              "goal": "Build Confidence",
+              "cta": "Learn More"
+            },
+            "socialProof": {
+              "title": "Social Proof",
+              "goal": "Customer Reviews",
+              "cta": "See Reviews"
+            },
+            "exclusiveOffer": {
+              "title": "Exclusive Offer",
+              "goal": "Drive Purchase",
+              "cta": "Claim Offer"
+            },
+            "hairCareTips": {
+              "title": "Hair Care Tips",
+              "goal": "Post-Purchase Support",
+              "cta": "Read Tips"
+            },
+            "lastCall": {
+              "title": "Last Call",
+              "goal": "Win Back Customer",
+              "cta": "Re-Shop"
+            }
           }
         }
       },
@@ -1540,7 +1695,18 @@
           "duration": "Thời gian",
           "durationValue": "Tháng 1 2025 – Hiện tại",
           "focus": "Tập trung",
-          "focusValue": "Marketing Digital Tích hợp"
+          "focusValue": "Marketing Digital Tích hợp",
+          "projectType": "Loại Dự án",
+          "projectTypeValue": "Marketing Tích hợp cho Thương hiệu",
+          "responsibilities": "Trách nhiệm",
+          "resp": {
+            "campaignPlanning": "Lập kế hoạch chiến dịch",
+            "marketingAnalytics": "Phân tích Marketing",
+            "performanceMarketing": "Performance Marketing",
+            "websiteOptimization": "Tối ưu Website",
+            "emailMarketing": "Email Marketing",
+            "brandCommunication": "Truyền thông Thương hiệu"
+          }
         },
         "overview": {
           "title": "Tổng quan Dự án",
@@ -1623,53 +1789,147 @@
             "desc": "Tạo ra các insight hành động từ dữ liệu để hướng dẫn các quyết định chiến lược và tối ưu kênh."
           }
         },
-        "featuredWorks": {
-          "title": "Các công việc nổi bật",
-          "website": {
-            "number": "Công việc nổi bật 01",
-            "title": "Tối ưu Website",
-            "cat1": "Trang đích",
-            "cat2": "UX/UI",
-            "caption": "Tối ưu cửa hàng Shopify và trang đích để cải thiện trải nghiệm khách hàng và chuyển đổi."
-          },
-          "email": {
-            "number": "Công việc nổi bật 02",
-            "title": "Chiến dịch Email",
-            "cat1": "Email Marketing",
-            "cat2": "Klaviyo",
-            "caption": "Thiết kế và thực thi các chiến dịch email để nuôi dưỡng khách hàng tiềm năng và tăng mua hàng lặp lại."
-          },
-          "journey": {
-            "number": "Công việc nổi bật 03",
-            "title": "Hành trình Khách hàng",
-            "cat1": "Chiến lược",
-            "cat2": "Lập bản đồ",
-            "caption": "Lập bản đồ hành trình khách hàng tích hợp trên nhiều điểm chạm."
-          },
-          "dashboard": {
-            "number": "Công việc nổi bật 04",
-            "title": "Bảng điều khiển Hiệu quả",
-            "cat1": "GA4",
-            "cat2": "Analytics",
-            "caption": "Theo dõi và phân tích hiệu quả chiến dịch bằng GA4 và các công cụ phân tích."
-          },
-          "aiCreative": {
-            "number": "Công việc nổi bật 05",
-            "title": "Sáng tạo AI",
-            "cat1": "Hình ảnh AI",
-            "cat2": "Sản xuất",
-            "caption": "Tạo tài sản sáng tạo và hình ảnh được tạo bằng AI cho việc triển khai chiến dịch."
-          }
-        },
         "tools": {
           "title": "Công cụ & Nền tảng",
-          "analytics": "Phân tích",
-          "advertising": "Quảng cáo",
-          "crm": "CRM",
-          "ai": "AI"
+          "planning": "Lập kế hoạch & Phân tích",
+          "content": "Nội dung & Thương hiệu",
+          "ecommerce": "Thương mại điện tử & CRM",
+          "productivity": "Năng suất"
+        },
+        "challenge": "Thách thức Kinh doanh",
+        "challengeDesc": "Khi WIGI Hair mở rộng vào thị trường Mỹ, thương hiệu cần tăng cường vị trí thị trường trong khi duy trì trải nghiệm khách hàng nhất quán trên nhiều điểm chạm số. Mặc dù các hoạt động marketing đã chạy trên mạng xã hội, quảng cáo, email và thương mại điện tử, các kênh này cần sắp xếp lại để cải thiện hiệu quả chiến dịch, tương tác khách hàng và tăng trưởng thương hiệu dài hạn.",
+        "objectivesTitle": "Mục tiêu",
+        "objectives": {
+          "item1": "Tăng nhận diện thương hiệu trên thị trường Mỹ.",
+          "item2": "Hỗ trợ ra mắt sản phẩm và chiến dịch theo mùa.",
+          "item3": "Cải thiện tính nhất quán trên các kênh marketing.",
+          "item4": "Tăng cường tương tác khách hàng trong toàn bộ hành trình mua hàng.",
+          "item5": "Thúc đẩy lưu lượng chất lượng cao đến website Shopify."
+        },
+        "researchTitle": "Nghiên cứu & Insight",
+        "researchContent": {
+          "sources": "Nguồn Nghiên cứu",
+          "sourcesList": {
+            "item1": "Google Analytics 4",
+            "item2": "Microsoft Clarity",
+            "item3": "Shopify Analytics",
+            "item4": "Meta Ads Manager",
+            "item5": "Klaviyo Reports",
+            "item6": "So sánh Đối thủ",
+            "item7": "Phản hồi Khách hàng"
+          },
+          "insights": {
+            "title": "Insight Chính",
+            "customerBehavior": {
+              "title": "Hành vi Khách hàng",
+              "desc": "Khách hàng phản ứng tích cực hơn với nội dung giáo dục, lời khuyên về phong cách và thể hiện sản phẩm chân thực hơn là các bài đăng quảng cáo thuần túy."
+            },
+            "channelPerformance": {
+              "title": "Hiệu quả Kênh",
+              "desc": "Các chiến dịch marketing đạt được tương tác mạnh hơn khi mạng xã hội, email marketing và nội dung website truyền tải thông điệp nhất quán."
+            },
+            "conversionOpportunity": {
+              "title": "Cơ hội Chuyển đổi",
+              "desc": "Kiểm tra A/B cho thấy rằng các chuỗi email được cá nhân hóa và các chiến dịch tái nhắm mục tiêu cải thiện đáng kể tỷ lệ giữ chân khách hàng và tỷ lệ mua lặp lại."
+            },
+            "websiteExperience": {
+              "title": "Trải nghiệm trang web",
+              "desc": "Cải thiện điều hướng, thông tin sản phẩm và cấu trúc trang đích giúp tạo ra trải nghiệm mua sắm mượt mà hơn."
+            }
+          }
+        },
+        "learnings": {
+          "dataDriven": {
+            "title": "Quyết định dựa trên Dữ liệu",
+            "desc": "Dự án này tăng cường khả năng sử dụng insight khách hàng, phân tích marketing và dữ liệu hiệu quả để thông báo cho chiến lược chiến dịch và tối ưu hiệu quả kênh."
+          },
+          "customerBehavior": {
+            "title": "Hiểu về Hành vi Khách hàng",
+            "desc": "Tôi học được cách các phân đoạn khách hàng khác nhau phản ứng với các thông điệp marketing khác nhau, và cách hiểu những tinh tế này giúp tạo các chiến dịch hiệu quả hơn."
+          },
+          "consistentCommunication": {
+            "title": "Truyền thông Thương hiệu Nhất quán",
+            "desc": "Điều phối thông điệp trên nhiều kênh đảm bảo vị trí thương hiệu mạnh hơn và cải thiện trải nghiệm khách hàng ở mọi điểm chạm."
+          },
+          "teamCollaboration": {
+            "title": "Phối hợp Đa chức năng",
+            "desc": "Thực thi thành công marketing tích hợp đòi hỏi sự phối hợp chặt chẽ giữa các nhóm designer, developer và marketing để sắp xếp chiến lược và triển khai hiệu quả."
+          }
+        },
+        "featuredWorks": {
+          "title": "Các công việc nổi bật",
+          "items": {
+            "campaignPerf": {
+              "number": "Công việc nổi bật 01",
+              "title": "Chiến lược Hiệu quả Chiến dịch",
+              "cat1": "Phân tích",
+              "cat2": "Tối ưu",
+              "cat3": "GA4",
+              "caption": "Phân tích hiệu quả chiến dịch trên các kênh để xác định các tactic có hiệu suất cao và tối ưu chi phí marketing."
+            },
+            "custJourney": {
+              "number": "Công việc nổi bật 02",
+              "title": "Hành trình Khách hàng",
+              "cat1": "Chiến lược",
+              "cat2": "Lập bản đồ",
+              "cat3": "Lập kế hoạch",
+              "caption": "Lập bản đồ hành trình khách hàng tích hợp trên nhiều điểm chạm từ nhận thức đến vận động viên."
+            },
+            "seasonalCampaign": {
+              "number": "Công việc nổi bật 03",
+              "title": "Lập kế hoạch Chiến dịch Theo mùa",
+              "cat1": "Lập kế hoạch Chiến dịch",
+              "cat2": "Chiến lược Nội dung",
+              "caption": "Lập kế hoạch các chiến dịch theo mùa được điều phối trên email, mạng xã hội và quảng cáo trả phí."
+            },
+            "marketingAsset": {
+              "number": "Công việc nổi bật 04",
+              "title": "Tài sản Marketing & Sáng tạo",
+              "cat1": "Sáng tạo AI",
+              "cat2": "Sản xuất Nội dung",
+              "cat3": "Thiết kế",
+              "caption": "Tạo tài sản marketing được tạo bằng AI và nội dung hình ảnh cho nhiều chiến dịch."
+            },
+            "brandComm": {
+              "number": "Công việc nổi bật 05",
+              "title": "Chiến lược Truyền thông Thương hiệu",
+              "cat1": "Chiến lược Thương hiệu",
+              "cat2": "Lập kế hoạch Nội dung",
+              "cat3": "Thông điệp",
+              "caption": "Phát triển thông điệp thương hiệu nhất quán và hướng dẫn truyền thông trên tất cả các kênh marketing."
+            }
+          }
+        },
+        "resultsTitle": "Kết quả & Tác động",
+        "results": {
+          "item1": "Tăng cường tính nhất quán của thương hiệu trên nhiều kênh kỹ thuật số.",
+          "item2": "Hỗ trợ thực thi thành công các chiến dịch quảng cáo và ra mắt sản phẩm.",
+          "item3": "Cải thiện hợp tác giữa các nhóm tiếp thị, thương mại điện tử và sáng tạo.",
+          "item4": "Thiết lập các quy trình tiếp thị có cấu trúc hơn cho các chiến dịch trong tương lai.",
+          "item5": "Tăng cường sự tham gia của khách hàng thông qua giao tiếp tích hợp."
         },
         "keyLearningsTitle": "Những bài học chính",
-        "keyLearningsDesc": "Dự án này giúp tôi phát triển tư duy lập kế hoạch marketing tích hợp bằng cách kết nối insight khách hàng, triển khai chiến dịch và phân tích hiệu quả thành một quy trình tối ưu liên tục. Tôi hiểu rõ hơn cách các kênh digital phối hợp với nhau để đạt mục tiêu kinh doanh thay vì hoạt động riêng lẻ."
+        "keyLearningsDesc": "Dự án này giúp tôi phát triển tư duy lập kế hoạch marketing tích hợp bằng cách kết nối insight khách hàng, triển khai chiến dịch và phân tích hiệu quả thành một quy trình tối ưu liên tục. Tôi hiểu rõ hơn cách các kênh digital phối hợp với nhau để đạt mục tiêu kinh doanh thay vì hoạt động riêng lẻ.",
+        "strategyTitle": "Chiến lược Marketing",
+        "strategyDesc": "Dựa trên những phát hiện từ nghiên cứu, tôi hỗ trợ một cách tiếp cận marketing tích hợp tập trung vào bốn ưu tiên chính:",
+        "strategyFocus": {
+          "integratedCampaignPlanning": {
+            "title": "Lập kế hoạch chiến dịch tích hợp",
+            "desc": "Phối hợp các chiến dịch quảng cáo trên mạng xã hội, trang web, email marketing và quảng cáo trả tiền để đảm bảo giao tiếp khách hàng nhất quán."
+          },
+          "contentBrandConsistency": {
+            "title": "Nhất quán nội dung & thương hiệu",
+            "desc": "Duy trì thông điệp thống nhất và nhận diện trực quan trên các điểm tiếp xúc kỹ thuật số để tăng cường nhận diện thương hiệu."
+          },
+          "customerJourneyOptimization": {
+            "title": "Tối ưu hóa hành trình khách hàng",
+            "desc": "Cải thiện trải nghiệm khách hàng bằng cách sắp xếp nội dung trang web, trang đích và email marketing theo mục tiêu chiến dịch."
+          },
+          "performanceMonitoring": {
+            "title": "Giám sát hiệu suất",
+            "desc": "Theo dõi hiệu suất chiến dịch thông qua dữ liệu phân tích và hành vi khách hàng để liên tục xác định các cơ hội tối ưu hóa."
+          }
+        }
       },
       "emailMarketing": {
         "hero": {
@@ -1844,6 +2104,56 @@
           "campaignOptimization": {
             "title": "Tối Ưu Hóa Chiến Dịch",
             "desc": "Điều chỉnh chiến lược email dựa trên hành vi khách hàng, dữ liệu tương tác và hiệu quả chiến dịch nhằm nâng cao hiệu quả marketing."
+          }
+        },
+        "emailJourney": {
+          "title": "Chuỗi Email Chào Mừng Khách Hàng",
+          "description": "Chuỗi email được thiết kế theo hành trình khách hàng nhằm dẫn dắt người dùng từ lần tương tác đầu tiên đến mua hàng, đồng thời tăng mức độ gắn kết và duy trì mối quan hệ lâu dài.",
+          "stages": {
+            "awareness": "Nhận biết",
+            "consideration": "Cân nhắc",
+            "education": "Giáo dục",
+            "trust": "Xây dựng niềm tin",
+            "conversion": "Chuyển đổi",
+            "retention": "Duy trì khách hàng",
+            "reengagement": "Tái tương tác"
+          },
+          "cards": {
+            "welcome": {
+              "title": "Chào mừng",
+              "goal": "Giới thiệu thương hiệu WIGI",
+              "cta": "Mua ngay"
+            },
+            "bestSellers": {
+              "title": "Sản phẩm bán chạy",
+              "goal": "Khám phá sản phẩm nổi bật",
+              "cta": "Khám phá"
+            },
+            "buyingGuide": {
+              "title": "Hướng dẫn lựa chọn",
+              "goal": "Giúp khách hàng tự tin lựa chọn",
+              "cta": "Tìm hiểu thêm"
+            },
+            "socialProof": {
+              "title": "Đánh giá từ khách hàng",
+              "goal": "Tăng độ tin cậy",
+              "cta": "Xem đánh giá"
+            },
+            "exclusiveOffer": {
+              "title": "Ưu đãi đặc biệt",
+              "goal": "Thúc đẩy quyết định mua",
+              "cta": "Nhận ưu đãi"
+            },
+            "hairCareTips": {
+              "title": "Mẹo chăm sóc tóc",
+              "goal": "Hỗ trợ sau mua hàng",
+              "cta": "Xem hướng dẫn"
+            },
+            "lastCall": {
+              "title": "Lời nhắc cuối cùng",
+              "goal": "Khuyến khích khách hàng quay lại mua",
+              "cta": "Mua lại"
+            }
           }
         }
       },
