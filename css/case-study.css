@@ -3238,9 +3238,7 @@ html[lang="vi"] h6 {
 .email-journey.desktop-view.browse-abandonment-journey {
     grid-template-columns: repeat(7, 1fr);
     justify-content: center;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 
