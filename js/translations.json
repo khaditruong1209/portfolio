@@ -791,6 +791,51 @@
             }
           },
           "subtitle": "A lifecycle email journey designed to guide customers from their first interaction to purchase while supporting engagement and long-term retention."
+        },
+        "browseAbandonment": {
+          "title": "Browse Abandonment Email Journey",
+          "description": "A behavioral email journey designed to re-engage visitors after product browsing, rebuild purchase confidence, and encourage them to return and complete their order.",
+          "subtitle": "A behavioral email journey designed to re-engage visitors after product browsing, rebuild purchase confidence, and encourage them to return and complete their order.",
+          "stages": {
+            "interest": "Interest",
+            "consideration": "Consideration",
+            "guidance": "Guidance",
+            "trust": "Trust",
+            "reminder": "Reminder",
+            "reengagement": "Re-engagement"
+          },
+          "cards": {
+            "viewedProduct": {
+              "title": "Viewed Product",
+              "goal": "Continue Shopping",
+              "cta": "View Again"
+            },
+            "customerLooks": {
+              "title": "Real Customer Looks",
+              "goal": "UGC & Reviews",
+              "cta": "See Reviews"
+            },
+            "buyingAssistance": {
+              "title": "Buying Assistance",
+              "goal": "Find Your Perfect Match",
+              "cta": "Get Help"
+            },
+            "similarFavorites": {
+              "title": "Similar Favorites",
+              "goal": "Recommended Products",
+              "cta": "Explore"
+            },
+            "stillInterested": {
+              "title": "Still Interested?",
+              "goal": "Complete Your Purchase",
+              "cta": "Return to Cart"
+            },
+            "specialThanks": {
+              "title": "Special Thanks",
+              "goal": "Exclusive Offer",
+              "cta": "Shop Now"
+            }
+          }
         }
       },
       "shopifyUx": {
@@ -2157,6 +2202,51 @@
             }
           },
           "subtitle": "Chuỗi email được thiết kế theo hành trình khách hàng nhằm dẫn dắt người dùng từ lần tương tác đầu tiên đến mua hàng, đồng thời tăng mức độ gắn kết và duy trì mối quan hệ lâu dài."
+        },
+        "browseAbandonment": {
+          "title": "Hành trình Email Browse Abandonment",
+          "description": "Chuỗi email theo hành vi khách hàng được thiết kế để thu hút lại những khách đã xem sản phẩm, tăng sự tin tưởng và khuyến khích họ quay lại hoàn tất đơn hàng.",
+          "subtitle": "Chuỗi email theo hành vi khách hàng được thiết kế để thu hút lại những khách đã xem sản phẩm, tăng sự tin tưởng và khuyến khích họ quay lại hoàn tất đơn hàng.",
+          "stages": {
+            "interest": "Quan Tâm",
+            "consideration": "Cân Nhắc",
+            "guidance": "Tư Vấn",
+            "trust": "Tăng Niềm Tin",
+            "reminder": "Nhắc Nhỡ",
+            "reengagement": "Tái Tương Tác"
+          },
+          "cards": {
+            "viewedProduct": {
+              "title": "Sản phẩm đã xem",
+              "goal": "Tiếp tục mua sắm",
+              "cta": "Xem Lại"
+            },
+            "customerLooks": {
+              "title": "Khách hàng thực tế",
+              "goal": "UGC & Đánh giá",
+              "cta": "Xem Đánh Giá"
+            },
+            "buyingAssistance": {
+              "title": "Hỗ trợ lựa chọn",
+              "goal": "Tìm sản phẩm phù hợp",
+              "cta": "Nhận Tư Vấn"
+            },
+            "similarFavorites": {
+              "title": "Sản phẩm tương tự",
+              "goal": "Gợi ý dành cho bạn",
+              "cta": "Khám Phá"
+            },
+            "stillInterested": {
+              "title": "Vẫn đang cân nhắc?",
+              "goal": "Hoàn tất đơn hàng",
+              "cta": "Quay Lại Giỏ Hàng"
+            },
+            "specialThanks": {
+              "title": "Ưu đãi dành cho bạn",
+              "goal": "Khuyến khích quay lại",
+              "cta": "Mua Ngay"
+            }
+          }
         }
       },
       "shopifyUx": {

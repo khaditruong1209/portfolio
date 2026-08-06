@@ -3233,3 +3233,58 @@ html[lang="vi"] h6 {
     max-width: 800px;
     margin: 0 auto;
 }
+
+/* ====================================================
+   BROWSE ABANDONMENT EMAIL JOURNEY STYLES
+==================================================== */
+
+/* 6-Column Grid for Browse Abandonment */
+.email-journey.desktop-view {
+    grid-template-columns: repeat(6, 1fr);
+}
+
+/* Browse Abandonment Card Colors */
+.email-card-1 {
+    border-top: 4px solid #9B59B6;
+}
+
+.email-card-2 {
+    border-top: 4px solid #3498DB;
+}
+
+.email-card-3 {
+    border-top: 4px solid #E74C3C;
+}
+
+.email-card-4 {
+    border-top: 4px solid #F39C12;
+}
+
+.email-card-5 {
+    border-top: 4px solid #27AE60;
+}
+
+.email-card-6 {
+    border-top: 4px solid #C0392B;
+}
+
+/* Mobile Badge Colors for Browse Abandonment */
+.stage-badge.interest {
+    background: rgba(155, 89, 182, 0.1);
+    color: #9B59B6;
+}
+
+.stage-badge.guidance {
+    background: rgba(231, 76, 60, 0.1);
+    color: #E74C3C;
+}
+
+.stage-badge.reminder {
+    background: rgba(39, 174, 96, 0.1);
+    color: #27AE60;
+}
+
+.stage-badge.reengagement {
+    background: rgba(192, 57, 43, 0.1);
+    color: #C0392B;
+}
