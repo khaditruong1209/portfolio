@@ -3238,7 +3238,6 @@ html[lang="vi"] h6 {
 .email-journey.desktop-view.browse-abandonment-journey {
     grid-template-columns: repeat(7, 1fr);
     justify-content: center;
-    margin: 0 auto;
 }
 
 
@@ -3246,10 +3245,6 @@ html[lang="vi"] h6 {
 /* Browse Abandonment Journey Header - Custom alignment */
 .journey-header.browse-abandonment-header {
     text-align: left;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 40px;
 }
 
 .journey-header.browse-abandonment-header h3 {
