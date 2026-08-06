@@ -3243,6 +3243,24 @@ html[lang="vi"] h6 {
     margin-right: auto;
 }
 
+
+
+/* Browse Abandonment Journey Header - Custom alignment */
+.journey-header.browse-abandonment-header {
+    text-align: left;
+}
+
+.journey-header.browse-abandonment-header h3 {
+    text-align: left;
+}
+
+.journey-header.browse-abandonment-header .journey-subtitle {
+    text-align: center;
+    display: block;
+    margin: 12px auto 50px auto;
+    max-width: 800px;
+}
+
 /* Empty stage for grid alignment */
 .journey-stage.empty-stage {
     visibility: hidden;
