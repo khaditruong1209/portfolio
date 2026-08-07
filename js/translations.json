@@ -494,8 +494,17 @@
         "featuredWorks": {
           "title": "Featured Works",
           "items": {
-            "campaignPerf": {
+            "socialMediaPlanning": {
               "number": "Featured Work 01",
+              "title": "Social Media Content Planning",
+              "cat1": "Content Calendar",
+              "cat2": "Social Media",
+              "cat3": "Multi-channel",
+              "caption": "Developed content calendars across five digital channels to ensure consistent messaging and seasonal campaign alignment.",
+              "link": "View Planning Document"
+            },
+            "campaignPerf": {
+              "number": "Featured Work 02",
               "title": "Campaign Performance Strategy",
               "cat1": "Analytics",
               "cat2": "Optimization",
@@ -503,7 +512,7 @@
               "caption": "Analyzing campaign performance across channels to identify high-performing tactics and optimize marketing spend."
             },
             "custJourney": {
-              "number": "Featured Work 02",
+              "number": "Featured Work 03",
               "title": "Customer Journey",
               "cat1": "Strategy",
               "cat2": "Mapping",
@@ -511,14 +520,14 @@
               "caption": "Mapping integrated customer journey across multiple touchpoints from awareness to advocacy."
             },
             "seasonalCampaign": {
-              "number": "Featured Work 03",
+              "number": "Featured Work 04",
               "title": "Seasonal Campaign Planning",
               "cat1": "Campaign Planning",
               "cat2": "Content Strategy",
               "caption": "Planning coordinated seasonal campaigns across email, social media, and paid advertising."
             },
             "marketingAsset": {
-              "number": "Featured Work 04",
+              "number": "Featured Work 05",
               "title": "Marketing Assets & Creative",
               "cat1": "AI Creative",
               "cat2": "Content Production",
@@ -526,7 +535,7 @@
               "caption": "Producing AI-generated marketing assets and visual content for multiple campaigns."
             },
             "brandComm": {
-              "number": "Featured Work 05",
+              "number": "Featured Work 06",
               "title": "Brand Communication Strategy",
               "cat1": "Brand Strategy",
               "cat2": "Content Planning",
@@ -1938,8 +1947,17 @@
         "featuredWorks": {
           "title": "Các công việc nổi bật",
           "items": {
-            "campaignPerf": {
+            "socialMediaPlanning": {
               "number": "Công việc nổi bật 01",
+              "title": "Lập kế hoạch nội dung Social Media",
+              "cat1": "Lịch nội dung",
+              "cat2": "Mạng xã hội",
+              "cat3": "Đa kênh",
+              "caption": "Xây dựng lịch nội dung trên 5 kênh truyền thông nhằm đảm bảo thông điệp nhất quán và hỗ trợ chiến dịch bán hàng.",
+              "link": "Xem Social Media Plan"
+            },
+            "campaignPerf": {
+              "number": "Công việc nổi bật 02",
               "title": "Chiến lược Hiệu quả Chiến dịch",
               "cat1": "Phân tích",
               "cat2": "Tối ưu",
@@ -1947,7 +1965,7 @@
               "caption": "Phân tích hiệu quả chiến dịch trên các kênh để xác định các tactic có hiệu suất cao và tối ưu chi phí marketing."
             },
             "custJourney": {
-              "number": "Công việc nổi bật 02",
+              "number": "Công việc nổi bật 03",
               "title": "Hành trình Khách hàng",
               "cat1": "Chiến lược",
               "cat2": "Lập bản đồ",
@@ -1955,14 +1973,14 @@
               "caption": "Lập bản đồ hành trình khách hàng tích hợp trên nhiều điểm chạm từ nhận thức đến vận động viên."
             },
             "seasonalCampaign": {
-              "number": "Công việc nổi bật 03",
+              "number": "Công việc nổi bật 04",
               "title": "Lập kế hoạch Chiến dịch Theo mùa",
               "cat1": "Lập kế hoạch Chiến dịch",
               "cat2": "Chiến lược Nội dung",
               "caption": "Lập kế hoạch các chiến dịch theo mùa được điều phối trên email, mạng xã hội và quảng cáo trả phí."
             },
             "marketingAsset": {
-              "number": "Công việc nổi bật 04",
+              "number": "Công việc nổi bật 05",
               "title": "Tài sản Marketing & Sáng tạo",
               "cat1": "Sáng tạo AI",
               "cat2": "Sản xuất Nội dung",
@@ -1970,7 +1988,7 @@
               "caption": "Tạo tài sản marketing được tạo bằng AI và nội dung hình ảnh cho nhiều chiến dịch."
             },
             "brandComm": {
-              "number": "Công việc nổi bật 05",
+              "number": "Công việc nổi bật 06",
               "title": "Chiến lược Truyền thông Thương hiệu",
               "cat1": "Chiến lược Thương hiệu",
               "cat2": "Lập kế hoạch Nội dung",
