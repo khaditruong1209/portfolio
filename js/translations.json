@@ -521,12 +521,13 @@
               "caption": "Analyzing campaign performance across channels to identify high-performing tactics and optimize marketing spend."
             },
             "custJourney": {
-              "number": "Featured Work 03",
-              "title": "Customer Journey",
-              "cat1": "Strategy",
-              "cat2": "Mapping",
-              "cat3": "Planning",
-              "caption": "Mapping integrated customer journey across multiple touchpoints from awareness to advocacy."
+              "number": "Featured Work 04",
+              "title": "Customer Communication & Audience Segmentation",
+              "cat1": "Customer Journey",
+              "cat2": "Audience Segmentation",
+              "cat3": "Communication Framework",
+              "caption": "Developed a customer communication framework for Facebook by mapping common customer needs, questions, and purchase considerations into consultation scripts, FAQs, and audience labels. The framework helped structure customer interactions and segment audiences based on their needs and shopping intent, supporting more relevant communication throughout the customer journey.",
+              "link": "View Customer Communication Framework"
             },
             "seasonalCampaign": {
               "number": "Featured Work 04",
@@ -544,12 +545,13 @@
               "caption": "Producing AI-generated marketing assets and visual content for multiple campaigns."
             },
             "brandComm": {
-              "number": "Featured Work 06",
-              "title": "Brand Communication Strategy",
-              "cat1": "Brand Strategy",
-              "cat2": "Content Planning",
-              "cat3": "Messaging",
-              "caption": "Developing consistent brand messaging and communication guidelines across all marketing channels."
+              "number": "Featured Work 03",
+              "title": "Campaign Production Planning",
+              "cat1": "Production Planning",
+              "cat2": "Creative Coordination",
+              "cat3": "Content Execution",
+              "caption": "Planned and coordinated product and model photoshoots by preparing production action plans, organizing timelines, aligning internal teams, and ensuring every visual asset supported the campaign objectives and brand guidelines.",
+              "link": "View Production Plan"
             }
           }
         },
@@ -1983,12 +1985,13 @@
               "caption": "Phân tích hiệu quả chiến dịch trên các kênh để xác định các tactic có hiệu suất cao và tối ưu chi phí marketing."
             },
             "custJourney": {
-              "number": "Công việc nổi bật 03",
-              "title": "Hành trình Khách hàng",
-              "cat1": "Chiến lược",
-              "cat2": "Lập bản đồ",
-              "cat3": "Lập kế hoạch",
-              "caption": "Lập bản đồ hành trình khách hàng tích hợp trên nhiều điểm chạm từ nhận thức đến vận động viên."
+              "number": "Công việc nổi bật 04",
+              "title": "Kịch bản Tư vấn & Phân loại Khách hàng",
+              "cat1": "Customer Journey",
+              "cat2": "Phân loại Khách hàng",
+              "cat3": "Khung Giao tiếp",
+              "caption": "Xây dựng framework giao tiếp khách hàng trên Facebook bằng cách hệ thống hóa các nhu cầu, câu hỏi và yếu tố cân nhắc mua hàng phổ biến thành kịch bản tư vấn, FAQ và label phân loại khách hàng. Framework giúp chuẩn hóa quá trình tương tác và phân nhóm khách hàng dựa trên nhu cầu và mức độ quan tâm, từ đó hỗ trợ giao tiếp phù hợp hơn trong từng giai đoạn của customer journey.",
+              "link": "Xem Customer Communication Framework"
             },
             "seasonalCampaign": {
               "number": "Công việc nổi bật 04",
@@ -2006,12 +2009,13 @@
               "caption": "Tạo tài sản marketing được tạo bằng AI và nội dung hình ảnh cho nhiều chiến dịch."
             },
             "brandComm": {
-              "number": "Công việc nổi bật 06",
-              "title": "Chiến lược Truyền thông Thương hiệu",
-              "cat1": "Chiến lược Thương hiệu",
-              "cat2": "Lập kế hoạch Nội dung",
-              "cat3": "Thông điệp",
-              "caption": "Phát triển thông điệp thương hiệu nhất quán và hướng dẫn truyền thông trên tất cả các kênh marketing."
+              "number": "Công việc nổi bật 03",
+              "title": "Lập kế hoạch sản xuất nội dung",
+              "cat1": "Lập kế hoạch",
+              "cat2": "Điều phối sản xuất",
+              "cat3": "Triển khai nội dung",
+              "caption": "Lập kế hoạch và điều phối các buổi chụp sản phẩm và chụp với người mẫu thông qua việc xây dựng action plan, quản lý timeline, phối hợp các bộ phận và đảm bảo toàn bộ hình ảnh được sản xuất đúng mục tiêu chiến dịch cũng như bộ nhận diện thương hiệu.",
+              "link": "Xem Action Plan"
             }
           }
         },
