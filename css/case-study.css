@@ -347,9 +347,16 @@ html[lang="vi"] h6 {
 
 }
 
+/* Chi ap dung tu desktop tro len. Selector nay co specificity cao hon
+   .workflow-steps trong cac media query mobile, nen phai tu gioi han
+   pham vi bang @media, neu khong no se thang o moi kich thuoc man hinh. */
+@media (min-width:993px){
+
 .workflow-steps:has(> :nth-child(5)){
 
     grid-template-columns:repeat(5, 1fr);
+
+}
 
 }
 
@@ -1829,6 +1836,16 @@ html[lang="vi"] h6 {
 
     padding:24px;
 
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
 }
 
 .contributions-card h3{
@@ -1886,9 +1903,14 @@ html[lang="vi"] h6 {
 
 }
 
+/* Truoc day rule nay an hoan toan gallery tren mobile, nhung trang
+   Website Experience Optimization khong co ban mobile thay the nen
+   ca muc Optimization Initiatives bi trong. Cho hien thi 1 cot. */
 .gallery-desktop{
 
-    display:none !important;
+    display:grid;
+
+    grid-template-columns:1fr;
 
 }
 
