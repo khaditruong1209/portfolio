@@ -2260,4 +2260,20 @@ grid-template-columns:1fr;
         background: #eef1ff;
         color: #5a73e8;
     }
+
+    /* Mobile - Responsibility Cards */
+    .responsibility-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .responsibility-card h3 {
+        margin-bottom: 12px;
+    }
+
+    .tool-list {
+        justify-content: center;
+    }
 }
