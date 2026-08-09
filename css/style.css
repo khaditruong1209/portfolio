@@ -1630,6 +1630,10 @@ html[lang="vi"] .company-header h2 {
 
 @media (max-width:768px){
 
+.work-card {
+    align-items: center;
+    text-align: center;
+}
 
 .page-subtitle{
 
