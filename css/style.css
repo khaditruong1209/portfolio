@@ -171,12 +171,21 @@ nav {
     justify-content: flex-end;
 }
 
+/* Logo la the <a> tro ve trang chu. No nam ngoai <nav> nen khong an
+   theo rule "nav a", phai tu bo gach chan va giu mau rieng. */
 .logo {
     font-family: 'Brasika';
     font-size: 26px;
     font-weight: 800;
     color: #f58c8c;
     padding-left: 0;
+    text-decoration: none;
+    display: inline-block;
+    transition: color 0.3s ease;
+}
+
+.logo:hover {
+    color: #5a73e8;
 }
 
 nav a {
