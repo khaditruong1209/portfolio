@@ -18,6 +18,7 @@
     "projects": {
       "title": "Featured Projects",
       "viewAll": "View All Work →",
+      "animationVideo": "Animation & Motion Video",
       "aiImage": "AI Creative Production",
       "brandMarketing": "Integrated Brand Marketing Campaign",
       "emailMarketing": "Email Marketing",
@@ -249,6 +250,13 @@
           "capability1": "Creative Production",
           "capability2": "Prompt Engineering",
           "capability3": "AI Workflow"
+        },
+        "animation": {
+          "title": "Animation & Motion Video",
+          "description": "Created animated storyboards, character motions, and video creatives with frame-by-frame direction, visual storytelling, and motion dynamics for digital marketing and brand storytelling.",
+          "capability1": "2D Animation",
+          "capability2": "Storyboard Breakdown",
+          "capability3": "Motion Graphics"
         }
       }
     },
@@ -310,6 +318,55 @@
           "imageGeneration": "Image Generation",
           "refinementDelivery": "Refinement & Delivery"
         }
+      },
+      "animationVideo": {
+        "hero": {
+          "company": "Creative Project",
+          "title": "Animation & Motion Video",
+          "description": "Designing frame-by-frame animated shorts and motion storytelling. From initial script and storyboard breakdown to fluid animation and sound design."
+        },
+        "snapshot": {
+          "role": "Animation & Motion Designer",
+          "specialization": "2D Animation & Motion Graphics",
+          "industry": "Digital Content & Brand Media",
+          "tools": "After Effects, Premiere Pro, Illustrator",
+          "focus": "Frame Breakdown & Visual Storytelling",
+          "duration": "2026"
+        },
+        "showcase": {
+          "title": "Featured Animation & Storyboard (9:16)",
+          "description": "Explore the vertical 9:16 keyframe breakdown of the 3 animation videos below, illustrating the creative progression from initial rough layout to final rendered motion. Click on any frame to zoom, or watch the full vertical video.",
+          "watchFullVideo": "Watch Full Animation",
+          "video1Title": "Animation Short 01 — Character Motion & Storyline",
+          "video1Tag": "2D Animation • 9:16 Reel",
+          "video1Desc": "A character-centric narrative sequence demonstrating expressive poses, organic anticipation, and fluid follow-through motion designed for mobile-first engagement.",
+          "frame1_1": "Frame 01: Pose & Layout",
+          "frame1_2": "Frame 02: Anticipation",
+          "frame1_3": "Frame 03: Key Action",
+          "frame1_4": "Frame 04: Render Polish",
+          "spec1": "9:16 Vertical • Full HD • 60 FPS",
+          "video2Title": "Animation Short 02 — Product Dynamic Reveal & Motion",
+          "video2Tag": "Product Motion • TikTok/Shorts",
+          "video2Desc": "Commercial motion graphics highlighting product visual assets through dynamic camera zooms, kinetic vector transitions, and clean lighting effects.",
+          "frame2_1": "Frame 01: Product Intro",
+          "frame2_2": "Frame 02: Morph Transition",
+          "frame2_3": "Frame 03: Feature Highlight",
+          "frame2_4": "Frame 04: Brand Outro",
+          "spec2": "9:16 Vertical • 4K UHD • Motion Design",
+          "video3Title": "Animation Short 03 — Kinetic Typography & Brand Rhythm",
+          "video3Tag": "Kinetic Typography • Social Story",
+          "video3Desc": "High-energy graphic animation blending rhythmic typography transitions, bold color accents, and sound synchronization to capture viewer attention instantly.",
+          "frame3_1": "Frame 01: Bold Hook",
+          "frame3_2": "Frame 02: Kinetic Rhythm",
+          "frame3_3": "Frame 03: Message Stacking",
+          "frame3_4": "Frame 04: Logo Lockup",
+          "spec3": "9:16 Vertical • 1080x1920 • Stereo Audio",
+          "frame1": "Frame 01: Character Pose & Layout",
+          "frame2": "Frame 02: Anticipation & Keyframe",
+          "frame3": "Frame 03: Primary Action & Smear",
+          "frame4": "Frame 04: Follow-Through & Lighting"
+        },
+        "tools": "Tools & Technologies"
       },
       "brandMarketing": {
         "hero": {
@@ -1485,6 +1542,7 @@
     "projects": {
       "title": "Dự Án Nổi Bật",
       "viewAll": "Xem Tất Cả →",
+      "animationVideo": "Video Hoạt Hình & Chuyển Động",
       "aiImage": "Sản xuất nội dung sáng tạo AI",
       "brandMarketing": "Chiến dịch Marketing Tích hợp cho Thương hiệu",
       "emailMarketing": "Email Marketing",
@@ -1713,6 +1771,13 @@
           "capability1": "Sản xuất sáng tạo",
           "capability2": "Prompt Engineering",
           "capability3": "Quy trình AI"
+        },
+        "animation": {
+          "title": "Video Hoạt Hình & Chuyển Động",
+          "description": "Thiết kế phân cảnh storyboard, chuyển động nhân vật và video hoạt hình sáng tạo thông qua việc kiểm soát nhịp độ khung hình và hiệu ứng chuyển động phục vụ truyền thông thương hiệu.",
+          "capability1": "Hoạt hình 2D",
+          "capability2": "Phân cảnh Storyboard",
+          "capability3": "Motion Graphics"
         }
       }
     },
@@ -1774,6 +1839,55 @@
           "imageGeneration": "Tạo hình AI",
           "refinementDelivery": "Tinh chỉnh & Bàn giao"
         }
+      },
+      "animationVideo": {
+        "hero": {
+          "company": "Dự Án Sáng Tạo",
+          "title": "Video Hoạt Hình & Chuyển Động",
+          "description": "Xây dựng video hoạt hình ngắn và nghệ thuật kể chuyện bằng chuyển động. Từ kịch bản phân cảnh (storyboard), thiết kế chuyển động từng frame đến dựng video hoàn chỉnh."
+        },
+        "snapshot": {
+          "role": "Animation & Motion Designer",
+          "specialization": "Hoạt hình 2D & Motion Graphics",
+          "industry": "Nội Dung Số & Truyền Thông",
+          "tools": "After Effects, Premiere Pro, Illustrator",
+          "focus": "Phân đoạn Frame & Kể chuyện hình ảnh",
+          "duration": "2026"
+        },
+        "showcase": {
+          "title": "Phân Cảnh Khung Hình Dọc & Video Hoàn Thiện (9:16)",
+          "description": "Khám phá phân đoạn keyframe dạng dọc tỷ lệ chuẩn 9:16 của 3 video hoạt hình dưới đây, thể hiện quy trình phát triển từ bố cục phác thảo đến video hoàn thiện. Bấm vào từng frame để phóng to hoặc bấm nút để xem trọn vẹn video.",
+          "watchFullVideo": "Xem Video Hoàn Chỉnh",
+          "video1Title": "Animation Short 01 — Chuyển Động Nhân Vật & Cốt Truyện",
+          "video1Tag": "Hoạt Hình 2D • Định Dạng Dọc 9:16 Reel",
+          "video1Desc": "Phân cảnh hoạt họa nhân vật tập trung vào biểu cảm, chuyển động lấy đà mượt mà và đường nét linh hoạt, tối ưu hiển thị cho nền tảng di động.",
+          "frame1_1": "Frame 01: Bố cục & Dáng",
+          "frame1_2": "Frame 02: Lấy đà chuyển động",
+          "frame1_3": "Frame 03: Hành động chính",
+          "frame1_4": "Frame 04: Hoàn thiện ánh sáng",
+          "spec1": "Dọc 9:16 • Full HD • 60 FPS",
+          "video2Title": "Animation Short 02 — Chuyển Động Sản Phẩm & Hiệu Ứng",
+          "video2Tag": "Motion Sản Phẩm • TikTok / Shorts",
+          "video2Desc": "Video chuyển động thương mại làm nổi bật sản phẩm thông qua các góc máy linh hoạt, hiệu ứng biến đổi hình khối và ánh sáng bắt mắt.",
+          "frame2_1": "Frame 01: Khởi đầu phân cảnh",
+          "frame2_2": "Frame 02: Biến đổi chuyển cảnh",
+          "frame2_3": "Frame 03: Điểm nhấn sản phẩm",
+          "frame2_4": "Frame 04: Kết bài thương hiệu",
+          "spec2": "Dọc 9:16 • 4K UHD • Motion Design",
+          "video3Title": "Animation Short 03 — Đồ Họa Chữ Động & Tiết Tấu Thương Hiệu",
+          "video3Tag": "Kinetic Typography • Social Story",
+          "video3Desc": "Đồ họa chữ chuyển động năng động kết hợp bảng màu nổi bật và tiết tấu âm thanh sống động, giữ chân người xem ngay từ những giây đầu tiên.",
+          "frame3_1": "Frame 01: Thông điệp mở đầu",
+          "frame3_2": "Frame 02: Tiết tấu chữ động",
+          "frame3_3": "Frame 03: Cao trào nội dung",
+          "frame3_4": "Frame 04: Khóa logo & Call-to-Action",
+          "spec3": "Dọc 9:16 • 1080x1920 • Âm Thanh Stereo",
+          "frame1": "Frame 01: Tạo dáng nhân vật & Bố cục",
+          "frame2": "Frame 02: Chuẩn bị chuyển động (Anticipation)",
+          "frame3": "Frame 03: Hành động chính (Key Action)",
+          "frame4": "Frame 04: Kết thúc chuyển động & Ánh sáng"
+        },
+        "tools": "Công cụ & Công nghệ"
       },
       "brandMarketing": {
         "hero": {

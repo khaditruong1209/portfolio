@@ -7,7 +7,7 @@
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Crect%20x%3D%223%22%20y%3D%2210%22%20width%3D%2218%22%20height%3D%2210%22%20rx%3D%222%22%20fill%3D%22%23f58c8c%22%20stroke%3D%22%23222%22%20stroke-width%3D%221.5%22/%3E%3Cpath%20d%3D%22M7%2010V7a3%203%200%200%201%206%200v3%22%20fill%3D%22none%22%20stroke%3D%22%23222%22%20stroke-width%3D%221.5%22/%3E%3Ccircle%20cx%3D%2212%22%20cy%3D%2215%22%20r%3D%221.5%22%20fill%3D%22%23222%22/%3E%3C/svg%3E">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/style.css?v=1.1">
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
@@ -30,12 +30,13 @@
         <div class="nav-dropdown">
             <a href="Projects.html" class="active" data-i18n="nav.work">Work</a>
             <div class="dropdown-menu">
+                <a href="project/animation-video.html" data-i18n="projects.animationVideo">Animation &amp; Motion Video</a>
+                <a href="project/ai-image-creation.html" data-i18n="projects.aiImage">AI Creative Production</a>
                 <a href="project/brand-marketing.html" data-i18n="projects.brandMarketing">Brand Marketing</a>
                 <a href="project/email-marketing.html" data-i18n="projects.emailMarketing">Email Marketing</a>
                 <a href="project/shopify-ux.html" data-i18n="projects.shopifyUx">Website Experience Optimization</a>
-                <a href="project/brand-activation-planning.html" data-i18n="projects.brandActivation">Brand Activation Planning</a>
                 <a href="project/meta-marketing.html" data-i18n="projects.metaMarketing">Meta Marketing</a>
-                <a href="project/ai-image-creation.html" data-i18n="projects.aiImage">AI Creative Production</a>
+                <a href="project/brand-activation-planning.html" data-i18n="projects.brandActivation">Brand Activation Planning</a>
             </div>
         </div>
 
@@ -266,6 +267,30 @@
 
         <div class="work-grid">
 
+            <!-- Animation & Motion Graphics -->
+            <div class="work-card">
+
+                <h3 data-i18n="projectsPage.freelance.animation.title">
+                    Animation &amp; Motion Video
+                </h3>
+
+                <p data-i18n="projectsPage.freelance.animation.description">
+                    Created animated storyboards, character motions, and video creatives with frame-by-frame direction, visual storytelling, and motion dynamics for digital marketing and brand storytelling.
+                </p>
+
+                <div class="capabilities">
+                    <span data-i18n="projectsPage.freelance.animation.capability1">2D Animation</span>
+                    <span data-i18n="projectsPage.freelance.animation.capability2">Storyboard Breakdown</span>
+                    <span data-i18n="projectsPage.freelance.animation.capability3">Motion Graphics</span>
+                </div>
+
+                <a href="project/animation-video.html" data-i18n="other.view">
+                    View →
+                </a>
+
+            </div>
+
+            <!-- AI Creative Production -->
             <div class="work-card">
 
                 <h3 data-i18n="projectsPage.freelance.aiCreative.title">
@@ -287,6 +312,54 @@
                 </a>
 
             </div>
+
+        </div>
+
+        <!-- Featured Animation Storyboard Section -->
+        <div class="animation-showcase-card" style="margin-top: 30px;">
+            <div class="animation-card-meta">
+                <div>
+                    <h3 class="animation-card-title" data-i18n="projectsPage.freelance.animation.title">Animation &amp; Motion Video</h3>
+                    <span class="animation-card-tag">Featured Creative Showcase</span>
+                </div>
+                <a href="project/animation-video.html" class="animation-details-link">
+                    Full Case Study →
+                </a>
+            </div>
+
+            <p class="animation-card-desc">
+                Preview sample keyframes from the animated project below. Click any frame to zoom, or click the button to play the animation video.
+            </p>
+
+            <div class="storyboard-grid">
+                <div class="storyboard-frame">
+                    <img src="../images/ai1.png" alt="Frame 01" class="clickable-img">
+                    <span class="frame-label">Frame 01: Layout</span>
+                </div>
+                <div class="storyboard-frame">
+                    <img src="../images/ai2.png" alt="Frame 02" class="clickable-img">
+                    <span class="frame-label">Frame 02: Anticipation</span>
+                </div>
+                <div class="storyboard-frame">
+                    <img src="../images/ai3.png" alt="Frame 03" class="clickable-img">
+                    <span class="frame-label">Frame 03: Action</span>
+                </div>
+                <div class="storyboard-frame">
+                    <img src="../images/ai4.png" alt="Frame 04" class="clickable-img">
+                    <span class="frame-label">Frame 04: Render</span>
+                </div>
+            </div>
+
+            <div class="animation-action-bar">
+                <button class="btn-watch-video" data-video-url="https://www.youtube.com/watch?v=dQw4w9WgXcQ" data-ratio="9:16">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                    </svg>
+                    <span data-i18n="caseStudies.animationVideo.showcase.watchFullVideo">Watch Full Animation</span>
+                </button>
+                <a href="project/animation-video.html" class="animation-details-link">Explore Storyboard Process →</a>
+            </div>
+        </div>
 
         </div>
 

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3)",
+      "Bash(cat)",
+      "Bash(chmod +x /tmp/update_projects.sh)",
+      "Bash(/tmp/update_projects.sh)",
+      "Skill(run)",
+      "Skill(run:*)",
+      "Bash(curl -s http://localhost:8000/index.html)",
+      "Bash(curl -s http://localhost:8000/js/translations.json)",
+      "Bash(python3 -m json.tool)"
+    ]
+  }
+}

@@ -161,6 +161,8 @@ html[lang="vi"] h6 {
 
 .case-section{
 
+    width: 100%;
+
     max-width:var(--container-width);
 
     margin:var(--section-space) auto;
@@ -688,11 +690,18 @@ html[lang="vi"] h6 {
                     TOOLS
 ====================================================*/
 
-.case-section:has(.tool-list) {
+.case-section:has(.tools-items-inline),
+.case-section:has(.tool-list),
+.case-section:has(.tools-grid),
+.case-section:has(.tools-container) {
+    width: 100%;
     text-align: left !important;
 }
 
-.case-section:has(.tool-list) h2 {
+.case-section:has(.tools-items-inline) h2,
+.case-section:has(.tool-list) h2,
+.case-section:has(.tools-grid) h2,
+.case-section:has(.tools-container) h2 {
     text-align: left !important;
 }
 
@@ -2955,6 +2964,7 @@ html[lang="vi"] h6 {
 .tools-items-inline {
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-start;
     gap: 12px;
     margin: 35px 0 0 0;
     padding: 0;

@@ -56,9 +56,9 @@ function initializeLightbox() {
         const selectorsToWatch = [
             "img.clickable-img",
             ".gallery img",
-            ".hero-img img",
             ".case-image img",
-            ".about-img img"
+            ".about-img img",
+            ".storyboard-grid img"
         ];
 
         selectorsToWatch.forEach(selector => {
@@ -246,10 +246,203 @@ function initializeLightbox() {
     });
 }
 
-document.querySelectorAll(".project-card").forEach(card => {
-    card.addEventListener("click", () => {
-        alert("Xem chi tiết case study!");
+// ================= VIDEO MODAL =================
+
+function createVideoModalStructure() {
+    if (document.getElementById("video-modal-overlay")) return;
+
+    const modalHTML = `
+        <div id="video-modal-overlay" class="video-modal-overlay">
+            <div class="video-modal-container">
+                <button class="video-modal-close" id="video-modal-close" title="Close" aria-label="Close">&times;</button>
+                <div class="video-modal-body">
+                    <iframe id="video-modal-iframe" src="" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+                    <video id="video-modal-player" controls playsinline style="display:none; width:100%; height:100%;"></video>
+                </div>
+            </div>
+        </div>
+    `;
+
+    document.body.insertAdjacentHTML("beforeend", modalHTML);
+
+    const overlay = document.getElementById("video-modal-overlay");
+    const closeBtn = document.getElementById("video-modal-close");
+
+    if (closeBtn) closeBtn.addEventListener("click", closeVideoModal);
+    if (overlay) {
+        overlay.addEventListener("click", (e) => {
+            if (e.target === overlay) closeVideoModal();
+        });
+    }
+
+    document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && overlay && overlay.classList.contains("active")) {
+            closeVideoModal();
+        }
     });
+}
+
+function parseVideoUrl(url) {
+    if (!url) return "";
+    
+    // YouTube convert
+    const ytMatch = url.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))([\w-]{11})/);
+    if (ytMatch && ytMatch[1]) {
+        return `https://www.youtube.com/embed/${ytMatch[1]}?autoplay=1&rel=0`;
+    }
+
+    // Vimeo convert
+    const vimeoMatch = url.match(/(?:vimeo\.com\/)(\d+)/);
+    if (vimeoMatch && vimeoMatch[1]) {
+        return `https://player.vimeo.com/video/${vimeoMatch[1]}?autoplay=1`;
+    }
+
+    return url;
+}
+
+window.openVideoModal = function(url, isVertical = true) {
+    createVideoModalStructure();
+    const overlay = document.getElementById("video-modal-overlay");
+    const container = overlay ? overlay.querySelector(".video-modal-container") : null;
+    const iframe = document.getElementById("video-modal-iframe");
+    const player = document.getElementById("video-modal-player");
+    if (!overlay) return;
+
+    if (container) {
+        if (isVertical) {
+            container.classList.add("is-vertical");
+        } else {
+            container.classList.remove("is-vertical");
+        }
+    }
+
+    const isDirectVideo = /\.(mp4|webm|ogg)(\?.*)?$/i.test(url);
+
+    if (isDirectVideo) {
+        if (iframe) {
+            iframe.src = "";
+            iframe.style.display = "none";
+        }
+        if (player) {
+            player.src = url;
+            player.style.display = "block";
+            player.play().catch(() => {});
+        }
+    } else {
+        if (player) {
+            player.pause();
+            player.src = "";
+            player.style.display = "none";
+        }
+        if (iframe) {
+            iframe.src = parseVideoUrl(url);
+            iframe.style.display = "block";
+        }
+    }
+
+    overlay.classList.add("active");
+    document.body.style.overflow = "hidden";
+};
+
+window.closeVideoModal = function() {
+    const overlay = document.getElementById("video-modal-overlay");
+    const iframe = document.getElementById("video-modal-iframe");
+    const player = document.getElementById("video-modal-player");
+    if (overlay) {
+        overlay.classList.remove("active");
+        document.body.style.overflow = "";
+    }
+    if (iframe) iframe.src = "";
+    if (player) {
+        player.pause();
+        player.src = "";
+    }
+};
+
+// Auto wire data-video-url buttons & initialize
+document.addEventListener("DOMContentLoaded", () => {
+    createVideoModalStructure();
+
+    document.querySelectorAll("[data-video-url]").forEach(btn => {
+        btn.addEventListener("click", (e) => {
+            e.preventDefault();
+            const url = btn.getAttribute("data-video-url");
+            const ratio = btn.getAttribute("data-ratio");
+            const isVertical = ratio === "16:9" ? false : true;
+            if (url) window.openVideoModal(url, isVertical);
+        });
+    });
+});
+
+// ================= CONTACT FORM HANDLING =================
+document.addEventListener("DOMContentLoaded", () => {
+    const contactForm = document.getElementById("contactForm");
+    if (contactForm) {
+        contactForm.addEventListener("submit", async (e) => {
+            const statusDiv = document.getElementById("form-status");
+            const submitBtn = contactForm.querySelector("button[type='submit']");
+            
+            // Check if action is configured (e.g., Formspree or Web3Forms)
+            const action = contactForm.getAttribute("action");
+            const accessKeyInput = contactForm.querySelector("[name='access_key']");
+            const hasRealKey = accessKeyInput && accessKeyInput.value && !accessKeyInput.value.includes("YOUR_");
+
+            if (!action || action === "#" || (action.includes("web3forms") && !hasRealKey)) {
+                // Graceful fallback: open mail client directly
+                e.preventDefault();
+                const isVi = document.documentElement.lang === "vi";
+                if (statusDiv) {
+                    statusDiv.className = "form-status info";
+                    statusDiv.innerHTML = isVi 
+                        ? "Đang mở ứng dụng email của bạn để gửi thư..." 
+                        : "Opening your email client to send...";
+                }
+                const name = encodeURIComponent(contactForm.querySelector("[name='name']")?.value || "");
+                const email = encodeURIComponent(contactForm.querySelector("[name='email']")?.value || "");
+                const msg = encodeURIComponent(contactForm.querySelector("[name='message']")?.value || "");
+                window.location.href = `mailto:khadi.truong1209@gmail.com?subject=Portfolio%20Contact%20from%20${name}&body=${msg}%0A%0A---%0ASender:%20${name}%20(%20${email}%20)`;
+                return;
+            }
+
+            e.preventDefault();
+            const isVi = document.documentElement.lang === "vi";
+            if (submitBtn) submitBtn.disabled = true;
+            if (statusDiv) {
+                statusDiv.className = "form-status loading";
+                statusDiv.textContent = isVi ? "Đang gửi..." : "Sending...";
+            }
+
+            try {
+                const formData = new FormData(contactForm);
+                const res = await fetch(action, {
+                    method: "POST",
+                    body: formData,
+                    headers: { 'Accept': 'application/json' }
+                });
+
+                if (res.ok) {
+                    contactForm.reset();
+                    if (statusDiv) {
+                        statusDiv.className = "form-status success";
+                        statusDiv.textContent = isVi 
+                            ? "Cảm ơn bạn! Tin nhắn đã được gửi thành công." 
+                            : "Thank you! Your message has been sent successfully.";
+                    }
+                } else {
+                    throw new Error("Submit failed");
+                }
+            } catch (err) {
+                if (statusDiv) {
+                    statusDiv.className = "form-status error";
+                    statusDiv.textContent = isVi 
+                        ? "Có lỗi xảy ra khi gửi. Vui lòng thử lại hoặc gửi trực tiếp qua email." 
+                        : "There was an error sending. Please try again or email directly.";
+                }
+            } finally {
+                if (submitBtn) submitBtn.disabled = false;
+            }
+        });
+    }
 });
 
 /* WORK DROPDOWN — click to toggle on mobile */
