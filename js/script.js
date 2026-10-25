@@ -285,8 +285,8 @@ function createVideoModalStructure() {
 function parseVideoUrl(url) {
     if (!url) return "";
     
-    // YouTube convert
-    const ytMatch = url.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))([\w-]{11})/);
+    // YouTube convert (supports standard, youtu.be, and YouTube Shorts)
+    const ytMatch = url.match(/(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=|shorts\/))([\w-]{11})/);
     if (ytMatch && ytMatch[1]) {
         return `https://www.youtube.com/embed/${ytMatch[1]}?autoplay=1&rel=0`;
     }
